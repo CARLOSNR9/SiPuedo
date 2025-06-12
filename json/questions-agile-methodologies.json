@@ -1,0 +1,560 @@
+[
+    {
+        "question": "El municipio ha decidido implementar una metodología ágil para el desarrollo de un sistema de gestión de trámites. ¿Qué metodología sería más adecuada?",
+        "options": [
+            "A) Scrum, ya que se basa en sprints y entregas continuas.",
+            "B) Kanban, ya que permite un flujo continuo sin iteraciones.",
+            "C) Método tradicional de cascada, ya que es más predecible.",
+            "D) No utilizar ninguna metodología."
+        ],
+        "answer": "A) Scrum, ya que se basa en sprints y entregas continuas."
+    },
+    {
+        "question": "Durante el desarrollo de un proyecto TI utilizando **Scrum**, ¿qué función tiene el **Scrum Master**?",
+        "options": [
+            "A) Definir los requisitos y priorizar el backlog.",
+            "B) Facilitar el proceso y eliminar obstáculos del equipo.",
+            "C) Desarrollar el producto en las sprints.",
+            "D) Asegurar que se sigan todos los procedimientos administrativos."
+        ],
+        "answer": "B) Facilitar el proceso y eliminar obstáculos del equipo."
+    },
+    {
+        "question": "¿Qué artefacto de **Scrum** garantiza que los requisitos estén claramente definidos y priorizados?",
+        "options": [
+            "A) Sprint Backlog.",
+            "B) Product Backlog.",
+            "C) Incremento.",
+            "D) Daily Stand-up."
+        ],
+        "answer": "B) Product Backlog."
+    },
+    {
+        "question": "¿En qué situación sería más adecuado usar **Kanban** en lugar de **Scrum**?",
+        "options": [
+            "A) Cuando se requiere flexibilidad y no hay una necesidad clara de sprints o iteraciones.",
+            "B) Cuando se necesita entregar un producto complejo en 2-4 semanas.",
+            "C) Cuando se trabajan con equipos pequeños y bien definidos.",
+            "D) Cuando se busca una estructura más rígida con roles definidos."
+        ],
+        "answer": "A) Cuando se requiere flexibilidad y no hay una necesidad clara de sprints o iteraciones."
+    },
+    {
+        "question": "El municipio está implementando una **plataforma de participación ciudadana**. ¿Qué metodología sería más adecuada para la implementación?",
+        "options": [
+            "A) Scrum, debido a la naturaleza iterativa del proyecto.",
+            "B) Kanban, porque es un flujo continuo sin iteraciones.",
+            "C) El método tradicional de gestión en cascada.",
+            "D) Ninguna, ya que la participación ciudadana no requiere metodología."
+        ],
+        "answer": "A) Scrum, debido a la naturaleza iterativa del proyecto."
+    },
+
+
+    {
+        "question": "¿Qué significa el término 'Scrum' en el contexto de las metodologías ágiles?",
+        "options": [
+            "A) Un proceso continuo sin iteraciones.",
+            "B) Un equipo de trabajo auto-organizado para proyectos complejos.",
+            "C) Un conjunto de herramientas para la gestión de proyectos tradicionales.",
+            "D) Un tipo de reunión para evaluar el progreso de un proyecto."
+        ],
+        "answer": "B) Un equipo de trabajo auto-organizado para proyectos complejos."
+    },
+    {
+        "question": "¿Cuál es el principal propósito de las metodologías ágiles?",
+        "options": [
+            "A) Asegurar la entrega de proyectos completos sin interrupciones.",
+            "B) Garantizar la flexibilidad y adaptación a cambios durante el proceso de desarrollo.",
+            "C) Reducir el número de reuniones necesarias durante un proyecto.",
+            "D) Minimizar la interacción entre el equipo y los stakeholders."
+        ],
+        "answer": "B) Garantizar la flexibilidad y adaptación a cambios durante el proceso de desarrollo."
+    },
+    {
+        "question": "¿Qué componente es fundamental en **Scrum** para gestionar los requisitos de un proyecto?",
+        "options": [
+            "A) Product Backlog.",
+            "B) Sprint Review.",
+            "C) Daily Stand-up.",
+            "D) Burndown Chart."
+        ],
+        "answer": "A) Product Backlog."
+    },
+    {
+        "question": "¿Qué metodología ágil se basa en un flujo continuo de trabajo sin iteraciones?",
+        "options": [
+            "A) Scrum.",
+            "B) Waterfall.",
+            "C) Kanban.",
+            "D) Agile."
+        ],
+        "answer": "C) Kanban."
+    },
+    {
+        "question": "¿Quién es el responsable de priorizar el trabajo en Scrum?",
+        "options": [
+            "A) Scrum Master.",
+            "B) Product Owner.",
+            "C) Equipo de Desarrollo.",
+            "D) Stakeholders."
+        ],
+        "answer": "B) Product Owner."
+    },
+    {
+        "question": "¿Qué artefacto en **Scrum** describe el trabajo necesario para alcanzar el objetivo del sprint?",
+        "options": [
+            "A) Sprint Backlog.",
+            "B) Product Backlog.",
+            "C) Burndown Chart.",
+            "D) Sprint Goal."
+        ],
+        "answer": "A) Sprint Backlog."
+    },
+    {
+        "question": "En **Kanban**, ¿qué significa la limitación de trabajo en progreso (WIP)?",
+        "options": [
+            "A) Limitar el número de tareas que pueden estar en proceso en cada etapa.",
+            "B) Limitar el número de reuniones que se pueden realizar.",
+            "C) Limitar el número de personas en cada equipo.",
+            "D) Limitar el número de proyectos que pueden ser gestionados al mismo tiempo."
+        ],
+        "answer": "A) Limitar el número de tareas que pueden estar en proceso en cada etapa."
+    },
+    {
+        "question": "¿Cuál de los siguientes no es un evento en **Scrum**?",
+        "options": [
+            "A) Sprint Planning.",
+            "B) Sprint Review.",
+            "C) Sprint Retrospective.",
+            "D) Sprint Kick-off."
+        ],
+        "answer": "D) Sprint Kick-off."
+    },
+    {
+        "question": "¿Qué herramienta se utiliza en **Kanban** para visualizar el flujo de trabajo?",
+        "options": [
+            "A) Burndown Chart.",
+            "B) Product Backlog.",
+            "C) Kanban Board.",
+            "D) Scrum Board."
+        ],
+        "answer": "C) Kanban Board."
+    },
+    {
+        "question": "¿Qué es un 'Sprint' en el contexto de Scrum?",
+        "options": [
+            "A) Un plazo fijo para completar el proyecto.",
+            "B) Un ciclo corto de trabajo para entregar un incremento funcional.",
+            "C) Un evento para evaluar el progreso del equipo.",
+            "D) Un tipo de reunión diaria del equipo de Scrum."
+        ],
+        "answer": "B) Un ciclo corto de trabajo para entregar un incremento funcional."
+    },
+    {
+        "question": "¿Cuál de los siguientes roles no es parte de **Scrum**?",
+        "options": [
+            "A) Product Owner.",
+            "B) Scrum Master.",
+            "C) Project Manager.",
+            "D) Equipo de Desarrollo."
+        ],
+        "answer": "C) Project Manager."
+    },
+    {
+        "question": "¿Cómo se mide el progreso en un proyecto **Kanban**?",
+        "options": [
+            "A) Con la cantidad de sprints completados.",
+            "B) Mediante el porcentaje de tareas completadas en el tablero.",
+            "C) Por la cantidad de reuniones realizadas.",
+            "D) Mediante las entregas de funcionalidades completas."
+        ],
+        "answer": "B) Mediante el porcentaje de tareas completadas en el tablero."
+    },
+    {
+        "question": "¿Cuál es el objetivo de la **Daily Stand-up** en Scrum?",
+        "options": [
+            "A) Revisar el progreso del proyecto en detalle.",
+            "B) Sincronizar el trabajo del equipo y solucionar bloqueos.",
+            "C) Establecer metas a largo plazo para el proyecto.",
+            "D) Demostrar el trabajo completado durante el sprint."
+        ],
+        "answer": "B) Sincronizar el trabajo del equipo y solucionar bloqueos."
+    },
+    {
+        "question": "En **Scrum**, ¿qué documento define las tareas que deben realizarse durante un sprint?",
+        "options": [
+            "A) Sprint Backlog.",
+            "B) Product Backlog.",
+            "C) Burndown Chart.",
+            "D) Sprint Goal."
+        ],
+        "answer": "A) Sprint Backlog."
+    },
+    {
+        "question": "¿En qué tipo de proyectos es más adecuado usar **Kanban**?",
+        "options": [
+            "A) Proyectos con entregas de trabajo bien definidas.",
+            "B) Proyectos complejos con muchas dependencias.",
+            "C) Proyectos con un flujo continuo y sin iteraciones.",
+            "D) Proyectos que requieren un alto grado de planificación anticipada."
+        ],
+        "answer": "C) Proyectos con un flujo continuo y sin iteraciones."
+    },
+    {
+        "question": "¿Cuál de los siguientes es un beneficio principal de usar **Scrum**?",
+        "options": [
+            "A) Mejorar la visibilidad del progreso mediante iteraciones cortas.",
+            "B) Reducir la necesidad de reuniones entre el equipo.",
+            "C) Eliminar la necesidad de planificación.",
+            "D) Minimizar la participación de los stakeholders."
+        ],
+        "answer": "A) Mejorar la visibilidad del progreso mediante iteraciones cortas."
+    },
+    {
+        "question": "¿Cuál es la diferencia principal entre **Scrum** y **Kanban**?",
+        "options": [
+            "A) Scrum usa iteraciones fijas, mientras que Kanban es un flujo continuo.",
+            "B) Kanban es más estructurado que Scrum.",
+            "C) Scrum es más flexible que Kanban.",
+            "D) Kanban no tiene roles definidos como Scrum."
+        ],
+        "answer": "A) Scrum usa iteraciones fijas, mientras que Kanban es un flujo continuo."
+    },
+    {
+        "question": "¿Qué artefacto en **Kanban** permite visualizar las tareas a realizar?",
+        "options": [
+            "A) Kanban Board.",
+            "B) Sprint Backlog.",
+            "C) Product Backlog.",
+            "D) Incremento."
+        ],
+        "answer": "A) Kanban Board."
+    },
+    {
+        "question": "En Scrum, ¿qué debe hacer el **Scrum Master** en una **Sprint Retrospective**?",
+        "options": [
+            "A) Establecer las tareas para el próximo sprint.",
+            "B) Evaluar los problemas que surgieron durante el sprint y buscar soluciones.",
+            "C) Priorizar las tareas del equipo.",
+            "D) Asegurar que todos los miembros del equipo estén trabajando a tiempo completo."
+        ],
+        "answer": "B) Evaluar los problemas que surgieron durante el sprint y buscar soluciones."
+    },
+    {
+        "question": "¿Qué significa la **limitación de WIP (Trabajo en Progreso)** en Kanban?",
+        "options": [
+            "A) Limitar la cantidad de tareas que pueden estar en proceso simultáneamente.",
+            "B) Limitar el número de reuniones dentro de un proyecto.",
+            "C) Limitar el número de personas en el equipo.",
+            "D) Limitar el número de proyectos que se pueden gestionar a la vez."
+        ],
+        "answer": "A) Limitar la cantidad de tareas que pueden estar en proceso simultáneamente."
+    },
+
+
+    
+     {
+      "question": "¿Qué metodología ágil se caracteriza por usar sprints de 2 a 4 semanas?",
+      "options": ["Kanban", "Scrum", "Waterfall", "XP"],
+      "answer": "Scrum"
+    },
+    {
+      "question": "Según el Decreto 1008 de 2018, ¿qué debe priorizarse en la gestión de proyectos TI del sector público?",
+      "options": ["Metodologías predictivas", "Metodologías ágiles", "Procesos burocráticos", "Documentación exhaustiva"],
+      "answer": "Metodologías ágiles"
+    },
+    {
+      "question": "¿Qué artefacto de Scrum contiene la lista priorizada de requisitos del producto?",
+      "options": ["Sprint Backlog", "Product Backlog", "Tablero Kanban", "Diagrama de Gantt"],
+      "answer": "Product Backlog"
+    },
+    {
+      "question": "En Scrum, ¿quién es responsable de eliminar obstáculos para el equipo?",
+      "options": ["Product Owner", "Scrum Master", "Stakeholder", "Gerente de Proyecto"],
+      "answer": "Scrum Master"
+    },
+    {
+      "question": "¿Qué principio de Kanban limita la cantidad de trabajo en progreso?",
+      "options": ["WIP (Work In Progress)", "KPI", "Sprint", "Backlog"],
+      "answer": "WIP (Work In Progress)"
+    },
+    {
+      "question": "¿Qué documento del CONPES promueve el uso de metodologías ágiles en el Estado?",
+      "options": ["CONPES 3854", "CONPES 3920", "CONPES 3990", "CONPES 4010"],
+      "answer": "CONPES 3920"
+    },
+    {
+      "question": "En un tablero Kanban, ¿qué columna suele representar las tareas completadas?",
+      "options": ["To Do", "In Progress", "Done", "Testing"],
+      "answer": "Done"
+    },
+    {
+      "question": "¿Qué evento de Scrum se realiza diariamente para sincronizar al equipo?",
+      "options": ["Sprint Planning", "Daily Stand-up", "Sprint Review", "Retrospective"],
+      "answer": "Daily Stand-up"
+    },
+    {
+      "question": "Según el manual de funciones, ¿qué debe garantizar el responsable de TI en la gestión de proyectos?",
+      "options": ["Uso exclusivo de Waterfall", "Implementación de metodologías ágiles", "Centralización de decisiones", "Documentación en papel"],
+      "answer": "Implementación de metodologías ágiles"
+    },
+    {
+      "question": "¿Qué rol en Scrum representa a los usuarios finales o beneficiarios?",
+      "options": ["Scrum Master", "Product Owner", "Equipo de Desarrollo", "Stakeholders"],
+      "answer": "Stakeholders"
+    },
+    {
+      "question": "¿Qué herramienta visual es característica de Kanban?",
+      "options": ["Diagrama de Pert", "Tablero con columnas", "Cronograma detallado", "Matriz RACI"],
+      "answer": "Tablero con columnas"
+    },
+    {
+      "question": "¿Cuál es la duración máxima recomendada de un sprint en Scrum?",
+      "options": ["1 semana", "2-4 semanas", "3 meses", "6 meses"],
+      "answer": "2-4 semanas"
+    },
+    {
+      "question": "¿Qué ley colombiana complementa el uso de ágiles en proyectos públicos?",
+      "options": ["Ley 1437 de 2011", "Ley 1955 de 2019 (PND)", "Ley 1341 de 2009", "Ley 1581 de 2012"],
+      "answer": "Ley 1955 de 2019 (PND)"
+    },
+    {
+      "question": "¿Qué evento de Scrum analiza lecciones aprendidas?",
+      "options": ["Sprint Planning", "Daily Scrum", "Sprint Review", "Sprint Retrospective"],
+      "answer": "Sprint Retrospective"
+    },
+    {
+      "question": "En Kanban, ¿qué indica una columna 'In Progress' congestionada?",
+      "options": ["Alto rendimiento", "Exceso de trabajo en simultáneo", "Falta de stakeholders", "Proceso optimizado"],
+      "answer": "Exceso de trabajo en simultáneo"
+    },
+    {
+      "question": "¿Qué documento prioriza los requisitos en Scrum?",
+      "options": ["Acta de reunión", "Product Backlog", "Manual de funciones", "Decreto municipal"],
+      "answer": "Product Backlog"
+    },
+    {
+      "question": "¿Qué norma exige eficiencia en procesos digitales, aplicable a Kanban?",
+      "options": ["Decreto 1008", "Decreto 620 de 2020", "Ley 1909", "Resolución 3354"],
+      "answer": "Decreto 620 de 2020"
+    },
+    {
+      "question": "¿Qué rol NO existe en Scrum?",
+      "options": ["Scrum Master", "Product Owner", "Project Manager", "Equipo de Desarrollo"],
+      "answer": "Project Manager"
+    },
+    {
+      "question": "¿Qué técnica ágil es mejor para mantener procesos operativos continuos?",
+      "options": ["Scrum", "Kanban", "Waterfall", "XP"],
+      "answer": "Kanban"
+    },
+    {
+      "question": "¿Qué se entrega al final de cada sprint en Scrum?",
+      "options": ["Un documento PDF", "Un incremento funcional", "Una factura", "Un informe de riesgos"],
+      "answer": "Un incremento funcional"
+    },
+    
+    {
+      "question": "La Alcaldía de Puerto Boyacá necesita desarrollar una nueva plataforma de pagos en línea en 4 meses. El equipo es nuevo y los requisitos no están completamente definidos. ¿Qué metodología ágil recomendaría?",
+      "options": [
+        "Waterfall para asegurar documentación detallada",
+        "Scrum para iteraciones rápidas y adaptación a cambios",
+        "Cascada con prototipos",
+        "Kanban para flujo continuo sin plazos"
+      ],
+      "answer": "Scrum para iteraciones rápidas y adaptación a cambios"
+    },
+    {
+      "question": "Como gestor TI municipal, usted nota que el equipo trabaja con múltiples proyectos simultáneos y hay retrasos constantes. ¿Qué técnica ágil implementaría para mejorar?",
+      "options": [
+        "Limitar el trabajo en progreso (WIP) usando Kanban",
+        "Aumentar las horas extras del personal",
+        "Eliminar reuniones de coordinación",
+        "Contratar más desarrolladores"
+      ],
+      "answer": "Limitar el trabajo en progreso (WIP) usando Kanban"
+    },
+    {
+      "question": "Durante un Sprint Planning, el Product Owner insiste en incluir 50 requisitos para un sprint de 2 semanas. ¿Qué debe hacer el Scrum Master?",
+      "options": [
+        "Aceptar todos para no retrasar el proyecto",
+        "Negociar priorización realista basada en capacidad del equipo",
+        "Cancelar el sprint inmediatamente",
+        "Derivar la decisión al área jurídica"
+      ],
+      "answer": "Negociar priorización realista basada en capacidad del equipo"
+    },
+    {
+      "question": "El equipo de desarrollo municipal lleva 3 sprints sin entregar incrementos funcionales. ¿Qué artefacto de Scrum ayuda a identificar el problema?",
+      "options": [
+        "Burn-down Chart",
+        "Acta de constitución del proyecto",
+        "Manual de contratación",
+        "Diagrama de red"
+      ],
+      "answer": "Burn-down Chart"
+    },
+    {
+      "question": "Una secretaría municipal tiene procesos operativos recurrentes (ej: radicación de documentos). ¿Qué método ágil es más adecuado para optimizarlos?",
+      "options": [
+        "Scrum con sprints mensuales",
+        "Kanban con flujo continuo",
+        "Waterfall con hitos trimestrales",
+        "XP (Programación Extrema)"
+      ],
+      "answer": "Kanban con flujo continuo"
+    },
+    {
+      "question": "Durante un Daily Stand-up, un desarrollador reporta bloqueos constantes por trámites burocráticos internos. ¿Qué debe hacer el Scrum Master?",
+      "options": [
+        "Ignorar el problema por ser ajeno al equipo",
+        "Derivar la queja a recursos humanos",
+        "Trabajar en eliminar esos obstáculos",
+        "Reducir la frecuencia de los stand-ups"
+      ],
+      "answer": "Trabajar en eliminar esos obstáculos"
+    },
+    {
+      "question": "El área de catastro municipal necesita actualizar su software, pero los usuarios finales no pueden definir todos los requisitos iniciales. ¿Qué enfoque ágil recomendaría?",
+      "options": [
+        "Esperar hasta tener todos los requisitos definidos",
+        "Usar Scrum con entregas incrementales para validar con usuarios",
+        "Contratar una consultoría externa para especificar requisitos",
+        "Desarrollar el 100% del proyecto antes de mostrar resultados"
+      ],
+      "answer": "Usar Scrum con entregas incrementales para validar con usuarios"
+    },
+    {
+      "question": "En un proyecto de modernización de la página web municipal, el Product Owner cambia frecuentemente las prioridades. ¿Cómo debe manejar esto el equipo?",
+      "options": [
+        "Rechazar todos los cambios para mantener el plan original",
+        "Ajustar el Product Backlog en cada Sprint Planning",
+        "Solicitar la remoción del Product Owner",
+        "Trabajar horas extras para cumplir con todo"
+      ],
+      "answer": "Ajustar el Product Backlog en cada Sprint Planning"
+    },
+    {
+      "question": "El equipo de TI municipal tiene baja productividad debido a interrupciones constantes de otras áreas. ¿Qué práctica ágil ayudaría a resolver esto?",
+      "options": [
+        "Implementar WIP Limits en un tablero Kanban",
+        "Aislar al equipo sin comunicación externa",
+        "Duplicar el número de reuniones",
+        "Trabajar remoto sin coordinación"
+      ],
+      "answer": "Implementar WIP Limits en un tablero Kanban"
+    },
+    {
+      "question": "Al finalizar un sprint, el equipo entrega un módulo de consulta ciudadana, pero el usuario clave no puede validarlo por viaje. ¿Qué acción tomar?",
+      "options": [
+        "Esperar indefinidamente a que regrese",
+        "Registrarlo como impedimento y ajustar el siguiente sprint",
+        "Considerarlo como aprobado automáticamente",
+        "Cancelar el proyecto"
+      ],
+      "answer": "Registrarlo como impedimento y ajustar el siguiente sprint"
+    },
+    {
+      "question": "La secretaría de salud municipal necesita gestionar 100 requisitos para un nuevo sistema. ¿Qué artefacto ágil ayuda a priorizarlos?",
+      "options": [
+        "Product Backlog priorizado",
+        "Diagrama de Gantt",
+        "Carta Gantt",
+        "Matriz de riesgos"
+      ],
+      "answer": "Product Backlog priorizado"
+    },
+    {
+      "question": "Un desarrollador termina su tarea en medio de un sprint y pregunta qué hacer. Según Scrum, ¿qué debe ocurrir?",
+      "options": [
+        "Tomarse un descanso hasta el próximo sprint",
+        "Tomar nueva tarea del Sprint Backlog",
+        "Reportarse a otra área temporalmente",
+        "Esperar instrucciones del alcalde"
+      ],
+      "answer": "Tomar nueva tarea del Sprint Backlog"
+    },
+    {
+      "question": "El equipo de desarrollo municipal trabaja en 15 tareas simultáneamente y ninguna se completa. ¿Qué principio de Kanban violan?",
+      "options": [
+        "Limitación de WIP",
+        "Transparencia visual",
+        "Mejora continua",
+        "Entrega justo a tiempo"
+      ],
+      "answer": "Limitación de WIP"
+    },
+    {
+      "question": "En una retrospectiva de sprint, el equipo identifica que las reuniones diarias duran 1 hora. ¿Qué acción tomar?",
+      "options": [
+        "Eliminar las reuniones diarias",
+        "Ajustarlas a 15 minutos como sugiere Scrum",
+        "Derivar la decisión al área administrativa",
+        "Extenderlas a 2 horas para mayor detalle"
+      ],
+      "answer": "Ajustarlas a 15 minutos como sugiere Scrum"
+    },
+    {
+      "question": "El manual de funciones exige 'gestión ágil de proyectos'. ¿Qué documento debe consultar para alinear esto con normativa nacional?",
+      "options": [
+        "Decreto 1008 de 2018",
+        "Ley 1437 de 2011",
+        "Resolución 1519 de 2020",
+        "Circular 002 de la Alcaldía"
+      ],
+      "answer": "Decreto 1008 de 2018"
+    },
+    {
+      "question": "Un proyecto municipal lleva 3 sprints con retrocesos constantes en calidad. ¿Qué evento ágil ayuda a resolver esto?",
+      "options": [
+        "Sprint Retrospective",
+        "Daily Stand-up",
+        "Reunión de contratación",
+        "Taller de stakeholders"
+      ],
+      "answer": "Sprint Retrospective"
+    },
+    {
+      "question": "La oficina de planeación municipal usa post-its en un tablero con columnas 'Por Hacer', 'En Progreso' y 'Terminado'. ¿Qué metodología aplican?",
+      "options": [
+        "Scrum",
+        "Kanban",
+        "Waterfall",
+        "XP"
+      ],
+      "answer": "Kanban"
+    },
+    {
+      "question": "El alcalde solicita incluir un nuevo requisito de emergencia en el sprint actual. ¿Qué debe hacer el equipo Scrum?",
+      "options": [
+        "Cancelar el sprint inmediatamente",
+        "Evaluar con el Product Owner si reemplaza otra tarea del Sprint Backlog",
+        "Aceptarlo sin ajustar el alcance",
+        "Derivar la solicitud al concejo municipal"
+      ],
+      "answer": "Evaluar con el Product Owner si reemplaza otra tarea del Sprint Backlog"
+    },
+    {
+      "question": "El equipo de TI municipal completa 25 puntos de historia por sprint en promedio. ¿Qué métrica ágil es esta?",
+      "options": [
+        "Velocidad del equipo",
+        "WIP Limit",
+        "Lead Time",
+        "Cycle Time"
+      ],
+      "answer": "Velocidad del equipo"
+    },
+    {
+      "question": "Tras implementar Kanban en la secretaría de educación, notan que la columna 'En Progreso' siempre está llena. ¿Qué acción tomar?",
+      "options": [
+        "Aumentar el WIP Limit",
+        "Reducir el WIP Limit y enfocarse en completar tareas",
+        "Eliminar la columna 'En Progreso'",
+        "Contratar más personal"
+      ],
+      "answer": "Reducir el WIP Limit y enfocarse en completar tareas"
+    }
+  
+
+]

@@ -1,0 +1,438 @@
+[
+    {
+        "question": "¿Qué regula el Decreto 1008 de 2018?",
+        "options": [
+            "Gobierno Digital (PETI, interoperabilidad, servicios ciudadanos)",
+            "Protección de datos personales",
+            "Ciberseguridad en el sector privado",
+            "Regulación del comercio electrónico"
+        ],
+        "answer": "Gobierno Digital (PETI, interoperabilidad, servicios ciudadanos)"
+    },
+    {
+        "question": "¿Qué norma exige a las entidades públicas la digitalización de trámites?",
+        "options": [
+            "Ley 1712 de 2014",
+            "Decreto 1008 de 2018",
+            "Ley 1581 de 2012",
+            "Ley 2052 de 2020"
+        ],
+        "answer": "Ley 2052 de 2020"
+    },
+    {
+        "question": "¿Qué norma promueve la interoperabilidad en los trámites digitales del Estado?",
+        "options": [
+            "Decreto 1008 de 2018",
+            "Ley 1712 de 2014",
+            "Decreto 338 de 2022",
+            "Resolución 1519 de 2020"
+        ],
+        "answer": "Decreto 1008 de 2018"
+    },
+    {
+        "question": "¿Qué establece la Ley 1712 de 2014?",
+        "options": [
+            "Transparencia y acceso a la información pública",
+            "Protección de datos personales",
+            "Seguridad digital en plataformas electrónicas",
+            "Regulación de la contratación pública"
+        ],
+        "answer": "Transparencia y acceso a la información pública"
+    },
+    {
+        "question": "¿Qué entidad regula los estándares de seguridad digital en el gobierno?",
+        "options": [
+            "MINTIC",
+            "CNSC",
+            "DANE",
+            "Ministerio de Defensa"
+        ],
+        "answer": "MINTIC"
+    },
+    {
+        "question": "¿Qué norma establece los lineamientos para la adopción de tecnologías emergentes en el sector público?",
+        "options": [
+            "Decreto 338 de 2022",
+            "Decreto 1008 de 2018",
+            "Resolución 500 de 2021",
+            "Ley 1712 de 2014"
+        ],
+        "answer": "Decreto 338 de 2022"
+    },
+    {
+        "question": "¿Qué establece la Ley 1581 de 2012?",
+        "options": [
+            "Protección de datos personales",
+            "Transparencia en la gestión pública",
+            "Derecho a la información pública",
+            "Acceso a la justicia"
+        ],
+        "answer": "Protección de datos personales"
+    },
+    {
+        "question": "¿Qué establece el Decreto 338 de 2022 sobre la seguridad digital?",
+        "options": [
+            "Gobernanza de la seguridad digital",
+            "Regulación de la nube",
+            "Seguridad en la contratación pública",
+            "Protección de datos personales"
+        ],
+        "answer": "Gobernanza de la seguridad digital"
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de la Resolución 1519 de 2020?",
+        "options": [
+            "Accesibilidad web para entidades públicas",
+            "Regulación del uso de la nube",
+            "Seguridad de la información en plataformas electrónicas",
+            "Protección de datos personales"
+        ],
+        "answer": "Accesibilidad web para entidades públicas"
+    },
+    {
+        "question": "¿Qué establece la Ley 2052 de 2020?",
+        "options": [
+            "Digitalización y automatización de trámites",
+            "Gobierno Digital",
+            "Ley de seguridad digital",
+            "Protección de datos personales"
+        ],
+        "answer": "Digitalización y automatización de trámites"
+    },
+
+    {
+        "question": "¿Qué establece el Decreto 1008 de 2018 sobre el Gobierno Digital?",
+        "options": [
+            "La digitalización de los servicios públicos en todas las entidades del Estado",
+            "La creación del sistema de contratación pública en línea",
+            "La protección de datos personales en el sector privado",
+            "La implementación de plataformas para la gestión interna de las entidades"
+        ],
+        "answer": "La digitalización de los servicios públicos en todas las entidades del Estado"
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de la Ley 1712 de 2014?",
+        "options": [
+            "Regular la gestión de la información pública y su acceso",
+            "Establecer el marco de digitalización en el gobierno",
+            "Reglamentar el uso de redes sociales por parte de entidades públicas",
+            "Crear una política de innovación tecnológica"
+        ],
+        "answer": "Regular la gestión de la información pública y su acceso"
+    },
+    {
+        "question": "¿Qué norma establece la política de seguridad digital para las entidades públicas en Colombia?",
+        "options": [
+            "Ley 1581 de 2012",
+            "Decreto 767 de 2022",
+            "Resolución 1519 de 2020",
+            "Decreto 338 de 2022"
+        ],
+        "answer": "Decreto 338 de 2022"
+    },
+    {
+        "question": "¿Qué entidad regula los estándares de accesibilidad web para las entidades del sector público?",
+        "options": [
+            "Ministerio de Defensa",
+            "Ministerio de Tecnologías de la Información y las Comunicaciones (MINTIC)",
+            "Consejo de Estado",
+            "Fiscalía General de la Nación"
+        ],
+        "answer": "Ministerio de Tecnologías de la Información y las Comunicaciones (MINTIC)"
+    },
+    {
+        "question": "¿Cuál es el plazo máximo para actualizar la política de Gobierno Digital según el Decreto 1008 de 2018?",
+        "options": [
+            "3 años",
+            "4 años",
+            "5 años",
+            "10 años"
+        ],
+        "answer": "4 años"
+    },
+    {
+        "question": "¿Qué es el PETI según el Decreto 1008 de 2018?",
+        "options": [
+            "Plan de Eficiencia Tecnológica Institucional",
+            "Plan Estratégico de Tecnologías de la Información",
+            "Plan Estatal de Innovación Tecnológica",
+            "Política de Estandarización de Servicios Públicos Digitales"
+        ],
+        "answer": "Plan Estratégico de Tecnologías de la Información"
+    },
+    {
+        "question": "¿Cuál de los siguientes es un componente clave del Gobierno Digital?",
+        "options": [
+            "Gobernanza de la seguridad digital",
+            "Seguridad física de los documentos públicos",
+            "Administración de papel en oficinas públicas",
+            "Control de acceso a Internet"
+        ],
+        "answer": "Gobernanza de la seguridad digital"
+    },
+    {
+        "question": "¿Qué Ley establece el derecho de los ciudadanos a acceder a la información pública en Colombia?",
+        "options": [
+            "Ley 909 de 2004",
+            "Ley 1712 de 2014",
+            "Ley 1955 de 2019",
+            "Ley 1581 de 2012"
+        ],
+        "answer": "Ley 1712 de 2014"
+    },
+    {
+        "question": "Según la Ley 1581 de 2012, ¿qué debe garantizar el tratamiento de datos personales?",
+        "options": [
+            "Transparencia en los procesos judiciales",
+            "Seguridad y privacidad en el manejo de datos personales",
+            "Acceso libre de información pública",
+            "Digitalización de los datos en formato accesible"
+        ],
+        "answer": "Seguridad y privacidad en el manejo de datos personales"
+    },
+    {
+        "question": "¿Qué norma regula la digitalización de trámites públicos y su disponibilidad en línea?",
+        "options": [
+            "Ley 2052 de 2020",
+            "Ley 1712 de 2014",
+            "Decreto 1008 de 2018",
+            "Resolución 500 de 2021"
+        ],
+        "answer": "Ley 2052 de 2020"
+    },
+    {
+        "question": "¿Qué medida implementa el Decreto 767 de 2022 respecto al Gobierno Digital?",
+        "options": [
+            "Crea el Sistema de Contratación Electrónica",
+            "Fortalece la gobernanza digital y la seguridad en la información",
+            "Establece la política de ciberseguridad para el sector público",
+            "Implementa la educación en TIC para funcionarios"
+        ],
+        "answer": "Fortalece la gobernanza digital y la seguridad en la información"
+    },
+    {
+        "question": "¿Qué es la interoperabilidad digital en el contexto del Gobierno Digital?",
+        "options": [
+            "La posibilidad de que los ciudadanos accedan a todos los servicios públicos sin restricciones",
+            "El intercambio de información entre plataformas públicas y privadas sin riesgos",
+            "La capacidad de los sistemas y plataformas públicas para compartir información de manera segura y eficiente",
+            "El uso exclusivo de la nube para almacenar datos del gobierno"
+        ],
+        "answer": "La capacidad de los sistemas y plataformas públicas para compartir información de manera segura y eficiente"
+    },
+    {
+        "question": "¿Qué objetivo tiene la política de datos abiertos promovida en el Gobierno Digital?",
+        "options": [
+            "Reducir la cantidad de datos gubernamentales disponibles al público",
+            "Fomentar el acceso libre y público a los datos generados por el gobierno",
+            "Asegurar que los datos del gobierno sean utilizados solo por funcionarios públicos",
+            "Limitar el acceso a los datos personales de los ciudadanos"
+        ],
+        "answer": "Fomentar el acceso libre y público a los datos generados por el gobierno"
+    },
+    {
+        "question": "¿Qué establece la Resolución 1519 de 2020 sobre la seguridad en plataformas digitales públicas?",
+        "options": [
+            "Exige que todas las plataformas digitales sean auditadas por privados",
+            "Impone estándares mínimos de seguridad y accesibilidad en plataformas digitales públicas",
+            "Permite que el gobierno utilice plataformas digitales externas sin control",
+            "Promueve el uso de plataformas privadas para gestionar servicios públicos"
+        ],
+        "answer": "Impone estándares mínimos de seguridad y accesibilidad en plataformas digitales públicas"
+    },
+    {
+        "question": "Según la Resolución 500 de 2021, ¿qué se requiere para adoptar una estrategia de seguridad digital en el sector público?",
+        "options": [
+            "Contratar una empresa externa para auditar todos los sistemas",
+            "Implementar un modelo de seguridad basado en estándares internacionales como ISO 27001",
+            "Reducir la cantidad de sistemas utilizados en el sector público",
+            "Permitir que los datos personales sean accesibles para todos los ciudadanos"
+        ],
+        "answer": "Implementar un modelo de seguridad basado en estándares internacionales como ISO 27001"
+    },
+    {
+        "question": "¿Qué regulaciones establece el Decreto 338 de 2022 sobre la seguridad digital?",
+        "options": [
+            "Regula la contratación de plataformas de ciberseguridad",
+            "Fortalece la gobernanza digital en el sector público y establece los estándares de seguridad",
+            "Promueve la privatización de los sistemas de información",
+            "Exige la creación de un nuevo registro público de datos digitales"
+        ],
+        "answer": "Fortalece la gobernanza digital en el sector público y establece los estándares de seguridad"
+    },
+    {
+        "question": "¿Cuál es la función principal del Product Owner en Scrum?",
+        "options": [
+            "Facilitar las reuniones diarias",
+            "Definir los requisitos y priorizar el backlog de producto",
+            "Realizar el trabajo de desarrollo en cada sprint",
+            "Eliminación de obstáculos del equipo"
+        ],
+        "answer": "Definir los requisitos y priorizar el backlog de producto"
+    },
+    {
+        "question": "¿Qué debe incluir el Plan de Continuidad de Operaciones de acuerdo con la Resolución 3354/2020?",
+        "options": [
+            "Solo copias de seguridad semanales",
+            "Protocolos de recuperación ante desastres y roles definidos",
+            "Un listado de empleados con acceso a redes sociales",
+            "Presupuesto para equipos de oficina"
+        ],
+        "answer": "Protocolos de recuperación ante desastres y roles definidos"
+    },
+    {
+        "question": "¿Cómo contribuye el Decreto 1008 a la mejora de los servicios públicos digitales?",
+        "options": [
+            "Impone la creación de nuevas plataformas privadas",
+            "Garantiza la interoperabilidad entre plataformas públicas",
+            "Establece un sistema único para la contratación de TIC",
+            "Crea requisitos para las empresas de tecnología que trabajan con el gobierno"
+        ],
+        "answer": "Garantiza la interoperabilidad entre plataformas públicas"
+    },
+
+
+     {
+        "question": "Un municipio está implementando un sistema digital para la consulta de antecedentes judiciales en línea. Según la normativa vigente, ¿qué medida de seguridad debe adoptar para garantizar la protección de los datos personales de los usuarios?",
+        "options": [
+            "Exigir a los usuarios el uso de contraseñas simples para acceder a la plataforma.",
+            "Cifrar la información personal y garantizar su almacenamiento seguro.",
+            "Permitir el acceso público sin restricciones a los datos personales.",
+            "Implementar un sistema sin control de acceso para facilitar la consulta."
+        ],
+        "answer": "Cifrar la información personal y garantizar su almacenamiento seguro."
+    },
+    {
+        "question": "Una alcaldía planea digitalizar los pagos de impuestos municipales. Sin embargo, el 40% de los ciudadanos no tiene acceso a internet. ¿Qué estrategia debe priorizar la alcaldía?",
+        "options": [
+            "Exigir que todos los ciudadanos se conecten a internet para realizar los pagos.",
+            "Habilitar puntos de pago en corresponsales bancarios y ofrecer la opción offline para los ciudadanos sin internet.",
+            "Limitar el servicio solo a los ciudadanos con acceso a internet.",
+            "Desarrollar una plataforma solo para ciudadanos con acceso a internet."
+        ],
+        "answer": "Habilitar puntos de pago en corresponsales bancarios y ofrecer la opción offline para los ciudadanos sin internet."
+    },
+    {
+        "question": "La Ley 1712 de 2014 establece el derecho de los ciudadanos a acceder a la información pública. ¿Qué debe hacer una entidad pública para cumplir con esta ley?",
+        "options": [
+            "Limitar el acceso a la información pública solo a los ciudadanos que paguen impuestos.",
+            "Publicar solo la información que no afecte la seguridad del Estado.",
+            "Garantizar el acceso libre y transparente a la información gubernamental.",
+            "Permitir el acceso solo a los documentos más relevantes."
+        ],
+        "answer": "Garantizar el acceso libre y transparente a la información gubernamental."
+    },
+    {
+        "question": "En un municipio, el sistema de gestión de trámites públicos sufrió un ataque cibernético que resultó en la pérdida de datos personales. Según la Ley 1581 de 2012, ¿qué obligación tiene la entidad respecto a este incidente?",
+        "options": [
+            "Realizar una investigación interna y no informar a los afectados.",
+            "Informar a los ciudadanos afectados y a la Superintendencia de Industria y Comercio (SIC) sobre el incidente.",
+            "Eliminar todos los registros de los afectados para evitar más filtraciones.",
+            "No es necesario tomar ninguna medida adicional si no se demuestra un daño considerable."
+        ],
+        "answer": "Informar a los ciudadanos afectados y a la Superintendencia de Industria y Comercio (SIC) sobre el incidente."
+    },
+    {
+        "question": "La Resolución 1519 de 2020 establece estándares de accesibilidad web para las entidades públicas. ¿Qué debe hacer una entidad para cumplir con esta resolución?",
+        "options": [
+            "Hacer que su página web sea accesible solo para usuarios con discapacidades visuales.",
+            "Garantizar que la página web sea accesible para todas las personas, incluyendo aquellas con discapacidades y limitaciones tecnológicas.",
+            "Eliminar contenido que no sea relevante para el público general.",
+            "Exigir que todos los usuarios utilicen navegadores específicos para acceder al sitio."
+        ],
+        "answer": "Garantizar que la página web sea accesible para todas las personas, incluyendo aquellas con discapacidades y limitaciones tecnológicas."
+    },
+    {
+        "question": "El municipio decide utilizar un sistema de pagos electrónicos para recaudar impuestos, pero se da cuenta de que muchos usuarios no confían en la seguridad del sistema. ¿Qué acción debe tomar el municipio para aumentar la confianza?",
+        "options": [
+            "Dejar que los ciudadanos decidan si usan el sistema o no.",
+            "Implementar un sistema de autenticación multifactor y garantizar que los datos sean cifrados.",
+            "Exigir que los ciudadanos paguen solo mediante transferencias bancarias.",
+            "Eliminar cualquier tipo de sistema de verificación para facilitar el proceso de pago."
+        ],
+        "answer": "Implementar un sistema de autenticación multifactor y garantizar que los datos sean cifrados."
+    },
+    {
+        "question": "Un municipio está en proceso de implementar un sistema de votación electrónica para elecciones locales. Según la Ley 1523 de 2012, ¿qué aspecto debe tener en cuenta para garantizar la seguridad de la información?",
+        "options": [
+            "Solo garantizar la accesibilidad del sistema, ya que la seguridad no es necesaria.",
+            "Implementar controles técnicos y físicos como cifrado y autenticación, y realizar auditorías periódicas.",
+            "Permitir que todos los ciudadanos participen sin necesidad de registro.",
+            "Fomentar que los votantes utilicen sus dispositivos personales sin ningún tipo de verificación."
+        ],
+        "answer": "Implementar controles técnicos y físicos como cifrado y autenticación, y realizar auditorías periódicas."
+    },
+    {
+        "question": "En un esfuerzo por modernizar el gobierno digital, un municipio está diseñando una plataforma para la gestión de servicios públicos. ¿Qué estándar debe implementar para garantizar la interoperabilidad con otros sistemas del gobierno?",
+        "options": [
+            "Utilizar un sistema cerrado sin ninguna posibilidad de integración externa.",
+            "Adoptar estándares de interoperabilidad como el Modelo Integrado de Gestión Digital (MIGD).",
+            "Asegurarse de que solo se pueda acceder al sistema desde dentro de la infraestructura del municipio.",
+            "Permitir la integración con plataformas extranjeras pero sin ningún control sobre los datos."
+        ],
+        "answer": "Adoptar estándares de interoperabilidad como el Modelo Integrado de Gestión Digital (MIGD)."
+    },
+    {
+        "question": "Según el Decreto 767 de 2022, ¿qué es esencial para fortalecer la gobernanza de la seguridad digital en las entidades públicas?",
+        "options": [
+            "Crear una plataforma de gobierno digital sin políticas de seguridad definidas.",
+            "Establecer un modelo de gobernanza que involucre a todas las partes del gobierno y defina responsabilidades en seguridad digital.",
+            "Permitir el acceso irrestricto de los ciudadanos a la infraestructura digital del gobierno.",
+            "Utilizar únicamente plataformas extranjeras para la gestión de datos públicos."
+        ],
+        "answer": "Establecer un modelo de gobernanza que involucre a todas las partes del gobierno y defina responsabilidades en seguridad digital."
+    },
+    {
+        "question": "Un municipio implementa un sistema para la digitalización de trámites públicos, pero no establece un control de acceso adecuado. ¿Qué norma se estaría violando respecto a la protección de la información pública?",
+        "options": [
+            "Ley 1712 de 2014 (Derecho de acceso a la información pública)",
+            "Ley 1581 de 2012 (Protección de datos personales)",
+            "Decreto 1008 de 2018 (Gobierno Digital)",
+            "Decreto 338 de 2022 (Gobernanza de la seguridad digital)"
+        ],
+        "answer": "Ley 1581 de 2012 (Protección de datos personales)"
+    },
+    {
+        "question": "El sistema de gestión de trámites de un municipio utiliza plataformas en la nube, pero no cuenta con un protocolo de recuperación ante desastres. ¿Qué acción debe tomar el municipio según la normatividad vigente?",
+        "options": [
+            "Esperar a que el sistema se recupere solo en caso de desastre.",
+            "Implementar un Plan de Continuidad de Operaciones, con protocolos de recuperación según la Resolución 3354/2020.",
+            "Eliminar las plataformas en la nube y utilizar servidores locales exclusivamente.",
+            "No es necesario tener un protocolo de recuperación si se usa la nube."
+        ],
+        "answer": "Implementar un Plan de Continuidad de Operaciones, con protocolos de recuperación según la Resolución 3354/2020."
+    },
+    {
+        "question": "Según la **Ley 1523 de 2012**, ¿qué tipo de activos críticos deben ser identificados para asegurar la continuidad operativa?",
+        "options": [
+            "Solo las bases de datos financieras.",
+            "Las infraestructuras tecnológicas que permiten la prestación de servicios públicos.",
+            "Solo los equipos utilizados para la administración interna de la entidad.",
+            "Los sistemas que no son utilizados para trámites públicos."
+        ],
+        "answer": "Las infraestructuras tecnológicas que permiten la prestación de servicios públicos."
+    },
+    {
+        "question": "Un municipio quiere implementar una plataforma de contratación pública digital. Según la **Ley 1523 de 2012**, ¿qué aspecto de seguridad debe tener en cuenta?",
+        "options": [
+            "Eliminar la verificación de identidad y permitir el acceso público sin restricciones.",
+            "Implementar autenticación multifactor y cifrado de datos sensibles.",
+            "Permitir el acceso sin restricciones para evitar demoras en los procesos.",
+            "No se requiere ningún tipo de control si el sistema es solo para contratistas."
+        ],
+        "answer": "Implementar autenticación multifactor y cifrado de datos sensibles."
+    },
+    {
+        "question": "El municipio quiere habilitar la consulta de antecedentes judiciales en línea. ¿Qué debe hacer para cumplir con la **Ley 1712 de 2014** sobre acceso a la información pública?",
+        "options": [
+            "Limitar la consulta solo a las personas que paguen una tarifa por el servicio.",
+            "Asegurar que la plataforma esté disponible para todos los ciudadanos y sea accesible desde diferentes dispositivos.",
+            "Exigir que todos los ciudadanos se registren en una base de datos antes de consultar.",
+            "Permitir que solo los funcionarios del gobierno tengan acceso a la plataforma."
+        ],
+        "answer": "Asegurar que la plataforma esté disponible para todos los ciudadanos y sea accesible desde diferentes dispositivos."
+    }
+
+
+    
+]

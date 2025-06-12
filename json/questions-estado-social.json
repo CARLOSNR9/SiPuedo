@@ -1,0 +1,1395 @@
+[
+    {
+        "question": "¿Qué define el Estado Social de Derecho en Colombia?",
+        "options": [
+            "Garantía de derechos económicos, sociales y culturales",
+            "Incorporación de principios de solidaridad y justicia social",
+            "Solo los derechos civiles y políticos",
+            "Incorporación de leyes restrictivas"
+        ],
+        "answer": "Garantía de derechos económicos, sociales y culturales"
+    },
+    {
+        "question": "¿Qué principio fundamental establece el artículo 1º de la Constitución de Colombia?",
+        "options": [
+            "Derechos humanos",
+            "División de poderes",
+            "Soberanía popular",
+            "Prevalencia del interés particular"
+        ],
+        "answer": "Derechos humanos"
+    },
+    {
+        "question": "¿Qué establece el artículo 86 de la Constitución respecto a los derechos fundamentales?",
+        "options": [
+            "Derecho de acceso a la justicia",
+            "Acción de tutela",
+            "El derecho a la educación",
+            "El derecho a la participación"
+        ],
+        "answer": "Acción de tutela"
+    },
+    {
+        "question": "¿Cuál de las siguientes ramas del poder público en Colombia es responsable de aplicar las leyes?",
+        "options": [
+            "Ejecutiva",
+            "Legislativa",
+            "Judicial",
+            "Organismos de control"
+        ],
+        "answer": "Judicial"
+    },
+    {
+        "question": "¿Qué implica la descentralización en Colombia según la Constitución?",
+        "options": [
+            "Autonomía de las entidades territoriales",
+            "Centralización del poder en el presidente",
+            "Centralización de la administración pública",
+            "Exclusividad en la toma de decisiones del gobierno central"
+        ],
+        "answer": "Autonomía de las entidades territoriales"
+    },
+    {
+        "question": "¿Qué ley regula el acceso a la información pública en Colombia?",
+        "options": [
+            "Ley 1712 de 2014",
+            "Ley 1581 de 2012",
+            "Ley 1523 de 2012",
+            "Decreto 1008 de 2018"
+        ],
+        "answer": "Ley 1712 de 2014"
+    },
+    {
+        "question": "¿Qué principio se refiere al control sobre las decisiones de los servidores públicos?",
+        "options": [
+            "Moralidad",
+            "Celeridad",
+            "Imparcialidad",
+            "Eficiencia"
+        ],
+        "answer": "Moralidad"
+    },
+    {
+        "question": "¿Cuál de los siguientes mecanismos permite la participación directa de los ciudadanos en decisiones de la administración pública?",
+        "options": [
+            "Plebiscito",
+            "Voto de los representantes",
+            "Sistema de convocatorias públicas",
+            "Petición popular"
+        ],
+        "answer": "Plebiscito"
+    },
+    {
+        "question": "¿Qué artículo de la Constitución establece el principio de la acción de tutela?",
+        "options": [
+            "Artículo 86",
+            "Artículo 209",
+            "Artículo 12",
+            "Artículo 93"
+        ],
+        "answer": "Artículo 86"
+    },
+    {
+        "question": "¿Qué derecho está garantizado por el artículo 13 de la Constitución Política de Colombia?",
+        "options": [
+            "Igualdad ante la ley",
+            "Acceso a la justicia",
+            "Derecho a la educación",
+            "Derecho a la salud"
+        ],
+        "answer": "Igualdad ante la ley"
+    },
+
+
+  {
+    "question": "Según el Artículo 1° de la Constitución Política de Colombia, el Estado Social de Derecho se fundamenta en:",
+    "options": [
+      "El interés particular sobre el general",
+      "La dignidad humana y la solidaridad",
+      "La centralización del poder en el Ejecutivo",
+      "La exclusión de la participación ciudadana"
+    ],
+    "answer": "La dignidad humana y la solidaridad"
+  },
+  {
+    "question": "¿Cuál de estos principios NO es inherente al Estado Social de Derecho en Colombia?",
+    "options": [
+      "Participación ciudadana",
+      "Desigualdad material",
+      "Prevalencia del interés general",
+      "Descentralización administrativa"
+    ],
+    "answer": "Desigualdad material"
+  },
+  {
+    "question": "La autonomía de los municipios para gestionar sus sistemas de TI está respaldada por:",
+    "options": [
+      "El Artículo 287 de la Constitución",
+      "La Ley 1437 de 2011",
+      "El Decreto 1078 de 2015",
+      "La Ley 134 de 1994"
+    ],
+    "answer": "El Artículo 287 de la Constitución"
+  },
+  {
+    "question": "Como profesional de TI en un municipio, implementar un sistema de pagos en línea para impuestos contribuye al Estado Social de Derecho porque:",
+    "options": [
+      "Reduce la transparencia en los procesos",
+      "Garantiza acceso universal y eficiencia",
+      "Centraliza el poder en la Alcaldía",
+      "Excluye a poblaciones rurales"
+    ],
+    "answer": "Garantiza acceso universal y eficiencia"
+  },
+  {
+    "question": "La protección de datos personales en sistemas municipales está regulada principalmente por:",
+    "options": [
+      "Ley 1581 de 2012 (Habeas Data)",
+      "Ley 1437 de 2011",
+      "Decreto 1078 de 2015",
+      "Ley 134 de 1994"
+    ],
+    "answer": "Ley 1581 de 2012 (Habeas Data)"
+  },
+  {
+    "question": "¿Qué rama del poder público supervisa la implementación de políticas de gobierno digital en los municipios?",
+    "options": [
+      "Rama Judicial",
+      "Rama Legislativa",
+      "Rama Ejecutiva",
+      "Rama Electoral"
+    ],
+    "answer": "Rama Ejecutiva"
+  },
+  {
+    "question": "Un servidor público que omite actualizar los sistemas de seguridad de datos municipales incumple el principio constitucional de:",
+    "options": [
+      "Moralidad",
+      "Eficiencia",
+      "Libre competencia",
+      "Autonomía territorial"
+    ],
+    "answer": "Eficiencia"
+  },
+  {
+    "question": "La Ley 1712 de 2014 está relacionada con:",
+    "options": [
+      "Protección de datos personales",
+      "Transparencia y acceso a la información pública",
+      "Contratación estatal",
+      "Seguridad social"
+    ],
+    "answer": "Transparencia y acceso a la información pública"
+  },
+  {
+    "question": "¿Qué entidad puede sancionar a un funcionario por filtrar datos personales de una base de datos municipal?",
+    "options": [
+      "Superintendencia de Industria y Comercio",
+      "Procuraduría General de la Nación",
+      "Contraloría General de la República",
+      "Fiscalía General de la Nación"
+    ],
+    "answer": "Procuraduría General de la Nación"
+  },
+  {
+    "question": "El Plan Estratégico de TI (PETI) de un municipio debe alinearse al Estado Social de Derecho mediante:",
+    "options": [
+      "Exclusión de comunidades rurales",
+      "Garantía de acceso equitativo a servicios digitales",
+      "Centralización de decisiones en el Alcalde",
+      "Uso exclusivo de software privativo"
+    ],
+    "answer": "Garantía de acceso equitativo a servicios digitales"
+  },
+  {
+    "question": "Según la Constitución, ¿cuál es el fin esencial del Estado Social de Derecho?",
+    "options": [
+      "Favorecer intereses económicos privados",
+      "Garantizar los derechos fundamentales y la justicia social",
+      "Limitar la participación ciudadana",
+      "Concentrar recursos en la capital"
+    ],
+    "answer": "Garantizar los derechos fundamentales y la justicia social"
+  },
+  {
+    "question": "La implementación de una plataforma de gobierno digital en un municipio refleja el principio de:",
+    "options": [
+      "Descentralización",
+      "Participación ciudadana",
+      "Igualdad material",
+      "Todas las anteriores"
+    ],
+    "answer": "Todas las anteriores"
+  },
+  {
+    "question": "¿Qué artículo constitucional establece los deberes de los servidores públicos (eficiencia, moralidad, etc.)?",
+    "options": [
+      "Artículo 209",
+      "Artículo 95",
+      "Artículo 1°",
+      "Artículo 287"
+    ],
+    "answer": "Artículo 209"
+  },
+  {
+    "question": "Un sistema municipal de quejas en línea que permite seguimiento ciudadano promueve:",
+    "options": [
+      "Opacidad en la gestión",
+      "Participación y control social",
+      "Centralización del poder",
+      "Jerarquización de demandas"
+    ],
+    "answer": "Participación y control social"
+  },
+  {
+    "question": "La Corte Constitucional ha señalado que el Estado Social de Derecho exige:",
+    "options": [
+      "Privilegios para grupos económicos",
+      "Acciones afirmativas para poblaciones vulnerables",
+      "Limitación de derechos sociales",
+      "Exclusión de mecanismos de participación"
+    ],
+    "answer": "Acciones afirmativas para poblaciones vulnerables"
+  },
+
+ 
+  {
+    "context": "Como profesional de TI en Puerto Boyacá, usted debe implementar un sistema de información para gestionar subsidios sociales. Durante el diseño, identifica que algunos ciudadanos en zonas rurales no tienen acceso a internet.",
+    "question": "¿Cuál acción alinea el proyecto con el Estado Social de Derecho?",
+    "options": [
+      "Limitar el sistema solo a zonas urbanas para reducir costos",
+      "Incluir módulos offline y puntos de acceso en alcaldías locales",
+      "Exigir que los ciudadanos adquieran dispositivos propios",
+      "Postergar el proyecto indefinidamente"
+    ],
+    "answer": "Incluir módulos offline y puntos de acceso en alcaldías locales",
+    "competence": "Orientación al usuario y equidad"
+  },
+  {
+    "context": "La Alcaldía de Puerto Boyacá ha recibido una solicitud de acceso a información pública sobre contratos de software, pero el sistema está desactualizado y los datos están dispersos.",
+    "question": "¿Qué debe hacer para cumplir con el principio de transparencia?",
+    "options": [
+      "Negar la solicitud por falta de recursos técnicos",
+      "Centralizar y publicar los datos en formato abierto en 72 horas",
+      "Pedir al ciudadano que espere 6 meses hasta modernizar el sistema",
+      "Entregar solo la información que beneficie a la administración"
+    ],
+    "answer": "Centralizar y publicar los datos en formato abierto en 72 horas",
+    "competence": "Gestión de procedimientos"
+  },
+  {
+    "context": "Un proveedor ofrece donar equipos de cómputo a cambio de que el municipio compre exclusivamente sus licencias de software por 5 años.",
+    "question": "¿Cómo actuar bajo el principio de moralidad pública?",
+    "options": [
+      "Aceptar la donación y firmar el contrato de licencias",
+      "Rechazar la donación por conflicto de intereses",
+      "Aceptar los equipos pero licitar las licencias transparentemente",
+      "Pedir una comisión oculta al proveedor"
+    ],
+    "answer": "Rechazar la donación por conflicto de intereses",
+    "competence": "Moralidad pública"
+  },
+  {
+    "context": "El PETI municipal prioriza proyectos de digitalización, pero el 40% del presupuesto se asignó a una urbanización de altos ingresos.",
+    "question": "¿Qué medida corrige esta inequidad?",
+    "options": [
+      "Mantener la asignación por ser zona estratégica",
+      "Redistribuir el presupuesto para incluir escuelas rurales",
+      "Cancelar el PETI por inconsistencias",
+      "Externalizar la decisión a una empresa privada"
+    ],
+    "answer": "Redistribuir el presupuesto para incluir escuelas rurales",
+    "competence": "Equidad territorial"
+  },
+  {
+    "context": "Un funcionario solicita acceder a datos personales de ciudadanos para una campaña política, alegando 'interés institucional'.",
+    "question": "¿Qué articulo constitucional fundamenta su negativa?",
+    "options": [
+      "Artículo 15 (Derecho a la intimidad)",
+      "Artículo 100 (Libertad de prensa)",
+      "Artículo 333 (Libre competencia)",
+      "Artículo 365 (Servicios públicos)"
+    ],
+    "answer": "Artículo 15 (Derecho a la intimidad)",
+    "competence": "Protección de datos"
+  },
+  {
+    "context": "El sistema de pagos en línea de impuestos municipales falla repetidamente en días de corte, afectando a comerciantes informales.",
+    "question": "¿Cuál es la solución más adecuada?",
+    "options": [
+      "Culpar a los usuarios por no usar el sistema correctamente",
+      "Implementar un plan de contingencia con ventanillas presenciales",
+      "Multar a los que no paguen a tiempo",
+      "Ignorar el problema por ser población minoritaria"
+    ],
+    "answer": "Implementar un plan de contingencia con ventanillas presenciales",
+    "competence": "Orientación al ciudadano"
+  },
+  {
+    "context": "Una comunidad indígena solicita que el portal web municipal incluya su lengua nativa y diseños culturales.",
+    "question": "¿Cómo responde bajo el Estado Social de Derecho?",
+    "options": [
+      "Negarse por 'complejidad técnica'",
+      "Implementar la solicitud como parte de la inclusión digital",
+      "Pedir que la comunidad financie los cambios",
+      "Derivar la petición a otra entidad"
+    ],
+    "answer": "Implementar la solicitud como parte de la inclusión digital",
+    "competence": "Pluralismo cultural"
+  },
+  {
+    "context": "Un informe de auditoría revela que el software de seguridad municipal no se actualiza desde 2020 por falta de contratación.",
+    "question": "¿Qué principio constitucional se violó?",
+    "options": [
+      "Artículo 209 (Eficiencia de la administración)",
+      "Artículo 333 (Libre empresa)",
+      "Artículo 365 (Servicios públicos)",
+      "Artículo 1° (Dignidad humana)"
+    ],
+    "answer": "Artículo 209 (Eficiencia de la administración)",
+    "competence": "Gestión pública"
+  },
+  {
+    "context": "El Concejo Municipal exige que los informes de gestión de TI se presenten en formatos físicos, aunque el sistema permite generarlos digitalmente.",
+    "question": "¿Qué acción promueve la modernización?",
+    "options": [
+      "Seguir usando papel por ser requisito legal",
+      "Capacitar al Concejo en el uso de plataformas digitales",
+      "Eliminar los informes para reducir costos",
+      "Contratar un mensajero para entregar los documentos"
+    ],
+    "answer": "Capacitar al Concejo en el uso de plataformas digitales",
+    "competence": "Innovación institucional"
+  },
+  {
+    "context": "Un ciudadano interpone una tutela porque el sistema de citas médicas no asigna turnos a personas con discapacidad visual.",
+    "question": "¿Qué fallo probable emitiría un juez?",
+    "options": [
+      "Denegar la tutela por ser un problema técnico",
+      "Ordenar adaptar el sistema con lectores de pantalla en 30 días",
+      "Sugerir que el ciudadano use otro servicio",
+      "Multar al ciudadano por exigencias injustificadas"
+    ],
+    "answer": "Ordenar adaptar el sistema con lectores de pantalla en 30 días",
+    "competence": "Derechos fundamentales"
+  },
+
+ 
+  {
+    "question": "¿Qué principio fundamental establece la Constitución de 1991 en Colombia?",
+    "options": [
+      "Estado unitario",
+      "Estado social de derecho",
+      "Estado federal",
+      "Estado laico"
+    ],
+    "answer": "Estado social de derecho"
+  },
+  {
+    "question": "¿Cuál de las siguientes es una característica del Estado Social de Derecho?",
+    "options": [
+      "Garantiza únicamente los derechos civiles",
+      "Busca garantizar la igualdad material entre los ciudadanos",
+      "Elimina la intervención del Estado en la economía",
+      "Permite la violación de los derechos humanos en situaciones excepcionales"
+    ],
+    "answer": "Busca garantizar la igualdad material entre los ciudadanos"
+  },
+  {
+    "question": "¿Qué artículo de la Constitución colombiana establece que Colombia es un Estado Social de Derecho?",
+    "options": [
+      "Artículo 1",
+      "Artículo 13",
+      "Artículo 86",
+      "Artículo 90"
+    ],
+    "answer": "Artículo 1"
+  },
+  {
+    "question": "¿Qué derecho fundamental garantiza el artículo 13 de la Constitución de 1991?",
+    "options": [
+      "Derecho a la igualdad",
+      "Derecho a la educación",
+      "Derecho a la propiedad",
+      "Derecho a la salud"
+    ],
+    "answer": "Derecho a la igualdad"
+  },
+  {
+    "question": "La **acción de tutela** es un mecanismo judicial que permite a cualquier ciudadano:",
+    "options": [
+      "Proteger los derechos fundamentales",
+      "Hacer reclamaciones contra el Estado",
+      "Apostar por un mejor sistema judicial",
+      "Denunciar actos de corrupción"
+    ],
+    "answer": "Proteger los derechos fundamentales"
+  },
+  {
+    "question": "¿En qué caso el Estado tiene responsabilidad patrimonial por daños causados?",
+    "options": [
+      "Cuando un ciudadano es responsable de un acto ilícito",
+      "Cuando no se cumplen los derechos fundamentales",
+      "Cuando un funcionario público actúa de manera ilegítima",
+      "Cuando el Presidente de la República no firma un decreto"
+    ],
+    "answer": "Cuando un funcionario público actúa de manera ilegítima"
+  },
+  {
+    "question": "¿Qué órgano es responsable de la protección de los derechos fundamentales en Colombia?",
+    "options": [
+      "Corte Constitucional",
+      "Procuraduría General de la Nación",
+      "Fiscalía General de la Nación",
+      "Consejo de Estado"
+    ],
+    "answer": "Corte Constitucional"
+  },
+  {
+    "question": "¿Cuál es la responsabilidad del Estado en el marco del Estado Social de Derecho?",
+    "options": [
+      "Garantizar la propiedad privada sin restricciones",
+      "Proteger los derechos humanos y sociales",
+      "Promover el comercio libre sin regulación",
+      "Crear monopolios para proteger las empresas nacionales"
+    ],
+    "answer": "Proteger los derechos humanos y sociales"
+  },
+  {
+    "question": "¿Cuál es la función de la **Rama Legislativa** en el Estado Social de Derecho?",
+    "options": [
+      "Ejecutar las leyes aprobadas",
+      "Crear y modificar leyes",
+      "Controlar la ejecución del presupuesto",
+      "Promover la justicia"
+    ],
+    "answer": "Crear y modificar leyes"
+  },
+  {
+    "question": "¿Qué es la **decentralización** en el Estado Social de Derecho?",
+    "options": [
+      "La distribución de competencias y recursos entre el gobierno central y los gobiernos locales",
+      "La acumulación de poder en el gobierno central",
+      "El fortalecimiento de los derechos humanos a nivel local",
+      "El aumento de la independencia del poder judicial"
+    ],
+    "answer": "La distribución de competencias y recursos entre el gobierno central y los gobiernos locales"
+  },
+  {
+    "question": "¿Qué derecho se protege principalmente en el artículo 86 de la Constitución de 1991?",
+    "options": [
+      "Derecho al trabajo",
+      "Derecho a la seguridad social",
+      "Derecho a la tutela",
+      "Derecho a la vivienda"
+    ],
+    "answer": "Derecho a la tutela"
+  },
+  {
+    "question": "¿Qué implica la **responsabilidad patrimonial del Estado**?",
+    "options": [
+      "El Estado responde por los daños causados por sus servidores públicos",
+      "El Estado puede demandar a los ciudadanos por mal comportamiento",
+      "El Estado no puede ser demandado por sus actos",
+      "El Estado garantiza la propiedad de todos los ciudadanos"
+    ],
+    "answer": "El Estado responde por los daños causados por sus servidores públicos"
+  },
+  {
+    "question": "La **Corte Suprema de Justicia** pertenece a cuál de las siguientes ramas del poder?",
+    "options": [
+      "Rama Ejecutiva",
+      "Rama Legislativa",
+      "Rama Judicial",
+      "Rama Administrativa"
+    ],
+    "answer": "Rama Judicial"
+  },
+  {
+    "question": "¿Qué característica define a un **Estado Social de Derecho** en comparación con un Estado Liberal?",
+    "options": [
+      "La intervención activa del Estado para garantizar la igualdad material",
+      "La limitación total del poder gubernamental",
+      "La no intervención en asuntos sociales y económicos",
+      "El poder absoluto de las corporaciones empresariales"
+    ],
+    "answer": "La intervención activa del Estado para garantizar la igualdad material"
+  },
+  {
+    "question": "¿Cuál de los siguientes principios se encuentra en el **Estado Social de Derecho**?",
+    "options": [
+      "Separación absoluta entre lo público y lo privado",
+      "Reconocimiento de los derechos sociales y económicos",
+      "Promoción de monopolios empresariales",
+      "Eliminación de impuestos para los ciudadanos"
+    ],
+    "answer": "Reconocimiento de los derechos sociales y económicos"
+  },
+  {
+    "question": "¿Qué es la **Ciberseguridad** en el contexto del Estado Social de Derecho?",
+    "options": [
+      "La protección de los derechos civiles frente a la tecnología",
+      "La protección de la infraestructura tecnológica y la información pública",
+      "El control de la información de los ciudadanos en redes sociales",
+      "La libertad de expresión en plataformas digitales"
+    ],
+    "answer": "La protección de la infraestructura tecnológica y la información pública"
+  },
+  {
+    "question": "¿Cómo se asegura el **cumplimiento de los derechos humanos** en un Estado Social de Derecho?",
+    "options": [
+      "Por medio de la participación ciudadana",
+      "Por la eliminación de cualquier tipo de control del gobierno",
+      "Con la intervención exclusiva de organizaciones internacionales",
+      "A través del sistema judicial y las acciones de tutela"
+    ],
+    "answer": "A través del sistema judicial y las acciones de tutela"
+  },
+  {
+    "question": "En el **Estado Social de Derecho**, ¿quién tiene la responsabilidad de garantizar la educación gratuita?",
+    "options": [
+      "El gobierno nacional exclusivamente",
+      "Los gobiernos municipales únicamente",
+      "El Estado en su conjunto, tanto el gobierno nacional como los locales",
+      "Las instituciones educativas privadas"
+    ],
+    "answer": "El Estado en su conjunto, tanto el gobierno nacional como los locales"
+  },
+  {
+    "question": "¿Qué derecho fundamental garantiza el **Artículo 86** de la Constitución de 1991?",
+    "options": [
+      "Derecho al voto",
+      "Derecho a la propiedad privada",
+      "Derecho a la tutela",
+      "Derecho al trabajo"
+    ],
+    "answer": "Derecho a la tutela"
+  },
+  {
+    "question": "¿Qué autoridad puede declarar la responsabilidad patrimonial del Estado?",
+    "options": [
+      "La Procuraduría General de la Nación",
+      "La Corte Constitucional",
+      "La Corte Suprema de Justicia",
+      "La Contraloría General de la República"
+    ],
+    "answer": "La Corte Constitucional"
+  },
+  {
+    "question": "¿Qué garantiza el **Estado Social de Derecho** respecto a los derechos económicos y sociales?",
+    "options": [
+      "Elimina las políticas públicas relacionadas con estos derechos",
+      "Asegura su protección a través de mecanismos de intervención estatal",
+      "Limita el acceso a la seguridad social",
+      "Delega su responsabilidad a entidades privadas"
+    ],
+    "answer": "Asegura su protección a través de mecanismos de intervención estatal"
+  },
+  {
+    "question": "¿Qué entidad es responsable de velar por el cumplimiento de la **política de Gobierno Digital**?",
+    "options": [
+      "Ministerio de Hacienda",
+      "Ministerio de las TIC",
+      "Procuraduría General de la Nación",
+      "Corte Constitucional"
+    ],
+    "answer": "Ministerio de las TIC"
+  },
+  {
+    "question": "¿Cómo se organiza la **Rama Ejecutiva** en Colombia?",
+    "options": [
+      "Por el Senado y la Cámara de Representantes",
+      "Por el Presidente y su gabinete de ministros",
+      "Por la Corte Suprema de Justicia",
+      "Por los consejeros del Presidente"
+    ],
+    "answer": "Por el Presidente y su gabinete de ministros"
+  },
+  {
+    "question": "En el **Estado Social de Derecho**, la intervención del Estado en la economía se realiza principalmente para:",
+    "options": [
+      "Reducir el poder del sector privado",
+      "Garantizar la igualdad de oportunidades para todos los ciudadanos",
+      "Promover el monopolio estatal en todos los sectores",
+      "Eliminar el mercado libre"
+    ],
+    "answer": "Garantizar la igualdad de oportunidades para todos los ciudadanos"
+  },
+
+  {
+    "question": "Un ciudadano acude a la Corte Constitucional para presentar una acción de tutela alegando que su derecho a la igualdad ha sido vulnerado por una ley que discrimina a ciertos grupos de personas. ¿Qué deberá evaluar la Corte Constitucional en este caso?",
+    "options": [
+      "Si la ley en cuestión viola el principio de igualdad y si es compatible con los derechos fundamentales",
+      "Si el ciudadano tiene derecho a ser compensado por los daños causados",
+      "Si la ley fue aprobada conforme al proceso legislativo",
+      "Si el Estado tiene responsabilidad patrimonial por la ley"
+    ],
+    "answer": "Si la ley en cuestión viola el principio de igualdad y si es compatible con los derechos fundamentales"
+  },
+  {
+    "question": "Un funcionario público es acusado de malversación de fondos, lo que ha causado un daño económico al municipio. ¿Qué acción podría tomar el ciudadano afectado frente a este hecho?",
+    "options": [
+      "Presentar una demanda contra el funcionario directamente",
+      "Presentar una acción de tutela para que se resuelva el daño",
+      "Presentar una acción judicial contra el Estado bajo la responsabilidad patrimonial por los daños causados por el funcionario",
+      "Solicitar la destitución del funcionario sin ninguna acción judicial"
+    ],
+    "answer": "Presentar una acción judicial contra el Estado bajo la responsabilidad patrimonial por los daños causados por el funcionario"
+  },
+  {
+    "question": "Un municipio decide implementar una nueva plataforma de gobierno digital que no ha sido aprobada por las autoridades competentes en materia de protección de datos personales. ¿Qué principio del Estado Social de Derecho está siendo vulnerado?",
+    "options": [
+      "El principio de seguridad jurídica",
+      "El principio de transparencia",
+      "El principio de legalidad y protección de derechos fundamentales",
+      "El principio de participación ciudadana"
+    ],
+    "answer": "El principio de legalidad y protección de derechos fundamentales"
+  },
+  {
+    "question": "Una persona presenta una acción de tutela porque considera que no está recibiendo el servicio de salud adecuado. En este caso, el juez deberá:",
+    "options": [
+      "Ordenar la prestación inmediata del servicio, si se demuestra la vulneración de los derechos fundamentales a la salud",
+      "Indicar que la persona debe esperar el tiempo que le asignen las autoridades sanitarias",
+      "Rechazar la acción de tutela, ya que no puede decidir sobre la prestación de servicios",
+      "Determinar que el sistema de salud público debe mejorar sus servicios en general"
+    ],
+    "answer": "Ordenar la prestación inmediata del servicio, si se demuestra la vulneración de los derechos fundamentales a la salud"
+  },
+  {
+    "question": "Un ciudadano presenta una queja en la Procuraduría General de la Nación porque considera que un funcionario público no ha cumplido con la normatividad vigente y ha tomado decisiones en favor de intereses privados. ¿Qué principio del Estado Social de Derecho se está vulnerando?",
+    "options": [
+      "El principio de eficiencia pública",
+      "El principio de imparcialidad y transparencia en el ejercicio del poder",
+      "El principio de responsabilidad patrimonial del Estado",
+      "El principio de descentralización"
+    ],
+    "answer": "El principio de imparcialidad y transparencia en el ejercicio del poder"
+  },
+  {
+    "question": "Un alcalde decide, sin justificación legal, aumentar los impuestos de una comunidad en particular, discriminando a ciertos habitantes de su municipio. ¿Qué derecho constitucional está siendo vulnerado?",
+    "options": [
+      "El derecho a la propiedad privada",
+      "El derecho a la igualdad",
+      "El derecho a la libre expresión",
+      "El derecho a la libertad de tránsito"
+    ],
+    "answer": "El derecho a la igualdad"
+  },
+  {
+    "question": "Un ciudadano realiza una denuncia ante la Corte Constitucional por un acto administrativo que considera que está afectando su derecho a la participación política. ¿Qué debe hacer la Corte Constitucional en este caso?",
+    "options": [
+      "Resolver si el acto administrativo es incompatible con los derechos fundamentales de participación política",
+      "Ordenar la anulación inmediata del acto administrativo",
+      "Emitir una recomendación al poder ejecutivo sobre el acto administrativo",
+      "Negar la tutela sin hacer ningún tipo de evaluación"
+    ],
+    "answer": "Resolver si el acto administrativo es incompatible con los derechos fundamentales de participación política"
+  },
+  {
+    "question": "Un funcionario público es acusado de no cumplir con las normativas sobre manejo de información pública. ¿Qué principio está en riesgo según el Estado Social de Derecho?",
+    "options": [
+      "El principio de transparencia",
+      "El principio de autonomía",
+      "El principio de subsidiariedad",
+      "El principio de democracia participativa"
+    ],
+    "answer": "El principio de transparencia"
+  },
+  {
+    "question": "Un ministerio decide cambiar los criterios para la asignación de recursos públicos, sin consultar a las comunidades afectadas ni a los organismos de control. Este acto está vulnerando:",
+    "options": [
+      "El derecho a la educación",
+      "El derecho a la participación política",
+      "El principio de gobernabilidad democrática",
+      "El principio de descentralización"
+    ],
+    "answer": "El principio de gobernabilidad democrática"
+  },
+  {
+    "question": "Una persona presenta una demanda contra el Estado por haber sufrido un daño causado por la inacción de un organismo público. Este acto está relacionado con la **responsabilidad patrimonial del Estado** y debe ser atendido por:",
+    "options": [
+      "El Tribunal Administrativo",
+      "La Corte Suprema de Justicia",
+      "La Corte Constitucional",
+      "El Ministerio de Justicia"
+    ],
+    "answer": "El Tribunal Administrativo"
+  },
+  {
+    "question": "Un ciudadano acude a la Corte Constitucional para impugnar una ley que establece una diferencia injustificada en el acceso a servicios públicos. ¿Qué mecanismo está utilizando el ciudadano?",
+    "options": [
+      "Acción de tutela",
+      "Acción de nulidad",
+      "Acción de inconstitucionalidad",
+      "Recurso de revisión"
+    ],
+    "answer": "Acción de inconstitucionalidad"
+  },
+  {
+    "question": "Un municipio decide digitalizar todos sus trámites administrativos, pero los ciudadanos denuncian que la plataforma no garantiza la seguridad de sus datos personales. ¿Qué aspecto del Estado Social de Derecho se está vulnerando?",
+    "options": [
+      "El derecho a la igualdad",
+      "El derecho a la privacidad y protección de datos personales",
+      "El principio de eficiencia pública",
+      "El principio de justicia social"
+    ],
+    "answer": "El derecho a la privacidad y protección de datos personales"
+  },
+  {
+    "question": "Un alcalde decide excluir a una parte de la población de un programa social sin justificación alguna. ¿Qué derecho fundamental está siendo vulnerado?",
+    "options": [
+      "Derecho a la educación",
+      "Derecho a la propiedad",
+      "Derecho a la igualdad",
+      "Derecho a la salud"
+    ],
+    "answer": "Derecho a la igualdad"
+  },
+  {
+    "question": "Una ley que otorga ventajas exclusivas a ciertas empresas, afectando a otras que cumplen los mismos requisitos, está violando:",
+    "options": [
+      "El derecho al trabajo",
+      "El derecho a la igualdad",
+      "El derecho a la libre empresa",
+      "El derecho a la seguridad social"
+    ],
+    "answer": "El derecho a la igualdad"
+  },
+  {
+    "question": "Un ciudadano presenta una denuncia porque considera que su derecho al trabajo está siendo vulnerado por una norma que favorece a ciertas personas sin méritos suficientes. ¿Qué acción podría tomar el ciudadano?",
+    "options": [
+      "Presentar una acción de tutela",
+      "Presentar un recurso administrativo",
+      "Rechazar la ley ante la Corte Suprema",
+      "Solicitar la anulación de la norma sin justificación"
+    ],
+    "answer": "Presentar una acción de tutela"
+  },
+  {
+    "question": "El Gobierno Nacional decide incrementar los impuestos de forma proporcional a la capacidad económica de los ciudadanos, promoviendo la justicia tributaria. ¿Qué principio del Estado Social de Derecho se está aplicando?",
+    "options": [
+      "El principio de progresividad",
+      "El principio de subsidiariedad",
+      "El principio de descentralización",
+      "El principio de legalidad"
+    ],
+    "answer": "El principio de progresividad"
+  },
+  {
+    "question": "Un organismo estatal decide modificar las condiciones de un contrato público sin consultar con los interesados. Esto afecta los derechos de los ciudadanos. ¿Qué principio del Estado Social de Derecho está siendo vulnerado?",
+    "options": [
+      "El principio de participación ciudadana",
+      "El principio de eficiencia",
+      "El principio de subsidiariedad",
+      "El principio de transparencia"
+    ],
+    "answer": "El principio de participación ciudadana"
+  },
+
+   {
+    "question": "Según el Artículo 1º de la Constitución Política de Colombia, el país se organiza como una República unitaria, descentralizada y autónoma. ¿Cuál de los siguientes principios fundamentales NO es un pilar de su fundación?",
+    "options": [
+      "El respeto de la dignidad humana.",
+      "La prevalencia del interés particular.",
+      "El trabajo y la solidaridad de las personas.",
+      "La participación y el pluralismo."
+    ],
+    "answer": "La prevalencia del interés particular."
+  },
+  {
+    "question": "Uno de los fines esenciales del Estado colombiano, según el Artículo 2º de la Constitución Política, es:",
+    "options": [
+      "Garantizar la efectividad de los principios, derechos y deberes constitucionales.",
+      "Asegurar la prosperidad de un sector específico de la población.",
+      "Defender exclusivamente los intereses de los servidores públicos.",
+      "Promover la independencia frente a organismos internacionales."
+    ],
+    "answer": "Garantizar la efectividad de los principios, derechos y deberes constitucionales."
+  },
+  {
+    "question": "En el Estado Social de Derecho, la 'social' implica que el Estado:",
+    "options": [
+      "Solo se encarga de la seguridad y el orden público.",
+      "Busca garantizar los derechos económicos, sociales y culturales.",
+      "Debe intervenir mínimamente en la vida de los ciudadanos.",
+      "Se limita a la promulgación de leyes."
+    ],
+    "answer": "Busca garantizar los derechos económicos, sociales y culturales."
+  },
+  {
+    "question": "La Constitución Política de Colombia establece la separación de poderes para garantizar el equilibrio y control entre las ramas del poder público. ¿Cuál de las siguientes NO es una Rama del Poder Público en Colombia?",
+    "options": [
+      "Rama Legislativa.",
+      "Rama Ejecutiva.",
+      "Rama Judicial.",
+      "Rama de Control Fiscal."
+    ],
+    "answer": "Rama de Control Fiscal."
+  },
+  {
+    "question": "El Congreso de la República, como parte de la Rama Legislativa, está compuesto por:",
+    "options": [
+      "Solo la Cámara de Representantes.",
+      "La Asamblea Nacional y el Senado de la República.",
+      "El Senado de la República y la Cámara de Representantes.",
+      "El Tribunal Superior y la Cámara de Representantes."
+    ],
+    "answer": "El Senado de la República y la Cámara de Representantes."
+  },
+  {
+    "question": "A nivel municipal, ¿qué órgano ejerce las funciones legislativas y de control político sobre la administración local?",
+    "options": [
+      "La Asamblea Departamental.",
+      "El Concejo Municipal.",
+      "La Junta Administradora Local.",
+      "La Personería Municipal."
+    ],
+    "answer": "El Concejo Municipal."
+  },
+  {
+    "question": "La máxima autoridad administrativa en el nivel nacional de la Rama Ejecutiva es:",
+    "options": [
+      "El Ministro del Interior.",
+      "El Presidente de la República.",
+      "El Contralor General.",
+      "El Fiscal General de la Nación."
+    ],
+    "answer": "El Presidente de la República."
+  },
+  {
+    "question": "La Corte Constitucional tiene como principal función:",
+    "options": [
+      "Ser el máximo tribunal de la jurisdicción ordinaria.",
+      "Guardar la integridad y supremacía de la Constitución.",
+      "Conocer de los procesos contencioso-administrativos.",
+      "Administrar la carrera judicial."
+    ],
+    "answer": "Guardar la integridad y supremacía de la Constitución."
+  },
+  {
+    "question": "El organismo encargado de ejercer el control fiscal sobre la gestión de los recursos públicos es:",
+    "options": [
+      "La Procuraduría General de la Nación.",
+      "La Defensoría del Pueblo.",
+      "La Contraloría General de la República.",
+      "La Fiscalía General de la Nación."
+    ],
+    "answer": "La Contraloría General de la República."
+  },
+  {
+    "question": "Si un ciudadano considera que se le ha vulnerado un derecho fundamental por parte de una autoridad pública, el mecanismo preferente y sumario para su protección inmediata es:",
+    "options": [
+      "La acción popular.",
+      "La acción de cumplimiento.",
+      "La acción de tutela.",
+      "El habeas data."
+    ],
+    "answer": "La acción de tutela."
+  },
+  {
+    "question": "La entidad que organiza las elecciones y se encarga de la identificación de los ciudadanos en Colombia es:",
+    "options": [
+      "El Consejo Nacional Electoral.",
+      "La Registraduría Nacional del Estado Civil.",
+      "La Procuraduría General de la Nación.",
+      "La Misión de Observación Electoral (MOE)."
+    ],
+    "answer": "La Registraduría Nacional del Estado Civil."
+  },
+  {
+    "question": "El principio de la función administrativa que exige que las actuaciones públicas se realicen con transparencia y que la información sea accesible a los ciudadanos es:",
+    "options": [
+      "Celeridad.",
+      "Economía.",
+      "Publicidad.",
+      "Eficacia."
+    ],
+    "answer": "Publicidad."
+  },
+  {
+    "question": "La soberanía reside exclusivamente en el pueblo, de quien emana el poder público. ¿Cuál de los siguientes mecanismos NO es una forma de ejercer directamente dicha soberanía?",
+    "options": [
+      "El voto.",
+      "El nombramiento por concurso de méritos.",
+      "El referendo.",
+      "La revocatoria del mandato."
+    ],
+    "answer": "El nombramiento por concurso de méritos."
+  },
+  {
+    "question": "El organismo del Ministerio Público encargado de velar por la protección de los derechos humanos y la defensa de los intereses colectivos es:",
+    "options": [
+      "La Procuraduría General de la Nación.",
+      "La Defensoría del Pueblo.",
+      "La Contraloría General de la República.",
+      "La Fiscalía General de la Nación."
+    ],
+    "answer": "La Defensoría del Pueblo."
+  },
+  {
+    "question": "El mecanismo de participación ciudadana que permite a un grupo de ciudadanos presentar proyectos de ley o de acto legislativo es:",
+    "options": [
+      "El plebiscito.",
+      "La consulta popular.",
+      "La iniciativa popular legislativa y normativa.",
+      "El cabildo abierto."
+    ],
+    "answer": "La iniciativa popular legislativa y normativa."
+  },
+  {
+    "question": "La Constitución Política de Colombia define la estructura del Estado como 'República unitaria, descentralizada'. Esto implica que:",
+    "options": [
+      "Todo el poder se concentra en el gobierno central sin excepción.",
+      "Existe autonomía de las entidades territoriales dentro del marco legal.",
+      "Las decisiones son tomadas exclusivamente por el Presidente.",
+      "Las regiones tienen plena independencia del nivel central."
+    ],
+    "answer": "Existe autonomía de las entidades territoriales dentro del marco legal."
+  },
+  {
+    "question": "El principio de 'moralidad' en la función pública exige que los servidores públicos actúen con:",
+    "options": [
+      "Rapidez en la toma de decisiones.",
+      "Transparencia y honestidad en sus actuaciones.",
+      "Minimización de costos en la gestión.",
+      "Especialización en sus funciones."
+    ],
+    "answer": "Transparencia y honestidad en sus actuaciones."
+  },
+  {
+    "question": "Un Alcalde Municipal, en el marco de la Rama Ejecutiva territorial, es considerado:",
+    "options": [
+      "Un órgano de control disciplinario.",
+      "La máxima autoridad electoral local.",
+      "El jefe de la administración municipal.",
+      "Un miembro de la Rama Judicial."
+    ],
+    "answer": "El jefe de la administración municipal."
+  },
+  {
+    "question": "La Corte Suprema de Justicia es el máximo tribunal de la jurisdicción:",
+    "options": [
+      "Constitucional.",
+      "Contencioso-administrativa.",
+      "Ordinaria (civil, penal, laboral).",
+      "Disciplinaria."
+    ],
+    "answer": "Ordinaria (civil, penal, laboral)."
+  },
+  {
+    "question": "Si una norma de menor jerarquía contraviene un principio constitucional, la Corte Constitucional puede declararla inexequible en virtud del principio de:",
+    "options": [
+      "Soberanía popular.",
+      "Prevalencia del interés general.",
+      "Supremacía constitucional.",
+      "Legalidad."
+    ],
+    "answer": "Supremacía constitucional."
+  },
+  {
+    "question": "El 'Habeas Corpus' es un mecanismo de protección para:",
+    "options": [
+      "El derecho a la información pública.",
+      "La libertad personal, frente a privaciones ilegales o arbitrarias.",
+      "Los derechos colectivos y del ambiente.",
+      "El cumplimiento de una ley o acto administrativo."
+    ],
+    "answer": "La libertad personal, frente a privaciones ilegales o arbitrarias."
+  },
+  {
+    "question": "La separación de poderes en Colombia busca principalmente:",
+    "options": [
+      "Concentrar el poder en una sola autoridad para mayor eficiencia.",
+      "Evitar la concentración de poder y garantizar el control mutuo entre las ramas.",
+      "Limitar la participación ciudadana en las decisiones estatales.",
+      "Disminuir la responsabilidad de los servidores públicos."
+    ],
+    "answer": "Evitar la concentración de poder y garantizar el control mutuo entre las ramas."
+  },
+  {
+    "question": "Un 'cabildo abierto' es una forma de participación ciudadana que permite a los habitantes de un municipio:",
+    "options": [
+      "Derogar o aprobar una ley por votación directa.",
+      "Elegir a sus representantes en las elecciones.",
+      "Participar directamente con voz en las reuniones de los concejos municipales.",
+      "Solicitar la revocatoria del mandato de su alcalde."
+    ],
+    "answer": "Participar directamente con voz en las reuniones de los concejos municipales."
+  },
+  {
+    "question": "El Ministerio Público está integrado principalmente por:",
+    "options": [
+      "La Contraloría General de la República y la Auditoría General de la República.",
+      "La Fiscalía General de la Nación y el Consejo Superior de la Judicatura.",
+      "La Procuraduría General de la Nación y la Defensoría del Pueblo.",
+      "El Consejo Nacional Electoral y la Registraduría Nacional del Estado Civil."
+    ],
+    "answer": "La Procuraduría General de la Nación y la Defensoría del Pueblo."
+  },
+  {
+    "question": "La Constitución Política de Colombia consagra el principio de 'solidaridad' en el artículo 1°. Este principio se refiere a:",
+    "options": [
+      "El deber del Estado de promover la propiedad privada.",
+      "La obligación de los ciudadanos de apoyar causas sociales y humanitarias.",
+      "La autonomía de las entidades territoriales en la toma de decisiones.",
+      "La libertad de empresa y la iniciativa privada."
+    ],
+    "answer": "La obligación de los ciudadanos de apoyar causas sociales y humanitarias."
+  },
+  {
+    "question": "La administración pública, de acuerdo con el Artículo 209 de la Constitución Política, debe actuar con base en principios. ¿Cuál de los siguientes no es un principio de la función administrativa?",
+    "options": [
+      "Imparcialidad.",
+      "Rentabilidad.",
+      "Eficacia.",
+      "Moralidad."
+    ],
+    "answer": "Rentabilidad."
+  },
+  {
+    "question": "En el contexto de la Rama Judicial, el Consejo de Estado es el máximo tribunal de la jurisdicción:",
+    "options": [
+      "Ordinaria.",
+      "Constitucional.",
+      "Contencioso-administrativa.",
+      "Disciplinaria."
+    ],
+    "answer": "Contencioso-administrativa."
+  },
+  {
+    "question": "La acción popular es un mecanismo de protección de derechos que busca defender:",
+    "options": [
+      "Únicamente los derechos individuales de los ciudadanos.",
+      "Los derechos e intereses colectivos relacionados con el patrimonio público, el espacio público, la seguridad y salubridad públicas, entre otros.",
+      "La libertad de prensa y expresión.",
+      "Los derechos de los servidores públicos."
+    ],
+    "answer": "Los derechos e intereses colectivos relacionados con el patrimonio público, el espacio público, la seguridad y salubridad públicas, entre otros."
+  },
+  {
+    "question": "El principio de 'mérito' en el acceso a la función pública colombiana implica que:",
+    "options": [
+      "Los cargos se asignan por decisión discrecional del nominador.",
+      "La experiencia laboral es el único criterio de selección.",
+      "El ingreso y ascenso se basan en la capacidad y el desempeño demostrados en concursos.",
+      "Los cargos son vitalicios una vez se accede a ellos."
+    ],
+    "answer": "El ingreso y ascenso se basan en la capacidad y el desempeño demostrados en concursos."
+  },
+  {
+    "question": "La colaboración armónica entre los diferentes órganos del Estado colombiano tiene como finalidad principal:",
+    "options": [
+      "Limitar las funciones de cada rama para evitar conflictos.",
+      "Asegurar la inactividad de las entidades para reducir gastos.",
+      "Permitir que cada órgano actúe de manera independiente sin relación con los demás.",
+      "Facilitar el cumplimiento de los fines del Estado y la prestación eficiente de los servicios."
+    ],
+    "answer": "Facilitar el cumplimiento de los fines del Estado y la prestación eficiente de los servicios."
+  },
+
+
+  {
+    "question": "Un ciudadano acude a su oficina en la Alcaldía de Puerto Boyacá manifestando que la administración municipal ha negado el acceso a información pública sobre la ejecución de un contrato. El ciudadano alega que se está vulnerando su derecho a la transparencia.\n¿Qué principio del Estado Social de Derecho se estaría afectando directamente con la acción de la administración, si se comprueba la negación injustificada?",
+    "options": [
+      "El principio de la dignidad humana.",
+      "El principio de la publicidad.",
+      "El principio de la eficacia.",
+      "El principio de la celeridad."
+    ],
+    "answer": "El principio de la publicidad."
+  },
+  {
+    "question": "En una sesión del Concejo Municipal de Puerto Boyacá, se está debatiendo la aprobación de un Acuerdo que modifica el Plan de Desarrollo Territorial. Varios ciudadanos solicitan participar en el debate para expresar sus opiniones sobre el impacto del Acuerdo en la comunidad.\n¿Qué mecanismo de participación ciudadana permitiría a estos ciudadanos intervenir directamente con voz en la sesión del Concejo?",
+    "options": [
+      "El referendo aprobatorio.",
+      "La consulta popular.",
+      "El cabildo abierto.",
+      "La iniciativa popular legislativa."
+    ],
+    "answer": "El cabildo abierto."
+  },
+  {
+    "question": "Un grupo de servidores públicos de la Alcaldía de Puerto Boyacá es objeto de una investigación por presuntas irregularidades en la contratación. La entidad encargada de esta investigación busca determinar si hubo faltas disciplinarias.\n¿Qué órgano de control tiene la facultad principal para investigar y sancionar disciplinariamente a los servidores públicos en este caso?",
+    "options": [
+      "La Contraloría General de la República.",
+      "La Fiscalía General de la Nación.",
+      "La Procuraduría General de la Nación.",
+      "El Consejo de Estado."
+    ],
+    "answer": "La Procuraduría General de la Nación."
+  },
+  {
+    "question": "Un ciudadano interpone una acción de tutela argumentando que una entidad pública no le ha garantizado un servicio de salud al que tiene derecho fundamental. La Corte Constitucional, al revisar el caso, debe velar por la efectividad de los derechos fundamentales.\n¿Cuál es el rol de la Corte Constitucional en este escenario y en el marco del Estado Social de Derecho?",
+    "options": [
+      "Administrar justicia en casos penales.",
+      "Ejercer control fiscal sobre los recursos de la entidad.",
+      "Proteger la integridad y supremacía de la Constitución, incluyendo los derechos fundamentales.",
+      "Dictar leyes para mejorar el sistema de salud."
+    ],
+    "answer": "Proteger la integridad y supremacía de la Constitución, incluyendo los derechos fundamentales."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá requiere contratar personal para diversas áreas. Para garantizar la igualdad de oportunidades y la selección de los mejores perfiles, se decide realizar un concurso público de méritos.\n¿Qué principio fundamental del acceso a la función pública se está aplicando en esta decisión?",
+    "options": [
+      "El principio de la libre nombramiento y remoción.",
+      "El principio de la autonomía administrativa.",
+      "El principio del mérito.",
+      "El principio de la discrecionalidad."
+    ],
+    "answer": "El principio del mérito."
+  },
+  {
+    "question": "El Concejo Municipal de Puerto Boyacá aprueba un Acuerdo que, a juicio de varios juristas, podría contradecir un artículo de la Constitución Política. Un ciudadano decide demandar la validez de dicho Acuerdo.\n¿Qué acción constitucional se debería interponer para solicitar la declaratoria de inconstitucionalidad de un acto de una corporación pública territorial?",
+    "options": [
+      "Acción de tutela.",
+      "Acción popular.",
+      "Acción pública de inconstitucionalidad.",
+      "Acción de cumplimiento."
+    ],
+    "answer": "Acción pública de inconstitucionalidad."
+  },
+  {
+    "question": "El Alcalde de Puerto Boyacá presenta un proyecto de presupuesto municipal ante el Concejo. Durante el proceso de discusión y aprobación, el Concejo realiza modificaciones significativas al proyecto inicial.\n¿Qué principio del Estado Social de Derecho y de la separación de poderes se refleja en la capacidad del Concejo para revisar y modificar el presupuesto presentado por el Alcalde?",
+    "options": [
+      "Unidad de mando.",
+      "Prevalencia del interés particular.",
+      "Pesos y contrapesos (control político).",
+      "Centralización del poder."
+    ],
+    "answer": "Pesos y contrapesos (control político)."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá planea realizar una inversión importante en infraestructura tecnológica. Para asegurar la eficiencia y la correcta utilización de los fondos públicos, se deben establecer mecanismos de seguimiento y evaluación.\n¿Qué rama del poder público y qué órgano de control son los principales responsables de la ejecución y el control fiscal de esta inversión, respectivamente?",
+    "options": [
+      "Rama Legislativa y Procuraduría General de la Nación.",
+      "Rama Ejecutiva y Contraloría General de la República.",
+      "Rama Judicial y Defensoría del Pueblo.",
+      "Rama Ejecutiva y Fiscalía General de la Nación."
+    ],
+    "answer": "Rama Ejecutiva y Contraloría General de la República."
+  },
+  {
+    "question": "Un grupo de ciudadanos de Puerto Boyacá está inconforme con la gestión del actual Alcalde y considera que ha incumplido su programa de gobierno. Desean iniciar un proceso para removerlo de su cargo antes de que termine su periodo.\n¿Qué mecanismo de participación ciudadana les permitiría buscar la terminación anticipada del mandato del Alcalde?",
+    "options": [
+      "El plebiscito.",
+      "La revocatoria del mandato.",
+      "La consulta popular.",
+      "La iniciativa normativa."
+    ],
+    "answer": "La revocatoria del mandato."
+  },
+  {
+    "question": "La administración municipal de Puerto Boyacá está implementando un nuevo sistema de información para mejorar la atención al ciudadano. Para que este sistema sea efectivo, se requiere que los servidores públicos actúen con rapidez y sin dilaciones injustificadas.\n¿Qué principio de la función administrativa se busca potenciar con esta mejora en la gestión de trámites?",
+    "options": [
+      "Moralidad.",
+      "Publicidad.",
+      "Economía.",
+      "Celeridad."
+    ],
+    "answer": "Celeridad."
+  },
+  {
+    "question": "Un servidor público de la Alcaldía de Puerto Boyacá es sorprendido utilizando recursos públicos para fines personales. Esta acción vulnera uno de los principios fundamentales de la función pública.\n¿Qué principio se ve directamente afectado por esta conducta?",
+    "options": [
+      "Eficacia.",
+      "Imparcialidad.",
+      "Moralidad.",
+      "Celeridad."
+    ],
+    "answer": "Moralidad."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá debe coordinar con el Gobierno Nacional y Departamental para la ejecución de un proyecto de gran envergadura que beneficia al municipio. Esta coordinación es esencial para el éxito del proyecto.\nEste escenario refleja la aplicación de qué principio constitucional en la relación entre los diferentes niveles de la administración pública.",
+    "options": [
+      "Centralización administrativa.",
+      "Jerarquía vertical.",
+      "Colaboración armónica.",
+      "Autonomía absoluta."
+    ],
+    "answer": "Colaboración armónica."
+  },
+  {
+    "question": "Un Juez de Puerto Boyacá está conociendo un caso sobre un litigio entre dos ciudadanos. Al dictar sentencia, el juez debe aplicar la ley y la Constitución, sin tener en cuenta intereses personales o influencias externas.\n¿Qué principio de la Rama Judicial y del Estado de Derecho debe primar en la actuación de este juez?",
+    "options": [
+      "Discrecionalidad.",
+      "Participación.",
+      "Independencia y autonomía judicial.",
+      "Economía procesal."
+    ],
+    "answer": "Independencia y autonomía judicial."
+  },
+  {
+    "question": "La Registraduría Nacional del Estado Civil se prepara para un proceso electoral en Puerto Boyacá. Su función es garantizar la transparencia y la organización de los comicios.\n¿A qué órgano de la estructura del Estado pertenece la Registraduría Nacional del Estado Civil?",
+    "options": [
+      "Rama Ejecutiva.",
+      "Rama Legislativa.",
+      "Organización Electoral.",
+      "Órgano de Control."
+    ],
+    "answer": "Organización Electoral."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá, en su rol de entidad territorial autónoma, debe establecer su propio presupuesto de ingresos y gastos. Sin embargo, esta autonomía no es absoluta y debe ajustarse a las leyes nacionales.\nEsta situación ilustra la tensión entre la autonomía de las entidades territoriales y la naturaleza de Colombia como:",
+    "options": [
+      "Un Estado federal.",
+      "Un Estado confederado.",
+      "Una República unitaria.",
+      "Una monarquía constitucional."
+    ],
+    "answer": "Una República unitaria."
+  },
+  {
+    "question": "El Presidente de la República, ante una situación de grave conmoción interior que afecta la seguridad en varias regiones, decide convocar a la ciudadanía para que apruebe o rechace una decisión política trascendental.\n¿Qué mecanismo de participación ciudadana podría utilizar el Presidente en este caso?",
+    "options": [
+      "El referendo.",
+      "La consulta popular.",
+      "El plebiscito.",
+      "La iniciativa legislativa."
+    ],
+    "answer": "El plebiscito."
+  },
+  {
+    "question": "En Puerto Boyacá, un grupo de ciudadanos decide unirse para presentar un proyecto de Acuerdo ante el Concejo Municipal con el objetivo de mejorar el manejo de residuos sólidos. Han recolectado las firmas necesarias según la ley.\n¿Qué mecanismo de participación democrática están ejerciendo estos ciudadanos?",
+    "options": [
+      "El cabildo abierto.",
+      "La iniciativa popular normativa.",
+      "La acción de cumplimiento.",
+      "El voto programático."
+    ],
+    "answer": "La iniciativa popular normativa."
+  },
+  {
+    "question": "Un juez de la República en Puerto Boyacá ha dictado una sentencia que, a juicio de una de las partes, contiene un error de procedimiento grave. Para revisar esta sentencia, la parte afectada debe acudir a una instancia superior.\n¿Qué rama del poder público es la encargada de garantizar la correcta aplicación de la ley a través de la administración de justicia?",
+    "options": [
+      "La Rama Ejecutiva.",
+      "La Rama Legislativa.",
+      "La Rama Judicial.",
+      "Los Organismos de Control."
+    ],
+    "answer": "La Rama Judicial."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá está elaborando un nuevo Plan de Desarrollo Municipal. Para que este plan sea legítimo y refleje las necesidades de la comunidad, se realizan diversas jornadas de participación ciudadana.\nEsta apertura a la participación de la ciudadanía se alinea con qué característica fundamental del Estado colombiano, según el Artículo 1º de la Constitución Política?",
+    "options": [
+      "Su carácter unitario.",
+      "Su carácter centralista.",
+      "Su carácter democrático y participativo.",
+      "Su carácter monárquico."
+    ],
+    "answer": "Su carácter democrático y participativo."
+  },
+  {
+    "question": "Una organización no gubernamental presenta una 'acción popular' ante un juez, argumentando que la contaminación de un río en Puerto Boyacá está afectando la salud de la comunidad y el medio ambiente. Buscan la protección de un bien común.\n¿Qué tipo de derechos busca proteger una acción popular?",
+    "options": [
+      "Derechos fundamentales individuales.",
+      "Derechos económicos y sociales de grupos específicos.",
+      "Derechos e intereses colectivos.",
+      "Derechos políticos de los ciudadanos."
+    ],
+    "answer": "Derechos e intereses colectivos."
+  },
+  {
+    "question": "El Alcalde de Puerto Boyacá debe rendir un informe de gestión financiera ante el Concejo Municipal. Esta rendición de cuentas es parte del sistema de control que ejerce una rama del poder sobre otra.\n¿Qué tipo de control se ejerce en este escenario y entre qué ramas?",
+    "options": [
+      "Control disciplinario de la Rama Ejecutiva sobre la Legislativa.",
+      "Control fiscal de la Rama Judicial sobre la Ejecutiva.",
+      "Control político de la Rama Legislativa sobre la Ejecutiva.",
+      "Control social de la ciudadanía sobre la Rama Judicial."
+    ],
+    "answer": "Control político de la Rama Legislativa sobre la Ejecutiva."
+  },
+  {
+    "question": "Un servidor público de la Alcaldía de Puerto Boyacá se niega a cumplir con una ley nacional que ha sido debidamente promulgada. Alega que no está de acuerdo con su contenido.\nLa conducta de este servidor público estaría vulnerando el principio de:",
+    "options": [
+      "Eficacia.",
+      "Publicidad.",
+      "Legalidad.",
+      "Economía."
+    ],
+    "answer": "Legalidad."
+  },
+  {
+    "question": "La Gobernación de Boyacá, en coordinación con los municipios, debe implementar políticas públicas para atender a la población vulnerable. Esta interacción entre niveles de gobierno es un ejemplo de la forma de organización territorial de Colombia.\n¿Qué característica del Estado colombiano se evidencia en esta coordinación entre la Gobernación y los municipios?",
+    "options": [
+      "La centralización absoluta del poder.",
+      "La autonomía plena e ilimitada de los departamentos.",
+      "La descentralización con autonomía de sus entidades territoriales.",
+      "La primacía del gobierno nacional sobre cualquier otra autoridad."
+    ],
+    "answer": "La descentralización con autonomía de sus entidades territoriales."
+  },
+  {
+    "question": "Un ciudadano de Puerto Boyacá es capturado de manera arbitraria y sin orden judicial. Sus familiares solicitan la intervención de una autoridad para que se garantice su libertad o se defina su situación jurídica rápidamente.\n¿Qué acción constitucional debe interponerse para proteger la libertad personal en este caso?",
+    "options": [
+      "Acción de tutela.",
+      "Acción de cumplimiento.",
+      "Habeas data.",
+      "Habeas corpus."
+    ],
+    "answer": "Habeas corpus."
+  },
+  {
+    "question": "El Concejo Municipal de Puerto Boyacá decide someter a consideración de la ciudadanía una pregunta sobre la construcción de un nuevo proyecto de infraestructura de gran impacto para el municipio, buscando conocer la opinión popular.\n¿Qué mecanismo de participación democrática se utilizaría para este fin?",
+    "options": [
+      "El referendo derogatorio.",
+      "El plebiscito.",
+      "La consulta popular.",
+      "La revocatoria del mandato."
+    ],
+    "answer": "La consulta popular."
+  },
+  {
+    "question": "La Constitución Política de Colombia establece que la dignidad humana es el fundamento del Estado. Esto implica que todas las actuaciones del Estado y de sus servidores públicos deben estar orientadas a:",
+    "options": [
+      "Proteger únicamente los intereses económicos de la nación.",
+      "Subordinar los derechos individuales al interés político.",
+      "Garantizar el respeto y la realización plena de los derechos de las personas.",
+      "Limitar la libertad individual en pro de la seguridad nacional."
+    ],
+    "answer": "Garantizar el respeto y la realización plena de los derechos de las personas."
+  },
+  {
+    "question": "El Contralor Municipal de Puerto Boyacá está realizando una auditoría a los estados financieros de la Alcaldía para verificar la legalidad y transparencia del gasto público.\nLa actuación del Contralor corresponde al ejercicio de control por parte de:",
+    "options": [
+      "La Rama Ejecutiva.",
+      "La Rama Legislativa.",
+      "Un organismo de control.",
+      "La Rama Judicial."
+    ],
+    "answer": "Un organismo de control."
+  },
+  {
+    "question": "El Congreso de la República está debatiendo una reforma a la Constitución Política. Para que esta reforma sea aprobada, se requieren mayorías especiales y un proceso específico.\nEsta capacidad del Congreso para reformar la Constitución se deriva de su función como parte de la:",
+    "options": [
+      "Rama Ejecutiva.",
+      "Rama Judicial.",
+      "Rama Legislativa.",
+      "Organización Electoral."
+    ],
+    "answer": "Rama Legislativa."
+  },
+  {
+    "question": "Un ciudadano presenta una queja ante la Defensoría del Pueblo en Puerto Boyacá, argumentando que sus derechos humanos están siendo vulnerados por una institución privada. La Defensoría interviene para mediar y buscar una solución.\nLa función principal de la Defensoría del Pueblo en este caso es:",
+    "options": [
+      "Investigar y sancionar disciplinariamente.",
+      "Realizar el control fiscal.",
+      "Impulsar y divulgar los derechos humanos, y defenderlos.",
+      "Administrar justicia en casos penales."
+    ],
+    "answer": "Impulsar y divulgar los derechos humanos, y defenderlos."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá debe garantizar que todos sus procedimientos administrativos sean claros, transparentes y conocidos por los ciudadanos, facilitando el acceso a la información sobre las actuaciones de la administración.\nEsta acción se alinea con el principio de:",
+    "options": [
+      "Economía.",
+      "Eficacia.",
+      "Publicidad.",
+      "Imparcialidad."
+    ],
+    "answer": "Publicidad."
+  }
+
+
+
+]

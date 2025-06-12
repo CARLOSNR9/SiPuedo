@@ -1,0 +1,1086 @@
+[
+    {
+        "question": "¿Qué ley colombiana regula el uso de las Tecnologías de la Información y las Comunicaciones (TIC) en el ámbito gubernamental?",
+        "options": [
+            "A) Ley 1341 de 2009.",
+            "B) Ley 1581 de 2012.",
+            "C) Ley 1955 de 2019.",
+            "D) Ley 1712 de 2014."
+        ],
+        "answer": "A) Ley 1341 de 2009."
+    },
+    {
+        "question": "¿Cuál es el propósito principal del Decreto 1008 de 2018 en el contexto de las TIC en el gobierno?",
+        "options": [
+            "A) Mejorar la transparencia y eficiencia en la gestión pública.",
+            "B) Regular el uso de las TIC en el sector privado.",
+            "C) Priorizar el uso de TIC solo en proyectos gubernamentales internacionales.",
+            "D) Limitar el acceso a los datos públicos."
+        ],
+        "answer": "A) Mejorar la transparencia y eficiencia en la gestión pública."
+    },
+    {
+        "question": "¿Qué documento establece la **Política de Gobierno Digital** en Colombia?",
+        "options": [
+            "A) Ley 1712 de 2014.",
+            "B) Decreto 1008 de 2018.",
+            "C) Resolución 3354 de 2020.",
+            "D) Ley 1581 de 2012."
+        ],
+        "answer": "B) Decreto 1008 de 2018."
+    },
+    {
+        "question": "¿Cuál de los siguientes es un ejemplo de un servicio digitalizado por el gobierno colombiano?",
+        "options": [
+            "A) La contratación de servicios públicos a través de oficinas físicas.",
+            "B) El pago de impuestos en línea.",
+            "C) Los trámites de visas internacionales.",
+            "D) Las consultas presenciales de antecedentes judiciales."
+        ],
+        "answer": "B) El pago de impuestos en línea."
+    },
+    {
+        "question": "¿Qué ley establece la protección de los datos personales en Colombia?",
+        "options": [
+            "A) Ley 1341 de 2009.",
+            "B) Ley 1581 de 2012.",
+            "C) Decreto 1078 de 2015.",
+            "D) Resolución 3354 de 2020."
+        ],
+        "answer": "B) Ley 1581 de 2012."
+    },
+    {
+        "question": "En el proceso de implementación de TIC en entidades públicas, ¿qué documento prioriza las inversiones tecnológicas?",
+        "options": [
+            "A) CONPES 3920 de 2018.",
+            "B) Ley 1712 de 2014.",
+            "C) Decreto 1008 de 2018.",
+            "D) Resolución 1951 de 2023."
+        ],
+        "answer": "A) CONPES 3920 de 2018."
+    },
+    {
+        "question": "¿Qué aspecto cubre la Resolución 3354 de 2020 del MINTIC?",
+        "options": [
+            "A) Estándares de accesibilidad web y protección de datos.",
+            "B) Protocolos para la gestión de servicios ciudadanos digitales.",
+            "C) Ciberseguridad en el sector privado.",
+            "D) La fiscalización de los recursos del gobierno."
+        ],
+        "answer": "A) Estándares de accesibilidad web y protección de datos."
+    },
+    {
+        "question": "¿Cuál es la función del **CSIRT** en el contexto de TIC en el gobierno?",
+        "options": [
+            "A) Proteger las bases de datos en los municipios.",
+            "B) Gestionar la respuesta a incidentes cibernéticos.",
+            "C) Fomentar la participación ciudadana en el uso de TIC.",
+            "D) Regular los servicios digitales internacionales."
+        ],
+        "answer": "B) Gestionar la respuesta a incidentes cibernéticos."
+    },
+    {
+        "question": "¿Qué ley regula la gestión del riesgo y la seguridad de la información en entidades públicas?",
+        "options": [
+            "A) Ley 1955 de 2019.",
+            "B) Ley 1712 de 2014.",
+            "C) Ley 1341 de 2009.",
+            "D) Ley 1523 de 2012."
+        ],
+        "answer": "D) Ley 1523 de 2012."
+    },
+    {
+        "question": "¿Qué norma exige la implementación de un **SGSI (Sistema de Gestión de Seguridad de la Información)** en las entidades públicas?",
+        "options": [
+            "A) Resolución 3354 de 2020.",
+            "B) Decreto 1008 de 2018.",
+            "C) Ley 1581 de 2012.",
+            "D) Resolución 1951 de 2023."
+        ],
+        "answer": "A) Resolución 3354 de 2020."
+    },
+    {
+        "question": "¿Qué significa la sigla **SGSI** en el contexto de las TIC en el sector público?",
+        "options": [
+            "A) Sistema de Gestión de Servicios de Información.",
+            "B) Sistema de Gestión de Seguridad de la Información.",
+            "C) Sistema de Gestión de Software Integrado.",
+            "D) Sistema de Gestión de Seguridad Institucional."
+        ],
+        "answer": "B) Sistema de Gestión de Seguridad de la Información."
+    },
+    {
+        "question": "¿Cuál de las siguientes no es una función de la **Política de Gobierno Digital**?",
+        "options": [
+            "A) Reducir el uso de tecnologías en las entidades públicas.",
+            "B) Mejorar la calidad y eficiencia de los servicios digitales.",
+            "C) Fomentar la transparencia y la rendición de cuentas.",
+            "D) Asegurar la protección de los datos de los ciudadanos."
+        ],
+        "answer": "A) Reducir el uso de tecnologías en las entidades públicas."
+    },
+    {
+        "question": "¿Qué artículo de la Ley 1581 de 2012 regula la protección de datos personales?",
+        "options": [
+            "A) Artículo 10.",
+            "B) Artículo 17.",
+            "C) Artículo 8.",
+            "D) Artículo 5."
+        ],
+        "answer": "B) Artículo 17."
+    },
+    {
+        "question": "¿Qué tipo de información debe ser cifrada según la **Ley 1581 de 2012** y la **Resolución 3354 de 2020**?",
+        "options": [
+            "A) Solo los datos públicos.",
+            "B) Los datos personales y confidenciales.",
+            "C) La información accesible en portales gubernamentales.",
+            "D) Todos los datos almacenados en servidores internos."
+        ],
+        "answer": "B) Los datos personales y confidenciales."
+    },
+    {
+        "question": "¿Qué ley regula el comercio electrónico y el uso de firmas digitales en Colombia?",
+        "options": [
+            "A) Ley 527 de 1999.",
+            "B) Ley 1712 de 2014.",
+            "C) Ley 1341 de 2009.",
+            "D) Ley 1581 de 2012."
+        ],
+        "answer": "A) Ley 527 de 1999."
+    },
+
+    {
+        "question": "¿Qué documento establece la **Política de Gobierno Digital** en Colombia?",
+        "options": [
+            "A) Ley 1341 de 2009.",
+            "B) Decreto 1008 de 2018.",
+            "C) Ley 1581 de 2012.",
+            "D) Decreto 1078 de 2015."
+        ],
+        "answer": "B) Decreto 1008 de 2018."
+    },
+    {
+        "question": "¿Qué es el **Plan de Gestión de Seguridad de la Información (SGSI)** en el ámbito gubernamental?",
+        "options": [
+            "A) Un conjunto de medidas para proteger la infraestructura tecnológica del sector público.",
+            "B) Un sistema para digitalizar documentos administrativos.",
+            "C) Un plan de comunicación entre instituciones públicas.",
+            "D) Un procedimiento de compras tecnológicas en el gobierno."
+        ],
+        "answer": "A) Un conjunto de medidas para proteger la infraestructura tecnológica del sector público."
+    },
+    {
+        "question": "¿Qué ley regula el acceso a la información pública en Colombia?",
+        "options": [
+            "A) Ley 1712 de 2014.",
+            "B) Ley 1955 de 2019.",
+            "C) Ley 1341 de 2009.",
+            "D) Ley 1581 de 2012."
+        ],
+        "answer": "A) Ley 1712 de 2014."
+    },
+    {
+        "question": "¿Qué función tiene el **Product Owner** en **Scrum**?",
+        "options": [
+            "A) Define y prioriza el trabajo que debe realizarse en un proyecto.",
+            "B) Facilita el proceso y ayuda al equipo a eliminar obstáculos.",
+            "C) Desarrolla el código del proyecto.",
+            "D) Evalúa el rendimiento del equipo de trabajo."
+        ],
+        "answer": "A) Define y prioriza el trabajo que debe realizarse en un proyecto."
+    },
+    {
+        "question": "¿Cuál es el objetivo de la **Ley 1581 de 2012** en Colombia?",
+        "options": [
+            "A) Establecer reglas para el comercio electrónico.",
+            "B) Proteger la privacidad de los datos personales en Colombia.",
+            "C) Regular las compras públicas en línea.",
+            "D) Regular el uso de tecnologías de información en las universidades."
+        ],
+        "answer": "B) Proteger la privacidad de los datos personales en Colombia."
+    },
+    {
+        "question": "¿Qué significa la sigla **WIP** en el contexto de **Kanban**?",
+        "options": [
+            "A) Work in Progress (Trabajo en Progreso).",
+            "B) Work in Process (Trabajo en Proceso).",
+            "C) Web Integration Platform (Plataforma de Integración Web).",
+            "D) Workflow Integration Process (Proceso de Integración de Flujo de Trabajo)."
+        ],
+        "answer": "A) Work in Progress (Trabajo en Progreso)."
+    },
+    {
+        "question": "¿Qué ley en Colombia establece la política de seguridad cibernética en las entidades públicas?",
+        "options": [
+            "A) Ley 1712 de 2014.",
+            "B) Decreto 1078 de 2015.",
+            "C) Resolución 3354 de 2020.",
+            "D) Ley 1523 de 2012."
+        ],
+        "answer": "C) Resolución 3354 de 2020."
+    },
+    {
+        "question": "¿Qué función cumple el **Scrum Master** en Scrum?",
+        "options": [
+            "A) Facilita el proceso y elimina los impedimentos del equipo.",
+            "B) Supervisa los pagos del proyecto.",
+            "C) Define los objetivos y el plan de trabajo del equipo.",
+            "D) Realiza las pruebas de calidad del software."
+        ],
+        "answer": "A) Facilita el proceso y elimina los impedimentos del equipo."
+    },
+    {
+        "question": "¿En qué situación sería más adecuado utilizar **Kanban**?",
+        "options": [
+            "A) Cuando el trabajo requiere iteraciones fijas y planificación detallada.",
+            "B) Cuando el trabajo se caracteriza por un flujo continuo y variable.",
+            "C) Cuando no se dispone de un equipo multifuncional.",
+            "D) Cuando el proyecto tiene un tiempo de entrega muy corto."
+        ],
+        "answer": "B) Cuando el trabajo se caracteriza por un flujo continuo y variable."
+    },
+    {
+        "question": "¿Qué normativa exige la implementación de un Sistema de Gestión de Seguridad de la Información (SGSI) en el sector público colombiano?",
+        "options": [
+            "A) Ley 1581 de 2012.",
+            "B) Resolución 3354 de 2020.",
+            "C) Decreto 1008 de 2018.",
+            "D) Decreto 1078 de 2015."
+        ],
+        "answer": "B) Resolución 3354 de 2020."
+    },
+    {
+        "question": "En el marco del **Gobierno Digital**, ¿qué estrategia promueve la digitalización de los trámites públicos?",
+        "options": [
+            "A) Implementación de plataformas digitales para la prestación de servicios públicos.",
+            "B) Implementación de servicios de correo postal en línea.",
+            "C) Reducción de la infraestructura tecnológica del gobierno.",
+            "D) Digitalización de los procesos judiciales en Colombia."
+        ],
+        "answer": "A) Implementación de plataformas digitales para la prestación de servicios públicos."
+    },
+    {
+        "question": "¿Cuál es la finalidad del **Product Backlog** en **Scrum**?",
+        "options": [
+            "A) Planificar las tareas diarias del equipo de desarrollo.",
+            "B) Definir y priorizar las características del producto a desarrollar.",
+            "C) Evaluar el rendimiento del equipo de desarrollo.",
+            "D) Gestionar los recursos financieros del proyecto."
+        ],
+        "answer": "B) Definir y priorizar las características del producto a desarrollar."
+    },
+    {
+        "question": "¿Cuál de los siguientes principios es clave en **Kanban**?",
+        "options": [
+            "A) Trabajo en ciclos fijos (sprints).",
+            "B) Visualización del flujo de trabajo.",
+            "C) Foco en la planificación anual.",
+            "D) Mayor cantidad de reuniones para la toma de decisiones."
+        ],
+        "answer": "B) Visualización del flujo de trabajo."
+    },
+    {
+        "question": "¿Qué objetivo persigue la **Ley 1955 de 2019** en relación con la tecnología en Colombia?",
+        "options": [
+            "A) Impulsar la digitalización de trámites y servicios en el sector público.",
+            "B) Regular los datos personales de los ciudadanos.",
+            "C) Fomentar la educación tecnológica en la educación básica.",
+            "D) Promover el uso de software libre en el sector público."
+        ],
+        "answer": "A) Impulsar la digitalización de trámites y servicios en el sector público."
+    },
+    {
+        "question": "¿Cuál es el principal objetivo de la **Resolución 3354 de 2020** en Colombia?",
+        "options": [
+            "A) Regula la protección de los datos personales en plataformas digitales.",
+            "B) Establece lineamientos para la implementación de la **Ciberseguridad** en las entidades públicas.",
+            "C) Promueve la implementación de la **Política de Gobierno Digital** en las entidades públicas.",
+            "D) Define las políticas para la contratación de servicios tecnológicos."
+        ],
+        "answer": "B) Establece lineamientos para la implementación de la **Ciberseguridad** en las entidades públicas."
+    },
+    {
+        "question": "¿Qué herramienta de **Kanban** ayuda a visualizar el trabajo en progreso?",
+        "options": [
+            "A) Kanban Board.",
+            "B) Product Backlog.",
+            "C) Sprint Backlog.",
+            "D) Burndown Chart."
+        ],
+        "answer": "A) Kanban Board."
+    },
+    {
+        "question": "En **Scrum**, ¿quién tiene la responsabilidad de gestionar el backlog del producto?",
+        "options": [
+            "A) Scrum Master.",
+            "B) Product Owner.",
+            "C) Equipo de Desarrollo.",
+            "D) Stakeholders."
+        ],
+        "answer": "B) Product Owner."
+    },
+    {
+        "question": "¿Qué significa el término **Burndown Chart** en **Scrum**?",
+        "options": [
+            "A) Un gráfico para visualizar la carga de trabajo restante en un sprint.",
+            "B) Un gráfico para evaluar la productividad del equipo de desarrollo.",
+            "C) Un gráfico para realizar un análisis de riesgos del proyecto.",
+            "D) Un gráfico para gestionar los recursos financieros del proyecto."
+        ],
+        "answer": "A) Un gráfico para visualizar la carga de trabajo restante en un sprint."
+    },
+    {
+        "question": "¿Qué principio se sigue en **Kanban** respecto al trabajo en progreso?",
+        "options": [
+            "A) No limitar la cantidad de trabajo que se puede hacer a la vez.",
+            "B) Limitar el trabajo en progreso para mejorar la eficiencia.",
+            "C) Planificar el trabajo a largo plazo y no hacer cambios.",
+            "D) Realizar entregas diarias de trabajo."
+        ],
+        "answer": "B) Limitar el trabajo en progreso para mejorar la eficiencia."
+    },
+
+  
+    {
+      "question": "Según el Decreto 1008 de 2018, ¿qué debe contener obligatoriamente el PETI de una entidad pública?",
+      "options": [
+        "Diagnóstico tecnológico y plan de acción",
+        "Nómina completa de funcionarios",
+        "Presupuesto para eventos sociales",
+        "Manual de decoración de oficinas"
+      ],
+      "answer": "Diagnóstico tecnológico y plan de acción"
+    },
+    {
+      "question": "¿Qué plataforma del gobierno colombiano unifica trámites del Estado?",
+      "options": [
+        "Portal Único del Estado (Gob.co)",
+        "Sistema de Quejas Ciudadanas",
+        "Plataforma de Contratación Pública",
+        "Red Social Oficial"
+      ],
+      "answer": "Portal Único del Estado (Gob.co)"
+    },
+    {
+      "question": "Según la Ley 1712 de 2014, ¿en qué formato deben publicarse los datos abiertos?",
+      "options": [
+        "Solo en PDF",
+        "En formatos reutilizables",
+        "Exclusivamente impresos",
+        "En redes sociales"
+      ],
+      "answer": "En formatos reutilizables"
+    },
+    {
+      "question": "¿Qué norma establece los estándares de accesibilidad web para entidades públicas?",
+      "options": [
+        "Resolución 1519 de 2020",
+        "Ley 1437 de 2011",
+        "Decreto 1078 de 2015",
+        "Circular 002 de 2019"
+      ],
+      "answer": "Resolución 1519 de 2020"
+    },
+    {
+      "question": "El modelo de arquitectura empresarial que promueve el MINTIC se llama:",
+      "options": [
+        "MÉTRICA v4",
+        "SCRUM v2",
+        "KANBAN Plus",
+        "ITIL Standard"
+      ],
+      "answer": "MÉTRICA v4"
+    },
+    {
+      "question": "¿Qué ley regula específicamente la protección de datos personales en Colombia?",
+      "options": [
+        "Ley 1581 de 2012",
+        "Ley 1341 de 2009",
+        "Ley 1955 de 2019",
+        "Ley 1909 de 2018"
+      ],
+      "answer": "Ley 1581 de 2012"
+    },
+    {
+      "question": "¿Qué herramienta del MINTIC evalúa la madurez digital de las entidades?",
+      "options": [
+        "Índice de Gobierno Digital (IGD)",
+        "Sistema de Quejas Virtual",
+        "App Mi Colombia Digital",
+        "Plataforma de Peticiones"
+      ],
+      "answer": "Índice de Gobierno Digital (IGD)"
+    },
+    {
+      "question": "Según el CONPES 3920, ¿qué debe priorizarse en inversiones TIC?",
+      "options": [
+        "Proyectos alineados al PETI",
+        "Compra de equipos sin planeación",
+        "Software pirata",
+        "Contratación sin licitación"
+      ],
+      "answer": "Proyectos alineados al PETI"
+    },
+    {
+      "question": "¿Qué componente NO hace parte de un sistema de gestión de seguridad de la información?",
+      "options": [
+        "Control de acceso físico",
+        "Políticas de contraseñas",
+        "Inventario de hardware",
+        "Menú del restaurante institucional"
+      ],
+      "answer": "Menú del restaurante institucional"
+    },
+    {
+      "question": "La Resolución 3354 de 2020 del MINTIC regula específicamente:",
+      "options": [
+        "Seguridad digital en entidades públicas",
+        "Horarios de atención al público",
+        "Uniforme de los funcionarios",
+        "Uso de redes sociales personales"
+      ],
+      "answer": "Seguridad digital en entidades públicas"
+    },
+    {
+      "question": "¿Qué principio del Gobierno Digital evita duplicidad de sistemas?",
+      "options": [
+        "Interoperabilidad",
+        "Centralización absoluta",
+        "Jerarquización estricta",
+        "Desconexión institucional"
+      ],
+      "answer": "Interoperabilidad"
+    },
+    {
+      "question": "¿Cada cuánto se debe actualizar el PETI según normativa?",
+      "options": [
+        "Cada año",
+        "Cada 2 años",
+        "Cada 4 años",
+        "Solo cuando cambie el alcalde"
+      ],
+      "answer": "Cada 4 años"
+    },
+    {
+      "question": "¿Qué entidad aprueba los PETI de los municipios?",
+      "options": [
+        "MINTIC",
+        "Gobernación",
+        "Concejo Municipal",
+        "Policía Nacional"
+      ],
+      "answer": "MINTIC"
+    },
+    {
+      "question": "La Ley 1955 de 2019 (PND) promueve:",
+      "options": [
+        "Modernización ágil del Estado",
+        "Centralización de todos los servicios",
+        "Eliminación de trámites digitales",
+        "Prohibición de software libre"
+      ],
+      "answer": "Modernización ágil del Estado"
+    },
+    {
+      "question": "¿Qué herramienta usa el gobierno para gestionar incidentes cibernéticos?",
+      "options": [
+        "CSIRT Gobierno",
+        "App Mi Policía",
+        "Línea 123",
+        "Correo electrónico institucional"
+      ],
+      "answer": "CSIRT Gobierno"
+    },
+    {
+      "question": "Según el Decreto 620 de 2020, los servicios digitales deben garantizar:",
+      "options": [
+        "Accesibilidad para personas con discapacidad",
+        "Atención exclusiva presencial",
+        "Uso obligatorio de Windows XP",
+        "Contraseñas simples como '1234'"
+      ],
+      "answer": "Accesibilidad para personas con discapacidad"
+    },
+    {
+      "question": "¿Qué norma exige reportar brechas de seguridad en 72 horas?",
+      "options": [
+        "Ley 1581 de 2012",
+        "Decreto 1008 de 2018",
+        "Resolución 3354 de 2020",
+        "Ley 1273 de 2009"
+      ],
+      "answer": "Ley 1581 de 2012"
+    },
+    {
+      "question": "El estándar internacional para seguridad de la información es:",
+      "options": [
+        "ISO 27001",
+        "ISO 9001",
+        "ISO 14001",
+        "ISO 45001"
+      ],
+      "answer": "ISO 27001"
+    },
+    {
+      "question": "¿Qué documento del CONPES prioriza inversiones TIC?",
+      "options": [
+        "CONPES 3920 de 2018",
+        "CONPES 3854 de 2016",
+        "CONPES 3990 de 2020",
+        "CONPES 4010 de 2022"
+      ],
+      "answer": "CONPES 3920 de 2018"
+    },
+    {
+      "question": "¿Qué herramienta visualiza el flujo de trabajo en Kanban?",
+      "options": [
+        "Tablero con columnas",
+        "Diagrama de Gantt",
+        "Matriz RACI",
+        "Cronograma detallado"
+      ],
+      "answer": "Tablero con columnas"
+    },
+
+    {
+        "question": "Según el **Decreto 1008 de 2018**, ¿qué componente es esencial para reducir la duplicidad de sistemas en entidades públicas?",
+        "options": [
+            "A) Uso exclusivo de software propietario.",
+            "B) Interoperabilidad.",
+            "C) Centralización de servidores físicos.",
+            "D) Eliminación de trámites presenciales."
+        ],
+        "answer": "B) Interoperabilidad."
+    },
+    {
+        "question": "¿Qué norma colombiana exige a las entidades públicas implementar estándares de accesibilidad web?",
+        "options": [
+            "A) Ley 2015 de 2019.",
+            "B) Resolución 1519 de 2020.",
+            "C) Decreto 1008 de 2018.",
+            "D) Ley 1712 de 2014."
+        ],
+        "answer": "B) Resolución 1519 de 2020."
+    },
+    {
+        "question": "En el contexto del **Gobierno Digital**, ¿qué significa la sigla PETI?",
+        "options": [
+            "A) Plan Estratégico de Transformación Institucional.",
+            "B) Proyecto Electrónico de Tecnologías Informáticas.",
+            "C) Plan Estratégico de Tecnologías de la Información.",
+            "D) Programa de Estandarización TIC Internacional."
+        ],
+        "answer": "C) Plan Estratégico de Tecnologías de la Información."
+    },
+    {
+        "question": "¿Cuál fue el principal ahorro reportado por el **Portal Único del Estado (Gob.co)** según el caso de estudio?",
+        "options": [
+            "A) $50.000 millones COP en infraestructura.",
+            "B) $150.000 millones COP anuales en papel.",
+            "C) $200.000 millones COP en contratación de personal.",
+            "D) $80.000 millones COP en licencias de software."
+        ],
+        "answer": "B) $150.000 millones COP anuales en papel."
+    },
+    {
+        "question": "Según la **Ley 2015 de 2019**, ¿qué tipo de medios deben priorizar las entidades públicas para interactuar con ciudadanos?",
+        "options": [
+            "A) Medios impresos.",
+            "B) Medios electrónicos.",
+            "C) Atención telefónica.",
+            "D) Oficinas físicas exclusivamente."
+        ],
+        "answer": "B) Medios electrónicos."
+    },
+    {
+        "question": "¿Qué lección clave dejó el caso de **CoronApp** en su implementación inicial?",
+        "options": [
+            "A) La importancia de usar software propietario.",
+            "B) La necesidad de pruebas de carga ante picos de uso.",
+            "C) La exclusión de datos abiertos para investigadores.",
+            "D) La centralización de servidores en una sola entidad."
+        ],
+        "answer": "B) La necesidad de pruebas de carga ante picos de uso."
+    },
+    {
+        "question": "¿Qué modelo de interoperabilidad es adoptado oficialmente por el MINTIC para entidades públicas?",
+        "options": [
+            "A) ITIL.",
+            "B) MIGD.",
+            "C) COBIT.",
+            "D) Agile."
+        ],
+        "answer": "B) MIGD."
+    },
+    {
+        "question": "En el caso de **Superservicios**, ¿qué tecnología utilizó el chatbot 'SuperAyuda' para atender PQRS?",
+        "options": [
+            "A) Blockchain.",
+            "B) Inteligencia Artificial.",
+            "C) Realidad Virtual.",
+            "D) Cloud Computing."
+        ],
+        "answer": "B) Inteligencia Artificial."
+    },
+    {
+        "question": "¿Qué ley regula la protección de datos personales en proyectos TIC gubernamentales como CoronApp?",
+        "options": [
+            "A) Ley 1712 de 2014.",
+            "B) Ley 2015 de 2019.",
+            "C) Ley 1581 de 2012.",
+            "D) Ley 1341 de 2009."
+        ],
+        "answer": "C) Ley 1581 de 2012."
+    },
+    {
+        "question": "¿Cuántos trámites integra actualmente el **Portal Único del Estado (Gob.co)** según los casos de estudio?",
+        "options": [
+            "A) 500 trámites.",
+            "B) 1.400 trámites.",
+            "C) 2.000 trámites.",
+            "D) 800 trámites."
+        ],
+        "answer": "B) 1.400 trámites."
+    },
+    {
+        "question": "¿Qué estándar internacional es recomendable implementar para seguridad de la información en entidades públicas (Resolución 3354)?",
+        "options": [
+            "A) ISO 9001.",
+            "B) ISO 27001.",
+            "C) ISO 14001.",
+            "D) ISO 45001."
+        ],
+        "answer": "B) ISO 27001."
+    },
+    {
+        "question": "Según la **Ley 1712 de 2014**, ¿qué tipo de datos deben publicar obligatoriamente las entidades públicas?",
+        "options": [
+            "A) Solo datos financieros.",
+            "B) Datos abiertos y accesibles.",
+            "C) Exclusivamente datos de contratación.",
+            "D) Datos personales de funcionarios."
+        ],
+        "answer": "B) Datos abiertos y accesibles."
+    },
+    {
+        "question": "¿Qué metodología se utilizó en el desarrollo del **Portal Único del Estado (Gob.co)** según el caso de estudio?",
+        "options": [
+            "A) Waterfall.",
+            "B) Scrum.",
+            "C) Six Sigma.",
+            "D) DevOps."
+        ],
+        "answer": "B) Scrum."
+    },
+    {
+        "question": "¿Qué entidad colombiana lidera la implementación del **Modelo de Interoperabilidad (MIGD)**?",
+        "options": [
+            "A) Departamento Nacional de Planeación (DNP).",
+            "B) Ministerio de Tecnologías de la Información (MINTIC).",
+            "C) Superintendencia de Industria y Comercio.",
+            "D) Registraduría Nacional."
+        ],
+        "answer": "B) Ministerio de Tecnologías de la Información (MINTIC)."
+    },
+    {
+        "question": "En el contexto de **Gobierno Digital**, ¿qué significa la sigla RUAF mencionada en el caso CoronApp?",
+        "options": [
+            "A) Registro Único de Afiliados al Sistema de Salud.",
+            "B) Red Unificada de Acceso a Financiamiento.",
+            "C) Registro Único de Activos Físicos.",
+            "D) Red Universitaria de Apoyo Fiscal."
+        ],
+        "answer": "A) Registro Único de Afiliados al Sistema de Salud."
+    },
+    {
+        "question": "¿Qué estrategia es más adecuada para digitalizar trámites en municipios con baja conectividad a internet?",
+        "options": [
+            "A) Limitar los servicios digitales al 60% de la población.",
+            "B) Habilitar puntos de pago en corresponsales bancarios + opción offline.",
+            "C) Exigir que los ciudadanos adquieran dispositivos móviles.",
+            "D) Centralizar todos los trámites en la capital del departamento."
+        ],
+        "answer": "B) Habilitar puntos de pago en corresponsales bancarios + opción offline."
+    },
+    {
+        "question": "¿Qué artículo del **Decreto 1008 de 2018** regula específicamente la interoperabilidad?",
+        "options": [
+            "A) Artículo 1.1.1.",
+            "B) Artículo 2.2.1.",
+            "C) Artículo 3.3.3.",
+            "D) Artículo 4.4.1."
+        ],
+        "answer": "B) Artículo 2.2.1."
+    },
+    {
+        "question": "¿Qué componente de **arquitectura empresarial** se menciona en el caso del Portal Único del Estado?",
+        "options": [
+            "A) MÉTRICA v4.",
+            "B) TOGAF.",
+            "C) Zachman Framework.",
+            "D) IT4IT."
+        ],
+        "answer": "A) MÉTRICA v4."
+    },
+    {
+        "question": "¿Qué resolución establece los lineamientos de **seguridad digital** para entidades públicas?",
+        "options": [
+            "A) Resolución 1519 de 2020.",
+            "B) Resolución 3354 de 2021.",
+            "C) Resolución 2015 de 2019.",
+            "D) Resolución 1008 de 2018."
+        ],
+        "answer": "B) Resolución 3354 de 2021."
+    },
+    {
+        "question": "Según la **Ley 2015 de 2019**, ¿qué principio busca garantizar la modernización del Estado?",
+        "options": [
+            "A) Descentralización absoluta de servicios.",
+            "B) Uso prioritario de medios electrónicos.",
+            "C) Eliminación de todos los trámites presenciales.",
+            "D) Privatización de servicios TIC."
+        ],
+        "answer": "B) Uso prioritario de medios electrónicos."
+    },
+
+ 
+
+
+    {
+        "question": "Usted es el responsable TIC del municipio y debe actualizar el **PETI**. Según el manual, ¿qué acción debe priorizar para alinearlo con la arquitectura empresarial?",
+        "options": [
+            "A) Copiar el PETI de otro municipio sin ajustes.",
+            "B) Elaborar un diagnóstico interno de necesidades tecnológicas y precisar desarrollos requeridos.",
+            "C) Contratar una consultoría externa sin participación del equipo interno.",
+            "D) Postergar la actualización hasta recibir órdenes explícitas del Alcalde."
+        ],
+        "answer": "B) Elaborar un diagnóstico interno de necesidades tecnológicas y precisar desarrollos requeridos.",
+        "reference": "Función 19: Elaborar y actualizar el PETI con base en arquitectura empresarial."
+    },
+    {
+        "question": "El Alcalde solicita implementar un **chatbot** para trámites municipales. ¿Qué norma debe considerar para garantizar accesibilidad?",
+        "options": [
+            "A) Ley 2015 de 2019.",
+            "B) Resolución 1519 de 2020 (estándares de accesibilidad web).",
+            "C) Decreto 1008 de 2018 (interoperabilidad).",
+            "D) Ley 1581 de 2012 (protección de datos)."
+        ],
+        "answer": "B) Resolución 1519 de 2020 (estándares de accesibilidad web).",
+        "reference": "Conocimiento XIV.18: Implementación de política de Gobierno Digital."
+    },
+    {
+        "question": "Durante una auditoría, se detecta que la **página web municipal** no cumple con los indicadores de gobierno digital. ¿Qué debe hacer según sus funciones?",
+        "options": [
+            "A) Ignorar el hallazgo por falta de presupuesto.",
+            "B) Actualizar el portal, garantizando servicios en línea y flujo de trámites (Función 33-34).",
+            "C) Eliminar la página web temporalmente.",
+            "D) Delegar la solución al área de comunicaciones."
+        ],
+        "answer": "B) Actualizar el portal, garantizando servicios en línea y flujo de trámites (Función 33-34).",
+        "reference": "Funciones 33 y 34: Cumplimiento de indicadores y actualización del portal web."
+    },
+    {
+        "question": "¿Qué competencia comportamental es clave para coordinar con otras secretarías la implementación de un **sistema de información** nuevo?",
+        "options": [
+            "A) Adaptación al cambio.",
+            "B) Trabajo en equipo.",
+            "C) Orientación a resultados.",
+            "D) Todas las anteriores."
+        ],
+        "answer": "D) Todas las anteriores.",
+        "reference": "Competencias XV: Trabajo en equipo, adaptación al cambio y orientación a resultados."
+    },
+    {
+        "question": "Un proveedor ofrece **software propietario** para gestionar trámites, pero el municipio requiere código abierto. ¿Qué debe hacer según el manual?",
+        "options": [
+            "A) Aceptar la propuesta sin evaluar alternativas.",
+            "B) Emitir un concepto técnico que priorice interoperabilidad y normativa (Función 32).",
+            "C) Comprar el software y luego adaptarlo.",
+            "D) Delegar la decisión al Secretario General."
+        ],
+        "answer": "B) Emitir un concepto técnico que priorice interoperabilidad y normativa (Función 32).",
+        "reference": "Función 32: Definir plataformas tecnológicas y emitir conceptos técnicos."
+    },
+    {
+        "question": "Según el manual, ¿qué acción tomaría si descubre que el **inventario de hardware** no está actualizado?",
+        "options": [
+            "A) Reportarlo al año siguiente.",
+            "B) Actualizarlo inmediatamente según especificaciones (Contribución 3).",
+            "C) Solicitar la compra de nuevos equipos sin verificar el inventario.",
+            "D) Ignorar el problema por no ser prioritario."
+        ],
+        "answer": "B) Actualizarlo inmediatamente según especificaciones (Contribución 3).",
+        "reference": "Contribución Individual 3: Conservar inventario de software/hardware actualizado."
+    },
+    {
+        "question": "Para garantizar la **seguridad de bases de datos**, ¿qué estándar debe implementar según los conocimientos esenciales?",
+        "options": [
+            "A) ISO 9001.",
+            "B) ISO 27001 (Seguridad de la información).",
+            "C) ITIL.",
+            "D) SCRUM."
+        ],
+        "answer": "B) ISO 27001 (Seguridad de la información).",
+        "reference": "Conocimiento XIV.14: Sistema de gestión de seguridad de información."
+    },
+    {
+        "question": "El Concejo Municipal pide un **informe de gestión TIC**. ¿Qué debe incluir según el manual?",
+        "options": [
+            "A) Solo gastos ejecutados.",
+            "B) Avances del PETI, estado de proyectos TI y métricas de gobierno digital (Función 35).",
+            "C) Opiniones personales sin datos.",
+            "D) Copia del presupuesto anual."
+        ],
+        "answer": "B) Avances del PETI, estado de proyectos TI y métricas de gobierno digital (Función 35).",
+        "reference": "Función 35: Preparar informes de gestión con datos técnicos."
+    },
+    {
+        "question": "¿Qué debe hacer si un funcionario solicita capacitación en **herramientas TIC**?",
+        "options": [
+            "A) Ignorar la solicitud.",
+            "B) Coordinar con Servicios Administrativos para diseñar un plan (Función 30).",
+            "C) Enseñarle personalmente sin registro.",
+            "D) Derivar la petición al área de recursos humanos."
+        ],
+        "answer": "B) Coordinar con Servicios Administrativos para diseñar un plan (Función 30).",
+        "reference": "Función 30: Elaborar planes de capacitación en informática."
+    },
+    {
+        "question": "Según el manual, ¿qué competencia es esencial para liderar la **implementación de Scrum** en proyectos TIC?",
+        "options": [
+            "A) Dirección de personal.",
+            "B) Certificación Scrum Master (Conocimiento XII.12).",
+            "C) Conocimiento en redes.",
+            "D) Ninguna de las anteriores."
+        ],
+        "answer": "B) Certificación Scrum Master (Conocimiento XII.12).",
+        "reference": "Conocimiento XII.12: Certificación Profesional de Scrum Master."
+    },
+
+    {
+      "question": "La Alcaldía de Puerto Boyacá implementó un nuevo sistema de PQRSD digital, pero los ciudadanos reportan que no pueden adjuntar archivos mayores a 2MB. ¿Qué norma técnica del MINTIC no se estaría cumpliendo?",
+      "options": [
+        "Resolución 1519 de 2020 sobre accesibilidad",
+        "Manual de interoperabilidad MIGD",
+        "Circular 002 de 2022 sobre usabilidad",
+        "Decreto 1078 de 2015 sobre trámites electrónicos"
+      ],
+      "answer": "Manual de interoperabilidad MIGD",
+      "explicacion": "El MIGD establece estándares técnicos para sistemas, incluyendo capacidades de carga de archivos (Sección 3.2.5)."
+    },
+    {
+      "question": "Un funcionario público envía por error datos personales de 500 ciudadanos a un correo no autorizado. ¿Qué acciones debe tomar inmediatamente según la Ley 1581 de 2012?",
+      "options": [
+        "Reportar el incidente a la SIC dentro de 72 horas",
+        "Eliminar el correo y no informar a nadie",
+        "Solicitar a los afectados que cambien sus datos",
+        "Derivar el caso a la Fiscalía General"
+      ],
+      "answer": "Reportar el incidente a la SIC dentro de 72 horas",
+      "explicacion": "Artículo 17 de la Ley 1581: Obligación de reportar violaciones de datos personales."
+    },
+    {
+      "question": "El sistema de citas médicas de un hospital público colapsa por alta demanda. ¿Qué solución priorizaría cumpliendo con el Decreto 620 de 2020?",
+      "options": [
+        "Implementar un chatbot con triaje automático y ampliar capacidad de servidores",
+        "Atender solo por orden de llegada física",
+        "Limitar las citas a 10 por día",
+        "Derivar todos los casos a clínicas privadas"
+      ],
+      "answer": "Implementar un chatbot con triaje automático y ampliar capacidad de servidores",
+      "explicacion": "El Decreto 620 exige optimizar servicios digitales para alta demanda (Art. 4)."
+    },
+    {
+      "question": "Al migrar a un nuevo software de gestión documental, descubren que no es compatible con computadores de 5 años de antigüedad. ¿Qué principio del PETI se violó?",
+      "options": [
+        "Sostenibilidad tecnológica",
+        "Confidencialidad absoluta",
+        "Centralización administrativa",
+        "Jerarquización funcional"
+      ],
+      "answer": "Sostenibilidad tecnológica",
+      "explicacion": "El PETI debe considerar la capacidad instalada existente (Guía PETI 4.0, MINTIC)."
+    },
+    {
+      "question": "Una EPS solicita integrar su sistema con la base de datos municipal de pacientes crónicos. ¿Qué requisito es prioritario según la Resolución 3354 de 2020?",
+      "options": [
+        "Firmar un acuerdo de interoperabilidad con cláusulas de seguridad",
+        "Permitir acceso total a los servidores municipales",
+        "Compartir datos sin encriptar para agilizar procesos",
+        "Utilizar USB para transferir la información"
+      ],
+      "answer": "Firmar un acuerdo de interoperabilidad con cláusulas de seguridad",
+      "explicacion": "La Resolución 3354 exige acuerdos formales para compartir datos sensibles (Anexo 2)."
+    },
+    {
+      "question": "El portal web municipal no es accesible para personas ciegas. ¿Qué estándar técnico del MINTIC incumple?",
+      "options": [
+        "WCAG 2.1 Nivel AA",
+        "ISO 27001",
+        "ITIL v4",
+        "NTC 5854"
+      ],
+      "answer": "WCAG 2.1 Nivel AA",
+      "explicacion": "Estándar obligatorio según Resolución 1519 de 2020 (Art. 3)."
+    },
+    {
+      "question": "Durante una auditoría, descubren que el backup de bases de datos no se realiza desde hace 3 meses. ¿Qué artículo de la Resolución 3354 se está violando?",
+      "options": [
+        "Artículo 12 sobre continuidad operacional",
+        "Artículo 5 sobre capacitación",
+        "Artículo 8 sobre licencias de software",
+        "Artículo 15 sobre mobiliario ergonómico"
+      ],
+      "answer": "Artículo 12 sobre continuidad operacional",
+      "explicacion": "Exige copias de seguridad periódicas para sistemas críticos."
+    },
+    {
+      "question": "Un ciudadano no puede realizar un pago en línea porque el sistema no acepta tarjetas internacionales. ¿Qué principio del Decreto 620 de 2020 no se cumple?",
+      "options": [
+        "Inclusión financiera",
+        "Jerarquización administrativa",
+        "Centralización de pagos",
+        "Desconexión programada"
+      ],
+      "answer": "Inclusión financiera",
+      "explicacion": "El decreto promueve acceso universal a servicios digitales (Art. 4.2)."
+    },
+    {
+      "question": "El equipo de desarrollo municipal usa Scrum pero no entrega incrementos funcionales tras 3 sprints. ¿Qué artefacto ágil ayuda a diagnosticar el problema?",
+      "options": [
+        "Burn-down Chart",
+        "Acta de constitución del proyecto",
+        "Manual de contratación",
+        "Diagrama de red"
+      ],
+      "answer": "Burn-down Chart",
+      "explicacion": "Muestra el progreso real vs. planeado en cada sprint (Guía Scrum 2020)."
+    },
+    {
+      "question": "La app de turismo municipal consume 80% de batería en smartphones antiguos. ¿Qué principio de diseño no se aplicó?",
+      "options": [
+        "Eficiencia energética",
+        "Criptografía avanzada",
+        "Centralización de datos",
+        "Uniformidad visual"
+      ],
+      "answer": "Eficiencia energética",
+      "explicacion": "Estándar MINTIC para apps móviles públicas (Guía de Desarrollo Ágil v3)."
+    },
+    {
+      "question": "Al implementar firma electrónica, exigen equipos con Windows 10 pero el 30% de los funcionarios usa Linux. ¿Qué principio de Gobierno Digital se viola?",
+      "options": [
+        "Neutralidad tecnológica",
+        "Jerarquización funcional",
+        "Privatización de servicios",
+        "Centralización operativa"
+      ],
+      "answer": "Neutralidad tecnológica",
+      "explicacion": "Establecido en el Decreto 1008 (Art. 5.4) para evitar discriminación tecnológica."
+    },
+    {
+      "question": "El sistema de historias clínicas muestra datos de pacientes a funcionarios no autorizados. ¿Qué norma específica se incumple?",
+      "options": [
+        "Ley 1581 de 2012 (Habeas Data)",
+        "Ley 1341 de 2009 (TIC)",
+        "Ley 1437 de 2011 (Procedimiento Administrativo)",
+        "Ley 1955 de 2019 (PND)"
+      ],
+      "answer": "Ley 1581 de 2012 (Habeas Data)",
+      "explicacion": "Artículo 10: Protección de datos sensibles en salud."
+    },
+    {
+      "question": "Durante un ataque DDoS al portal de impuestos municipales, ¿qué protocolo activaría primero según la Circular 002/2022 del MINTIC?",
+      "options": [
+        "Aislar servidores afectados y notificar al CSIRT",
+        "Apagar todos los sistemas por 24 horas",
+        "Publicar un comunicado en redes sociales",
+        "Derivar trámites a papel"
+      ],
+      "answer": "Aislar servidores afectados y notificar al CSIRT",
+      "explicacion": "Protocolo establecido para ciberataques en entidades públicas."
+    },
+    {
+      "question": "La plataforma de contratación no permite adjuntar documentos en formatos libres (.odt). ¿Qué principio del Decreto 1008 viola?",
+      "options": [
+        "Interoperabilidad",
+        "Confidencialidad",
+        "Jerarquización",
+        "Centralización"
+      ],
+      "answer": "Interoperabilidad",
+      "explicacion": "Artículo 5.3: Sistemas deben aceptar formatos abiertos."
+    },
+    {
+      "question": "Al digitalizar archivos físicos, escanean documentos sin clasificar su valor legal. ¿Qué norma archivística incumplen?",
+      "options": [
+        "Resolución 1885 de 2019 (AGN)",
+        "Ley 1341 de 2009 (TIC)",
+        "Decreto 1078 de 2015",
+        "Circular 002 de 2022"
+      ],
+      "answer": "Resolución 1885 de 2019 (AGN)",
+      "explicacion": "Establece protocolos para gestión documental digital."
+    },
+    {
+      "question": "El software de nómina municipal dejará de tener soporte en 6 meses. ¿Qué acción priorizaría según el PETI?",
+      "options": [
+        "Migrar a una solución sostenible con roadmap de soporte",
+        "Continuar usando la versión sin actualizaciones",
+        "Improvisar un sistema interno sin pruebas",
+        "Externalizar el proceso con un privado"
+      ],
+      "answer": "Migrar a una solución sostenible con roadmap de soporte",
+      "explicacion": "El PETI exige gestionar obsolescencia tecnológica (MINTIC Guía PETI 4.0)."
+    },
+    {
+      "question": "La app municipal solo está disponible en español, excluyendo a comunidades indígenas. ¿Qué derecho constitucional afecta?",
+      "options": [
+        "Artículo 10 (Lenguas nativas)",
+        "Artículo 15 (Protección de datos)",
+        "Artículo 20 (Libertad de expresión)",
+        "Artículo 74 (Acceso a información)"
+      ],
+      "answer": "Artículo 10 (Lenguas nativas)",
+      "explicacion": "La Constitución protege derechos lingüísticos de minorías."
+    },
+    {
+      "question": "El alcalde solicita acceso total a los correos de un funcionario sin justificación. ¿Qué principio viola?",
+      "options": [
+        "Proporcionalidad en tratamiento de datos",
+        "Eficiencia administrativa",
+        "Jerarquía funcional",
+        "Centralización operativa"
+      ],
+      "answer": "Proporcionalidad en tratamiento de datos",
+      "explicacion": "Principio de la Ley 1581 (Art. 4): Solo acceder a datos necesarios."
+    },
+    {
+      "question": "El sistema de turnos para salud no guarda registro de quién modifica las citas. ¿Qué requisito de la Resolución 3354 incumple?",
+      "options": [
+        "Trazabilidad de acciones",
+        "Cifrado de datos en reposo",
+        "Actualización automática",
+        "Compatibilidad con iOS"
+      ],
+      "answer": "Trazabilidad de acciones",
+      "explicacion": "Anexo 1 de la Resolución: Registro de logs para auditoría."
+    },
+    {
+      "question": "Al implementar IA para clasificar PQRSD, el sistema discrimina solicitudes de zonas rurales. ¿Qué guía del MINTIC ayudaría a corregirlo?",
+      "options": [
+        "Manual de Ética para IA en el Gobierno",
+        "Guía de Redes Sociales Institucionales",
+        "Protocolo de Adquisición de Hardware",
+        "Manual de Diseño Gráfico"
+      ],
+      "answer": "Manual de Ética para IA en el Gobierno",
+      "explicacion": "Publicado en 2023 para evitar sesgos algorítmicos."
+    }
+  
+
+
+
+
+]

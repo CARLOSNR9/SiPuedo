@@ -1,0 +1,1099 @@
+[
+    {
+        "question": "El municipio está implementando un sistema para la digitalización de trámites administrativos. ¿Qué medidas de seguridad implementarías?",
+        "options": [
+            "A) Ignorar la seguridad y proceder rápidamente con la digitalización.",
+            "B) Implementar controles de acceso, encriptación de datos y políticas de privacidad para garantizar la seguridad.",
+            "C) Permitir que los ciudadanos gestionen la seguridad de sus datos.",
+            "D) Evitar la encriptación para hacer el sistema más rápido."
+        ],
+        "answer": "B) Implementar controles de acceso, encriptación de datos y políticas de privacidad para garantizar la seguridad."
+    },
+    {
+        "question": "Se ha reportado una brecha de seguridad en el sistema de gestión de datos del municipio. ¿Cuál sería tu primera acción?",
+        "options": [
+            "A) Ignorar el reporte y continuar con el trabajo.",
+            "B) Notificar al equipo de seguridad, investigar la brecha y aplicar medidas correctivas de inmediato.",
+            "C) Asumir que el problema se resolverá solo.",
+            "D) Desactivar todos los sistemas para prevenir más brechas."
+        ],
+        "answer": "B) Notificar al equipo de seguridad, investigar la brecha y aplicar medidas correctivas de inmediato."
+    },
+    {
+        "question": "El municipio ha decidido actualizar su política de **seguridad de la información**. ¿Qué aspecto es esencial incluir en esta política?",
+        "options": [
+            "A) Reducir las políticas de seguridad para facilitar el trabajo.",
+            "B) Definir claramente las responsabilidades sobre el manejo de datos y las medidas de protección, cumpliendo con las normativas vigentes.",
+            "C) Ignorar las normativas y basarse solo en las necesidades tecnológicas.",
+            "D) Dejar que cada dependencia del municipio establezca su propia política de seguridad."
+        ],
+        "answer": "B) Definir claramente las responsabilidades sobre el manejo de datos y las medidas de protección, cumpliendo con las normativas vigentes."
+    },
+    {
+        "question": "¿Qué es lo más importante al implementar un sistema de seguridad de la información en un municipio?",
+        "options": [
+            "A) No invertir en herramientas de seguridad y confiar en la buena voluntad del personal.",
+            "B) Asegurar que se utilicen tecnologías adecuadas y actualizadas, y que se mantenga una capacitación constante al personal.",
+            "C) Utilizar cualquier software sin verificar su seguridad.",
+            "D) Ignorar las medidas de seguridad para ahorrar costos."
+        ],
+        "answer": "B) Asegurar que se utilicen tecnologías adecuadas y actualizadas, y que se mantenga una capacitación constante al personal."
+    },
+    {
+        "question": "El municipio necesita garantizar la **confidencialidad** de los datos ciudadanos. ¿Qué herramienta utilizarías?",
+        "options": [
+            "A) No usar herramientas de encriptación.",
+            "B) Implementar la encriptación de datos tanto en reposo como en tránsito para proteger la confidencialidad de los datos.",
+            "C) No almacenar ningún dato digitalmente.",
+            "D) Permitir que los ciudadanos compartan sus datos libremente."
+        ],
+        "answer": "B) Implementar la encriptación de datos tanto en reposo como en tránsito para proteger la confidencialidad de los datos."
+    },
+    {
+        "question": "Durante una auditoría de seguridad, se encuentran contraseñas débiles en las plataformas del municipio. ¿Cómo procederías?",
+        "options": [
+            "A) Ignorar la situación y continuar con el sistema tal como está.",
+            "B) Implementar una política de contraseñas fuertes y cambiar todas las contraseñas débiles inmediatamente.",
+            "C) Dejar que los usuarios cambien las contraseñas cuando lo deseen.",
+            "D) No hacer nada, ya que no parece ser un problema grave."
+        ],
+        "answer": "B) Implementar una política de contraseñas fuertes y cambiar todas las contraseñas débiles inmediatamente."
+    },
+    {
+        "question": "El municipio está implementando una **plataforma de pagos electrónicos**. ¿Cómo garantizarías su **seguridad**?",
+        "options": [
+            "A) No hacer nada, ya que los pagos en línea siempre son seguros.",
+            "B) Implementar **autenticación de dos factores**, encriptación de datos y cumplir con los estándares de seguridad requeridos para plataformas de pago.",
+            "C) No invertir en seguridad para hacer el sistema más rápido.",
+            "D) Permitir que los usuarios utilicen sus contraseñas personales sin ningún control."
+        ],
+        "answer": "B) Implementar **autenticación de dos factores**, encriptación de datos y cumplir con los estándares de seguridad requeridos para plataformas de pago."
+    },
+    {
+        "question": "¿Qué estrategia seguirías para proteger la **información confidencial** almacenada en el municipio?",
+        "options": [
+            "A) Solo almacenar la información en formatos físicos.",
+            "B) Implementar controles de acceso, cifrado y auditorías para garantizar que solo personal autorizado pueda acceder a la información.",
+            "C) Permitir que todos los empleados accedan a la información sin restricciones.",
+            "D) No realizar ninguna medida de seguridad."
+        ],
+        "answer": "B) Implementar controles de acceso, cifrado y auditorías para garantizar que solo personal autorizado pueda acceder a la información."
+    },
+    {
+        "question": "El municipio necesita crear un plan de contingencia ante un posible ataque cibernético. ¿Qué debe incluir este plan?",
+        "options": [
+            "A) Solo medidas reactivas sin planificación.",
+            "B) Definir procedimientos claros de detección, mitigación y recuperación, con comunicación adecuada a las partes interesadas.",
+            "C) No es necesario un plan de contingencia, ya que no ocurrirán ataques.",
+            "D) Ignorar el plan de contingencia y esperar que los problemas se resuelvan por sí mismos."
+        ],
+        "answer": "B) Definir procedimientos claros de detección, mitigación y recuperación, con comunicación adecuada a las partes interesadas."
+    },
+    {
+        "question": "El municipio ha decidido crear un portal de datos abiertos. ¿Qué medida de seguridad debes implementar?",
+        "options": [
+            "A) No hacer nada con respecto a la seguridad, ya que la información es pública.",
+            "B) Implementar controles de acceso adecuados y asegurar que los datos sensibles estén cifrados antes de ser publicados.",
+            "C) Permitir que cualquier persona tenga acceso libre a todos los datos, sin ninguna protección.",
+            "D) Utilizar únicamente formatos de texto sin medidas de seguridad."
+        ],
+        "answer": "B) Implementar controles de acceso adecuados y asegurar que los datos sensibles estén cifrados antes de ser publicados."
+    },
+    {
+        "question": "En el municipio se utiliza software de código abierto. ¿Qué medidas de seguridad deberías tomar?",
+        "options": [
+            "A) No hacer nada, ya que el código abierto es seguro por defecto.",
+            "B) Verificar que el software esté actualizado y que se realicen auditorías de seguridad regularmente.",
+            "C) Usar el software sin verificar su seguridad.",
+            "D) No utilizar el software y reemplazarlo por otro propietario."
+        ],
+        "answer": "B) Verificar que el software esté actualizado y que se realicen auditorías de seguridad regularmente."
+    },
+    {
+        "question": "El municipio ha decidido adoptar la **norma ISO/IEC 27001**. ¿Qué aspecto es clave en su implementación?",
+        "options": [
+            "A) No realizar ninguna auditoría de seguridad.",
+            "B) Establecer un sistema de gestión de seguridad de la información que cubra los riesgos y amenazas a los datos y sistemas.",
+            "C) Implementar la norma solo en una pequeña parte de la infraestructura.",
+            "D) Ignorar la capacitación del personal y la evaluación continua."
+        ],
+        "answer": "B) Establecer un sistema de gestión de seguridad de la información que cubra los riesgos y amenazas a los datos y sistemas."
+    },
+    {
+        "question": "El municipio está revisando los **protocolos de comunicación segura**. ¿Qué método utilizarías para asegurar la seguridad en las comunicaciones?",
+        "options": [
+            "A) Utilizar protocolos inseguros que aceleran el proceso de comunicación.",
+            "B) Implementar protocolos seguros como **HTTPS** y **SSL/TLS** para cifrar las comunicaciones.",
+            "C) No utilizar ningún protocolo de seguridad, ya que no es necesario.",
+            "D) Permitir que todos los empleados utilicen herramientas no seguras."
+        ],
+        "answer": "B) Implementar protocolos seguros como **HTTPS** y **SSL/TLS** para cifrar las comunicaciones."
+    },
+    {
+        "question": "El municipio ha implementado una nueva política de **gestión de contraseñas**. ¿Qué aspecto es clave en esta política?",
+        "options": [
+            "A) Permitir que todos los empleados utilicen la misma contraseña.",
+            "B) Establecer contraseñas fuertes y una política de cambio regular de contraseñas.",
+            "C) No definir ninguna política y permitir que cada empleado elija sus contraseñas.",
+            "D) Usar contraseñas simples para facilitar el acceso."
+        ],
+        "answer": "B) Establecer contraseñas fuertes y una política de cambio regular de contraseñas."
+    },
+
+     {
+    "question": "Caso 1: El municipio está implementando un sistema para la digitalización de trámites administrativos que manejará datos personales. ¿Qué medidas de seguridad basadas en el Modelo de Seguridad y Privacidad de la Información (MSPI) y la Ley 1581 de 2012 debería priorizar?",
+    "options": [
+      "A) Ignorar la seguridad para agilizar la digitalización y lanzar el sistema lo antes posible.",
+      "B) Implementar controles de acceso estrictos, cifrado de datos en tránsito y en reposo, y asegurar políticas de privacidad y consentimiento informado desde el diseño.",
+      "C) Permitir que los ciudadanos asuman la responsabilidad total de la seguridad de sus datos una vez digitalizados.",
+      "D) Evitar la encriptación para hacer el sistema más rápido y accesible."
+    ],
+    "answer": "B) Implementar controles de acceso estrictos, cifrado de datos en tránsito y en reposo, y asegurar políticas de privacidad y consentimiento informado desde el diseño."
+  },
+  {
+    "question": "Caso 2: La Alcaldía de Puerto Boyacá se prepara para una auditoría de seguridad digital. ¿Qué documento o marco normativo del MinTIC será fundamental que haya implementado la entidad para demostrar su madurez en seguridad?",
+    "options": [
+      "A) El Plan de Desarrollo Municipal sin ninguna especificación tecnológica.",
+      "B) El Manual de Convivencia Ciudadana.",
+      "C) El Modelo de Seguridad y Privacidad de la Información (MSPI) adoptado por la Resolución 500 de 2021.",
+      "D) Un informe de ventas de servicios tecnológicos privados."
+    ],
+    "answer": "C) El Modelo de Seguridad y Privacidad de la Información (MSPI) adoptado por la Resolución 500 de 2021."
+  },
+  {
+    "question": "Caso 3: Durante un análisis forense de un incidente cibernético, es crucial determinar quién accedió a un sistema y cuándo lo hizo. ¿Qué principio de seguridad de la información está directamente relacionado con esta necesidad de registro y verificación de acciones?",
+    "options": [
+      "A) Confidencialidad.",
+      "B) Integridad.",
+      "C) No repudio y Trazabilidad.",
+      "D) Disponibilidad."
+    ],
+    "answer": "C) No repudio y Trazabilidad."
+  },
+  {
+    "question": "Caso 4: La Alcaldía detecta un intento de fraude donde un atacante intenta suplantar la identidad de un funcionario para acceder a información confidencial. ¿Qué principio de seguridad se ve comprometido y qué control técnico podría haberlo prevenido?",
+    "options": [
+      "A) Integridad; Implementar un firewall de red.",
+      "B) Autenticidad; Implementar autenticación multifactor (MFA).",
+      "C) Disponibilidad; Realizar copias de seguridad de datos.",
+      "D) Trazabilidad; Habilitar logs de auditoría."
+    ],
+    "answer": "B) Autenticidad; Implementar autenticación multifactor (MFA)."
+  },
+  {
+    "question": "Caso 5: La plataforma web de la Alcaldía de Puerto Boyacá es objeto de un ataque de denegación de servicio (DoS) que la deja inaccesible. Tras aislar el ataque, ¿qué documento interno de la entidad, relacionado con la Ley 1523 de Gestión del Riesgo, es fundamental activar para restaurar los servicios?",
+    "options": [
+      "A) El organigrama de la entidad.",
+      "B) El Plan de Continuidad de Operaciones (PCO) y los protocolos de recuperación ante desastres.",
+      "C) El manual de funciones de los servidores públicos.",
+      "D) El informe de gestión anual de la secretaría."
+    ],
+    "answer": "B) El Plan de Continuidad de Operaciones (PCO) y los protocolos de recuperación ante desastres."
+  },
+  {
+    "question": "Caso 6: Un servidor público pierde un dispositivo USB que contenía un archivo con información sensible de los ciudadanos (nombres, direcciones, números de documento). ¿Qué ley colombiana se ha violado directamente con este incidente?",
+    "options": [
+      "A) Ley 594 de 2000 (Ley General de Archivos).",
+      "B) Ley 962 de 2005 (Racionalización de Trámites).",
+      "C) Ley 1581 de 2012 (Protección de Datos Personales).",
+      "D) Ley 1273 de 2009 (Delitos Informáticos)."
+    ],
+    "answer": "C) Ley 1581 de 2012 (Protección de Datos Personales)."
+  },
+  {
+    "question": "Caso 7: La Alcaldía de Puerto Boyacá identifica que varios de sus sistemas informáticos tienen vulnerabilidades conocidas que podrían ser explotadas por atacantes. ¿Qué tipo de control debe implementar para mitigar este riesgo, según las buenas prácticas de seguridad?",
+    "options": [
+      "A) Únicamente controles físicos, como seguridad en las instalaciones.",
+      "B) Principalmente controles técnicos, como aplicar parches de seguridad y configurar firewalls.",
+      "C) Solamente controles administrativos, como la publicación de políticas de uso.",
+      "D) Evitar controles para no afectar el rendimiento de los sistemas."
+    ],
+    "answer": "B) Principalmente controles técnicos, como aplicar parches de seguridad y configurar firewalls."
+  },
+  {
+    "question": "Caso 8: Un correo electrónico de phishing logra que varios funcionarios entreguen sus credenciales de acceso. Una vez detectado el incidente, ¿a qué entidad o grupo debe reportar prioritariamente la Alcaldía de Puerto Boyacá este ciberataque, según los protocolos establecidos en la Circular 002 de 2022 del MinTIC?",
+    "options": [
+      "A) A la Superintendencia de Industria y Comercio (SIC).",
+      "B) Al CSIRT de Gobierno (COLCERT).",
+      "C) A la Policía Nacional (sin ser CSIRT).",
+      "D) A la Contraloría General de la República."
+    ],
+    "answer": "B) Al CSIRT de Gobierno (COLCERT)."
+  },
+  {
+    "question": "Caso 9: La Alcaldía está diseñando un nuevo portal web para ofrecer servicios a la ciudadanía. Además de la seguridad, ¿qué norma relacionada con los estándares de accesibilidad web debe considerar para asegurar que el portal sea inclusivo, según el análisis ampliado?",
+    "options": [
+      "A) Ley 1273 de 2009.",
+      "B) Resolución 1519 de 2020.",
+      "C) Decreto 2573 de 2014.",
+      "D) Ley 962 de 2005."
+    ],
+    "answer": "B) Resolución 1519 de 2020."
+  },
+  {
+    "question": "Caso 10: Para proteger los datos personales de los ciudadanos y asegurar la legalidad de su tratamiento, ¿qué herramienta de gestión es fundamental que la Alcaldía de Puerto Boyacá implemente en conformidad con la Ley 1581 de 2012 y la Política de Gobierno Digital?",
+    "options": [
+      "A) Un software de gestión contable.",
+      "B) El Programa Integral de Gestión de Datos Personales (PIGPD).",
+      "C) Un sistema de gestión de parques automotores.",
+      "D) Una base de datos de proveedores."
+    ],
+    "answer": "B) El Programa Integral de Gestión de Datos Personales (PIGPD)."
+  },
+  {
+    "question": "Caso 11: La Alcaldía de Puerto Boyacá ha decidido adoptar el modelo Zero Trust para el acceso a sus sistemas internos. ¿Qué principio fundamental de seguridad implica este modelo?",
+    "options": [
+      "A) Confiar en todos los usuarios dentro de la red interna por defecto.",
+      "B) No confiar en nadie, dentro o fuera de la red, y verificar cada solicitud de acceso continuamente.",
+      "C) Confiar solo en los usuarios que utilicen dispositivos personales.",
+      "D) Asumir que los sistemas son seguros por defecto y no requieren verificación constante."
+    ],
+    "answer": "B) No confiar en nadie, dentro o fuera de la red, y verificar cada solicitud de acceso continuamente."
+  },
+  {
+    "question": "Caso 12: La Alcaldía de Puerto Boyacá desea fortalecer su capacidad de detección de anomalías y amenazas avanzadas en su infraestructura tecnológica. ¿Qué tendencia en ciberseguridad, mencionada en el análisis, le permitiría lograr este objetivo mediante el análisis de grandes volúmenes de datos?",
+    "options": [
+      "A) Uso exclusivo de firewalls tradicionales.",
+      "B) Implementación de IA en Ciberseguridad (Machine Learning para detección de anomalías).",
+      "C) Restricción total del acceso a internet para todos los funcionarios.",
+      "D) Adquisición de nuevos equipos de oficina sin software de seguridad."
+    ],
+    "answer": "B) Implementación de IA en Ciberseguridad (Machine Learning para detección de anomalías)."
+  },
+  {
+    "question": "Caso 13: La Alcaldía de Puerto Boyacá ha sufrido una fuga de datos sensibles de la ciudadanía debido a una vulnerabilidad en un sistema de información. ¿Qué principio de seguridad, de los básicos, se ha visto comprometido principalmente en este incidente?",
+    "options": [
+      "A) Disponibilidad.",
+      "B) Integridad.",
+      "C) Confidencialidad.",
+      "D) Autenticidad."
+    ],
+    "answer": "C) Confidencialidad."
+  },
+  {
+    "question": "Caso 14: Un proyecto de desarrollo de software para la Alcaldía necesita garantizar que los datos no sean modificados sin autorización. ¿Qué principio de seguridad debe asegurarse en el diseño y la implementación de este software?",
+    "options": [
+      "A) Disponibilidad.",
+      "B) Integridad.",
+      "C) Confidencialidad.",
+      "D) No repudio."
+    ],
+    "answer": "B) Integridad."
+  },
+  {
+    "question": "Caso 15: La Alcaldía de Puerto Boyacá está implementando un nuevo sistema de votación electrónica para consultas ciudadanas. Para garantizar que los votos provienen de fuentes legítimas y no son alterados, ¿qué principios de seguridad son esenciales?",
+    "options": [
+      "A) Solo confidencialidad.",
+      "B) Autenticidad e Integridad.",
+      "C) Solo disponibilidad.",
+      "D) Trazabilidad sin autenticidad."
+    ],
+    "answer": "B) Autenticidad e Integridad."
+  },
+  {
+    "question": "Caso 16: La Alcaldía necesita identificar todos sus activos de información críticos (bases de datos, servidores, aplicaciones web, etc.) antes de iniciar la implementación de un SGSI. ¿En qué fase de la implementación de un SGSI se realiza esta actividad?",
+    "options": [
+      "A) Monitoreo continuo.",
+      "B) Diagnóstico.",
+      "C) Implementación de controles físicos.",
+      "D) Capacitación final de usuarios."
+    ],
+    "answer": "B) Diagnóstico."
+  },
+  {
+    "question": "Caso 17: Para evaluar los riesgos de seguridad de la información en la Alcaldía, el profesional a cargo necesita una metodología reconocida. ¿Cuál de las metodologías mencionadas en el análisis es adecuada para este propósito?",
+    "options": [
+      "A) Scrum Master.",
+      "B) MÉTRICA v4.",
+      "C) MAGERIT o NIST SP 800-30.",
+      "D) SIPAC."
+    ],
+    "answer": "C) MAGERIT o NIST SP 800-30."
+  },
+  {
+    "question": "Caso 18: La Alcaldía de Puerto Boyacá desea asegurar que sus funcionarios comprendan los riesgos de phishing y otras amenazas cibernéticas. ¿Qué tipo de control de seguridad se enfoca en la formación y sensibilización del personal?",
+    "options": [
+      "A) Control técnico.",
+      "B) Control físico.",
+      "C) Control administrativo (capacitación y políticas).",
+      "D) Control de acceso biométrico."
+    ],
+    "answer": "C) Control administrativo (capacitación y políticas)."
+  },
+  {
+    "question": "Caso 19: Un ciberataque de ransomware logra encriptar los archivos del área de contratación de una alcaldía. Según el Ejemplo 1 del análisis, ¿qué acción inicial es crítica para contener el incidente?",
+    "options": [
+      "A) Negociar con los atacantes para recuperar los archivos.",
+      "B) Aislar los sistemas afectados de la red.",
+      "C) Publicar la noticia en redes sociales para alertar.",
+      "D) Reiniciar todos los equipos de la entidad."
+    ],
+    "answer": "B) Aislar los sistemas afectados de la red."
+  },
+  {
+    "question": "Caso 20: La Alcaldía de Puerto Boyacá está formulando su PETI. ¿Cuál de los siguientes documentos o marcos normativos debe ser una referencia fundamental para la definición de su estrategia de seguridad y privacidad de la información?",
+    "options": [
+      "A) La Ley de Tránsito.",
+      "B) El Manual de Contratación Pública (SECOP I).",
+      "C) El Modelo de Seguridad y Privacidad de la Información (MSPI) del MinTIC.",
+      "D) El Decreto de Jornada Laboral."
+    ],
+    "answer": "C) El Modelo de Seguridad y Privacidad de la Información (MSPI) del MinTIC."
+  },
+  {
+    "question": "Caso 21: Un servidor público de la Alcaldía de Puerto Boyacá detecta una actividad sospechosa en la red que podría indicar un ciberataque. Según la Circular 002 de 2022 del MinTIC, ¿cuál es el primer paso que debe seguir el funcionario para activar el protocolo de respuesta?",
+    "options": [
+      "A) Intentar resolver el problema por sí mismo sin notificar a nadie.",
+      "B) Notificar de inmediato al CSIRT de Gobierno (COLCERT) y seguir los protocolos internos de gestión de incidentes.",
+      "C) Apagar el equipo de forma brusca para evitar la propagación.",
+      "D) Compartir la información del incidente en grupos de redes sociales."
+    ],
+    "answer": "B) Notificar de inmediato al CSIRT de Gobierno (COLCERT) y seguir los protocolos internos de gestión de incidentes."
+  },
+  {
+    "question": "Caso 22: La Alcaldía de Puerto Boyacá está revisando su Plan de Continuidad de Operaciones (PCO). Según la Resolución 3354 de 2020 (mencionada como relevante en seguridad en el análisis), ¿qué elemento esencial debe contener este plan para una entidad pública?",
+    "options": [
+      "A) Un listado de las vacaciones del personal de TI.",
+      "B) Protocolos detallados de recuperación ante desastres y la definición de roles y responsabilidades para la continuidad del servicio.",
+      "C) Un informe anual de consumo de energía eléctrica.",
+      "D) Un inventario de los muebles de la oficina."
+    ],
+    "answer": "B) Protocolos detallados de recuperación ante desastres y la definición de roles y responsabilidades para la continuidad del servicio."
+  },
+  {
+    "question": "Caso 23: La Alcaldía de Puerto Boyacá utiliza una plataforma que permite a los ciudadanos interactuar y hacer trámites de forma digital. ¿Qué ley colombiana, además de la de protección de datos, es fundamental para garantizar la validez legal de estos trámites y comunicaciones electrónicas?",
+    "options": [
+      "A) Ley 1955 de 2019 (Plan Nacional de Desarrollo).",
+      "B) Ley 1266 de 2008 (Habeas Data Financiero).",
+      "C) Ley 527 de 1999 (Comercio Electrónico y Mensajes de Datos).",
+      "D) Ley 1523 de 2012 (Gestión del Riesgo)."
+    ],
+    "answer": "C) Ley 527 de 1999 (Comercio Electrónico y Mensajes de Datos)."
+  },
+  {
+    "question": "Caso 24: Para asegurar la transparencia y el acceso a la información pública, la Alcaldía de Puerto Boyacá debe implementar una gestión robusta de los datos abiertos. ¿Qué decreto reglamenta esta gestión con un enfoque en la seguridad?",
+    "options": [
+      "A) Decreto 1078 de 2015.",
+      "B) Decreto 2573 de 2014.",
+      "C) Decreto 620 de 2020.",
+      "D) Decreto 2106 de 2019."
+    ],
+    "answer": "B) Decreto 2573 de 2014."
+  },
+  {
+    "question": "Caso 25: Un empleado de la Alcaldía es víctima de 'phishing' y sus credenciales son robadas. Posteriormente, un atacante usa estas credenciales para acceder a un sistema municipal. ¿Qué tipo de delito informático, según la Ley 1273 de 2009, se ha cometido?",
+    "options": [
+      "A) Violación de datos personales.",
+      "B) Obstaculización ilegítima de sistema informático o red de telecomunicación.",
+      "C) Acceso abusivo a un sistema informático.",
+      "D) Hurto por medios informáticos."
+    ],
+    "answer": "C) Acceso abusivo a un sistema informático."
+  },
+  {
+    "question": "Caso 26: La Alcaldía de Puerto Boyacá necesita un método para identificar y analizar las amenazas y vulnerabilidades de sus sistemas de información antes de implementar controles de seguridad. ¿Qué metodología, mencionada en el análisis, es adecuada para este proceso?",
+    "options": [
+      "A) Metodología Scrum para desarrollo ágil.",
+      "B) Metodologías de evaluación de riesgos como MAGERIT o NIST SP 800-30.",
+      "C) El Modelo de Gestión y Gobierno de TI (MGGTI) en sí mismo.",
+      "D) La Guía para la Construcción del PETI."
+    ],
+    "answer": "B) Metodologías de evaluación de riesgos como MAGERIT o NIST SP 800-30."
+  },
+  {
+    "question": "Caso 27: La Alcaldía ha implementado un nuevo sistema para el manejo de inventario. Para asegurar que este sistema cumple con los requisitos del MSPI y está alineado con la Política de Gobierno Digital, ¿cuál de los siguientes elementos debe ser una prioridad en su monitoreo?",
+    "options": [
+      "A) El color de la interfaz de usuario del sistema.",
+      "B) Las horas de uso del sistema por parte de los funcionarios.",
+      "C) Los logs de auditoría y los eventos de seguridad generados por el sistema.",
+      "D) La cantidad de reportes generados por el sistema."
+    ],
+    "answer": "C) Los logs de auditoría y los eventos de seguridad generados por el sistema."
+  },
+  {
+    "question": "Caso 28: La Alcaldía de Puerto Boyacá desea fortalecer su cultura de seguridad digital entre todos los funcionarios. ¿Qué tipo de control de seguridad se considera fundamental y debe ser una actividad recurrente para lograr este objetivo?",
+    "options": [
+      "A) Instalar más cámaras de seguridad en las oficinas.",
+      "B) Realizar auditorías de seguridad únicamente cada cinco años.",
+      "C) Capacitar a los funcionarios regularmente en temas como phishing, uso seguro de contraseñas y manejo de información sensible.",
+      "D) Limitar el acceso a Internet a todos los funcionarios."
+    ],
+    "answer": "C) Capacitar a los funcionarios regularmente en temas como phishing, uso seguro de contraseñas y manejo de información sensible."
+  },
+  {
+    "question": "Caso 29: La Secretaría de Servicios Administrativos requiere implementar un sistema de información que garantice la autenticidad de las comunicaciones oficiales enviadas electrónicamente. ¿Qué elemento tecnológico es clave para lograr el principio de Autenticidad en este contexto, según la normativa?",
+    "options": [
+      "A) Solo un antivirus actualizado.",
+      "B) La implementación de firmas electrónicas o digitales.",
+      "C) Un servidor de archivos en la nube sin validación de identidad.",
+      "D) Un sistema de correo electrónico gratuito."
+    ],
+    "answer": "B) La implementación de firmas electrónicas o digitales."
+  },
+  {
+    "question": "Caso 30: Un funcionario propone usar inteligencia artificial (IA) para mejorar la detección de amenazas cibernéticas en la Alcaldía. ¿Qué beneficio directo aporta el uso de IA en ciberseguridad, según las tendencias actuales?",
+    "options": [
+      "A) Elimina la necesidad de cualquier intervención humana en la seguridad.",
+      "B) Permite la detección de anomalías y patrones sofisticados con machine learning.",
+      "C) Reduce el costo de adquisición de hardware de red a cero.",
+      "D) Simplifica el proceso de creación de contraseñas débiles."
+    ],
+    "answer": "B) Permite la detección de anomalías y patrones sofisticados con machine learning."
+  },
+  {
+    "question": "¿Cuál es el propósito principal del Plan Estratégico de Tecnologías de la Información (PETI) en una entidad pública?",
+    "options": [
+      "A) Definir únicamente el presupuesto anual para la compra de hardware.",
+      "B) Guiar el uso estratégico de las TIC para apoyar la misión institucional y generar valor público.",
+      "C) Establecer las tarifas de los servicios tecnológicos que la entidad presta a ciudadanos.",
+      "D) Coordinar las actividades de mantenimiento de equipos informáticos."
+    ],
+    "answer": "B) Guiar el uso estratégico de las TIC para apoyar la misión institucional y generar valor público."
+  },
+  {
+    "question": "¿Qué norma actualizó y unificó la Política de Gobierno Digital en Colombia, estableciendo la Estrategia Nacional de Transformación Digital Pública (ENTDP)?",
+    "options": [
+      "A) Decreto 1008 de 2018.",
+      "B) Ley 1955 de 2019.",
+      "C) Resolución 1951 de 2023 del MinTIC.",
+      "D) Ley 1437 de 2011."
+    ],
+    "answer": "C) Resolución 1951 de 2023 del MinTIC."
+  },
+  {
+    "question": "¿Qué documento del MinTIC proporciona la metodología para la construcción del PETI y detalla sus fases y componentes?",
+    "options": [
+      "A) El Manual de Contratación Pública (SECOP).",
+      "B) La Guía G.ES.06 para la Construcción del PETI.",
+      "C) El Modelo Estándar de Control Interno (MECI).",
+      "D) La Circular 002 de 2022."
+    ],
+    "answer": "B) La Guía G.ES.06 para la Construcción del PETI."
+  },
+  {
+    "question": "¿Cuál de las siguientes fases NO hace parte de la construcción de un PETI, según las guías del MinTIC?",
+    "options": [
+      "A) Entendimiento Estratégico de la Entidad.",
+      "B) Diagnóstico del Estado Actual de la TI.",
+      "C) Planeación de la Arquitectura Tecnológica Objetivo.",
+      "D) Diseño de la estructura organizacional del área de talento humano."
+    ],
+    "answer": "D) Diseño de la estructura organizacional del área de talento humano."
+  },
+  {
+    "question": "¿Qué habilitador transversal de la Política de Gobierno Digital se enfoca en la capacidad de los sistemas de información para intercambiar datos de forma efectiva y segura?",
+    "options": [
+      "A) Gestión del Cambio.",
+      "B) Seguridad y Privacidad de la Información.",
+      "C) Arquitectura (específicamente, interoperabilidad).",
+      "D) Servicios Ciudadanos Digitales."
+    ],
+    "answer": "C) Arquitectura (específicamente, interoperabilidad)."
+  },
+  {
+    "question": "¿Cuál es el objetivo principal del Modelo de Seguridad y Privacidad de la Información (MSPI) adoptado por la Resolución 500 de 2021 del MinTIC?",
+    "options": [
+      "A) Únicamente reglamentar la compra de equipos de seguridad.",
+      "B) Establecer lineamientos para la gestión de la seguridad digital y la privacidad de la información en las entidades del Estado.",
+      "C) Desarrollar software de seguridad a la medida para cada entidad.",
+      "D) Promover el uso de redes sociales en la administración pública."
+    ],
+    "answer": "B) Establecer lineamientos para la gestión de la seguridad digital y la privacidad de la información en las entidades del Estado."
+  },
+  {
+    "question": "¿Qué principios de seguridad de la información, además de la Confidencialidad, Integridad y Disponibilidad (CID), son fundamentales en el sector público?",
+    "options": [
+      "A) Costo, velocidad y facilidad.",
+      "B) Autenticidad, No repudio y Trazabilidad.",
+      "C) Estética, popularidad y versatilidad.",
+      "D) Innovación, creatividad y adaptabilidad."
+    ],
+    "answer": "B) Autenticidad, No repudio y Trazabilidad."
+  },
+  {
+    "question": "¿Qué Ley colombiana tipifica los delitos informáticos como el acceso abusivo a un sistema informático o el hurto por medios informáticos?",
+    "options": [
+      "A) Ley 1581 de 2012.",
+      "B) Ley 527 de 1999.",
+      "C) Ley 1273 de 2009.",
+      "D) Ley 1437 de 2011."
+    ],
+    "answer": "C) Ley 1273 de 2009."
+  },
+  {
+    "question": "¿Cuál es la herramienta del MinTIC que permite a las entidades públicas autoevaluar su nivel de implementación de los dominios y controles del MSPI?",
+    "options": [
+      "A) El RUES.",
+      "B) El Instrumento de Diagnóstico del MSPI.",
+      "C) El SECOP II.",
+      "D) La plataforma SIMUR."
+    ],
+    "answer": "B) El Instrumento de Diagnóstico del MSPI."
+  },
+  {
+    "question": "¿Qué entidad en Colombia actúa como CSIRT de Gobierno para la gestión y coordinación de incidentes cibernéticos en el sector público?",
+    "options": [
+      "A) La Fiscalía General de la Nación.",
+      "B) La Superintendencia de Industria y Comercio (SIC).",
+      "C) El Grupo de Respuesta a Emergencias Cibernéticas de Colombia (COLCERT).",
+      "D) La Policía Nacional (sin ser CSIRT de Gobierno)."
+    ],
+    "answer": "C) El Grupo de Respuesta a Emergencias Cibernéticas de Colombia (COLCERT)."
+  },
+  {
+    "question": "¿Qué ley establece disposiciones generales del hábeas data y regula el manejo de información contenida en bases de datos personales, especialmente la financiera y crediticia?",
+    "options": [
+      "A) Ley 1581 de 2012.",
+      "B) Ley 1266 de 2008.",
+      "C) Ley 527 de 1999.",
+      "D) Ley 1712 de 2014."
+    ],
+    "answer": "B) Ley 1266 de 2008."
+  },
+  {
+    "question": "¿Cuál es el principal objetivo del Decreto 620 de 2020 en relación con la Política de Gobierno Digital?",
+    "options": [
+      "A) Regular la contratación pública internacional.",
+      "B) Reglamentar los Servicios Ciudadanos Digitales (SCD) y su provisión, con énfasis en seguridad y privacidad.",
+      "C) Establecer las tarifas de internet en zonas rurales.",
+      "D) Definir los requisitos para ser operador de telecomunicaciones."
+    ],
+    "answer": "B) Reglamentar los Servicios Ciudadanos Digitales (SCD) y su provisión, con énfasis en seguridad y privacidad."
+  },
+  {
+    "question": "¿Qué ley colombiana define y reglamenta el acceso y uso de los mensajes de datos, el comercio electrónico y las firmas digitales?",
+    "options": [
+      "A) Ley 962 de 2005.",
+      "B) Ley 1437 de 2011.",
+      "C) Ley 527 de 1999.",
+      "D) Ley 1955 de 2019."
+    ],
+    "answer": "C) Ley 527 de 1999."
+  },
+  {
+    "question": "¿Cuál de las siguientes afirmaciones es **INCORRECTA** sobre el Plan Estratégico de Tecnologías de la Información (PETI)?",
+    "options": [
+      "A) Es un instrumento de planeación esencial para las entidades públicas.",
+      "B) Debe alinearse con el Plan de Desarrollo de la entidad.",
+      "C) Su única función es la adquisición de nuevo hardware y software.",
+      "D) Es un documento dinámico que debe ser revisado periódicamente."
+    ],
+    "answer": "C) Su única función es la adquisición de nuevo hardware y software."
+  },
+  {
+    "question": "¿Qué sistema es la plataforma oficial y el medio de información único en Colombia para registrar y dar publicidad a todos los procesos de contratación del Estado, administrado por Colombia Compra Eficiente?",
+    "options": [
+      "A) RUES.",
+      "B) SIMUR.",
+      "C) SECOP.",
+      "D) SUIFP."
+    ],
+    "answer": "C) SECOP."
+  },
+  {
+    "question": "¿Cuál es el propósito principal de la Ley 1581 de 2012 en Colombia?",
+    "options": [
+      "A) Regular el comercio electrónico.",
+      "B) Dictar disposiciones generales para la protección de datos personales.",
+      "C) Establecer normas para la simplificación de trámites.",
+      "D) Crear el Sistema de Gestión de la Calidad."
+    ],
+    "answer": "B) Dictar disposiciones generales para la protección de datos personales."
+  },
+  {
+    "question": "¿Qué significa interoperabilidad en el contexto del Gobierno Digital?",
+    "options": [
+      "A) La capacidad de los ciudadanos para acceder a internet desde cualquier lugar.",
+      "B) La capacidad de diferentes sistemas de información para comunicarse, intercambiar y reutilizar información de manera efectiva y segura.",
+      "C) La habilidad de un servidor público para trabajar en varias dependencias a la vez.",
+      "D) La posibilidad de usar cualquier dispositivo tecnológico en la administración pública."
+    ],
+    "answer": "B) La capacidad de diferentes sistemas de información para comunicarse, intercambiar y reutilizar información de manera efectiva y segura."
+  },
+  {
+    "question": "¿Qué organismo de control o supervisión ejerce funciones sobre el RUES (Registro Único Empresarial y Social)?",
+    "options": [
+      "A) El Departamento Nacional de Planeación (DNP).",
+      "B) La Contraloría General de la República.",
+      "C) La Superintendencia de Industria y Comercio (SIC).",
+      "D) El Ministerio de Hacienda y Crédito Público."
+    ],
+    "answer": "C) La Superintendencia de Industria y Comercio (SIC)."
+  },
+  {
+    "question": "¿Cuál de los siguientes es un conocimiento esencial para la gestión de proyectos TIC en una entidad pública, según el manual de funciones?",
+    "options": [
+      "A) Técnicas de dibujo artístico.",
+      "B) Metodologías para la formulación, estructuración y evaluación de Proyectos y aplicación de metodologías ágiles.",
+      "C) Historia de la Alcaldía de Puerto Boyacá.",
+      "D) Diseño de jardines."
+    ],
+    "answer": "B) Metodologías para la formulación, estructuración y evaluación de Proyectos y aplicación de metodologías ágiles."
+  },
+  {
+    "question": "¿Qué modelo o marco de referencia es fundamental para la gestión de la tecnología y la información en las entidades públicas colombianas, abarcando dominios como la estrategia, la arquitectura, la información y la seguridad?",
+    "options": [
+      "A) MÉTRICA v4.",
+      "B) El Modelo de Gestión y Gobierno de TI (MGGTI).",
+      "C) El Sistema de Gestión de la Calidad (SGC).",
+      "D) El Plan de Ordenamiento Territorial (POT)."
+    ],
+    "answer": "B) El Modelo de Gestión y Gobierno de TI (MGGTI)."
+  },
+  {
+    "question": "¿Qué Circular del MinTIC establece los protocolos para la gestión de ciberataques a entidades públicas en Colombia?",
+    "options": [
+      "A) Circular 001 de 2019.",
+      "B) Circular 002 de 2022.",
+      "C) Circular 003 de 2020.",
+      "D) Circular 004 de 2021."
+    ],
+    "answer": "B) Circular 002 de 2022."
+  },
+  {
+    "question": "¿Qué normativa reglamenta la gestión de datos abiertos con seguridad en Colombia, según el análisis ampliado?",
+    "options": [
+      "A) Ley 1712 de 2014.",
+      "B) Decreto 2573 de 2014.",
+      "C) Ley 1581 de 2012.",
+      "D) Resolución 500 de 2021."
+    ],
+    "answer": "B) Decreto 2573 de 2014."
+  },
+  {
+    "question": "¿Cuál de los siguientes es un tipo de control de seguridad que se enfoca en la implementación de políticas de acceso, capacitaciones y concienciación del personal?",
+    "options": [
+      "A) Control técnico.",
+      "B) Control físico.",
+      "C) Control administrativo.",
+      "D) Control preventivo de hardware."
+    ],
+    "answer": "C) Control administrativo."
+  },
+  {
+    "question": "¿Qué sistema automatizado, mencionado en el manual de funciones, es esencial para la gestión de documentos oficiales y la digitalización de procesos administrativos en una entidad pública?",
+    "options": [
+      "A) Procesador de texto.",
+      "B) Hoja electrónica.",
+      "C) Sistema de gestión documental electrónica (SGDEA).",
+      "D) Correo electrónico personal."
+    ],
+    "answer": "C) Sistema de gestión documental electrónica (SGDEA)."
+  },
+  {
+    "question": "¿Cuál es el principal objetivo del modelo 'Zero Trust' en ciberseguridad?",
+    "options": [
+      "A) Confiar en todos los dispositivos y usuarios por defecto dentro de la red.",
+      "B) No confiar en nadie, dentro o fuera de la red, y verificar cada solicitud de acceso continuamente.",
+      "C) Reducir la inversión en seguridad al mínimo.",
+      "D) Permitir el acceso ilimitado a todos los recursos."
+    ],
+    "answer": "B) No confiar en nadie, dentro o fuera de la red, y verificar cada solicitud de acceso continuamente."
+  },
+  {
+    "question": "¿Qué entidad en Colombia es responsable de la administración de la plataforma SECOP?",
+    "options": [
+      "A) El Departamento Nacional de Planeación (DNP).",
+      "B) La Agencia Nacional de Contratación Pública – Colombia Compra Eficiente.",
+      "C) La Contraloría General de la República.",
+      "D) La Superintendencia de Industria y Comercio (SIC)."
+    ],
+    "answer": "B) La Agencia Nacional de Contratación Pública – Colombia Compra Eficiente."
+  },
+  {
+    "question": "¿Qué tipo de experiencia se requiere para el cargo de Profesional Universitario al que aspira, según el manual de funciones?",
+    "options": [
+      "A) Únicamente experiencia en atención al cliente.",
+      "B) Doce (12) meses de experiencia profesional relacionada.",
+      "C) Experiencia de cuatro (4) años en gerencia de proyectos.",
+      "D) Experiencia de seis (6) meses como auxiliar administrativo."
+    ],
+    "answer": "B) Doce (12) meses de experiencia profesional relacionada."
+  },
+  {
+    "question": "¿Qué competencia comportamental común, mencionada en el manual, se relaciona directamente con la capacidad de ajustar planes y decisiones ante imprevistos en los proyectos TIC?",
+    "options": [
+      "A) Orientación a resultados.",
+      "B) Compromiso con la organización.",
+      "C) Adaptación al cambio.",
+      "D) Comunicación efectiva."
+    ],
+    "answer": "C) Adaptación al cambio."
+  },
+  {
+    "question": "¿Cuál es la principal diferencia entre SECOP I y SECOP II?",
+    "options": [
+      "A) SECOP I es solo para contratación privada, y SECOP II para contratación pública.",
+      "B) SECOP I es una plataforma de publicación/informativa, mientras que SECOP II es transaccional y gestiona todo el proceso en línea.",
+      "C) SECOP I es administrado por el MinTIC, y SECOP II por el DAFP.",
+      "D) SECOP I solo permite publicar documentos, mientras que SECOP II no requiere publicar nada."
+    ],
+    "answer": "B) SECOP I es una plataforma de publicación/informativa, mientras que SECOP II es transaccional y gestiona todo el proceso en línea."
+  },
+  {
+    "question": "¿Qué ley estableció la Historia Clínica Electrónica Interoperable en Colombia?",
+    "options": [
+      "A) Ley 1712 de 2014.",
+      "B) Ley 2015 de 2020.",
+      "C) Ley 1581 de 2012.",
+      "D) Ley 962 de 2005."
+    ],
+    "answer": "B) Ley 2015 de 2020."
+  },
+
+
+  {
+    "question": "¿Qué tipo de experiencia se requiere para el cargo de Profesional Universitario al que aspira, según el manual de funciones?",
+    "options": [
+      "A) Únicamente experiencia en atención al cliente.",
+      "B) Doce (12) meses de experiencia profesional relacionada.",
+      "C) Experiencia de cuatro (4) años en gerencia de proyectos.",
+      "D) Experiencia de seis (6) meses como auxiliar administrativo."
+    ],
+    "answer": "B) Doce (12) meses de experiencia profesional relacionada."
+  },
+  {
+    "question": "¿Qué competencia comportamental común, mencionada en el manual, se relaciona directamente con la capacidad de ajustar planes y decisiones ante imprevistos en los proyectos TIC?",
+    "options": [
+      "A) Orientación a resultados.",
+      "B) Compromiso con la organización.",
+      "C) Adaptación al cambio.",
+      "D) Comunicación efectiva."
+    ],
+    "answer": "C) Adaptación al cambio."
+  },
+  {
+    "question": "¿Cuál es la principal diferencia entre SECOP I y SECOP II?",
+    "options": [
+      "A) SECOP I es solo para contratación privada, y SECOP II para contratación pública.",
+      "B) SECOP I es una plataforma de publicación/informativa, mientras que SECOP II es transaccional y gestiona todo el proceso en línea.",
+      "C) SECOP I es administrado por el MinTIC, y SECOP II por el DAFP.",
+      "D) SECOP I solo permite publicar documentos, mientras que SECOP II no requiere publicar nada."
+    ],
+    "answer": "B) SECOP I es una plataforma de publicación/informativa, mientras que SECOP II es transaccional y gestiona todo el proceso en línea."
+  },
+  {
+    "question": "¿Qué ley estableció la Historia Clínica Electrónica Interoperable en Colombia?",
+    "options": [
+      "A) Ley 1712 de 2014.",
+      "B) Ley 2015 de 2020.",
+      "C) Ley 1581 de 2012.",
+      "D) Ley 962 de 2005."
+    ],
+    "answer": "B) Ley 2015 de 2020."
+  },
+  {
+    "question": "Según la Resolución 3354 de 2020, ¿qué debe contener el Plan de Continuidad de Operaciones de una entidad pública?",
+    "options": [
+      "A) Solo copias de seguridad semanales",
+      "B) Protocolos de recuperación ante desastres y roles definidos",
+      "C) Listado de empleados con acceso a redes sociales",
+      "D) Presupuesto para equipos de oficina"
+    ],
+    "answer": "B) Protocolos de recuperación ante desastres y roles definidos"
+  },
+  {
+    "question": "¿Cuál norma tipifica como delito el acceso abusivo a sistemas informáticos en Colombia?",
+    "options": [
+      "A) Ley 1581 de 2012",
+      "B) Ley 1273 de 2009",
+      "C) Decreto 2573 de 2014",
+      "D) Resolución 1519 de 2020"
+    ],
+    "answer": "B) Ley 1273 de 2009"
+  },
+  {
+    "question": "Según el Decreto 1008 de 2018, ¿qué principio NO aplica para seguridad en Gobierno Digital?",
+    "options": [
+      "A) Confidencialidad",
+      "B) Disponibilidad",
+      "C) Publicidad inmediata",
+      "D) Integridad"
+    ],
+    "answer": "C) Publicidad inmediata"
+  },
+  {
+    "question": "¿Qué herramienta recomienda el MINTIC para evaluar madurez en seguridad digital?",
+    "options": [
+      "A) HERRAMIENTA",
+      "B) HERMES",
+      "C) HÉRCULES",
+      "D) HORUS"
+    ],
+    "answer": "B) HERMES"
+  },
+  {
+    "question": "Según la Ley 1581, ¿cuánto tiempo tiene una entidad para reportar una violación de datos personales?",
+    "options": [
+      "A) 15 días hábiles",
+      "B) 72 horas",
+      "C) 1 mes calendario",
+      "D) No hay plazo definido"
+    ],
+    "answer": "A) 15 días hábiles"
+  },
+  {
+    "question": "¿Qué artículo de la Ley 1273 sanciona la interceptación ilegal de datos?",
+    "options": [
+      "A) Art. 269A",
+      "B) Art. 269B",
+      "C) Art. 269C",
+      "D) Art. 269D"
+    ],
+    "answer": "C) Art. 269C"
+  },
+  {
+    "question": "¿Cuál NO es un control físico de seguridad según ISO 27001?",
+    "options": [
+      "A) Sistemas de videovigilancia",
+      "B) Cerraduras biométricas",
+      "C) Firewalls de red",
+      "D) Registros de acceso"
+    ],
+    "answer": "C) Firewalls de red"
+  },
+  {
+    "question": "Según la Circular 002 de 2022, ¿a quién se debe reportar un ciberataque?",
+    "options": [
+      "A) CSIRT Gobierno",
+      "B) Policía Nacional",
+      "C) Fiscalía General",
+      "D) Superintendencia de Industria"
+    ],
+    "answer": "A) CSIRT Gobierno"
+  },
+  {
+    "question": "¿Qué norma exige autenticación multifactor para trámites estatales?",
+    "options": [
+      "A) Decreto 1078/2015",
+      "B) Ley 1341/2009",
+      "C) Resolución 3354/2020",
+      "D) Decreto 1008/2018"
+    ],
+    "answer": "A) Decreto 1078/2015"
+  },
+  {
+    "question": "¿Cuál es la sanción máxima por violar la Ley 1581 de protección de datos?",
+    "options": [
+      "A) 500 SMLMV",
+      "B) 1.000 SMLMV",
+      "C) 2.000 SMLMV",
+      "D) 5.000 SMLMV"
+    ],
+    "answer": "C) 2.000 SMLMV"
+  },
+  {
+    "question": "Según la Resolución 3354, ¿cada cuánto se debe hacer auditoría de seguridad?",
+    "options": [
+      "A) Anualmente",
+      "B) Cada 2 años",
+      "C) Cada 6 meses",
+      "D) Solo cuando ocurra un incidente"
+    ],
+    "answer": "A) Anualmente"
+  },
+  {
+    "question": "¿Qué metodología recomienda el MINTIC para evaluación de riesgos?",
+    "options": [
+      "A) MAGERIT",
+      "B) SCRUM",
+      "C) ITIL",
+      "D) COBIT"
+    ],
+    "answer": "A) MAGERIT"
+  },
+  {
+    "question": "¿Qué principio de seguridad garantiza que los datos no sean alterados?",
+    "options": [
+      "A) Confidencialidad",
+      "B) Integridad",
+      "C) Disponibilidad",
+      "D) Autenticidad"
+    ],
+    "answer": "B) Integridad"
+  },
+  {
+    "question": "Según el Decreto 2573/2014, ¿qué tipo de datos debe publicar obligatoriamente una entidad?",
+    "options": [
+      "A) Datos personales de funcionarios",
+      "B) Datos abiertos no sensibles",
+      "C) Historial médico de empleados",
+      "D) Contratos en ejecución"
+    ],
+    "answer": "B) Datos abiertos no sensibles"
+  },
+  {
+    "question": "¿Qué herramienta permite correlacionar eventos de seguridad?",
+    "options": [
+      "A) SIEM",
+      "B) Firewall",
+      "C) Antivirus",
+      "D) VPN"
+    ],
+    "answer": "A) SIEM"
+  },
+  {
+    "question": "¿Qué norma exige cifrado para datos personales en tránsito?",
+    "options": [
+      "A) Ley 1581/2012",
+      "B) Decreto 1078/2015",
+      "C) Resolución 3354/2020",
+      "D) Todas las anteriores"
+    ],
+    "answer": "D) Todas las anteriores"
+  },
+  {
+    "question": "Según ISO 27001, ¿qué área NO es parte de un SGSI?",
+    "options": [
+      "A) Gestión de activos",
+      "B) Seguridad física",
+      "C) Control de nómina",
+      "D) Continuidad del negocio"
+    ],
+    "answer": "C) Control de nómina"
+  },
+  {
+    "question": "¿Qué artículo de la Ley 1273 penaliza la creación de malware?",
+    "options": [
+      "A) Art. 269E",
+      "B) Art. 269F",
+      "C) Art. 269G",
+      "D) Art. 269H"
+    ],
+    "answer": "B) Art. 269F"
+  },
+  {
+    "question": "¿Qué modelo de seguridad recomienda 'confianza cero'?",
+    "options": [
+      "A) Zero Trust",
+      "B) Defense in Depth",
+      "C) Perimeter Security",
+      "D) Castle Approach"
+    ],
+    "answer": "A) Zero Trust"
+  },
+  {
+    "question": "¿Qué norma regula la accesibilidad web en entidades públicas?",
+    "options": [
+      "A) Resolución 1519/2020",
+      "B) Decreto 1008/2018",
+      "C) Ley 1341/2009",
+      "D) Circular 002/2022"
+    ],
+    "answer": "A) Resolución 1519/2020"
+  },
+  {
+    "question": "¿Qué equipo coordina la respuesta a incidentes cibernéticos en Colombia?",
+    "options": [
+      "A) CSIRT Gobierno",
+      "B) CERT Colombiano",
+      "C) Centro Cibernético Policial",
+      "D) Todos los anteriores"
+    ],
+    "answer": "D) Todos los anteriores"
+  },
+  {
+    "question": "Según la Ley 1581, ¿qué dato NO se considera personal?",
+    "options": [
+      "A) Número de cédula",
+      "B) Dirección de residencia",
+      "C) Historial crediticio",
+      "D) Estadísticas anónimas"
+    ],
+    "answer": "D) Estadísticas anónimas"
+  },
+  {
+    "question": "¿Qué norma exige inventario de activos de información?",
+    "options": [
+      "A) Resolución 3354/2020",
+      "B) Decreto 2573/2014",
+      "C) Ley 1273/2009",
+      "D) Circular 002/2022"
+    ],
+    "answer": "A) Resolución 3354/2020"
+  },
+  {
+    "question": "¿Qué técnica usa IA para detectar anomalías en seguridad?",
+    "options": [
+      "A) Machine Learning",
+      "B) Blockchain",
+      "C) Quantum Computing",
+      "D) Edge Computing"
+    ],
+    "answer": "A) Machine Learning"
+  },
+  {
+    "question": "¿Qué debe hacer primero una entidad ante un ataque ransomware?",
+    "options": [
+      "A) Pagar el rescate",
+      "B) Aislar sistemas afectados",
+      "C) Reiniciar todos los servidores",
+      "D) Notificar a la prensa"
+    ],
+    "answer": "B) Aislar sistemas afectados"
+  },
+  {
+    "question": "¿Qué norma establece estándares para firma electrónica?",
+    "options": [
+      "A) Ley 527/1999",
+      "B) Decreto 1078/2015",
+      "C) Resolución 3354/2020",
+      "D) Ley 1581/2012"
+    ],
+    "answer": "A) Ley 527/1999"
+  },
+  {
+    "question": "¿Qué componente NO es parte del modelo CID de seguridad?",
+    "options": [
+      "A) Confidencialidad",
+      "B) Integridad",
+      "C) Disponibilidad",
+      "D) Autenticidad"
+    ],
+    "answer": "D) Autenticidad"
+  },
+  {
+    "question": "¿Qué sanción aplica por no implementar SGSI según Resolución 3354?",
+    "options": [
+      "A) Multa económica",
+      "B) Inhabilidad para contratar TI",
+      "C) Cierre de la entidad",
+      "D) Arresto de funcionarios"
+    ],
+    "answer": "B) Inhabilidad para contratar TI"
+  },
+  {
+    "question": "¿Qué norma regula la gestión de riesgo operacional en TI?",
+    "options": [
+      "A) Ley 1523/2012",
+      "B) Decreto 1078/2015",
+      "C) Resolución 3354/2020",
+      "D) Todas las anteriores"
+    ],
+    "answer": "D) Todas las anteriores"
+  },
+  {
+    "question": "¿Qué técnica previene suplantación de identidad?",
+    "options": [
+      "A) Autenticación multifactor",
+      "B) Cifrado AES-256",
+      "C) Backup incremental",
+      "D) Virtualización"
+    ],
+    "answer": "A) Autenticación multifactor"
+  },
+  {
+    "question": "¿Qué artículo de la Ley 1581 regula los derechos de los titulares de datos?",
+    "options": [
+      "A) Art. 8",
+      "B) Art. 15",
+      "C) Art. 21",
+      "D) Art. 30"
+    ],
+    "answer": "A) Art. 8"
+  }
+
+
+  
+
+]

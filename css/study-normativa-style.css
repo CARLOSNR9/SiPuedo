@@ -1,0 +1,154 @@
+/* Estilo general para la página */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+h1, h2, h3 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    color: #4CAF50;
+    margin-top: 50px;
+}
+
+/* Hero section (título principal y mensaje inspirador) */
+.hero {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+    margin-bottom: 40px;
+}
+
+.tagline {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+/* Sección de artículos */
+#articles {
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+}
+
+#articles .container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.news-item {
+    margin-bottom: 30px;
+}
+
+.news-item h3 {
+    font-size: 1.8rem;
+    color: #4CAF50;
+}
+
+.news-item p {
+    font-size: 1rem;
+    margin: 10px 0;
+}
+
+.link {
+    color: #4CAF50;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+/* Sección para el estudio */
+#study-section {
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    margin-top: 20px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+}
+
+#study-section h2 {
+    color: #4CAF50;
+    font-size: 1.8rem;
+}
+
+#study-section p {
+    font-size: 1rem;
+    color: #555;
+}
+
+/* Tabla de normativa */
+#study-section table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+#study-section th, #study-section td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+#study-section th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#study-section td a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+#study-section td a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2rem;
+    }
+    .hero {
+        padding: 40px 10px;
+    }
+    .tagline {
+        font-size: 1rem;
+    }
+    #articles .container {
+        width: 90%;
+    }
+    .news-item h3 {
+        font-size: 1.5rem;
+    }
+    .news-item p {
+        font-size: 0.9rem;
+    }
+    #study-section {
+        padding: 10px;
+    }
+    #study-section h2 {
+        font-size: 1.5rem;
+    }
+    #study-section p {
+        font-size: 0.9rem;
+    }
+    #study-section table {
+        font-size: 0.9rem;
+    }
+    #study-section th, #study-section td {
+        padding: 8px;
+    }
+}

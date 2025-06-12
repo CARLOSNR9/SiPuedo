@@ -1,0 +1,1003 @@
+[
+    {
+        "question": "¿Qué es el PETI?",
+        "options": ["Documento de planeación para alinear proyectos TI", "Requisito para la contratación de TI", "Una guía para la compra de hardware", "Ninguna de las anteriores"],
+        "answer": "Documento de planeación para alinear proyectos TI"
+    },
+    {
+        "question": "¿Cuántos años tiene la vigencia del PETI?",
+        "options": ["2 años", "4 años", "6 años", "10 años"],
+        "answer": "4 años"
+    },
+    {
+        "question": "¿Qué enfoque tiene el PETI?",
+        "options": ["Ciudadano, datos abiertos, seguridad digital", "Reducción de la burocracia", "Privatización de servicios digitales", "Interoperabilidad internacional"],
+        "answer": "Ciudadano, datos abiertos, seguridad digital"
+    },
+    {
+        "question": "¿Quién aprueba el PETI en un municipio?",
+        "options": ["MINTIC", "Alcaldía local", "Gobernación", "Ministerio de Salud"],
+        "answer": "MINTIC"
+    },
+    {
+        "question": "¿Qué componente es obligatorio en el PETI?",
+        "options": ["Diagnóstico de brechas tecnológicas", "El plan de recursos humanos", "El plan de adquisiciones", "Ninguno de los anteriores"],
+        "answer": "Diagnóstico de brechas tecnológicas"
+    },
+    {
+        "question": "¿Cuál de los siguientes es un componente clave del PETI?",
+        "options": ["Diagnóstico tecnológico", "Plan de recursos humanos", "Evaluación de procesos políticos", "Reducción de trámites gubernamentales"],
+        "answer": "Diagnóstico tecnológico"
+    },
+
+
+    {
+        "question": "¿Cuál es el principal objetivo del PETI en una entidad pública?",
+        "options": ["Optimizar la infraestructura tecnológica", "Reducir la cantidad de empleados", "Eliminar procesos administrativos", "Privatizar los servicios gubernamentales"],
+        "answer": "Optimizar la infraestructura tecnológica"
+    },
+    {
+        "question": "¿Qué elemento es fundamental para la implementación del PETI?",
+        "options": ["El desarrollo de software sin estándares", "La alineación con los objetivos institucionales", "La eliminación de datos históricos", "La contratación de personal externo sin planificación"],
+        "answer": "La alineación con los objetivos institucionales"
+    },
+    {
+        "question": "¿Cuál de los siguientes es un componente clave del PETI?",
+        "options": ["Diagnóstico tecnológico", "Plan de recursos humanos", "Evaluación de procesos políticos", "Reducción de trámites gubernamentales"],
+        "answer": "Diagnóstico tecnológico"
+    },
+    {
+        "question": "¿Cómo debe alinearse el PETI dentro de una entidad pública?",
+        "options": ["Con las estrategias de transformación digital", "Con la reducción de presupuesto anual", "Con el sistema de contratación", "Con las evaluaciones políticas"],
+        "answer": "Con las estrategias de transformación digital"
+    },
+    {
+        "question": "¿Qué se busca con la implementación del PETI?",
+        "options": ["Aumentar la eficiencia en el uso de tecnologías", "Crear más documentos físicos", "Reducir el uso de software en la administración pública", "Evitar la automatización de procesos"],
+        "answer": "Aumentar la eficiencia en el uso de tecnologías"
+    },
+    {
+        "question": "¿Cuál es una ventaja de contar con un PETI bien estructurado?",
+        "options": ["Mayor agilidad en la toma de decisiones tecnológicas", "Dependencia total de proveedores externos", "Descentralización total de la gestión TI", "Eliminación de la seguridad informática"],
+        "answer": "Mayor agilidad en la toma de decisiones tecnológicas"
+    },
+    {
+        "question": "¿Cuál de las siguientes acciones forma parte del PETI?",
+        "options": ["Gestión de datos y seguridad informática", "Reducción de personal sin análisis previo", "Aumento de trámites manuales", "Eliminación del uso de plataformas digitales"],
+        "answer": "Gestión de datos y seguridad informática"
+    },
+    {
+        "question": "En el marco del PETI, ¿qué aspecto es clave para garantizar la sostenibilidad tecnológica?",
+        "options": ["Actualización periódica de sistemas y recursos", "Eliminación de la capacitación digital", "Uso exclusivo de tecnologías obsoletas", "Desconexión total de servidores externos"],
+        "answer": "Actualización periódica de sistemas y recursos"
+    },
+    {
+        "question": "¿Cuál es un desafío común en la implementación del PETI?",
+        "options": ["Resistencia al cambio por parte del personal", "Automatización total sin supervisión", "Eliminación de todos los sistemas previos", "Uso de tecnologías sin evaluación de impacto"],
+        "answer": "Resistencia al cambio por parte del personal"
+    },
+    {
+        "question": "¿Cómo contribuye el PETI a la política de Gobierno Digital?",
+        "options": ["Garantiza la alineación estratégica con la transformación digital", "Impulsa la eliminación de tecnologías digitales", "Reduce la capacitación en herramientas tecnológicas", "Limita el acceso ciudadano a información pública"],
+        "answer": "Garantiza la alineación estratégica con la transformación digital"
+    },
+
+    
+  {
+    "question": "¿Cuál de los siguientes es un componente clave de la fase de planeación de la Arquitectura Tecnológica Objetivo en el PETI?",
+    "options": ["Análisis de la cultura organizacional de la entidad", "Definición de la visión futura de la tecnología y los sistemas de información", "Evaluación del desempeño del personal de TI", "Identificación de los activos de la entidad no relacionados con TI"],
+    "answer": "Definición de la visión futura de la tecnología y los sistemas de información"
+  },
+  {
+    "question": "¿Qué normativa actualiza la Política de Gobierno Digital y establece la Estrategia Nacional de Transformación Digital Pública (ENTDP) en Colombia?",
+    "options": ["Decreto 1008 de 2018", "Ley 1437 de 2011", "Resolución 1951 de 2023 del MinTIC", "Ley 1955 de 2019"],
+    "answer": "Resolución 1951 de 2023 del MinTIC"
+  },
+  {
+    "question": "Según el Decreto 620 de 2020, ¿qué principio fundamental debe guiar la provisión de los Servicios Ciudadanos Digitales, especialmente en relación con la información de los usuarios?",
+    "options": ["Libre competencia entre proveedores", "Prioridad del desarrollo de software a la medida", "Protección de datos personales y privacidad desde el diseño", "Máxima rentabilidad para la entidad"],
+    "answer": "Protección de datos personales y privacidad desde el diseño"
+  },
+  {
+    "question": "Si una entidad pública necesita evaluar su nivel de implementación de los dominios y controles establecidos en el Modelo de Seguridad y Privacidad de la Información (MSPI), ¿qué herramienta del MinTIC debería utilizar principalmente?",
+    "options": ["El RUES", "El Instrumento de Diagnóstico del MSPI", "El SECOP II", "La plataforma de URSA"],
+    "answer": "El Instrumento de Diagnóstico del MSPI"
+  },
+  {
+    "question": "¿Cuál es la ley que en Colombia regula el derecho de acceso a la información pública y promueve la transparencia gubernamental, estableciendo la transparencia activa y pasiva?",
+    "options": ["Ley 1581 de 2012", "Ley 1712 de 2014", "Ley 527 de 1999", "Ley 1901 de 2018"],
+    "answer": "Ley 1712 de 2014"
+  },
+  {
+    "question": "¿Qué sistema es la plataforma oficial y el medio de información único en Colombia para registrar y dar publicidad a todos los procesos de contratación que realizan las entidades públicas?",
+    "options": ["SIPAC", "SIMUR", "RUES", "SECOP"],
+    "answer": "SECOP"
+  },
+  {
+    "question": "En el contexto de la Política de Gobierno Digital, ¿cuál de los siguientes habilitadores transversales se enfoca en la capacidad de los sistemas de información para intercambiar datos de manera efectiva entre diferentes entidades?",
+    "options": ["Seguridad y Privacidad de la Información", "Gestión del Cambio", "Arquitectura", "Servicios Ciudadanos Digitales"],
+    "answer": "Arquitectura"
+  },
+  {
+    "question": "La Ley 1523 de 2012, que adopta la Política Nacional de Gestión del Riesgo de Desastres, indirectamente obliga a las entidades a considerar la continuidad operativa en su PETI. ¿Cuál es el principal instrumento de planeación que esta ley exige a las entidades públicas?",
+    "options": ["Plan Nacional de Desarrollo", "Plan de Gestión del Riesgo de Desastres", "Plan Estratégico de TIC (PETI)", "Manual de Procesos y Procedimientos"],
+    "answer": "Plan de Gestión del Riesgo de Desastres"
+  },
+  {
+    "question": "¿Cuál de las siguientes acciones se considera un paso crucial en la fase de Diagnóstico del Estado Actual de la TI en la construcción del PETI?",
+    "options": ["Definir el presupuesto total para los próximos cinco años", "Realizar una evaluación de la obsolescencia de la infraestructura tecnológica y las aplicaciones", "Seleccionar los proveedores tecnológicos finales para los proyectos", "Establecer la estructura organizacional del área de TI"],
+    "answer": "Realizar una evaluación de la obsolescencia de la infraestructura tecnológica y las aplicaciones"
+  },
+  {
+    "question": "¿Cuál de las siguientes leyes reconoce la validez jurídica de los mensajes de datos y las firmas digitales en Colombia, sentando las bases para el comercio electrónico?",
+    "options": ["Ley 1437 de 2011", "Ley 1266 de 2008", "Ley 527 de 1999", "Ley 1955 de 2019"],
+    "answer": "Ley 527 de 1999"
+  },
+
+
+  
+    {
+        "question": "¿Qué es el PETI?",
+        "options": [
+            "Documento de planeación para alinear proyectos TI con los objetivos institucionales",
+            "Una herramienta para la contratación de empresas de tecnología",
+            "Un plan para reducir los costos de los servicios digitales",
+            "Una guía para la digitalización de trámites judiciales"
+        ],
+        "answer": "Documento de planeación para alinear proyectos TI con los objetivos institucionales"
+    },
+    {
+        "question": "¿Cuántos años tiene la vigencia del PETI?",
+        "options": [
+            "2 años",
+            "4 años",
+            "6 años",
+            "8 años"
+        ],
+        "answer": "4 años"
+    },
+    {
+        "question": "¿Cuál de los siguientes componentes NO forma parte de la estructura del PETI?",
+        "options": [
+            "Diagnóstico tecnológico",
+            "Plan de desarrollo de recursos humanos",
+            "Objetivos estratégicos de TI",
+            "Presupuesto de proyectos"
+        ],
+        "answer": "Plan de desarrollo de recursos humanos"
+    },
+    {
+        "question": "¿Quién aprueba el PETI en un municipio?",
+        "options": [
+            "MINTIC, previa revisión del Comité de Gobierno Digital local",
+            "El alcalde, sin necesidad de validación externa",
+            "El Ministerio de Hacienda",
+            "El Congreso de la República"
+        ],
+        "answer": "MINTIC, previa revisión del Comité de Gobierno Digital local"
+    },
+    {
+        "question": "¿Cuál es el propósito principal del PETI?",
+        "options": [
+            "Alinear las Tecnologías de la Información con los objetivos estratégicos de la entidad pública",
+            "Reformular las normativas de contratación pública",
+            "Facilitar la adquisición de hardware para las entidades públicas",
+            "Limitar el acceso de los ciudadanos a los servicios digitales"
+        ],
+        "answer": "Alinear las Tecnologías de la Información con los objetivos estratégicos de la entidad pública"
+    },
+    {
+        "question": "¿Qué decreto establece las pautas principales para la implementación del PETI?",
+        "options": [
+            "Decreto 1008 de 2018",
+            "Decreto 1900 de 2020",
+            "Ley 1341 de 2009",
+            "Resolución 1951 de 2023"
+        ],
+        "answer": "Decreto 1008 de 2018"
+    },
+    {
+        "question": "¿Cuál de las siguientes opciones es un componente esencial que debe incluir el PETI?",
+        "options": [
+            "Diagnóstico de la infraestructura tecnológica actual",
+            "Plan de marketing digital",
+            "Auditoría externa de sistemas",
+            "Proyectos de infraestructura física"
+        ],
+        "answer": "Diagnóstico de la infraestructura tecnológica actual"
+    },
+    {
+        "question": "¿Qué entidad se encarga de dar seguimiento a la implementación del PETI en las entidades públicas?",
+        "options": [
+            "MINTIC",
+            "Ministerio de Salud",
+            "Departamento Administrativo de la Función Pública (DAFP)",
+            "Ministerio de Comercio, Industria y Turismo"
+        ],
+        "answer": "MINTIC"
+    },
+    {
+        "question": "Según la Guía PETI 4.0 del MINTIC, ¿cuál de los siguientes aspectos es parte del proceso de elaboración del PETI?",
+        "options": [
+            "Evaluación de la madurez digital de la entidad",
+            "Reducción de trámites judiciales",
+            "Promoción del uso de software libre en el sector privado",
+            "Contratación de consultores internacionales"
+        ],
+        "answer": "Evaluación de la madurez digital de la entidad"
+    },
+    {
+        "question": "¿Cuál es el principal desafío al implementar el PETI en las entidades públicas?",
+        "options": [
+            "Falta de presupuesto y resistencia al cambio",
+            "Alta demanda de trámites en línea",
+            "Escasez de talento humano en TI",
+            "Baja prioridad de la digitalización en el sector privado"
+        ],
+        "answer": "Falta de presupuesto y resistencia al cambio"
+    },
+
+
+    
+    {
+        "question": "La entidad pública X quiere modernizar su sistema de gestión documental, pero enfrenta resistencia por parte de algunos funcionarios. ¿Cuál sería la mejor estrategia dentro del PETI?",
+        "options": ["Capacitación sobre los beneficios de la digitalización", "Eliminar el uso de documentos electrónicos", "Reducir la cantidad de empleados", "Prohibir la implementación del nuevo sistema"],
+        "answer": "Capacitación sobre los beneficios de la digitalización"
+    },
+    {
+        "question": "La Alcaldía Y implementó un sistema de atención al ciudadano basado en inteligencia artificial. Sin embargo, los ciudadanos reportan fallos en la accesibilidad. ¿Qué acción recomendada por el PETI podría mejorar la situación?",
+        "options": ["Revisión de estándares de accesibilidad digital", "Cerrar la plataforma por completo", "Limitar el acceso solo a empleados", "Eliminar el uso de inteligencia artificial"],
+        "answer": "Revisión de estándares de accesibilidad digital"
+    },
+    {
+        "question": "Un Ministerio quiere fortalecer la seguridad informática y evitar ciberataques. ¿Cuál de los siguientes componentes del PETI debería priorizar?",
+        "options": ["Implementación de protocolos de ciberseguridad", "Reducción de uso de redes digitales", "Eliminación de la infraestructura tecnológica", "Contratación de más empleados administrativos"],
+        "answer": "Implementación de protocolos de ciberseguridad"
+    },
+    {
+        "question": "La DIAN desarrolla un portal digital para facilitar la declaración de impuestos. Sin embargo, su uso resulta confuso para los ciudadanos. ¿Qué enfoque del PETI ayudaría a mejorar el sistema?",
+        "options": ["Diseño centrado en la experiencia del usuario", "Eliminación del portal digital", "Obligar a los ciudadanos a acudir presencialmente", "Desactivar funciones automatizadas"],
+        "answer": "Diseño centrado en la experiencia del usuario"
+    },
+    {
+        "question": "Una Gobernación tiene sistemas de información desactualizados que dificultan la toma de decisiones. ¿Cuál sería la mejor estrategia según el PETI?",
+        "options": ["Actualización de infraestructura y software", "Eliminar el acceso a los sistemas digitales", "Centralizar toda la información en papel", "Reducir la cantidad de reportes generados"],
+        "answer": "Actualización de infraestructura y software"
+    },
+    {
+        "question": "El Gobierno Nacional busca mejorar la interoperabilidad de sus sistemas digitales para compartir información entre entidades. ¿Cuál de los siguientes principios del PETI se aplica?",
+        "options": ["Interoperabilidad y estándares tecnológicos", "Eliminación de la colaboración digital", "Privatización de los sistemas públicos", "Uso exclusivo de plataformas aisladas"],
+        "answer": "Interoperabilidad y estándares tecnológicos"
+    },
+    {
+        "question": "Una entidad pública detectó una brecha en la capacitación de su personal respecto a herramientas digitales. Según el PETI, ¿cuál sería la mejor solución?",
+        "options": ["Plan de capacitación y certificación en tecnologías", "Eliminar el uso de herramientas digitales", "Contratar personal sin formación previa", "Reducir el presupuesto de capacitación"],
+        "answer": "Plan de capacitación y certificación en tecnologías"
+    },
+    {
+        "question": "La Agencia Nacional de Tránsito quiere reducir tiempos en la expedición de licencias mediante plataformas digitales. ¿Cómo el PETI ayudaría en este proceso?",
+        "options": ["Automatización y simplificación de trámites", "Incremento de requisitos manuales", "Eliminación de servicios digitales", "Obligar a los ciudadanos a acudir presencialmente"],
+        "answer": "Automatización y simplificación de trámites"
+    },
+    {
+        "question": "Una municipalidad quiere incorporar el uso de computación en la nube, pero hay dudas sobre la seguridad. ¿Qué acción basada en el PETI ayudaría?",
+        "options": ["Adopción de estrategias de seguridad y cifrado", "Eliminación del uso de la nube", "Uso exclusivo de servidores físicos locales", "Reducir la inversión en tecnologías emergentes"],
+        "answer": "Adopción de estrategias de seguridad y cifrado"
+    },
+    {
+        "question": "El Gobierno implementa un portal único de transparencia donde los ciudadanos pueden consultar información pública. ¿Qué componente del PETI respalda esta iniciativa?",
+        "options": ["Gobierno Abierto y acceso a la información", "Restricción total del acceso digital", "Centralización de información en archivos físicos", "Eliminación de reportes públicos"],
+        "answer": "Gobierno Abierto y acceso a la información"
+    },
+
+
+
+  {
+    "question": "Caso: La Alcaldía de Puerto Boyacá está formulando su Plan de Desarrollo Territorial para la nueva administración. Como Profesional Universitario de la Secretaría General y de Servicios Administrativos, ¿cuál de las siguientes acciones sería la más prioritaria para usted en relación con el PETI?",
+    "options": [
+      "Esperar la aprobación del Plan de Desarrollo para iniciar la actualización del PETI.",
+      "Asegurar que los objetivos estratégicos y las necesidades de TI del PETI estén alineados con las metas del nuevo Plan de Desarrollo.",
+      "Iniciar de inmediato la adquisición de nuevo hardware y software según el último PETI sin considerar el nuevo Plan de Desarrollo.",
+      "Capacitar a todo el personal en el uso de nuevas herramientas ofimáticas antes de cualquier otra actividad."
+    ],
+    "answer": "Asegurar que los objetivos estratégicos y las necesidades de TI del PETI estén alineados con las metas del nuevo Plan de Desarrollo."
+  },
+  {
+    "question": "Caso: Se ha identificado que varios sistemas de información internos de la Alcaldía de Puerto Boyacá están funcionando con versiones de software obsoletas, lo que genera riesgos de seguridad y fallas constantes. Como parte de sus funciones, ¿qué acción inicial debería priorizar para abordar esta situación en el marco del PETI?",
+    "options": [
+      "Solicitar la compra inmediata de las últimas versiones de software en el mercado.",
+      "Elaborar un informe técnico detallado de diagnóstico y obsolescencia, proponiendo soluciones y su integración en el PETI.",
+      "Deshabilitar los sistemas obsoletos para evitar mayores riesgos.",
+      "Capacitar a los usuarios en cómo manejar las fallas de los sistemas actuales."
+    ],
+    "answer": "Elaborar un informe técnico detallado de diagnóstico y obsolescencia, proponiendo soluciones y su integración en el PETI."
+  },
+  {
+    "question": "Caso: La Secretaría de Hacienda del Municipio requiere una nueva aplicación informática para optimizar la gestión de impuestos, pero no cuenta con un diseño claro ni con las especificaciones técnicas. ¿Cuál sería su rol principal como Profesional Universitario para apoyar esta necesidad?",
+    "options": [
+      "Indicar a la Secretaría de Hacienda que deben buscar un proveedor externo que diseñe la aplicación.",
+      "Proponer a la Secretaría de Hacienda el desarrollo o recomendación de las aplicaciones informáticas requeridas, alineado con el PETI y la arquitectura empresarial.",
+      "Diseñar usted mismo la aplicación sin consultar a los usuarios finales.",
+      "Comunicarles que el presupuesto actual no permite nuevos desarrollos."
+    ],
+    "answer": "Proponer a la Secretaría de Hacienda el desarrollo o recomendación de las aplicaciones informáticas requeridas, alineado con el PETI y la arquitectura empresarial."
+  },
+  {
+    "question": "Caso: Durante la ejecución de un proyecto TIC clave definido en el PETI, se presentan retrasos significativos debido a la falta de coordinación entre las dependencias involucradas. ¿Qué competencia comportamental y acción sería la más adecuada para usted en esta situación?",
+    "options": [
+      "Reportar el retraso al jefe inmediato y desentenderse de la coordinación.",
+      "Asumir personalmente todas las tareas del proyecto para acelerar su avance.",
+      "Ejercer su función de coordinación y seguimiento, facilitando la comunicación efectiva y el trabajo en equipo interdisciplinario.",
+      "Culpar a las otras dependencias por la falta de compromiso."
+    ],
+    "answer": "Ejercer su función de coordinación y seguimiento, facilitando la comunicación efectiva y el trabajo en equipo interdisciplinario."
+  },
+  {
+    "question": "Caso: La Alcaldía de Puerto Boyacá desea fortalecer la política de Gobierno Digital, promoviendo la interoperabilidad y los servicios ciudadanos digitales. ¿Cuál de los siguientes conocimientos básicos es esencial para que usted contribuya efectivamente a este objetivo?",
+    "options": [
+      "Manejo avanzado de procesadores de texto.",
+      "Conocimientos en la implementación de la política de Gobierno Digital y el Marco de Arquitectura Empresarial.",
+      "Dominio de una segunda lengua.",
+      "Conocimiento específico de sistemas contables privados."
+    ],
+    "answer": "Conocimientos en la implementación de la política de Gobierno Digital y el Marco de Arquitectura Empresarial."
+  },
+  {
+    "question": "Caso: Se detecta una vulnerabilidad crítica en una de las bases de datos municipales que administra información sensible. Su función incluye la administración de la seguridad de las bases de datos. ¿Qué acción inmediata es prioritaria y cuál es su responsabilidad a largo plazo frente a esto?",
+    "options": [
+      "Cambiar todas las contraseñas de acceso y esperar una próxima auditoría.",
+      "Aplicar los controles necesarios de forma inmediata y velar por la adopción continua del Modelo de Seguridad y Privacidad de la Información (MSPI) en el Municipio.",
+      "Notificar únicamente al alcalde y esperar sus instrucciones.",
+      "Desactivar la base de datos para evitar futuros ataques, sin previo aviso."
+    ],
+    "answer": "Aplicar los controles necesarios de forma inmediata y velar por la adopción continua del Modelo de Seguridad y Privacidad de la Información (MSPI) en el Municipio."
+  },
+  {
+    "question": "Caso: La Alcaldía requiere adquirir un nuevo software para la gestión de nómina, y le solicitan emitir un concepto técnico. ¿Qué aspectos, según su manual de funciones, son cruciales que evalúe y defina en este concepto?",
+    "options": [
+      "Únicamente el precio más bajo del software.",
+      "Las referencias de uso del software en otras alcaldías sin considerar las necesidades de Puerto Boyacá.",
+      "Las necesidades y lineamientos de la entidad, el adecuado dimensionamiento frente a los adelantos tecnológicos y su correcto funcionamiento.",
+      "La estética de la interfaz de usuario del software."
+    ],
+    "answer": "Las necesidades y lineamientos de la entidad, el adecuado dimensionamiento frente a los adelantos tecnológicos y su correcto funcionamiento."
+  },
+  {
+    "question": "Caso: Un funcionario de otra dependencia necesita acceder a información de una base de datos específica para un trámite urgente. Su función es garantizar la disponibilidad de información consistente, actualizada y confiable. ¿Qué debe asegurar antes de conceder el acceso?",
+    "options": [
+      "Que el funcionario haya realizado un curso de manejo de bases de datos.",
+      "Que el acceso solicitado cumpla con los protocolos de seguridad y los permisos de acceso definidos en el MSPI y la política interna.",
+      "Que el funcionario prometa no compartir la información con nadie.",
+      "Que la base de datos esté accesible desde cualquier red sin restricciones."
+    ],
+    "answer": "Que el acceso solicitado cumpla con los protocolos de seguridad y los permisos de acceso definidos en el MSPI y la política interna."
+  },
+  {
+    "question": "Caso: Se le ha asignado la responsabilidad de velar por el correcto funcionamiento y actualización de la página web del Municipio. ¿Qué objetivo primordial de Gobierno Digital se asocia directamente con esta función?",
+    "options": [
+      "Asegurar la compatibilidad con navegadores antiguos.",
+      "Garantizar la prestación de la mayor cantidad de servicios a través del medio tecnológico en dicho portal, promoviendo los Servicios Ciudadanos Digitales.",
+      "Limitar el acceso de los ciudadanos a la información para evitar sobrecargas.",
+      "Publicar únicamente información de carácter administrativo interno."
+    ],
+    "answer": "Garantizar la prestación de la mayor cantidad de servicios a través del medio tecnológico en dicho portal, promoviendo los Servicios Ciudadanos Digitales."
+  },
+  {
+    "question": "Caso: Un grupo interdisciplinario de la Alcaldía busca desarrollar un nuevo proyecto digital para mejorar la atención ciudadana. Como Profesional Universitario, ¿cómo debería propiciar su participación para asegurar el mejoramiento del soporte de los sistemas de información de los procesos misionales?",
+    "options": [
+      "Esperar a que le asignen tareas específicas y solo realizarlas.",
+      "Limitar su participación a la emisión de conceptos técnicos una vez el proyecto esté avanzado.",
+      "Propiciar su participación activa con ideas y estrategias, buscando eficiencia y eficacia en el desarrollo de actividades con el grupo interdisciplinario.",
+      "Aislarse para evitar conflictos con otras áreas."
+    ],
+    "answer": "Propiciar su participación activa con ideas y estrategias, buscando eficiencia y eficacia en el desarrollo de actividades con el grupo interdisciplinario."
+  },
+  {
+    "question": "Caso: La Alcaldía de Puerto Boyacá busca implementar la política de 'cero papel' y agilizar la radicación de comunicaciones. ¿Qué tipo de sistema de información sería prioritario para usted proponer o gestionar para este fin?",
+    "options": [
+      "Un software de diseño gráfico avanzado.",
+      "Un sistema de gestión documental electrónica (SGDEA) como HERMES.",
+      "Una plataforma de videoconferencias.",
+      "Un programa de edición de video."
+    ],
+    "answer": "Un sistema de gestión documental electrónica (SGDEA) como HERMES."
+  },
+  {
+    "question": "Caso: En el marco de la implementación del PETI, se requiere aplicar metodologías ágiles en un proyecto de desarrollo de software. ¿Qué certificación profesional, mencionada en sus conocimientos básicos, sería de mayor utilidad para liderar este proceso?",
+    "options": [
+      "Certificación en Auditoría Financiera.",
+      "Certificación Profesional de Scrum Master.",
+      "Certificación en Salud Ocupacional.",
+      "Certificación en Edición de Texto."
+    ],
+    "answer": "Certificación Profesional de Scrum Master."
+  },
+  {
+    "question": "Caso: La Contraloría General de la República solicita un informe detallado sobre la ejecución de un proyecto TIC clave del Municipio. ¿Cuál de sus funciones esenciales le habilita directamente para preparar y rendir este tipo de informes?",
+    "options": [
+      "Administrar la seguridad de las bases de datos.",
+      "Coordinar con la Secretaría de Servicios Administrativos planes de capacitación.",
+      "Preparar y rendir los informes periódicos de gestión que le sean solicitados por entes de control.",
+      "Velar por la adopción del modelo de Seguridad y Privacidad de la Información."
+    ],
+    "answer": "Preparar y rendir los informes periódicos de gestión que le sean solicitados por entes de control."
+  },
+  {
+    "question": "Caso: Durante la ejecución de un proyecto TIC, se presenta una situación inesperada que requiere una decisión rápida y un ajuste en la planeación. ¿Cuál de las siguientes competencias comportamentales sería clave para usted en este momento?",
+    "options": [
+      "Compromiso con la organización.",
+      "Aprendizaje continuo.",
+      "Adaptación al cambio.",
+      "Gestión de procedimientos."
+    ],
+    "answer": "Adaptación al cambio."
+  },
+  {
+    "question": "Caso: La Alcaldía desea realizar una compra de hardware y software para renovar sus equipos. ¿Cuál de las siguientes acciones, basada en sus funciones, aseguraría el adecuado dimensionamiento de los requerimientos y la pertinencia tecnológica de la adquisición?",
+    "options": [
+      "Consultar únicamente los catálogos de los proveedores más económicos.",
+      "Emitir conceptos técnicos basados en la evaluación de necesidades y lineamientos para la adquisición, velando por el adecuado dimensionamiento frente a los adelantos tecnológicos.",
+      "Dejar la decisión de compra en manos del área de presupuesto.",
+      "Adquirir los equipos con las especificaciones más altas del mercado sin un análisis previo."
+    ],
+    "answer": "Emitir conceptos técnicos basados en la evaluación de necesidades y lineamientos para la adquisición, velando por el adecuado dimensionamiento frente a los adelantos tecnológicos."
+  },
+  {
+    "question": "Caso: Se le encarga la revisión y evaluación del impacto de la tecnología en los procesos institucionales del Municipio. Para llevar a cabo esta función, ¿cuál de los siguientes conocimientos básicos es fundamental?",
+    "options": [
+      "Manejo de equipos de sonido y video.",
+      "Técnicas y herramientas de planeación, administración y evaluación de la gestión MIPG.",
+      "Conocimiento de lenguajes de programación obsoletos.",
+      "Habilidades en diseño gráfico web."
+    ],
+    "answer": "Técnicas y herramientas de planeación, administración y evaluación de la gestión MIPG."
+  },
+  {
+    "question": "Caso: Un área de la Alcaldía está experimentando problemas recurrentes con un sistema de información que usted administra. Según sus contribuciones individuales, ¿qué debería verificar para asegurar un buen soporte?",
+    "options": [
+      "Que el sistema no genere ningún error, sin importar su complejidad.",
+      "Que el soporte prestado a los usuarios se realice de forma oportuna y efectiva.",
+      "Que el usuario sepa resolver el problema por sí mismo.",
+      "Que el problema se resuelva solo con reiniciar el sistema."
+    ],
+    "answer": "Que el soporte prestado a los usuarios se realice de forma oportuna y efectiva."
+  },
+  {
+    "question": "Caso: Como Profesional Universitario, debe orientar al Despacho del alcalde sobre las plataformas informáticas necesarias para el Municipio. ¿Cuál de sus conocimientos básicos es crucial para brindar un concepto acertado en esta materia?",
+    "options": [
+      "Conocimientos avanzados en contabilidad pública.",
+      "Conocimiento y conceptos en Redes y Telecomunicaciones y en el manejo de tecnologías de información y comunicaciones (TIC).",
+      "Habilidades en la redacción de informes financieros.",
+      "Experticia en procesos de contratación física."
+    ],
+    "answer": "Conocimiento y conceptos en Redes y Telecomunicaciones y en el manejo de tecnologías de información y comunicaciones (TIC)."
+  },
+  {
+    "question": "Caso: La Alcaldía decide impulsar una 'cultura de la página web' para mejorar la comunicación con la ciudadanía. ¿Cuál de sus contribuciones individuales se alinea directamente con esta iniciativa?",
+    "options": [
+      "Realizar mantenimientos técnicos correctivos a la plataforma informática de su responsabilidad.",
+      "Verificar que el soporte prestado a los usuarios se realice de forma oportuna.",
+      "Propiciar la participación en grupos interdisciplinarios.",
+      "La utilización de la página Web de la institución debe ser una cultura generada a partir de la gestión de su cargo."
+    ],
+    "answer": "La utilización de la página Web de la institución debe ser una cultura generada a partir de la gestión de su cargo."
+  },
+  {
+    "question": "Caso: En su rol, debe elaborar y actualizar el PETI. ¿Cuál es el propósito principal de este plan en el contexto de la gestión de la información y los desarrollos tecnológicos del Municipio?",
+    "options": [
+      "Definir únicamente los requerimientos de hardware del Municipio.",
+      "Precisar el manejo de la información y los desarrollos tecnológicos, alineándolos con la estrategia de la entidad.",
+      "Establecer la estructura salarial del personal de TI.",
+      "Coordinar exclusivamente la compra de software de ofimática."
+    ],
+    "answer": "Precisar el manejo de la información y los desarrollos tecnológicos, alineándolos con la estrategia de la entidad."
+  },
+
+
+   
+    {
+      "question": "¿Cuál es el objetivo principal del PETI según el Decreto 1008 de 2018?",
+      "options": [
+        "Alinear los proyectos TI con los objetivos institucionales",
+        "Reducir el personal de TI",
+        "Implementar software privativo exclusivamente",
+        "Centralizar todos los servicios en Bogotá"
+      ],
+      "answer": "Alinear los proyectos TI con los objetivos institucionales"
+    },
+    {
+      "question": "¿Qué entidad debe aprobar el PETI de un municipio?",
+      "options": [
+        "La Alcaldía Municipal",
+        "El Ministerio de Tecnologías de la Información y las Comunicaciones (MINTIC)",
+        "La Gobernación Departamental",
+        "El Departamento Nacional de Planeación"
+      ],
+      "answer": "El Ministerio de Tecnologías de la Información y las Comunicaciones (MINTIC)"
+    },
+    {
+      "question": "¿Cada cuánto se debe actualizar el PETI según la normativa vigente?",
+      "options": [
+        "Cada año",
+        "Cada 2 años",
+        "Cada 4 años",
+        "Solo cuando cambie el alcalde"
+      ],
+      "answer": "Cada 4 años"
+    },
+    {
+      "question": "¿Qué documento debe articularse directamente con el PETI?",
+      "options": [
+        "El Plan de Desarrollo Municipal",
+        "El manual de funciones de los empleados",
+        "El presupuesto anual de publicidad",
+        "El reglamento interno de trabajo"
+      ],
+      "answer": "El Plan de Desarrollo Municipal"
+    },
+    {
+      "question": "Según el MINTIC, ¿qué metodología se recomienda para elaborar el PETI?",
+      "options": [
+        "SCRUM",
+        "MÉTRICA Versión 4",
+        "ITIL",
+        "COBIT"
+      ],
+      "answer": "MÉTRICA Versión 4"
+    },
+    {
+      "question": "¿Cuál de estos NO es un componente obligatorio del PETI?",
+      "options": [
+        "Diagnóstico tecnológico",
+        "Plan de acción con cronograma",
+        "Presupuesto detallado",
+        "Nómina completa de empleados"
+      ],
+      "answer": "Nómina completa de empleados"
+    },
+    {
+      "question": "¿Qué principio del Gobierno Digital debe reflejarse en el PETI?",
+      "options": [
+        "Interoperabilidad",
+        "Centralización absoluta",
+        "Privatización de servicios",
+        "Jerarquización de trámites"
+      ],
+      "answer": "Interoperabilidad"
+    },
+    {
+      "question": "¿Qué sección del PETI identifica tecnologías obsoletas?",
+      "options": [
+        "Marco normativo",
+        "Diagnóstico tecnológico",
+        "Presupuesto",
+        "Anexos"
+      ],
+      "answer": "Diagnóstico tecnológico"
+    },
+    {
+      "question": "Según el Decreto 1008, ¿qué debe guiar la priorización de proyectos en el PETI?",
+      "options": [
+        "Preferencias personales del alcalde",
+        "Sostenibilidad e impacto ciudadano",
+        "Contratación con proveedores locales",
+        "Uniformidad tecnológica absoluta"
+      ],
+      "answer": "Sostenibilidad e impacto ciudadano"
+    },
+    {
+      "question": "¿Qué instancia local debe revisar el PETI antes de su envío al MINTIC?",
+      "options": [
+        "Concejo Municipal",
+        "Comité de Gobierno Digital",
+        "Personería",
+        "Secretaría de Hacienda"
+      ],
+      "answer": "Comité de Gobierno Digital"
+    },
+    {
+      "question": "¿Qué norma exige a las entidades territoriales formular un PETI?",
+      "options": [
+        "Ley 1341 de 2009",
+        "Decreto 1008 de 2018",
+        "Ley 1437 de 2011",
+        "Decreto 1078 de 2015"
+      ],
+      "answer": "Decreto 1008 de 2018"
+    },
+    {
+      "question": "En el contexto del PETI, ¿qué significa 'Arquitectura Empresarial'?",
+      "options": [
+        "Diseño de edificios inteligentes",
+        "Modelo que alinea procesos, datos y tecnología",
+        "Estructura organizacional de la entidad",
+        "Plan de construcción de infraestructura física"
+      ],
+      "answer": "Modelo que alinea procesos, datos y tecnología"
+    },
+    {
+      "question": "¿Qué componente del PETI establece indicadores de gestión?",
+      "options": [
+        "Marco de referencia",
+        "Sistema de monitoreo y evaluación",
+        "Glosario técnico",
+        "Anexos documentales"
+      ],
+      "answer": "Sistema de monitoreo y evaluación"
+    },
+    {
+      "question": "¿Qué porcentaje mínimo del presupuesto de TI debe alinearse con el PETI?",
+      "options": [
+        "50%",
+        "75%",
+        "90%",
+        "100%"
+      ],
+      "answer": "100%"
+    },
+    {
+      "question": "¿Qué herramienta del MINTIC apoya la elaboración del PETI?",
+      "options": [
+        "Guía PETI 4.0",
+        "Manual de Arquitectura Empresarial",
+        "Plataforma URSA",
+        "Todas las anteriores"
+      ],
+      "answer": "Todas las anteriores"
+    },
+    {
+      "question": "¿Qué sección del PETI debe incluir análisis de riesgos tecnológicos?",
+      "options": [
+        "Diagnóstico",
+        "Plan de acción",
+        "Anexos",
+        "Todas las anteriores"
+      ],
+      "answer": "Diagnóstico"
+    },
+    {
+      "question": "¿Qué ley obliga a incluir planes de continuidad operativa en el PETI?",
+      "options": [
+        "Ley 1437 de 2011",
+        "Ley 1712 de 2014 (Transparencia)",
+        "Ley 1523 de 2012 (Gestión del Riesgo)",
+        "Ley 1341 de 2009 (TIC)"
+      ],
+      "answer": "Ley 1523 de 2012 (Gestión del Riesgo)"
+    },
+    {
+      "question": "¿Qué debe contener el componente de 'Gobernanza TI' en el PETI?",
+      "options": [
+        "Estructura de toma de decisiones sobre TI",
+        "Manual de funciones del personal",
+        "Presupuesto detallado por rubros",
+        "Inventario de equipos obsoletos"
+      ],
+      "answer": "Estructura de toma de decisiones sobre TI"
+    },
+    {
+      "question": "Según el MINTIC, ¿cuál es el plazo máximo para implementar un PETI?",
+      "options": [
+        "1 año",
+        "El correspondiente al periodo de gobierno (4 años)",
+        "3 años",
+        "No hay plazo definido"
+      ],
+      "answer": "El correspondiente al periodo de gobierno (4 años)"
+    },
+    {
+      "question": "¿Qué documento CONPES prioriza inversiones TI alineadas al PETI?",
+      "options": [
+        "CONPES 3854 de 2016",
+        "CONPES 3920 de 2018",
+        "CONPES 3990 de 2020",
+        "CONPES 4010 de 2022"
+      ],
+      "answer": "CONPES 3920 de 2018"
+    },
+    {
+      "question": "¿Qué debe hacer una entidad si no ejecuta el 50% de los proyectos del PETI?",
+      "options": [
+        "Realizar ajustes con base en un diagnóstico técnico",
+        "Eliminar los proyectos no ejecutados sin justificación",
+        "Solicitar prórroga indefinida al MINTIC",
+        "Ignorar la situación"
+      ],
+      "answer": "Realizar ajustes con base en un diagnóstico técnico"
+    },
+    {
+      "question": "¿Qué principio del PETI evita duplicidad de sistemas en una entidad?",
+      "options": [
+        "Estandarización",
+        "Descentralización",
+        "Privatización",
+        "Jerarquización"
+      ],
+      "answer": "Estandarización"
+    },
+    {
+      "question": "¿Qué herramienta mide la madurez digital para alimentar el PETI?",
+      "options": [
+        "Índice de Gobierno Digital (IGD)",
+        "HERMES",
+        "URSA",
+        "Todas las anteriores"
+      ],
+      "answer": "Todas las anteriores"
+    },
+    {
+      "question": "¿Qué artículo del Decreto 1008 regula específicamente el PETI?",
+      "options": [
+        "Artículo 1°",
+        "Artículo 2.2.1",
+        "Artículo 10°",
+        "Artículo 15°"
+      ],
+      "answer": "Artículo 2.2.1"
+    },
+    {
+      "question": "¿Qué tipo de proyectos debe priorizar un PETI municipal?",
+      "options": [
+        "Los que resuelvan necesidades de ciudadanos",
+        "Los que sean más costosos",
+        "Los que usen tecnología extranjera",
+        "Los que beneficien solo al área administrativa"
+      ],
+      "answer": "Los que resuelvan necesidades de ciudadanos"
+    },
+    {
+      "question": "¿Qué norma complementa el PETI en gestión de seguridad digital?",
+      "options": [
+        "Resolución 3354 de 2020",
+        "Ley 1901 de 2018",
+        "Decreto 1078 de 2015",
+        "Circular 002 de 2019 de la CNSC"
+      ],
+      "answer": "Resolución 3354 de 2020"
+    },
+    {
+      "question": "¿Qué debe incluir el diagnóstico tecnológico del PETI?",
+      "options": [
+        "Brechas tecnológicas y capacidad instalada",
+        "Nómina de empleados del área TI",
+        "Presupuesto de otras dependencias",
+        "Proyectos políticos del alcalde"
+      ],
+      "answer": "Brechas tecnológicas y capacidad instalada"
+    },
+    {
+      "question": "¿Qué sucede si una entidad no formula el PETI?",
+      "options": [
+        "No puede ejecutar proyectos TI ni recibir recursos para ello",
+        "Puede operar normalmente sin restricciones",
+        "Debe contratar una consultoría internacional",
+        "Se le multa con el 50% del presupuesto anual"
+      ],
+      "answer": "No puede ejecutar proyectos TI ni recibir recursos para ello"
+    },
+    {
+      "question": "¿Qué debe garantizar el plan de acción del PETI?",
+      "options": [
+        "Cronograma realista con responsables definidos",
+        "Contratación exclusiva con un solo proveedor",
+        "Uso obligatorio de software pirata",
+        "Exclusión de áreas misionales"
+      ],
+      "answer": "Cronograma realista con responsables definidos"
+    },
+    {
+      "question": "¿Qué institución brinda asistencia técnica para elaborar el PETI?",
+      "options": [
+        "MINTIC a través de la UGIT",
+        "Departamento Administrativo de la Función Pública",
+        "Superintendencia de Industria y Comercio",
+        "Policía Nacional"
+      ],
+      "answer": "MINTIC a través de la UGIT"
+    },
+
+
+  {
+    "question": "Caso: La Alcaldía de Puerto Boyacá está formulando su Plan de Desarrollo Territorial para la nueva administración. Como Profesional Universitario de la Secretaría General y de Servicios Administrativos, ¿cuál de las siguientes acciones sería la más prioritaria para usted en relación con el PETI?",
+    "options": [
+      "Esperar la aprobación del Plan de Desarrollo para iniciar la actualización del PETI.",
+      "Asegurar que los objetivos estratégicos y las necesidades de TI del PETI estén alineados con las metas del nuevo Plan de Desarrollo.",
+      "Iniciar de inmediato la adquisición de nuevo hardware y software según el último PETI sin considerar el nuevo Plan de Desarrollo.",
+      "Capacitar a todo el personal en el uso de nuevas herramientas ofimáticas antes de cualquier otra actividad."
+    ],
+    "answer": "Asegurar que los objetivos estratégicos y las necesidades de TI del PETI estén alineados con las metas del nuevo Plan de Desarrollo."
+  },
+  {
+    "question": "Caso: Se ha identificado que varios sistemas de información internos de la Alcaldía de Puerto Boyacá están funcionando con versiones de software obsoletas, lo que genera riesgos de seguridad y fallas constantes. Como parte de sus funciones, ¿qué acción inicial debería priorizar para abordar esta situación en el marco del PETI?",
+    "options": [
+      "Solicitar la compra inmediata de las últimas versiones de software en el mercado.",
+      "Elaborar un informe técnico detallado de diagnóstico y obsolescencia, proponiendo soluciones y su integración en el PETI.",
+      "Deshabilitar los sistemas obsoletos para evitar mayores riesgos.",
+      "Capacitar a los usuarios en cómo manejar las fallas de los sistemas actuales."
+    ],
+    "answer": "Elaborar un informe técnico detallado de diagnóstico y obsolescencia, proponiendo soluciones y su integración en el PETI."
+  },
+  {
+    "question": "Caso: La Secretaría de Hacienda del Municipio requiere una nueva aplicación informática para optimizar la gestión de impuestos, pero no cuenta con un diseño claro ni con las especificaciones técnicas. ¿Cuál sería su rol principal como Profesional Universitario para apoyar esta necesidad?",
+    "options": [
+      "Indicar a la Secretaría de Hacienda que deben buscar un proveedor externo que diseñe la aplicación.",
+      "Proponer a la Secretaría de Hacienda el desarrollo o recomendación de las aplicaciones informáticas requeridas, alineado con el PETI y la arquitectura empresarial.",
+      "Diseñar usted mismo la aplicación sin consultar a los usuarios finales.",
+      "Comunicarles que el presupuesto actual no permite nuevos desarrollos."
+    ],
+    "answer": "Proponer a la Secretaría de Hacienda el desarrollo o recomendación de las aplicaciones informáticas requeridas, alineado con el PETI y la arquitectura empresarial."
+  },
+  {
+    "question": "Caso: Durante la ejecución de un proyecto TIC clave definido en el PETI, se presentan retrasos significativos debido a la falta de coordinación entre las dependencias involucradas. ¿Qué competencia comportamental y acción sería la más adecuada para usted en esta situación?",
+    "options": [
+      "Reportar el retraso al jefe inmediato y desentenderse de la coordinación.",
+      "Asumir personalmente todas las tareas del proyecto para acelerar su avance.",
+      "Ejercer su función de coordinación y seguimiento, facilitando la comunicación efectiva y el trabajo en equipo interdisciplinario.",
+      "Culpar a las otras dependencias por la falta de compromiso."
+    ],
+    "answer": "Ejercer su función de coordinación y seguimiento, facilitando la comunicación efectiva y el trabajo en equipo interdisciplinario."
+  },
+  {
+    "question": "Caso: La Alcaldía de Puerto Boyacá desea fortalecer la política de Gobierno Digital, promoviendo la interoperabilidad y los servicios ciudadanos digitales. ¿Cuál de los siguientes conocimientos básicos es esencial para que usted contribuya efectivamente a este objetivo?",
+    "options": [
+      "Manejo avanzado de procesadores de texto.",
+      "Conocimientos en la implementación de la política de Gobierno Digital y el Marco de Arquitectura Empresarial.",
+      "Dominio de una segunda lengua.",
+      "Conocimiento específico de sistemas contables privados."
+    ],
+    "answer": "Conocimientos en la implementación de la política de Gobierno Digital y el Marco de Arquitectura Empresarial."
+  },
+  {
+    "question": "Caso: Se detecta una vulnerabilidad crítica en una de las bases de datos municipales que administra información sensible. Su función incluye la administración de la seguridad de las bases de datos. ¿Qué acción inmediata es prioritaria y cuál es su responsabilidad a largo plazo frente a esto?",
+    "options": [
+      "Cambiar todas las contraseñas de acceso y esperar una próxima auditoría.",
+      "Aplicar los controles necesarios de forma inmediata y velar por la adopción continua del Modelo de Seguridad y Privacidad de la Información (MSPI) en el Municipio.",
+      "Notificar únicamente al alcalde y esperar sus instrucciones.",
+      "Desactivar la base de datos para evitar futuros ataques, sin previo aviso."
+    ],
+    "answer": "Aplicar los controles necesarios de forma inmediata y velar por la adopción continua del Modelo de Seguridad y Privacidad de la Información (MSPI) en el Municipio."
+  },
+  {
+    "question": "Caso: La Alcaldía requiere adquirir un nuevo software para la gestión de nómina, y le solicitan emitir un concepto técnico. ¿Qué aspectos, según su manual de funciones, son cruciales que evalúe y defina en este concepto?",
+    "options": [
+      "Únicamente el precio más bajo del software.",
+      "Las referencias de uso del software en otras alcaldías sin considerar las necesidades de Puerto Boyacá.",
+      "Las necesidades y lineamientos de la entidad, el adecuado dimensionamiento frente a los adelantos tecnológicos y su correcto funcionamiento.",
+      "La estética de la interfaz de usuario del software."
+    ],
+    "answer": "Las necesidades y lineamientos de la entidad, el adecuado dimensionamiento frente a los adelantos tecnológicos y su correcto funcionamiento."
+  },
+  {
+    "question": "Caso: Un funcionario de otra dependencia necesita acceder a información de una base de datos específica para un trámite urgente. Su función es garantizar la disponibilidad de información consistente, actualizada y confiable. ¿Qué debe asegurar antes de conceder el acceso?",
+    "options": [
+      "Que el funcionario haya realizado un curso de manejo de bases de datos.",
+      "Que el acceso solicitado cumpla con los protocolos de seguridad y los permisos de acceso definidos en el MSPI y la política interna.",
+      "Que el funcionario prometa no compartir la información con nadie.",
+      "Que la base de datos esté accesible desde cualquier red sin restricciones."
+    ],
+    "answer": "Que el acceso solicitado cumpla con los protocolos de seguridad y los permisos de acceso definidos en el MSPI y la política interna."
+  },
+  {
+    "question": "Caso: Se le ha asignado la responsabilidad de velar por el correcto funcionamiento y actualización de la página web del Municipio. ¿Qué objetivo primordial de Gobierno Digital se asocia directamente con esta función?",
+    "options": [
+      "Asegurar la compatibilidad con navegadores antiguos.",
+      "Garantizar la prestación de la mayor cantidad de servicios a través del medio tecnológico en dicho portal, promoviendo los Servicios Ciudadanos Digitales.",
+      "Limitar el acceso de los ciudadanos a la información para evitar sobrecargas.",
+      "Publicar únicamente información de carácter administrativo interno."
+    ],
+    "answer": "Garantizar la prestación de la mayor cantidad de servicios a través del medio tecnológico en dicho portal, promoviendo los Servicios Ciudadanos Digitales."
+  },
+  {
+    "question": "Caso: Un grupo interdisciplinario de la Alcaldía busca desarrollar un nuevo proyecto digital para mejorar la atención ciudadana. Como Profesional Universitario, ¿cómo debería propiciar su participación para asegurar el mejoramiento del soporte de los sistemas de información de los procesos misionales?",
+    "options": [
+      "Esperar a que le asignen tareas específicas y solo realizarlas.",
+      "Limitar su participación a la emisión de conceptos técnicos una vez el proyecto esté avanzado.",
+      "Propiciar su participación activa con ideas y estrategias, buscando eficiencia y eficacia en el desarrollo de actividades con el grupo interdisciplinario.",
+      "Aislarse para evitar conflictos con otras áreas."
+    ],
+    "answer": "Propiciar su participación activa con ideas y estrategias, buscando eficiencia y eficacia en el desarrollo de actividades con el grupo interdisciplinario."
+  },
+  {
+    "question": "Caso: La Alcaldía de Puerto Boyacá busca implementar la política de 'cero papel' y agilizar la radicación de comunicaciones. ¿Qué tipo de sistema de información sería prioritario para usted proponer o gestionar para este fin?",
+    "options": [
+      "Un software de diseño gráfico avanzado.",
+      "Un sistema de gestión documental electrónica (SGDEA) como HERMES.",
+      "Una plataforma de videoconferencias.",
+      "Un programa de edición de video."
+    ],
+    "answer": "Un sistema de gestión documental electrónica (SGDEA) como HERMES."
+  },
+  {
+    "question": "Caso: En el marco de la implementación del PETI, se requiere aplicar metodologías ágiles en un proyecto de desarrollo de software. ¿Qué certificación profesional, mencionada en sus conocimientos básicos, sería de mayor utilidad para liderar este proceso?",
+    "options": [
+      "Certificación en Auditoría Financiera.",
+      "Certificación Profesional de Scrum Master.",
+      "Certificación en Salud Ocupacional.",
+      "Certificación en Edición de Texto."
+    ],
+    "answer": "Certificación Profesional de Scrum Master."
+  },
+  {
+    "question": "Caso: La Contraloría General de la República solicita un informe detallado sobre la ejecución de un proyecto TIC clave del Municipio. ¿Cuál de sus funciones esenciales le habilita directamente para preparar y rendir este tipo de informes?",
+    "options": [
+      "Administrar la seguridad de las bases de datos.",
+      "Coordinar con la Secretaría de Servicios Administrativos planes de capacitación.",
+      "Preparar y rendir los informes periódicos de gestión que le sean solicitados por entes de control.",
+      "Velar por la adopción del modelo de Seguridad y Privacidad de la Información."
+    ],
+    "answer": "Preparar y rendir los informes periódicos de gestión que le sean solicitados por entes de control."
+  },
+  {
+    "question": "Caso: Durante la ejecución de un proyecto TIC, se presenta una situación inesperada que requiere una decisión rápida y un ajuste en la planeación. ¿Cuál de las siguientes competencias comportamentales sería clave para usted en este momento?",
+    "options": [
+      "Compromiso con la organización.",
+      "Aprendizaje continuo.",
+      "Adaptación al cambio.",
+      "Gestión de procedimientos."
+    ],
+    "answer": "Adaptación al cambio."
+  },
+  {
+    "question": "Caso: La Alcaldía desea realizar una compra de hardware y software para renovar sus equipos. ¿Cuál de las siguientes acciones, basada en sus funciones, aseguraría el adecuado dimensionamiento de los requerimientos y la pertinencia tecnológica de la adquisición?",
+    "options": [
+      "Consultar únicamente los catálogos de los proveedores más económicos.",
+      "Emitir conceptos técnicos basados en la evaluación de necesidades y lineamientos para la adquisición, velando por el adecuado dimensionamiento frente a los adelantos tecnológicos.",
+      "Dejar la decisión de compra en manos del área de presupuesto.",
+      "Adquirir los equipos con las especificaciones más altas del mercado sin un análisis previo."
+    ],
+    "answer": "Emitir conceptos técnicos basados en la evaluación de necesidades y lineamientos para la adquisición, velando por el adecuado dimensionamiento frente a los adelantos tecnológicos."
+  },
+  {
+    "question": "Caso: Se le encarga la revisión y evaluación del impacto de la tecnología en los procesos institucionales del Municipio. Para llevar a cabo esta función, ¿cuál de los siguientes conocimientos básicos es fundamental?",
+    "options": [
+      "Manejo de equipos de sonido y video.",
+      "Técnicas y herramientas de planeación, administración y evaluación de la gestión MIPG.",
+      "Conocimiento de lenguajes de programación obsoletos.",
+      "Habilidades en diseño gráfico web."
+    ],
+    "answer": "Técnicas y herramientas de planeación, administración y evaluación de la gestión MIPG."
+  },
+  {
+    "question": "Caso: Un área de la Alcaldía está experimentando problemas recurrentes con un sistema de información que usted administra. Según sus contribuciones individuales, ¿qué debería verificar para asegurar un buen soporte?",
+    "options": [
+      "Que el sistema no genere ningún error, sin importar su complejidad.",
+      "Que el soporte prestado a los usuarios se realice de forma oportuna y efectiva.",
+      "Que el usuario sepa resolver el problema por sí mismo.",
+      "Que el problema se resuelva solo con reiniciar el sistema."
+    ],
+    "answer": "Que el soporte prestado a los usuarios se realice de forma oportuna y efectiva."
+  },
+  {
+    "question": "Caso: Como Profesional Universitario, debe orientar al Despacho del alcalde sobre las plataformas informáticas necesarias para el Municipio. ¿Cuál de sus conocimientos básicos es crucial para brindar un concepto acertado en esta materia?",
+    "options": [
+      "Conocimientos avanzados en contabilidad pública.",
+      "Conocimiento y conceptos en Redes y Telecomunicaciones y en el manejo de tecnologías de información y comunicaciones (TIC).",
+      "Habilidades en la redacción de informes financieros.",
+      "Experticia en procesos de contratación física."
+    ],
+    "answer": "Conocimiento y conceptos en Redes y Telecomunicaciones y en el manejo de tecnologías de información y comunicaciones (TIC)."
+  },
+  {
+    "question": "Caso: La Alcaldía decide impulsar una 'cultura de la página web' para mejorar la comunicación con la ciudadanía. ¿Cuál de sus contribuciones individuales se alinea directamente con esta iniciativa?",
+    "options": [
+      "Realizar mantenimientos técnicos correctivos a la plataforma informática de su responsabilidad.",
+      "Verificar que el soporte prestado a los usuarios se realice de forma oportuna.",
+      "Propiciar la participación en grupos interdisciplinarios.",
+      "La utilización de la página Web de la institución debe ser una cultura generada a partir de la gestión de su cargo."
+    ],
+    "answer": "La utilización de la página Web de la institución debe ser una cultura generada a partir de la gestión de su cargo."
+  },
+  {
+    "question": "Caso: En su rol, debe elaborar y actualizar el PETI. ¿Cuál es el propósito principal de este plan en el contexto de la gestión de la información y los desarrollos tecnológicos del Municipio?",
+    "options": [
+      "Definir únicamente los requerimientos de hardware del Municipio.",
+      "Precisar el manejo de la información y los desarrollos tecnológicos, alineándolos con la estrategia de la entidad.",
+      "Establecer la estructura salarial del personal de TI.",
+      "Coordinar exclusivamente la compra de software de ofimática."
+    ],
+    "answer": "Precisar el manejo de la información y los desarrollos tecnológicos, alineándolos con la estrategia de la entidad."
+  }
+
+
+
+]
