@@ -1,0 +1,1505 @@
+[
+    {
+        "question": "¿Cuál es la base legal de la descentralización en Colombia?",
+        "options": [
+            "Ley 1712 de 2014",
+            "Artículo 287 de la Constitución de 1991",
+            "Decreto 1008 de 2018",
+            "Ley 1581 de 2012"
+        ],
+        "answer": "Artículo 287 de la Constitución de 1991"
+    },
+    {
+        "question": "¿Qué tipo de descentralización otorga autonomía política a los municipios?",
+        "options": [
+            "Descentralización administrativa",
+            "Descentralización política",
+            "Descentralización fiscal",
+            "Descentralización por servicios"
+        ],
+        "answer": "Descentralización política"
+    },
+    {
+        "question": "¿Cuál de las siguientes no es una competencia exclusiva de la Nación?",
+        "options": [
+            "Defensa nacional",
+            "Salud pública",
+            "Relaciones exteriores",
+            "Regulación del sistema monetario"
+        ],
+        "answer": "Salud pública"
+    },
+    {
+        "question": "¿Qué Ley regula la distribución de competencias en los sectores de salud, educación y agua potable?",
+        "options": [
+            "Ley 1712 de 2014",
+            "Ley 715 de 2001",
+            "Ley 152 de 1994",
+            "Ley 1551 de 2012"
+        ],
+        "answer": "Ley 715 de 2001"
+    },
+    {
+        "question": "¿Qué principio se aplica cuando el nivel superior de gobierno interviene en funciones que desbordan la capacidad del nivel inferior?",
+        "options": [
+            "Coordinación",
+            "Concurrencia",
+            "Subsidiariedad",
+            "Complementariedad"
+        ],
+        "answer": "Subsidiariedad"
+    },
+    {
+        "question": "¿Qué entidad regula la planificación y ejecución de proyectos de desarrollo local?",
+        "options": [
+            "Ministerio del Interior",
+            "Ministerio de Salud",
+            "Gobernaciones",
+            "Alcaldías"
+        ],
+        "answer": "Alcaldías"
+    },
+
+    {
+    "question": "¿Qué establece el artículo 287 de la Constitución de 1991 sobre las entidades territoriales?",
+    "options": [
+      "Tienen autonomía para administrar sus recursos y ejercer sus competencias dentro de los límites establecidos por la ley",
+      "Solo pueden ejercer las competencias delegadas por el gobierno central",
+      "No tienen capacidad para crear normativas locales",
+      "Dependen directamente de la legislación nacional para actuar"
+    ],
+    "answer": "Tienen autonomía para administrar sus recursos y ejercer sus competencias dentro de los límites establecidos por la ley"
+  },
+  {
+    "question": "¿Qué significa la descentralización fiscal en el contexto colombiano?",
+    "options": [
+      "El gobierno nacional asume la mayor parte de los impuestos municipales",
+      "Los municipios y departamentos tienen autonomía para gestionar sus recursos financieros",
+      "El gobierno nacional elimina la necesidad de impuestos locales",
+      "La recaudación fiscal es centralizada exclusivamente en Bogotá"
+    ],
+    "answer": "Los municipios y departamentos tienen autonomía para gestionar sus recursos financieros"
+  },
+  {
+    "question": "¿Cuál de las siguientes leyes es clave para la descentralización de los servicios de salud y educación en Colombia?",
+    "options": [
+      "Ley 115 de 1994",
+      "Ley 100 de 1993",
+      "Ley 715 de 2001",
+      "Ley 30 de 1992"
+    ],
+    "answer": "Ley 715 de 2001"
+  },
+  {
+    "question": "¿Qué principio se ve afectado si el gobierno nacional decide intervenir directamente en la creación de políticas locales?",
+    "options": [
+      "Principio de autonomía territorial",
+      "Principio de igualdad ante la ley",
+      "Principio de subsidiariedad",
+      "Principio de eficiencia administrativa"
+    ],
+    "answer": "Principio de autonomía territorial"
+  },
+  {
+    "question": "¿Qué entidad supervisa el uso adecuado de los recursos públicos en las entidades territoriales?",
+    "options": [
+      "La Procuraduría General de la Nación",
+      "La Corte Constitucional",
+      "La Contraloría General de la República",
+      "El Ministerio de Hacienda"
+    ],
+    "answer": "La Contraloría General de la República"
+  },
+  {
+    "question": "¿Qué nivel de gobierno tiene la facultad de crear los planes de desarrollo local y territorial?",
+    "options": [
+      "El gobierno nacional",
+      "Las entidades territoriales (municipios, distritos, departamentos)",
+      "La Corte Constitucional",
+      "La Procuraduría General de la Nación"
+    ],
+    "answer": "Las entidades territoriales (municipios, distritos, departamentos)"
+  },
+  {
+    "question": "¿En qué caso el gobierno central tiene la facultad de intervenir en un municipio o departamento?",
+    "options": [
+      "Cuando se violan los derechos fundamentales de los ciudadanos",
+      "Cuando se presentan problemas fiscales graves",
+      "Cuando no se respetan las políticas de descentralización",
+      "Cuando se promueven proyectos de infraestructura pública"
+    ],
+    "answer": "Cuando se violan los derechos fundamentales de los ciudadanos"
+  },
+  {
+    "question": "Según el artículo 365 de la Constitución, ¿qué responsabilidad tienen las entidades territoriales?",
+    "options": [
+      "Garantizar la prestación de servicios públicos en sus territorios",
+      "Gestionar únicamente los impuestos nacionales",
+      "Coordinar la política exterior del país",
+      "Crear políticas fiscales para los impuestos nacionales"
+    ],
+    "answer": "Garantizar la prestación de servicios públicos en sus territorios"
+  },
+  {
+    "question": "¿Qué mecanismo existe para que los municipios reciban recursos para educación y salud de la Nación?",
+    "options": [
+      "El Sistema General de Participaciones (SGP)",
+      "La Ley de Regalías",
+      "El Fondo de Compensación Regional",
+      "El Fondo Nacional de Turismo"
+    ],
+    "answer": "El Sistema General de Participaciones (SGP)"
+  },
+  {
+    "question": "¿Cómo se define la autonomía política de las entidades territoriales en Colombia?",
+    "options": [
+      "Las entidades territoriales pueden crear sus propios gobiernos y normativas dentro del marco constitucional",
+      "El gobierno nacional debe aprobar todas las leyes locales antes de su promulgación",
+      "Las entidades territoriales solo pueden ejecutar políticas públicas nacionales",
+      "Las entidades territoriales no tienen autoridad sobre la elección de sus funcionarios"
+    ],
+    "answer": "Las entidades territoriales pueden crear sus propios gobiernos y normativas dentro del marco constitucional"
+  },
+  {
+    "question": "¿Qué entidad es responsable de la vigilancia de la legalidad en la administración de los recursos públicos por las entidades territoriales?",
+    "options": [
+      "La Contraloría General de la República",
+      "La Procuraduría General de la Nación",
+      "La Corte Suprema de Justicia",
+      "El Ministerio de Hacienda"
+    ],
+    "answer": "La Contraloría General de la República"
+  },
+  {
+    "question": "¿Qué competencia tiene un municipio dentro de su autonomía territorial?",
+    "options": [
+      "Crear su propia moneda",
+      "Organizar su administración y recursos para la prestación de servicios públicos",
+      "Definir las relaciones diplomáticas internacionales",
+      "Aprobar leyes nacionales sobre impuestos"
+    ],
+    "answer": "Organizar su administración y recursos para la prestación de servicios públicos"
+  },
+  {
+    "question": "¿Qué órgano del Estado colombiano tiene la responsabilidad de distribuir los recursos del Sistema General de Participaciones (SGP)?",
+    "options": [
+      "El Ministerio de Hacienda",
+      "La Contraloría General de la República",
+      "El Departamento Nacional de Planeación (DNP)",
+      "La Corte Constitucional"
+    ],
+    "answer": "El Departamento Nacional de Planeación (DNP)"
+  },
+  {
+    "question": "¿Cuál de las siguientes entidades tiene la capacidad para fiscalizar la correcta aplicación de los recursos asignados a los entes territoriales?",
+    "options": [
+      "La Procuraduría General de la Nación",
+      "La Corte Constitucional",
+      "El Ministerio de Hacienda",
+      "La Contraloría General de la República"
+    ],
+    "answer": "La Contraloría General de la República"
+  },
+  {
+    "question": "Según la ley, los entes territoriales pueden crear normas sobre:",
+    "options": [
+      "La seguridad social",
+      "La organización de la administración pública local",
+      "El sistema financiero nacional",
+      "Las relaciones internacionales"
+    ],
+    "answer": "La organización de la administración pública local"
+  },
+  {
+    "question": "¿Qué nivel de gobierno es responsable de la creación y ejecución de las políticas públicas locales de salud y educación?",
+    "options": [
+      "El gobierno nacional",
+      "Las entidades territoriales",
+      "La Corte Constitucional",
+      "La Procuraduría General de la Nación"
+    ],
+    "answer": "Las entidades territoriales"
+  },
+  {
+    "question": "¿Qué principio está siendo vulnerado si un municipio no tiene libertad para establecer sus propios programas de desarrollo social?",
+    "options": [
+      "El principio de eficiencia",
+      "El principio de autonomía territorial",
+      "El principio de justicia social",
+      "El principio de legalidad"
+    ],
+    "answer": "El principio de autonomía territorial"
+  },
+  {
+    "question": "¿Qué ocurre si el gobierno central decide intervenir directamente en la prestación de servicios que deben ser gestionados por una entidad territorial?",
+    "options": [
+      "Se vulnera el principio de autonomía territorial",
+      "Se mejora la eficiencia en la prestación de servicios",
+      "Se aumenta la participación ciudadana",
+      "Se fortalece la descentralización fiscal"
+    ],
+    "answer": "Se vulnera el principio de autonomía territorial"
+  },
+  {
+    "question": "¿Qué mecanismo permite a los municipios y departamentos obtener recursos directamente del gobierno nacional para proyectos específicos?",
+    "options": [
+      "El Sistema General de Participaciones (SGP)",
+      "Los fondos de compensación regional",
+      "La Ley de Regalías",
+      "El fondo de desarrollo local"
+    ],
+    "answer": "La Ley de Regalías"
+  },
+  {
+    "question": "¿Cuál es la función principal de las entidades territoriales en el marco de la descentralización?",
+    "options": [
+      "Ejercer el control sobre los poderes del Estado",
+      "Gestionar los servicios públicos y la infraestructura dentro de su territorio",
+      "Crear leyes nacionales",
+      "Garantizar la seguridad nacional"
+    ],
+    "answer": "Gestionar los servicios públicos y la infraestructura dentro de su territorio"
+  },
+  {
+    "question": "¿Qué poder tiene la Corte Constitucional respecto a la descentralización?",
+    "options": [
+      "Puede ordenar la centralización de competencias",
+      "Puede declarar la inconstitucionalidad de normas que vulneren la autonomía de los entes territoriales",
+      "Debe supervisar el presupuesto nacional de los entes territoriales",
+      "Define el monto de las participaciones de los municipios"
+    ],
+    "answer": "Puede declarar la inconstitucionalidad de normas que vulneren la autonomía de los entes territoriales"
+  },
+  {
+    "question": "En el proceso de descentralización, ¿quién establece las funciones específicas para los municipios?",
+    "options": [
+      "El gobierno nacional",
+      "El Concejo Municipal",
+      "La Corte Constitucional",
+      "El Ministerio de Hacienda"
+    ],
+    "answer": "El Concejo Municipal"
+  },
+  {
+    "question": "¿Cuál es la función de los departamentos en el sistema descentralizado?",
+    "options": [
+      "Supervisar el trabajo de los municipios",
+      "Administrar la política exterior del país",
+      "Gestionar los recursos para los servicios públicos locales",
+      "Establecer las políticas fiscales nacionales"
+    ],
+    "answer": "Gestionar los recursos para los servicios públicos locales"
+  },
+
+  {
+    "question": "Un alcalde de un municipio decide contratar a una empresa privada para prestar el servicio de salud, a pesar de que la ley establece que este servicio debe ser gestionado por el gobierno municipal. ¿Qué principio constitucional está siendo vulnerado?",
+    "options": [
+      "El principio de legalidad",
+      "El principio de autonomía territorial",
+      "El principio de eficiencia",
+      "El principio de transparencia"
+    ],
+    "answer": "El principio de autonomía territorial"
+  },
+  {
+    "question": "Un concejo municipal aprueba una nueva ley para aumentar los impuestos a los ciudadanos sin consultar previamente con el Departamento de Hacienda Municipal ni seguir los procedimientos establecidos. ¿Qué principio del Estado Social de Derecho se está violando?",
+    "options": [
+      "El principio de eficiencia administrativa",
+      "El principio de descentralización fiscal",
+      "El principio de legalidad y participación ciudadana",
+      "El principio de subsidiariedad"
+    ],
+    "answer": "El principio de legalidad y participación ciudadana"
+  },
+  {
+    "question": "El gobierno nacional establece un programa de desarrollo social para una región sin consultar ni coordinar con los gobiernos locales y municipales. ¿Qué principio de descentralización se está vulnerando?",
+    "options": [
+      "El principio de autonomía territorial",
+      "El principio de coordinación intergubernamental",
+      "El principio de subsidiariedad",
+      "El principio de igualdad ante la ley"
+    ],
+    "answer": "El principio de coordinación intergubernamental"
+  },
+  {
+    "question": "Un departamento realiza una inversión significativa en infraestructura sin seguir los lineamientos del gobierno nacional ni coordinar con los municipios que serán impactados. ¿Qué principio de la descentralización está siendo afectado?",
+    "options": [
+      "El principio de autonomía territorial",
+      "El principio de eficiencia",
+      "El principio de participación local",
+      "El principio de subsidiariedad"
+    ],
+    "answer": "El principio de participación local"
+  },
+  {
+    "question": "En un municipio, el alcalde decide modificar los planes de desarrollo local sin consultar con el Concejo Municipal ni con la comunidad. ¿Qué derecho fundamental de los ciudadanos está siendo vulnerado?",
+    "options": [
+      "Derecho a la educación",
+      "Derecho a la participación política",
+      "Derecho a la igualdad",
+      "Derecho a la salud"
+    ],
+    "answer": "Derecho a la participación política"
+  },
+  {
+    "question": "Un municipio decide otorgar una concesión para la construcción de viviendas sin seguir el procedimiento establecido por la ley para la contratación pública. ¿Qué principio se está violando?",
+    "options": [
+      "El principio de legalidad",
+      "El principio de transparencia",
+      "El principio de eficiencia",
+      "El principio de participación ciudadana"
+    ],
+    "answer": "El principio de transparencia"
+  },
+  {
+    "question": "El gobierno nacional decide centralizar la distribución de recursos para el sector salud, excluyendo a los departamentos y municipios del proceso. ¿Qué principio constitucional se está vulnerando?",
+    "options": [
+      "El principio de autonomía territorial",
+      "El principio de descentralización fiscal",
+      "El principio de eficiencia",
+      "El principio de transparencia"
+    ],
+    "answer": "El principio de autonomía territorial"
+  },
+  {
+    "question": "Un municipio no entrega los recursos destinados por el gobierno nacional para el desarrollo de un proyecto educativo debido a una mala gestión administrativa. ¿Qué principio de la descentralización está siendo vulnerado?",
+    "options": [
+      "El principio de eficiencia en la gestión",
+      "El principio de autonomía territorial",
+      "El principio de legalidad",
+      "El principio de igualdad"
+    ],
+    "answer": "El principio de eficiencia en la gestión"
+  },
+  {
+    "question": "El concejo municipal decide aplicar un impuesto extraordinario sin una consulta previa a los ciudadanos ni una justificación suficiente. ¿Qué principio está siendo vulnerado?",
+    "options": [
+      "El principio de participación ciudadana",
+      "El principio de legalidad",
+      "El principio de autonomía territorial",
+      "El principio de subsidiariedad"
+    ],
+    "answer": "El principio de participación ciudadana"
+  },
+  {
+    "question": "Un alcalde decide construir un hospital municipal, pero no ha realizado un análisis de necesidades de salud en el municipio ni ha consultado con el Ministerio de Salud. ¿Qué principio de la descentralización se está afectando?",
+    "options": [
+      "El principio de coordinación intergubernamental",
+      "El principio de autonomía territorial",
+      "El principio de subsidiariedad",
+      "El principio de eficiencia"
+    ],
+    "answer": "El principio de coordinación intergubernamental"
+  },
+  {
+    "question": "El gobierno departamental decide implementar un programa de bienestar social sin consultar con los municipios que serán directamente beneficiados. ¿Qué principio de descentralización está siendo vulnerado?",
+    "options": [
+      "El principio de participación ciudadana",
+      "El principio de coordinación intergubernamental",
+      "El principio de eficiencia",
+      "El principio de subsidiariedad"
+    ],
+    "answer": "El principio de coordinación intergubernamental"
+  },
+  {
+    "question": "Un municipio no coordina con el gobierno nacional el desarrollo de un proyecto de infraestructura vial, lo que genera duplicidad de esfuerzos. ¿Qué principio de la descentralización está siendo afectado?",
+    "options": [
+      "El principio de eficiencia administrativa",
+      "El principio de subsidiariedad",
+      "El principio de autonomía territorial",
+      "El principio de coordinación intergubernamental"
+    ],
+    "answer": "El principio de coordinación intergubernamental"
+  },
+  {
+    "question": "Un departamento recibe recursos del Sistema General de Participaciones (SGP) y decide destinarlos para un proyecto no relacionado con la educación o la salud. ¿Qué principio constitucional se está vulnerando?",
+    "options": [
+      "El principio de legalidad",
+      "El principio de eficiencia",
+      "El principio de transparencia",
+      "El principio de descentralización fiscal"
+    ],
+    "answer": "El principio de legalidad"
+  },
+  {
+    "question": "Un alcalde decide privatizar los servicios públicos sin realizar la consulta con los concejos municipales ni con la comunidad. ¿Qué principio del Estado Social de Derecho se está violando?",
+    "options": [
+      "El principio de legalidad",
+      "El principio de transparencia",
+      "El principio de participación ciudadana",
+      "El principio de autonomía territorial"
+    ],
+    "answer": "El principio de participación ciudadana"
+  },
+  {
+    "question": "El gobierno nacional decide centralizar la gestión de los proyectos educativos sin consultar a los departamentos y municipios que serán los responsables de la implementación. ¿Qué principio está siendo afectado?",
+    "options": [
+      "El principio de eficiencia",
+      "El principio de autonomía territorial",
+      "El principio de coordinación intergubernamental",
+      "El principio de subsidiariedad"
+    ],
+    "answer": "El principio de autonomía territorial"
+  },
+  {
+    "question": "Un municipio cambia la forma de aplicar el presupuesto de salud sin consultar con el gobierno departamental ni con el Ministerio de Salud. ¿Qué principio constitucional está siendo vulnerado?",
+    "options": [
+      "El principio de autonomía territorial",
+      "El principio de eficiencia",
+      "El principio de coordinación intergubernamental",
+      "El principio de participación ciudadana"
+    ],
+    "answer": "El principio de coordinación intergubernamental"
+  },
+  {
+    "question": "Un concejo municipal decide eliminar el derecho a la salud gratuito para algunos grupos vulnerables sin consultar con el Ministerio de Salud. ¿Qué principio constitucional se está vulnerando?",
+    "options": [
+      "El principio de igualdad",
+      "El principio de subsidiariedad",
+      "El principio de descentralización fiscal",
+      "El principio de eficiencia"
+    ],
+    "answer": "El principio de igualdad"
+  },
+  {
+    "question": "Un alcalde decide ignorar la Ley de Regalías y no destinar los recursos obtenidos para los proyectos establecidos en la ley. ¿Qué principio está siendo vulnerado?",
+    "options": [
+      "El principio de eficiencia administrativa",
+      "El principio de legalidad",
+      "El principio de transparencia",
+      "El principio de autonomía territorial"
+    ],
+    "answer": "El principio de legalidad"
+  },
+  {
+    "question": "Un municipio recibe recursos para proyectos de infraestructura, pero estos no se usan para el fin previsto y no se rinde cuentas al concejo municipal. ¿Qué principio del Estado Social de Derecho está siendo vulnerado?",
+    "options": [
+      "El principio de eficiencia",
+      "El principio de transparencia",
+      "El principio de participación ciudadana",
+      "El principio de subsidiariedad"
+    ],
+    "answer": "El principio de transparencia"
+  },
+
+
+  {
+    "question": "Según la Constitución de 1991, la descentralización en Colombia se fundamenta en:",
+    "options": [
+      "La concentración del poder en el gobierno nacional.",
+      "La transferencia de competencias a entidades territoriales.",
+      "La eliminación de los departamentos.",
+      "La centralización de los recursos fiscales."
+    ],
+    "answer": "La transferencia de competencias a entidades territoriales."
+  },
+  {
+    "question": "¿Qué artículo de la Constitución Política consagra la autonomía de los municipios?",
+    "options": [
+      "Artículo 1°",
+      "Artículo 311",
+      "Artículo 356",
+      "Artículo 150"
+    ],
+    "answer": "Artículo 311"
+  },
+  {
+    "question": "La Ley 1551 de 2012 (Ley de Modernización Municipal) permite a los municipios asumir competencias en:",
+    "options": [
+      "Defensa nacional y relaciones internacionales.",
+      "Salud, educación y tecnologías de la información.",
+      "Regulación de la moneda.",
+      "Control de las fuerzas militares."
+    ],
+    "answer": "Salud, educación y tecnologías de la información."
+  },
+  {
+    "question": "¿Cuál de las siguientes es una competencia exclusiva de los municipios?",
+    "options": [
+      "Declarar la guerra.",
+      "Emitir moneda.",
+      "Ordenamiento territorial local.",
+      "Regular el comercio internacional."
+    ],
+    "answer": "Ordenamiento territorial local."
+  },
+  {
+    "question": "El Plan Estratégico de TI (PETI) de un municipio debe alinearse principalmente con:",
+    "options": [
+      "Las decisiones de empresas privadas.",
+      "Las políticas nacionales de gobierno digital.",
+      "Los intereses personales del alcalde.",
+      "Las normas internacionales de la ONU."
+    ],
+    "answer": "Las políticas nacionales de gobierno digital."
+  },
+  {
+    "question": "¿Qué entidad nacional es responsable de coordinar las políticas de gobierno digital con los municipios?",
+    "options": [
+      "Ministerio de Defensa",
+      "Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC)",
+      "Superintendencia de Industria y Comercio",
+      "Banco de la República"
+    ],
+    "answer": "Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC)"
+  },
+  {
+    "question": "Según la Constitución, ¿qué principio prevalece en caso de conflicto de competencias entre un departamento y un municipio?",
+    "options": [
+      "Centralización absoluta.",
+      "Autonomía municipal con coordinación.",
+      "Jerarquía departamental.",
+      "Intervención del gobierno nacional."
+    ],
+    "answer": "Autonomía municipal con coordinación."
+  },
+  {
+    "question": "La Ley 617 de 2000 clasifica a los municipios según:",
+    "options": [
+      "Su ubicación geográfica.",
+      "Sus ingresos y población.",
+      "Su afiliación política.",
+      "Su número de habitantes extranjeros."
+    ],
+    "answer": "Sus ingresos y población."
+  },
+  {
+    "question": "¿Qué tipo de descentralización permite la elección popular de alcaldes y gobernadores?",
+    "options": [
+      "Descentralización fiscal.",
+      "Descentralización política.",
+      "Descentralización administrativa.",
+      "Descentralización económica."
+    ],
+    "answer": "Descentralización política."
+  },
+  {
+    "question": "¿Cuál de los siguientes NO es un riesgo de la descentralización en la gestión de TI?",
+    "options": [
+      "Falta de estandarización en sistemas municipales.",
+      "Duplicación de esfuerzos y recursos.",
+      "Mayor control por parte del gobierno nacional.",
+      "Desigualdad en capacidades técnicas entre municipios."
+    ],
+    "answer": "Mayor control por parte del gobierno nacional."
+  },
+  {
+    "question": "¿Qué norma establece los lineamientos para la modernización de la gestión pública municipal?",
+    "options": [
+      "Ley 142 de 1994 (Ley de Servicios Públicos).",
+      "Ley 1551 de 2012 (Ley de Modernización Municipal).",
+      "Ley 100 de 1993 (Sistema de Seguridad Social).",
+      "Ley 1437 de 2011 (Código de Procedimiento Administrativo)."
+    ],
+    "answer": "Ley 1551 de 2012 (Ley de Modernización Municipal)."
+  },
+  {
+    "question": "¿Qué artículo constitucional establece las competencias de los departamentos?",
+    "options": [
+      "Artículo 287",
+      "Artículo 311",
+      "Artículo 300",
+      "Artículo 356"
+    ],
+    "answer": "Artículo 300"
+  },
+  {
+    "question": "Los recursos del Sistema General de Participaciones (SGP) para municipios están destinados principalmente a:",
+    "options": [
+      "Financiar proyectos de defensa nacional.",
+      "Salud, educación y agua potable.",
+      "Infraestructura militar.",
+      "Promoción del comercio internacional."
+    ],
+    "answer": "Salud, educación y agua potable."
+  },
+  {
+    "question": "¿Qué entidad supervisa el uso de recursos públicos por parte de los municipios?",
+    "options": [
+      "Contraloría General de la República",
+      "Banco de la República",
+      "Superintendencia de Sociedades",
+      "Ministerio de Hacienda"
+    ],
+    "answer": "Contraloría General de la República"
+  },
+  {
+    "question": "¿Qué tipo de normas pueden expedir los concejos municipales?",
+    "options": [
+      "Leyes nacionales.",
+      "Acuerdos municipales.",
+      "Decretos departamentales.",
+      "Resoluciones judiciales."
+    ],
+    "answer": "Acuerdos municipales."
+  },
+  {
+    "question": "La autonomía fiscal de los municipios implica:",
+    "options": [
+      "Depender exclusivamente de transferencias nacionales.",
+      "Recaudar impuestos locales y gestionar recursos.",
+      "Solicitar préstamos internacionales sin restricciones.",
+      "Centralizar todos los ingresos en el gobierno nacional."
+    ],
+    "answer": "Recaudar impuestos locales y gestionar recursos."
+  },
+  {
+    "question": "¿Qué ley regula la distribución de competencias en servicios públicos domiciliarios?",
+    "options": [
+      "Ley 142 de 1994",
+      "Ley 1551 de 2012",
+      "Ley 617 de 2000",
+      "Ley 1753 de 2015"
+    ],
+    "answer": "Ley 142 de 1994"
+  },
+  {
+    "question": "¿Cuál es el principal instrumento de planificación de un municipio?",
+    "options": [
+      "El Plan Nacional de Desarrollo.",
+      "El Plan de Ordenamiento Territorial (POT).",
+      "La Constitución Política.",
+      "El Código Penal."
+    ],
+    "answer": "El Plan de Ordenamiento Territorial (POT)."
+  },
+  {
+    "question": "¿Qué entidad coordina la política de descentralización en Colombia?",
+    "options": [
+      "Departamento Nacional de Planeación (DNP).",
+      "Ministerio de Defensa.",
+      "Superintendencia de Notariado y Registro.",
+      "Procuraduría General de la Nación."
+    ],
+    "answer": "Departamento Nacional de Planeación (DNP)."
+  },
+  {
+    "question": "¿Qué principio constitucional garantiza que los municipios puedan administrar sus propios recursos?",
+    "options": [
+      "Principio de centralización.",
+      "Principio de autonomía.",
+      "Principio de jerarquía.",
+      "Principio de subsidiariedad."
+    ],
+    "answer": "Principio de autonomía."
+  },
+  {
+    "question": "¿Qué tipo de descentralización transfiere recursos financieros a las entidades territoriales?",
+    "options": [
+      "Descentralización política.",
+      "Descentralización administrativa.",
+      "Descentralización fiscal.",
+      "Descentralización judicial."
+    ],
+    "answer": "Descentralización fiscal."
+  },
+  {
+    "question": "¿Qué artículo constitucional establece el Sistema General de Participaciones (SGP)?",
+    "options": [
+      "Artículo 356",
+      "Artículo 311",
+      "Artículo 287",
+      "Artículo 150"
+    ],
+    "answer": "Artículo 356"
+  },
+  {
+    "question": "¿Cuál de los siguientes es un ejemplo de competencia concurrente entre nación y municipios?",
+    "options": [
+      "Defensa nacional.",
+      "Educación.",
+      "Relaciones internacionales.",
+      "Emisión de moneda."
+    ],
+    "answer": "Educación."
+  },
+  {
+    "question": "¿Qué ley establece los criterios para clasificar municipios según su capacidad fiscal?",
+    "options": [
+      "Ley 617 de 2000",
+      "Ley 1551 de 2012",
+      "Ley 142 de 1994",
+      "Ley 1753 de 2015"
+    ],
+    "answer": "Ley 617 de 2000"
+  },
+  {
+    "question": "¿Qué entidad emite los conceptos técnicos para la implementación de proyectos de TI en municipios?",
+    "options": [
+      "Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC).",
+      "Ministerio de Agricultura.",
+      "Superintendencia de Industria y Comercio.",
+      "Departamento Administrativo de la Presidencia."
+    ],
+    "answer": "Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC)."
+  },
+  {
+    "question": "¿Qué norma regula la participación ciudadana en la gestión pública municipal?",
+    "options": [
+      "Ley 134 de 1994 (Ley de Mecanismos de Participación Ciudadana).",
+      "Ley 142 de 1994.",
+      "Ley 100 de 1993.",
+      "Ley 1437 de 2011."
+    ],
+    "answer": "Ley 134 de 1994 (Ley de Mecanismos de Participación Ciudadana)."
+  },
+  {
+    "question": "¿Qué tipo de acto administrativo expide un gobernador departamental?",
+    "options": [
+      "Acuerdos.",
+      "Ordenanzas.",
+      "Decretos.",
+      "Resoluciones."
+    ],
+    "answer": "Decretos."
+  },
+  {
+    "question": "¿Qué principio busca equilibrar las capacidades entre municipios ricos y pobres?",
+    "options": [
+      "Principio de solidaridad.",
+      "Principio de autonomía.",
+      "Principio de centralización.",
+      "Principio de jerarquía."
+    ],
+    "answer": "Principio de solidaridad."
+  },
+  {
+    "question": "¿Qué documento debe guiar la implementación de proyectos de TI en un municipio?",
+    "options": [
+      "El Plan Nacional de Desarrollo.",
+      "El Plan Estratégico de TI (PETI) municipal.",
+      "El Código de Comercio.",
+      "La Ley de Presupuesto Nacional."
+    ],
+    "answer": "El Plan Estratégico de TI (PETI) municipal."
+  },
+  {
+    "question": "¿Qué entidad vela por el cumplimiento de las competencias asignadas a los municipios?",
+    "options": [
+      "Procuraduría General de la Nación.",
+      "Contraloría General de la República.",
+      "Fiscalía General de la Nación.",
+      "Defensoría del Pueblo."
+    ],
+    "answer": "Procuraduría General de la Nación."
+  },
+
+
+  {
+    "question": "El municipio de Puerto Boyacá quiere implementar un sistema de gobierno digital para agilizar trámites, pero no cuenta con recursos técnicos suficientes. El alcalde solicita al profesional de TI que evalúe alternativas. ¿Cuál sería la acción más adecuada para garantizar el cumplimiento de la política de gobierno digital en este caso?",
+    "options": [
+      "Desarrollar un software propio sin consultar lineamientos nacionales.",
+      "Solicitar asistencia técnica al MinTIC y alinear el proyecto con los estándares nacionales.",
+      "Postergar el proyecto hasta que el municipio tenga más recursos.",
+      "Copiar el sistema de un municipio vecino sin adaptarlo."
+    ],
+    "answer": "Solicitar asistencia técnica al MinTIC y alinear el proyecto con los estándares nacionales.",
+    "justification": "Los municipios deben coordinar con el MinTIC para implementar gobierno digital (Ley 1753 de 2015 y políticas nacionales)."
+  },
+  {
+    "question": "Un concejal insiste en que el municipio compre un software costoso para gestionar impuestos, pero el profesional de TI identifica que no cumple con los estándares de interoperabilidad del gobierno nacional. ¿Qué debe hacer el profesional según el principio de autonomía y las normas de TI públicas?",
+    "options": [
+      "Comprar el software para evitar conflictos políticos.",
+      "Presentar un informe técnico que justifique por qué no se ajusta a los estándares y proponer alternativas.",
+      "Delegar la decisión en el gobernador departamental.",
+      "Ignorar los estándares nacionales por ser solo recomendaciones."
+    ],
+    "answer": "Presentar un informe técnico que justifique por qué no se ajusta a los estándares y proponer alternativas.",
+    "justification": "La autonomía municipal está sujeta a la coordinación con normas superiores (Art. 288 Constitución)."
+  },
+  {
+    "question": "El departamento de Boyacá exige que todos los municipios usen una misma plataforma de pagos, pero Puerto Boyacá ya tiene un sistema funcional desarrollado localmente. ¿Cómo debe proceder el profesional de TI municipal?",
+    "options": [
+      "Eliminar el sistema local y adoptar el departamental sin evaluar impactos.",
+      "Solicitar una reunión técnica para demostrar la eficiencia del sistema local y buscar articulación.",
+      "Ignorar la orden departamental por considerar que viola la autonomía municipal.",
+      "Usar ambos sistemas en paralelo, duplicando costos."
+    ],
+    "answer": "Solicitar una reunión técnica para demostrar la eficiencia del sistema local y buscar articulación.",
+    "justification": "Los conflictos de competencias se resuelven mediante coordinación (Art. 288 Constitución)."
+  },
+  {
+    "question": "El alcalde ordena al profesional de TI compartir datos personales de ciudadanos con un contratista sin firmar un acuerdo de confidencialidad. ¿Qué acción prioriza el cumplimiento normativo?",
+    "options": [
+      "Entregar los datos para agilizar el proceso.",
+      "Negarse rotundamente sin explicaciones.",
+      "Solicitar la firma del acuerdo y garantizar que el contratista cumpla la Ley 1581 de 2012 (Habeas Data).",
+      "Delegar la decisión en el concejo municipal."
+    ],
+    "answer": "Solicitar la firma del acuerdo y garantizar que el contratista cumpla la Ley 1581 de 2012 (Habeas Data).",
+    "justification": "La protección de datos personales es obligatoria (Ley 1581 de 2012)."
+  },
+  {
+    "question": "El sistema de información municipal colapsa, y el proveedor responsable no atiende la emergencia. El profesional de TI tiene conocimientos para repararlo, pero no es su función directa. ¿Cuál es la mejor opción para resolver la situación?",
+    "options": [
+      "Esperar a que el proveedor responda, aunque afecte servicios críticos.",
+      "Intentar repararlo sin documentar el proceso para no asumir responsabilidades.",
+      "Activar el plan de contingencia, intervenir con soporte interno y reportar al proveedor.",
+      "Pedir a los ciudadanos que usen sistemas de otros municipios."
+    ],
+    "answer": "Activar el plan de contingencia, intervenir con soporte interno y reportar al proveedor.",
+    "justification": "Todo sistema debe tener un plan de contingencia (Art. 11, Ley 1437 de 2011)."
+  },
+  {
+    "question": "Un funcionario público pide acceso administrativo a la base de datos municipal sin justificación técnica. ¿Qué debe hacer el responsable de TI según los principios de seguridad?",
+    "options": [
+      "Otorgar el acceso para evitar conflictos laborales.",
+      "Solicitar una orden por escrito del alcalde sin verificar su necesidad.",
+      "Negar el acceso y reportar el caso al comité de seguridad de la información.",
+      "Compartir solo datos parciales sin registrarlo."
+    ],
+    "answer": "Negar el acceso y reportar el caso al comité de seguridad de la información.",
+    "justification": "El acceso a datos sensibles requiere justificación y seguimiento (Política de Seguridad Digital, MinTIC)."
+  },
+  {
+    "question": "El concejo municipal aprueba un acuerdo para digitalizar todos los trámites, pero no asigna presupuesto. ¿Cómo debe proceder el profesional de TI?",
+    "options": [
+      "Ejecutar el proyecto sin recursos, solicitando donaciones informales.",
+      "Presentar un plan escalonado con prioridades y gestionar recursos ante el Ministerio TIC.",
+      "Ignorar el acuerdo por considerarlo inviable.",
+      "Culpar al concejo por la falta de ejecución."
+    ],
+    "answer": "Presentar un plan escalonado con prioridades y gestionar recursos ante el Ministerio TIC.",
+    "justification": "Los municipios pueden gestionar recursos nacionales para proyectos de TI (Ley 1551 de 2012)."
+  },
+  {
+    "question": "Un ciudadano denuncia que no puede acceder al portal de trámites por fallas técnicas recurrentes. ¿Qué acción refleja mejor la orientación al ciudadano?",
+    "options": [
+      "Indicar que el problema es por su conexión a internet.",
+      "Registrar el caso, ofrecer una solución temporal y comunicar los plazos de reparación.",
+      "Derivar la queja al departamento de quejas sin dar seguimiento.",
+      "Sugerir que realice el trámite presencial sin justificación."
+    ],
+    "answer": "Registrar el caso, ofrecer una solución temporal y comunicar los plazos de reparación.",
+    "justification": "Principio de eficiencia y atención al ciudadano (Art. 209 Constitución)."
+  },
+  {
+    "question": "El alcalde pide instalar un software sin licencia para ahorrar costos. ¿Cuál es la respuesta ética y legal del profesional de TI?",
+    "options": [
+      "Instalarlo sin cuestionar la orden.",
+      "Explicar los riesgos legales y proponer alternativas con software libre o licenciado.",
+      "Dejar la decisión al departamento jurídico sin pronunciarse.",
+      "Comprar una licencia falsa para simular cumplimiento."
+    ],
+    "answer": "Explicar los riesgos legales y proponer alternativas con software libre o licenciado.",
+    "justification": "El uso de software sin licencia viola la Ley 603 de 2000 (Propiedad Intelectual)."
+  },
+  {
+    "question": "El sistema de facturación municipal genera errores en cobros a ciudadanos. ¿Qué medida prioriza la transparencia y la corrección?",
+    "options": [
+      "Ocultar los errores para evitar reclamos.",
+      "Notificar a los afectados, corregir los datos y publicar un comunicado oficial.",
+      "Culpar al departamento de hacienda por los errores.",
+      "Ajustar manualmente solo los casos que reclamen."
+    ],
+    "answer": "Notificar a los afectados, corregir los datos y publicar un comunicado oficial.",
+    "justification": "Principios de transparencia y rendición de cuentas (Ley 1712 de 2014)."
+  },
+
+
+  {
+    "question": "La Alcaldía de Puerto Boyacá decide establecer un nuevo impuesto local para financiar la construcción de un parque recreativo. Esta facultad de imponer tributos propios demuestra una característica fundamental de las entidades territoriales.\n¿Qué principio de la autonomía territorial se está ejerciendo en esta situación?",
+    "options": [
+      "La libre determinación de sus límites geográficos.",
+      "La capacidad de administrar sus recursos y establecer sus propios tributos.",
+      "La independencia total frente a las leyes nacionales.",
+      "La facultad de dictar su propia Constitución."
+    ],
+    "answer": "La capacidad de administrar sus recursos y establecer sus propios tributos."
+  },
+  {
+    "question": "El Gobierno Nacional, a través del Ministerio de Vivienda, formula una política pública de acceso a vivienda digna para todo el país. Simultáneamente, la Gobernación de Boyacá y el municipio de Puerto Boyacá diseñan programas locales que se ajustan a esta política, pero con adaptaciones a sus realidades.\n¿Qué principio de la distribución de competencias se observa en la actuación conjunta de los diferentes niveles de gobierno en este caso?",
+    "options": [
+      "Subsidiariedad.",
+      "Exclusividad.",
+      "Coordinación.",
+      "Centralización."
+    ],
+    "answer": "Coordinación."
+  },
+  {
+    "question": "Un pequeño municipio en Boyacá no cuenta con la infraestructura ni el personal necesario para prestar el servicio de acueducto y alcantarillado de manera eficiente a toda su población. La Gobernación de Boyacá decide intervenir para apoyar y cofinanciar la expansión de esta infraestructura.\n¿Qué principio de la descentralización se manifiesta en la intervención del nivel departamental ante la incapacidad del nivel municipal?",
+    "options": [
+      "Concurrencia.",
+      "Subsidiariedad.",
+      "Autonomía fiscal.",
+      "Participación."
+    ],
+    "answer": "Subsidiariedad."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá está elaborando su Plan de Ordenamiento Territorial (POT), instrumento clave para definir el uso del suelo y el desarrollo físico-espacial del municipio. Esta facultad es de vital importancia para la planificación local.\nLa elaboración y adopción del POT es una competencia primordial de qué tipo de entidad territorial?",
+    "options": [
+      "El Departamento.",
+      "La Nación.",
+      "El Municipio.",
+      "El Distrito Especial."
+    ],
+    "answer": "El Municipio."
+  },
+  {
+    "question": "Un grupo de municipios de Boyacá decide unirse para crear una Región Administrativa y de Planificación (RAP) con el objetivo de gestionar proyectos de infraestructura y desarrollo económico de carácter supramunicipal.\n¿Qué busca principalmente la creación de una RAP en el marco del ordenamiento territorial?",
+    "options": [
+      "La disolución de los municipios participantes.",
+      "La centralización de todas las competencias en el nivel regional.",
+      "La asociación de entidades territoriales para la planificación y gestión conjunta de intereses comunes.",
+      "La creación de una nueva entidad territorial con independencia total."
+    ],
+    "answer": "La asociación de entidades territoriales para la planificación y gestión conjunta de intereses comunes."
+  },
+  {
+    "question": "Los ciudadanos de Puerto Boyacá eligen directamente a su Alcalde y a los miembros del Concejo Municipal. Esta elección popular de sus gobernantes locales es una clara expresión de un tipo de descentralización.\n¿Qué tipo de descentralización se evidencia en este proceso electoral?",
+    "options": [
+      "Descentralización por servicios.",
+      "Descentralización administrativa.",
+      "Descentralización por colaboración.",
+      "Descentralización territorial o política."
+    ],
+    "answer": "Descentralización territorial o política."
+  },
+  {
+    "question": "El Sistema General de Participaciones (SGP) asigna recursos a la Alcaldía de Puerto Boyacá para financiar la prestación del servicio educativo en su jurisdicción. Esto permite al municipio administrar directamente los recursos y programas educativos.\nLa asignación de estos recursos evidencia la autonomía del municipio en el ámbito:",
+    "options": [
+      "Legislativo.",
+      "Judicial.",
+      "Fiscal y administrativo.",
+      "Internacional."
+    ],
+    "answer": "Fiscal y administrativo."
+  },
+  {
+    "question": "La Gobernación de Boyacá decide construir un hospital de segundo nivel que prestará servicios a varios municipios de su departamento, incluyendo Puerto Boyacá. Aunque la Nación tiene competencias en salud, el departamento asume esta responsabilidad de mayor alcance regional.\n¿Qué principio de la distribución de competencias se aplica cuando la Gobernación gestiona servicios que desbordan la capacidad individual de los municipios?",
+    "options": [
+      "Exclusividad.",
+      "Subordinación.",
+      "Subsidiariedad.",
+      "Uniformidad."
+    ],
+    "answer": "Subsidiariedad."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá debe garantizar la correcta prestación de los servicios públicos domiciliarios como acueducto y alcantarillado en su territorio, una responsabilidad fundamental para el bienestar de sus habitantes.\nSegún la Constitución Política de Colombia, la prestación de los servicios públicos domiciliarios es una competencia primordial de qué nivel de la administración pública?",
+    "options": [
+      "La Nación.",
+      "Los Departamentos.",
+      "Los Municipios.",
+      "Los Distritos Especiales, exclusivamente."
+    ],
+    "answer": "Los Municipios."
+  },
+  {
+    "question": "El Plan de Desarrollo Nacional establece lineamientos generales para el crecimiento económico y social del país. La Gobernación de Boyacá y la Alcaldía de Puerto Boyacá deben elaborar sus propios Planes de Desarrollo Territorial, los cuales deben ser coherentes con el plan nacional.\nEste requisito de coherencia refleja qué principio fundamental en la relación entre los diferentes niveles de planificación?",
+    "options": [
+      "Individualidad.",
+      "Autonomía absoluta.",
+      "Concurrencia y Coordinación.",
+      "Discrecionalidad total."
+    ],
+    "answer": "Concurrencia y Coordinación."
+  },
+  {
+    "question": "Un municipio colombiano, debido a su importancia económica y cultural, ha sido declarado 'Distrito Especial'.\n¿Cuál es una de las principales diferencias entre un Distrito Especial y un municipio ordinario?",
+    "options": [
+      "Los Distritos Especiales no eligen a sus propias autoridades.",
+      "Los Distritos Especiales tienen un régimen político, administrativo y fiscal diferente.",
+      "Los Distritos Especiales no pueden establecer tributos propios.",
+      "Los Distritos Especiales están directamente subordinados al Gobierno Nacional."
+    ],
+    "answer": "Los Distritos Especiales tienen un régimen político, administrativo y fiscal diferente."
+  },
+  {
+    "question": "La Constitución Política establece que las entidades territoriales tienen autonomía para gestionar sus intereses 'dentro de los límites de la Constitución y la ley'.\n¿Qué implica esta limitación a la autonomía territorial?",
+    "options": [
+      "Que las entidades territoriales no tienen ninguna autonomía real.",
+      "Que las entidades territoriales pueden actuar sin ninguna regulación legal.",
+      "Que la autonomía territorial no es absoluta y está sujeta al marco jurídico nacional.",
+      "Que solo el Presidente de la República puede decidir sobre los asuntos territoriales."
+    ],
+    "answer": "Que la autonomía territorial no es absoluta y está sujeta al marco jurídico nacional."
+  },
+  {
+    "question": "El Departamento Nacional de Planeación (DNP) emite directrices técnicas para la formulación de los Planes de Desarrollo Territoriales. Las Secretarías de Planeación de los municipios y departamentos deben acogerse a estas directrices para la elaboración de sus planes.\nEsta acción del DNP es un ejemplo de la aplicación de qué principio en la relación Nación-Territorio?",
+    "options": [
+      "Subordinación.",
+      "Descentralización por servicios.",
+      "Coordinación.",
+      "Exclusividad de competencias."
+    ],
+    "answer": "Coordinación."
+  },
+  {
+    "question": "Un municipio de Boyacá decide celebrar un convenio con un municipio vecino para la gestión conjunta de un programa de turismo ecológico que beneficia a ambos. Ambos municipios aportan recursos y esfuerzos.\nEsta acción es un ejemplo de qué tipo de figura de gestión territorial?",
+    "options": [
+      "Unificación de entidades territoriales.",
+      "Asociación de entidades territoriales.",
+      "Descentralización jerárquica.",
+      "Subsidiariedad unilateral."
+    ],
+    "answer": "Asociación de entidades territoriales."
+  },
+  {
+    "question": "Los recursos del Sistema General de Regalías (SGR) se distribuyen entre las entidades territoriales con el objetivo de financiar proyectos de inversión que promuevan el desarrollo social, económico y ambiental. \n¿Cuál es la fuente principal de los recursos del SGR?",
+    "options": [
+      "Impuestos locales recaudados por los municipios.",
+      "Transferencias del presupuesto nacional ordinario.",
+      "La explotación de recursos naturales no renovables.",
+      "Donaciones de organismos internacionales."
+    ],
+    "answer": "La explotación de recursos naturales no renovables."
+  },
+  {
+    "question": "La Secretaría de Educación de Puerto Boyacá es la encargada de administrar los colegios públicos del municipio y garantizar la prestación del servicio educativo en su jurisdicción.\nEsta competencia municipal en educación se enmarca dentro de las funciones de qué tipo de descentralización?",
+    "options": [
+      "Descentralización por colaboración.",
+      "Descentralización territorial.",
+      "Descentralización funcional (si la Secretaría tiene autonomía).",
+      "Centralización administrativa."
+    ],
+    "answer": "Descentralización territorial."
+  },
+  {
+    "question": "En el marco de la Ley Orgánica de Ordenamiento Territorial, se busca que las entidades territoriales fortalezcan su capacidad de planificación a largo plazo.\nEl Plan de Ordenamiento Territorial (POT) es el instrumento que cumple esta función principal a nivel municipal para:",
+    "options": [
+      "Establecer la política monetaria local.",
+      "Definir el uso del suelo y el desarrollo físico-espacial.",
+      "Determinar las relaciones internacionales del municipio.",
+      "Regular el control fiscal de la administración."
+    ],
+    "answer": "Definir el uso del suelo y el desarrollo físico-espacial."
+  },
+  {
+    "question": "Una empresa de servicios públicos domiciliarios es creada por el municipio de Puerto Boyacá para gestionar el suministro de agua y alcantarillado. Esta empresa tiene personería jurídica propia y autonomía en su gestión.\n¿Qué tipo de descentralización se ejemplifica con la creación de esta empresa pública municipal?",
+    "options": [
+      "Descentralización territorial.",
+      "Descentralización política.",
+      "Descentralización por servicios o funcional.",
+      "Descentralización por delegación."
+    ],
+    "answer": "Descentralización por servicios o funcional."
+  },
+  {
+    "question": "El Gobernador de Boyacá, como jefe de la administración departamental, tiene entre sus funciones principales la coordinación de los planes y programas de los municipios de su jurisdicción.\nEsta función del Gobernador es una manifestación de su rol en el marco de la organización territorial como:",
+    "options": [
+      "Un agente del Gobierno Nacional.",
+      "Un fiscalizador de los recursos municipales.",
+      "Un coordinador entre la Nación y los municipios.",
+      "Un legislador de ámbito departamental."
+    ],
+    "answer": "Un coordinador entre la Nación y los municipios."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá está diseñando un nuevo Plan de Desarrollo Municipal para el próximo periodo de gobierno. Para garantizar la coherencia y el alineamiento con las políticas nacionales, se debe consultar con el Departamento Nacional de Planeación (DNP).\nEste proceso de consulta y ajuste refleja el principio de:",
+    "options": [
+      "Centralización total.",
+      "Subsidiariedad inversa.",
+      "Concurrencia.",
+      "Exclusividad regional."
+    ],
+    "answer": "Concurrencia."
+  },
+  {
+    "question": "Un Territorio Indígena, reconocido por la Constitución Política de Colombia, ejerce su autonomía para la gestión de sus propios asuntos, incluyendo la administración de justicia indígena, de acuerdo con sus usos y costumbres.\nLa autonomía de los Territorios Indígenas, ¿se ejerce de manera ilimitada?",
+    "options": [
+      "Sí, es una autonomía absoluta sin restricciones.",
+      "No, se ejerce dentro de los límites de la Constitución y la ley.",
+      "Solo si es autorizada por el Presidente de la República.",
+      "Únicamente en asuntos culturales y no administrativos."
+    ],
+    "answer": "No, se ejerce dentro de los límites de la Constitución y la ley."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá, al recibir transferencias del Sistema General de Participaciones (SGP) para educación, salud y agua potable, debe destinar estos recursos específicamente a los sectores definidos por la ley. No puede utilizarlos para otros fines.\nEsta condición en el uso de los recursos del SGP busca garantizar qué aspecto de la gestión territorial?",
+    "options": [
+      "La autonomía ilimitada del municipio.",
+      "La subordinación financiera al Gobierno Nacional.",
+      "La destinación específica y la eficiencia en el gasto público.",
+      "La capacidad de los municipios de financiar cualquier proyecto."
+    ],
+    "answer": "La destinación específica y la eficiencia en el gasto público."
+  },
+  {
+    "question": "La Ley 1454 de 2011, conocida como la Ley Orgánica de Ordenamiento Territorial (LOOT), tiene como objetivo principal:\n",
+    "options": [
+      "Centralizar todas las decisiones administrativas en el Gobierno Nacional.",
+      "Establecer la estructura de las Ramas del Poder Público.",
+      "Desarrollar los principios y la distribución de competencias en materia de ordenamiento territorial.",
+      "Reglamentar el régimen de las Fuerzas Militares."
+    ],
+    "answer": "Desarrollar los principios y la distribución de competencias en materia de ordenamiento territorial."
+  },
+  {
+    "question": "Una Corporación Autónoma Regional (CAR) tiene jurisdicción sobre varios municipios y departamentos. Su función principal es la gestión ambiental y la protección de los recursos naturales en una determinada región.\nLas CARs son un ejemplo de qué tipo de descentralización?",
+    "options": [
+      "Descentralización política.",
+      "Descentralización territorial.",
+      "Descentralización por servicios (funcional) de carácter regional.",
+      "Descentralización por colaboración."
+    ],
+    "answer": "Descentralización por servicios (funcional) de carácter regional."
+  },
+  {
+    "question": "Para la formulación de los Planes de Desarrollo Departamentales y Municipales, se requiere la participación ciudadana y la articulación con las políticas y directrices nacionales. \nEste proceso garantiza que la planeación territorial sea:",
+    "options": [
+      "Exclusiva del nivel local.",
+      "Rígida y sin posibilidad de adaptación.",
+      "Participativa y coherente con el ordenamiento superior.",
+      "Determinada únicamente por el nivel central."
+    ],
+    "answer": "Participativa y coherente con el ordenamiento superior."
+  },
+  {
+    "question": "La Constitución Política de Colombia reconoce a los departamentos como entidades territoriales autónomas. Esto les permite, entre otras cosas, administrar sus propios asuntos seccionales y planificar el desarrollo integral de su territorio.\nLa Asamblea Departamental, como corporación de elección popular, ejerce principalmente qué tipo de funciones a nivel departamental?",
+    "options": [
+      "Ejecutivas y de administración de justicia.",
+      "Legislativas (expedir ordenanzas) y de control político al Gobernador.",
+      "De control fiscal sobre los municipios.",
+      "De dirección de la fuerza pública."
+    ],
+    "answer": "Legislativas (expedir ordenanzas) y de control político al Gobernador."
+  },
+  {
+    "question": "Un municipio cercano a Puerto Boyacá decide celebrar un 'contrato de asociación' con una entidad privada para la operación de un servicio de alumbrado público. La entidad privada aporta la infraestructura y la experticia, y el municipio ejerce la supervisión.\nEste es un ejemplo de qué mecanismo de gestión pública que involucra a particulares?",
+    "options": [
+      "Centralización total.",
+      "Descentralización por colaboración.",
+      "Subordinación funcional.",
+      "Expropiación de servicios."
+    ],
+    "answer": "Descentralización por colaboración."
+  },
+  {
+    "question": "El principio de 'concurrencia' en la distribución de competencias implica que la Nación, los departamentos y los municipios pueden tener responsabilidades en un mismo ámbito (ej. salud o educación), pero con aportes diferenciados.\n¿Qué característica define esta actuación 'concurrente'?",
+    "options": [
+      "La exclusión de la participación de un nivel si otro ya está actuando.",
+      "La intervención jerárquica del nivel superior sobre el inferior.",
+      "La complementariedad y aportes desde sus respectivas órbitas de competencia.",
+      "La delegación total de funciones del nivel central al territorial."
+    ],
+    "answer": "La complementariedad y aportes desde sus respectivas órbitas de competencia."
+  },
+  {
+    "question": "El presupuesto de la Alcaldía de Puerto Boyacá se compone de ingresos propios (impuestos locales) y transferencias del Gobierno Nacional. Esta mezcla de fuentes de financiación es fundamental para la autonomía financiera municipal.\n¿Qué tipo de recursos corresponden a los 'ingresos propios' del municipio?",
+    "options": [
+      "Los recursos del Sistema General de Participaciones.",
+      "Las regalías por explotación de recursos naturales.",
+      "Los impuestos como el Predial Unificado y el de Industria y Comercio.",
+      "Los préstamos de organismos internacionales."
+    ],
+    "answer": "Los impuestos como el Predial Unificado y el de Industria y Comercio."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá, en su ejercicio de autonomía, expide un 'Acuerdo Municipal' para regular el uso de espacios públicos en su jurisdicción. Este Acuerdo tiene fuerza de ley local.\n¿Qué característica de la autonomía de las entidades territoriales se manifiesta con la expedición de normas propias?",
+    "options": [
+      "La facultad de reformar la Constitución Política.",
+      "La capacidad de dictar normas dentro de su competencia y marco legal.",
+      "La posibilidad de desconocer las leyes nacionales.",
+      "La potestad de crear una nueva rama del poder público."
+    ],
+    "answer": "La capacidad de dictar normas dentro de su competencia y marco legal."
+  },
+
+  {
+    "question": "La Alcaldía de Puerto Boyacá decide establecer un nuevo impuesto local para financiar la construcción de un parque recreativo. Esta facultad de imponer tributos propios demuestra una característica fundamental de las entidades territoriales.\n¿Qué principio de la autonomía territorial se está ejerciendo en esta situación?",
+    "options": [
+      "La libre determinación de sus límites geográficos.",
+      "La capacidad de administrar sus recursos y establecer sus propios tributos.",
+      "La independencia total frente a las leyes nacionales.",
+      "La facultad de dictar su propia Constitución."
+    ],
+    "answer": "La capacidad de administrar sus recursos y establecer sus propios tributos."
+  },
+  {
+    "question": "El Gobierno Nacional, a través del Ministerio de Vivienda, formula una política pública de acceso a vivienda digna para todo el país. Simultáneamente, la Gobernación de Boyacá y el municipio de Puerto Boyacá diseñan programas locales que se ajustan a esta política, pero con adaptaciones a sus realidades.\n¿Qué principio de la distribución de competencias se observa en la actuación conjunta de los diferentes niveles de gobierno en este caso?",
+    "options": [
+      "Subsidiariedad.",
+      "Exclusividad.",
+      "Coordinación.",
+      "Centralización."
+    ],
+    "answer": "Coordinación."
+  },
+  {
+    "question": "Un pequeño municipio en Boyacá no cuenta con la infraestructura ni el personal necesario para prestar el servicio de acueducto y alcantarillado de manera eficiente a toda su población. La Gobernación de Boyacá decide intervenir para apoyar y cofinanciar la expansión de esta infraestructura.\n¿Qué principio de la descentralización se manifiesta en la intervención del nivel departamental ante la incapacidad del nivel municipal?",
+    "options": [
+      "Concurrencia.",
+      "Subsidiariedad.",
+      "Autonomía fiscal.",
+      "Participación."
+    ],
+    "answer": "Subsidiariedad."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá está elaborando su Plan de Ordenamiento Territorial (POT), instrumento clave para definir el uso del suelo y el desarrollo físico-espacial del municipio. Esta facultad es de vital importancia para la planificación local.\nLa elaboración y adopción del POT es una competencia primordial de qué tipo de entidad territorial?",
+    "options": [
+      "El Departamento.",
+      "La Nación.",
+      "El Municipio.",
+      "El Distrito Especial."
+    ],
+    "answer": "El Municipio."
+  },
+  {
+    "question": "Un grupo de municipios de Boyacá decide unirse para crear una Región Administrativa y de Planificación (RAP) con el objetivo de gestionar proyectos de infraestructura y desarrollo económico de carácter supramunicipal.\n¿Qué busca principalmente la creación de una RAP en el marco del ordenamiento territorial?",
+    "options": [
+      "La disolución de los municipios participantes.",
+      "La centralización de todas las competencias en el nivel regional.",
+      "La asociación de entidades territoriales para la planificación y gestión conjunta de intereses comunes.",
+      "La creación de una nueva entidad territorial con independencia total."
+    ],
+    "answer": "La asociación de entidades territoriales para la planificación y gestión conjunta de intereses comunes."
+  },
+  {
+    "question": "Los ciudadanos de Puerto Boyacá eligen directamente a su Alcalde y a los miembros del Concejo Municipal. Esta elección popular de sus gobernantes locales es una clara expresión de un tipo de descentralización.\n¿Qué tipo de descentralización se evidencia en este proceso electoral?",
+    "options": [
+      "Descentralización por servicios.",
+      "Descentralización administrativa.",
+      "Descentralización por colaboración.",
+      "Descentralización territorial o política."
+    ],
+    "answer": "Descentralización territorial o política."
+  },
+  {
+    "question": "El Sistema General de Participaciones (SGP) asigna recursos a la Alcaldía de Puerto Boyacá para financiar la prestación del servicio educativo en su jurisdicción. Esto permite al municipio administrar directamente los recursos y programas educativos.\nLa asignación de estos recursos evidencia la autonomía del municipio en el ámbito:",
+    "options": [
+      "Legislativo.",
+      "Judicial.",
+      "Fiscal y administrativo.",
+      "Internacional."
+    ],
+    "answer": "Fiscal y administrativo."
+  },
+  {
+    "question": "La Gobernación de Boyacá decide construir un hospital de segundo nivel que prestará servicios a varios municipios de su departamento, incluyendo Puerto Boyacá. Aunque la Nación tiene competencias en salud, el departamento asume esta responsabilidad de mayor alcance regional.\n¿Qué principio de la distribución de competencias se aplica cuando la Gobernación gestiona servicios que desbordan la capacidad individual de los municipios?",
+    "options": [
+      "Exclusividad.",
+      "Subordinación.",
+      "Subsidiariedad.",
+      "Uniformidad."
+    ],
+    "answer": "Subsidiariedad."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá debe garantizar la correcta prestación de los servicios públicos domiciliarios como acueducto y alcantarillado en su territorio, una responsabilidad fundamental para el bienestar de sus habitantes.\nSegún la Constitución Política de Colombia, la prestación de los servicios públicos domiciliarios es una competencia primordial de qué nivel de la administración pública?",
+    "options": [
+      "La Nación.",
+      "Los Departamentos.",
+      "Los Municipios.",
+      "Los Distritos Especiales, exclusivamente."
+    ],
+    "answer": "Los Municipios."
+  },
+  {
+    "question": "El Plan de Desarrollo Nacional establece lineamientos generales para el crecimiento económico y social del país. La Gobernación de Boyacá y la Alcaldía de Puerto Boyacá deben elaborar sus propios Planes de Desarrollo Territorial, los cuales deben ser coherentes con el plan nacional.\nEste requisito de coherencia refleja qué principio fundamental en la relación entre los diferentes niveles de planificación?",
+    "options": [
+      "Individualidad.",
+      "Autonomía absoluta.",
+      "Concurrencia y Coordinación.",
+      "Discrecionalidad total."
+    ],
+    "answer": "Concurrencia y Coordinación."
+  },
+  {
+    "question": "Un municipio colombiano, debido a su importancia económica y cultural, ha sido declarado 'Distrito Especial'.\n¿Cuál es una de las principales diferencias entre un Distrito Especial y un municipio ordinario?",
+    "options": [
+      "Los Distritos Especiales no eligen a sus propias autoridades.",
+      "Los Distritos Especiales tienen un régimen político, administrativo y fiscal diferente.",
+      "Los Distritos Especiales no pueden establecer tributos propios.",
+      "Los Distritos Especiales están directamente subordinados al Gobierno Nacional."
+    ],
+    "answer": "Los Distritos Especiales tienen un régimen político, administrativo y fiscal diferente."
+  },
+  {
+    "question": "La Constitución Política establece que las entidades territoriales tienen autonomía para gestionar sus intereses 'dentro de los límites de la Constitución y la ley'.\n¿Qué implica esta limitación a la autonomía territorial?",
+    "options": [
+      "Que las entidades territoriales no tienen ninguna autonomía real.",
+      "Que las entidades territoriales pueden actuar sin ninguna regulación legal.",
+      "Que la autonomía territorial no es absoluta y está sujeta al marco jurídico nacional.",
+      "Que solo el Presidente de la República puede decidir sobre los asuntos territoriales."
+    ],
+    "answer": "Que la autonomía territorial no es absoluta y está sujeta al marco jurídico nacional."
+  },
+  {
+    "question": "El Departamento Nacional de Planeación (DNP) emite directrices técnicas para la formulación de los Planes de Desarrollo Territoriales. Las Secretarías de Planeación de los municipios y departamentos deben acogerse a estas directrices para la elaboración de sus planes.\nEsta acción del DNP es un ejemplo de la aplicación de qué principio en la relación Nación-Territorio?",
+    "options": [
+      "Subordinación.",
+      "Descentralización por servicios.",
+      "Coordinación.",
+      "Exclusividad de competencias."
+    ],
+    "answer": "Coordinación."
+  },
+  {
+    "question": "Un grupo de municipios de Boyacá decide celebrar un convenio con un municipio vecino para la gestión conjunta de un programa de turismo ecológico que beneficia a ambos. Ambos municipios aportan recursos y esfuerzos.\nEsta acción es un ejemplo de qué tipo de figura de gestión territorial?",
+    "options": [
+      "Unificación de entidades territoriales.",
+      "Asociación de entidades territoriales.",
+      "Descentralización jerárquica.",
+      "Subsidiariedad unilateral."
+    ],
+    "answer": "Asociación de entidades territoriales."
+  },
+  {
+    "question": "Los recursos del Sistema General de Regalías (SGR) se distribuyen entre las entidades territoriales con el objetivo de financiar proyectos de inversión que promuevan el desarrollo social, económico y ambiental. \n¿Cuál es la fuente principal de los recursos del SGR?",
+    "options": [
+      "Impuestos locales recaudados por los municipios.",
+      "Transferencias del presupuesto nacional ordinario.",
+      "La explotación de recursos naturales no renovables.",
+      "Donaciones de organismos internacionales."
+    ],
+    "answer": "La explotación de recursos naturales no renovables."
+  },
+  {
+    "question": "La Secretaría de Educación de Puerto Boyacá es la encargada de administrar los colegios públicos del municipio y garantizar la prestación del servicio educativo en su jurisdicción.\nEsta competencia municipal en educación se enmarca dentro de las funciones de qué tipo de descentralización?",
+    "options": [
+      "Descentralización por colaboración.",
+      "Descentralización territorial.",
+      "Descentralización funcional (si la Secretaría tiene autonomía).",
+      "Centralización administrativa."
+    ],
+    "answer": "Descentralización territorial."
+  },
+  {
+    "question": "En el marco de la Ley Orgánica de Ordenamiento Territorial, se busca que las entidades territoriales fortalezcan su capacidad de planificación a largo plazo.\nEl Plan de Ordenamiento Territorial (POT) es el instrumento que cumple esta función principal a nivel municipal para:",
+    "options": [
+      "Establecer la política monetaria local.",
+      "Definir el uso del suelo y el desarrollo físico-espacial.",
+      "Determinar las relaciones internacionales del municipio.",
+      "Regular el control fiscal de la administración."
+    ],
+    "answer": "Definir el uso del suelo y el desarrollo físico-espacial."
+  },
+  {
+    "question": "Una empresa de servicios públicos domiciliarios es creada por el municipio de Puerto Boyacá para gestionar el suministro de agua y alcantarillado. Esta empresa tiene personería jurídica propia y autonomía en su gestión.\n¿Qué tipo de descentralización se ejemplifica con la creación de esta empresa pública municipal?",
+    "options": [
+      "Descentralización territorial.",
+      "Descentralización política.",
+      "Descentralización por servicios o funcional.",
+      "Descentralización por delegación."
+    ],
+    "answer": "Descentralización por servicios o funcional."
+  },
+  {
+    "question": "El Gobernador de Boyacá, como jefe de la administración departamental, tiene entre sus funciones principales la coordinación de los planes y programas de los municipios de su jurisdicción.\nEsta función del Gobernador es una manifestación de su rol en el marco de la organización territorial como:",
+    "options": [
+      "Un agente del Gobierno Nacional.",
+      "Un fiscalizador de los recursos municipales.",
+      "Un coordinador entre la Nación y los municipios.",
+      "Un legislador de ámbito departamental."
+    ],
+    "answer": "Un coordinador entre la Nación y los municipios."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá está diseñando un nuevo Plan de Desarrollo Municipal para el próximo periodo de gobierno. Para garantizar la coherencia y el alineamiento con las políticas nacionales, se debe consultar con el Departamento Nacional de Planeación (DNP).\nEste proceso de consulta y ajuste refleja el principio de:",
+    "options": [
+      "Centralización total.",
+      "Subsidiariedad inversa.",
+      "Concurrencia.",
+      "Exclusividad regional."
+    ],
+    "answer": "Concurrencia."
+  },
+  {
+    "question": "Un Territorio Indígena, reconocido por la Constitución Política de Colombia, ejerce su autonomía para la gestión de sus propios asuntos, incluyendo la administración de justicia indígena, de acuerdo con sus usos y costumbres.\nLa autonomía de los Territorios Indígenas, ¿se ejerce de manera ilimitada?",
+    "options": [
+      "Sí, es una autonomía absoluta sin restricciones.",
+      "No, se ejerce dentro de los límites de la Constitución y la ley.",
+      "Solo si es autorizada por el Presidente de la República.",
+      "Únicamente en asuntos culturales y no administrativos."
+    ],
+    "answer": "No, se ejerce dentro de los límites de la Constitución y la ley."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá, al recibir transferencias del Sistema General de Participaciones (SGP) para educación, salud y agua potable, debe destinar estos recursos específicamente a los sectores definidos por la ley. No puede utilizarlos para otros fines.\nEsta condición en el uso de los recursos del SGP busca garantizar qué aspecto de la gestión territorial?",
+    "options": [
+      "La autonomía ilimitada del municipio.",
+      "La subordinación financiera al Gobierno Nacional.",
+      "La destinación específica y la eficiencia en el gasto público.",
+      "La capacidad de los municipios de financiar cualquier proyecto."
+    ],
+    "answer": "La destinación específica y la eficiencia en el gasto público."
+  },
+  {
+    "question": "La Ley 1454 de 2011, conocida como la Ley Orgánica de Ordenamiento Territorial (LOOT), tiene como objetivo principal:\n",
+    "options": [
+      "Centralizar todas las decisiones administrativas en el Gobierno Nacional.",
+      "Establecer la estructura de las Ramas del Poder Público.",
+      "Desarrollar los principios y la distribución de competencias en materia de ordenamiento territorial.",
+      "Reglamentar el régimen de las Fuerzas Militares."
+    ],
+    "answer": "Desarrollar los principios y la distribución de competencias en materia de ordenamiento territorial."
+  },
+  {
+    "question": "Una Corporación Autónoma Regional (CAR) tiene jurisdicción sobre varios municipios y departamentos. Su función principal es la gestión ambiental y la protección de los recursos naturales en una determinada región.\nLas CARs son un ejemplo de qué tipo de descentralización?",
+    "options": [
+      "Descentralización política.",
+      "Descentralización territorial.",
+      "Descentralización por servicios (funcional) de carácter regional.",
+      "Descentralización por colaboración."
+    ],
+    "answer": "Descentralización por servicios (funcional) de carácter regional."
+  },
+  {
+    "question": "Para la formulación de los Planes de Desarrollo Departamentales y Municipales, se requiere la participación ciudadana y la articulación con las políticas y directrices nacionales. \nEste proceso garantiza que la planeación territorial sea:",
+    "options": [
+      "Exclusiva del nivel local.",
+      "Rígida y sin posibilidad de adaptación.",
+      "Participativa y coherente con el ordenamiento superior.",
+      "Determinada únicamente por el nivel central."
+    ],
+    "answer": "Participativa y coherente con el ordenamiento superior."
+  },
+  {
+    "question": "La Constitución Política de Colombia reconoce a los departamentos como entidades territoriales autónomas. Esto les permite, entre otras cosas, administrar sus propios asuntos seccionales y planificar el desarrollo integral de su territorio.\nLa Asamblea Departamental, como corporación de elección popular, ejerce principalmente qué tipo de funciones a nivel departamental?",
+    "options": [
+      "Ejecutivas y de administración de justicia.",
+      "Legislativas (expedir ordenanzas) y de control político al Gobernador.",
+      "De control fiscal sobre los municipios.",
+      "De dirección de la fuerza pública."
+    ],
+    "answer": "Legislativas (expedir ordenanzas) y de control político al Gobernador."
+  },
+  {
+    "question": "Un municipio cercano a Puerto Boyacá decide celebrar un 'contrato de asociación' con una entidad privada para la operación de un servicio de alumbrado público. La entidad privada aporta la infraestructura y la experticia, y el municipio ejerce la supervisión.\nEste es un ejemplo de qué mecanismo de gestión pública que involucra a particulares?",
+    "options": [
+      "Centralización total.",
+      "Descentralización por colaboración.",
+      "Subordinación funcional.",
+      "Expropiación de servicios."
+    ],
+    "answer": "Descentralización por colaboración."
+  },
+  {
+    "question": "El principio de 'concurrencia' en la distribución de competencias implica que la Nación, los departamentos y los municipios pueden tener responsabilidades en un mismo ámbito (ej. salud o educación), pero con aportes diferenciados.\n¿Qué característica define esta actuación 'concurrente'?",
+    "options": [
+      "La exclusión de la participación de un nivel si otro ya está actuando.",
+      "La intervención jerárquica del nivel superior sobre el inferior.",
+      "La complementariedad y aportes desde sus respectivas órbitas de competencia.",
+      "La delegación total de funciones del nivel central al territorial."
+    ],
+    "answer": "La complementariedad y aportes desde sus respectivas órbitas de competencia."
+  },
+  {
+    "question": "El presupuesto de la Alcaldía de Puerto Boyacá se compone de ingresos propios (impuestos locales) y transferencias del Gobierno Nacional. Esta mezcla de fuentes de financiación es fundamental para la autonomía financiera municipal.\n¿Qué tipo de recursos corresponden a los 'ingresos propios' del municipio?",
+    "options": [
+      "Los recursos del Sistema General de Participaciones.",
+      "Las regalías por explotación de recursos naturales.",
+      "Los impuestos como el Predial Unificado y el de Industria y Comercio.",
+      "Los préstamos de organismos internacionales."
+    ],
+    "answer": "Los impuestos como el Predial Unificado y el de Industria y Comercio."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá, en su ejercicio de autonomía, expide un 'Acuerdo Municipal' para regular el uso de espacios públicos en su jurisdicción. Este Acuerdo tiene fuerza de ley local.\n¿Qué característica de la autonomía de las entidades territoriales se manifiesta con la expedición de normas propias?",
+    "options": [
+      "La facultad de reformar la Constitución Política.",
+      "La capacidad de dictar normas dentro de su competencia y marco legal.",
+      "La posibilidad de desconocer las leyes nacionales.",
+      "La potestad de crear una nueva rama del poder público."
+    ],
+    "answer": "La capacidad de dictar normas dentro de su competencia y marco legal."
+  }
+
+
+
+
+]
