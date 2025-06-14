@@ -1,0 +1,1791 @@
+[
+    {
+        "question": "¿Qué órgano es responsable de la protección de los derechos fundamentales en Colombia?",
+        "options": [
+            "La Corte Constitucional",
+            "La Procuraduría General de la Nación",
+            "La Contraloría General de la República",
+            "El Congreso de la República"
+        ],
+        "answer": "La Corte Constitucional"
+    },
+    {
+        "question": "¿Qué derecho se protege a través de la acción de tutela?",
+        "options": [
+            "Derecho a la vida",
+            "Derecho de petición",
+            "Derecho a la educación",
+            "Derecho a la privacidad"
+        ],
+        "answer": "Derecho de petición"
+    },
+    {
+        "question": "¿Cuál de los siguientes derechos es un derecho fundamental según la Constitución de 1991?",
+        "options": [
+            "Derecho al trabajo",
+            "Derecho al voto",
+            "Derecho a la salud",
+            "Derecho a la libertad personal"
+        ],
+        "answer": "Derecho a la libertad personal"
+    },
+    {
+        "question": "¿Cuál es el principal mecanismo de protección de los derechos fundamentales en Colombia?",
+        "options": [
+            "Acción de Tutela",
+            "Acción Popular",
+            "Habeas Data",
+            "Derecho de Petición"
+        ],
+        "answer": "Acción de Tutela"
+    },
+    {
+        "question": "¿Qué ley regula el Derecho de Petición en Colombia?",
+        "options": [
+            "Ley 1712 de 2014",
+            "Ley 1755 de 2015",
+            "Ley 1581 de 2012",
+            "Ley 134 de 1994"
+        ],
+        "answer": "Ley 1755 de 2015"
+    },
+    {
+        "question": "¿Qué derecho fundamental se protege con el Habeas Data?",
+        "options": [
+            "Protección de datos personales",
+            "Protección a la propiedad intelectual",
+            "Acceso a la información pública",
+            "Derecho a la salud"
+        ],
+        "answer": "Protección de datos personales"
+    },
+    {
+        "question": "¿Qué tribunal tiene la potestad de hacer un control de constitucionalidad de las leyes y actos administrativos?",
+        "options": [
+            "La Corte Suprema de Justicia",
+            "La Corte Constitucional",
+            "El Consejo de Estado",
+            "La Procuraduría General"
+        ],
+        "answer": "La Corte Constitucional"
+    },
+    {
+        "question": "¿Cuál de los siguientes no es un mecanismo de protección de los derechos fundamentales?",
+        "options": [
+            "Acción de Tutela",
+            "Habeas Data",
+            "Acción Popular",
+            "Código Penal"
+        ],
+        "answer": "Código Penal"
+    },
+    {
+        "question": "¿Qué principio establece que los derechos fundamentales son de aplicación inmediata en Colombia?",
+        "options": [
+            "Principio de Progresividad",
+            "Principio de Inalienabilidad",
+            "Principio de Aplicación Directa",
+            "Principio de No Renuncia"
+        ],
+        "answer": "Principio de Aplicación Directa"
+    },
+    {
+        "question": "¿Qué órgano actúa cuando se violan los derechos de los servidores públicos a nivel disciplinario?",
+        "options": [
+            "Corte Constitucional",
+            "Procuraduría General de la Nación",
+            "Fiscalía General de la Nación",
+            "Contraloría General de la República"
+        ],
+        "answer": "Procuraduría General de la Nación"
+    },
+
+    {
+    "question": "Un ciudadano de Puerto Boyacá se presenta ante la Personería Municipal para denunciar que la Secretaría de Tránsito Municipal lleva más de 30 días sin responderle una solicitud de información sobre un comparendo de tránsito, interpuesta hace 45 días. \n¿Qué derecho fundamental se considera vulnerado en este caso y qué mecanismo de protección sería el más adecuado para su garantía inmediata?",
+    "options": [
+      "El derecho al debido proceso; mediante una Acción Popular.",
+      "El derecho a la información pública; mediante un Habeas Data.",
+      "El derecho de petición; mediante una Acción de Tutela.",
+      "El derecho a la libre circulación; mediante una Acción de Cumplimiento."
+    ],
+    "answer": "El derecho de petición; mediante una Acción de Tutela."
+  },
+  {
+    "question": "Una persona con discapacidad visual, residente en Puerto Boyacá, solicita a la EPS un examen diagnóstico especializado que es vital para preservar la función de su ojo restante. La EPS se niega argumentando que el examen no está incluido en el Plan de Beneficios en Salud (PBS).\n¿Bajo qué principio o concepto jurisprudencial la Corte Constitucional ha permitido la protección del derecho a la salud en casos como este, a través de la Acción de Tutela?",
+    "options": [
+      "Principio de subsidiariedad estricta.",
+      "Concepto de la fundamentalidad por conexidad con la vida digna o integridad personal.",
+      "Principio de irrenunciabilidad de los derechos sociales.",
+      "Concepto de la aplicación exclusiva del derecho de petición."
+    ],
+    "answer": "Concepto de la fundamentalidad por conexidad con la vida digna o integridad personal."
+  },
+  {
+    "question": "Un grupo de vecinos de un barrio de Puerto Boyacá se ve afectado por los altos niveles de ruido y contaminación generados por una fábrica cercana que opera sin los permisos ambientales adecuados. Desean que se tomen medidas para cesar esta afectación a su entorno.\n¿Qué mecanismo judicial colectivo es el más adecuado para proteger el derecho a un medio ambiente sano y otros derechos colectivos vulnerados?",
+    "options": [
+      "Una Acción de Tutela.",
+      "Una Acción de Grupo.",
+      "Una Acción Popular.",
+      "Un Habeas Corpus."
+    ],
+    "answer": "Una Acción Popular."
+  },
+  {
+    "question": "Un ciudadano de Puerto Boyacá es capturado y privado de la libertad, pero considera que su detención fue ilegal porque no se le informó el motivo ni la autoridad que ordenó su aprehensión, y ya lleva más de 36 horas sin ser puesto a disposición de un juez.\n¿Qué mecanismo de protección de derechos fundamentales puede invocar para que se examine la legalidad de su privación de la libertad?",
+    "options": [
+      "Un Derecho de Petición.",
+      "Una Acción de Tutela por el debido proceso.",
+      "Un Habeas Corpus.",
+      "Una Acción de Cumplimiento."
+    ],
+    "answer": "Un Habeas Corpus."
+  },
+  {
+    "question": "La Constitución Política de Colombia establece en su Artículo 86 que la Acción de Tutela solo procederá cuando el afectado no disponga de otro medio de defensa judicial, salvo que aquella se utilice como mecanismo transitorio para evitar un perjuicio irremediable.\nEste principio que rige la Acción de Tutela se conoce como:",
+    "options": [
+      "Principio de preferencia.",
+      "Principio de sumariedad.",
+      "Principio de subsidiariedad y residualidad.",
+      "Principio de inmediatez."
+    ],
+    "answer": "Principio de subsidiariedad y residualidad."
+  },
+  {
+    "question": "Una joven madre cabeza de familia en Puerto Boyacá, con su hijo menor de edad, fue desalojada de su vivienda de forma irregular y se encuentra en situación de calle, sin acceso a los servicios básicos de salud o educación para su hijo.\nEn este caso, la Acción de Tutela podría concederse de forma más flexible, considerando que la madre y su hijo son:",
+    "options": [
+      "Sujetos de especial protección constitucional.",
+      "Ciudadanos extranjeros.",
+      "Grandes contribuyentes.",
+      "Servidores públicos."
+    ],
+    "answer": "Sujetos de especial protección constitucional."
+  },
+  {
+    "question": "Un ciudadano de Puerto Boyacá desea que se le retire de una base de datos de una entidad bancaria una información crediticia negativa que, a su juicio, es errónea y lo está afectando para acceder a créditos.\n¿Qué derecho fundamental le permite a esta persona solicitar la corrección o actualización de sus datos personales en bases de datos?",
+    "options": [
+      "El derecho a la intimidad.",
+      "El derecho de petición.",
+      "El Habeas Data.",
+      "El derecho a la libre asociación."
+    ],
+    "answer": "El Habeas Data."
+  },
+  {
+    "question": "La Constitución Política de Colombia establece que los derechos fundamentales son de aplicación inmediata, es decir, no requieren de una ley que los desarrolle para que puedan ser exigidos y protegidos.\nEste principio se conoce como:",
+    "options": [
+      "Principio de progresividad.",
+      "Principio de aplicación directa.",
+      "Principio de subsidiariedad.",
+      "Principio de indivisibilidad."
+    ],
+    "answer": "Principio de aplicación directa."
+  },
+  {
+    "question": "Una empresa contratista de la Alcaldía de Puerto Boyacá incumple gravemente una ley que exige la entrega de unos informes técnicos periódicos. Un ciudadano, que ha intentado por todos los medios obtener el cumplimiento de esta ley, desea que una autoridad judicial obligue a la empresa a cumplir con su deber.\n¿Qué mecanismo judicial sería el más adecuado para buscar el cumplimiento de la ley?",
+    "options": [
+      "Una Acción de Tutela.",
+      "Una Acción Popular.",
+      "Una Acción de Cumplimiento.",
+      "Un Habeas Data."
+    ],
+    "answer": "Una Acción de Cumplimiento."
+  },
+  {
+    "question": "La Corte Constitucional ha señalado que la dignidad humana es el pilar fundamental de la Constitución de 1991 y el fundamento de todos los derechos fundamentales. \n¿Qué artículo de la Constitución Política de Colombia consagra la dignidad humana como valor y principio fundante del Estado?",
+    "options": [
+      "Artículo 1.",
+      "Artículo 5.",
+      "Artículo 11.",
+      "Artículo 86."
+    ],
+    "answer": "Artículo 1."
+  },
+  {
+    "question": "Un grupo de 25 personas en Puerto Boyacá sufre afectaciones a su salud y pérdidas económicas significativas debido a una misma causa: la contaminación masiva de un pozo de agua potable por parte de una empresa de la región. Desean obtener una indemnización por los perjuicios sufridos.\n¿Qué tipo de acción judicial colectiva es la más adecuada para buscar la indemnización de estos perjuicios individuales?",
+    "options": [
+      "Una Acción Popular.",
+      "Una Acción de Grupo.",
+      "Una Acción de Tutela colectiva.",
+      "Un proceso ordinario individual."
+    ],
+    "answer": "Una Acción de Grupo."
+  },
+  {
+    "question": "El Defensor del Pueblo en Boyacá interpone una Acción de Tutela a nombre de una comunidad indígena que ha sido desplazada de su territorio y a la que no se le ha garantizado su derecho a la vivienda y el retorno en condiciones dignas. \n¿Qué facultad le permite al Defensor del Pueblo interponer acciones de tutela en nombre de terceros?",
+    "options": [
+      "La agencia oficiosa.",
+      "El control fiscal.",
+      "La función de control político.",
+      "La facultad de legislar."
+    ],
+    "answer": "La agencia oficiosa."
+  },
+  {
+    "question": "Un ciudadano de Puerto Boyacá interpuso una Acción de Tutela que le fue fallada en primera instancia a su favor. Sin embargo, la entidad accionada decide impugnar la decisión. \n¿De cuántos días hábiles dispone la entidad para impugnar la sentencia de tutela de primera instancia?",
+    "options": [
+      "5 días hábiles.",
+      "10 días hábiles.",
+      "3 días hábiles.",
+      "15 días hábiles."
+    ],
+    "answer": "3 días hábiles."
+  },
+  {
+    "question": "Los derechos fundamentales, según la Constitución Política de Colombia, se caracterizan por ser inalienables, imprescriptibles e irrenunciables. \n¿Qué significa que un derecho fundamental sea 'imprescriptible'?",
+    "options": [
+      "Que no se puede ceder a otra persona.",
+      "Que no se pierde por el paso del tiempo o por no ejercerlo.",
+      "Que no puede ser vulnerado por ninguna autoridad.",
+      "Que puede ser suspendido en estados de excepción."
+    ],
+    "answer": "Que no se pierde por el paso del tiempo o por no ejercerlo."
+  },
+  {
+    "question": "La Corte Constitucional ha reconocido que el derecho a la educación, aunque en principio es un derecho social, económico y cultural, puede adquirir fundamentalidad por conexidad, por ejemplo, cuando la falta de acceso a la educación afecta el desarrollo integral de un niño.\n¿Qué capítulo de la Constitución Política de Colombia aborda los Derechos Sociales, Económicos y Culturales (DESC)?",
+    "options": [
+      "Capítulo 1 del Título II.",
+      "Capítulo 2 del Título II.",
+      "Capítulo 3 del Título II.",
+      "Capítulo 4 del Título II."
+    ],
+    "answer": "Capítulo 2 del Título II."
+  },
+  {
+    "question": "Un servidor público de la Alcaldía de Puerto Boyacá se niega a suministrar información pública que ha sido solicitada por un ciudadano a través del derecho de petición, alegando que es información reservada sin justificación legal.\n¿Qué principio constitucional relacionado con la información pública y la transparencia se estaría vulnerando en este caso?",
+    "options": [
+      "El principio de la buena fe.",
+      "El principio de la publicidad de los actos y documentos públicos.",
+      "El principio de la autonomía de la voluntad.",
+      "El principio de la libre asociación."
+    ],
+    "answer": "El principio de la publicidad de los actos y documentos públicos."
+  },
+  {
+    "question": "La Ley 1751 de 2015, Ley Estatutaria de Salud, establece el derecho fundamental a la salud y regula su prestación. Esta ley es un desarrollo de un derecho fundamental. \n¿Qué tipo de ley es una 'ley estatutaria' y por qué se utiliza para regular derechos fundamentales?",
+    "options": [
+      "Es una ley ordinaria que puede ser modificada fácilmente.",
+      "Es una ley que requiere trámite legislativo especial y control previo de la Corte Constitucional, para regular derechos fundamentales y su protección.",
+      "Es una ley que solo puede ser expedida por el Presidente de la República.",
+      "Es una ley que solo se aplica a los servidores públicos."
+    ],
+    "answer": "Es una ley que requiere trámite legislativo especial y control previo de la Corte Constitucional, para regular derechos fundamentales y su protección."
+  },
+  {
+    "question": "Un grupo de 15 personas ha sufrido perjuicios económicos por el incumplimiento de un contrato de suministro por parte de una entidad pública de Puerto Boyacá. Desean iniciar una acción judicial para obtener una indemnización. \n¿Podrían estas 15 personas interponer una Acción de Grupo para reclamar sus perjuicios?",
+    "options": [
+      "Sí, sin ninguna restricción.",
+      "No, porque la Acción de Grupo requiere un mínimo de 20 personas.",
+      "Sí, si cuentan con el respaldo de la Defensoría del Pueblo.",
+      "No, la Acción de Grupo solo procede contra particulares."
+    ],
+    "answer": "No, porque la Acción de Grupo requiere un mínimo de 20 personas."
+  },
+  {
+    "question": "Una persona en Puerto Boyacá considera que su derecho a la libertad de expresión ha sido vulnerado por una autoridad pública que le impidió manifestarse pacíficamente. \n¿Qué artículo de la Constitución Política de Colombia consagra el derecho a la libertad de expresión?",
+    "options": [
+      "Artículo 11.",
+      "Artículo 13.",
+      "Artículo 20.",
+      "Artículo 25."
+    ],
+    "answer": "Artículo 20."
+  },
+  {
+    "question": "La Constitución Política de Colombia establece que 'la persona es libre'. Este es un derecho fundamental que garantiza la autonomía de los individuos. \n¿Qué tipo de derecho fundamental es la libertad personal, según la clasificación tradicional?",
+    "options": [
+      "Un derecho social, económico y cultural.",
+      "Un derecho colectivo y del ambiente.",
+      "Un derecho de primera generación (civil y político).",
+      "Un derecho de cuarta generación."
+    ],
+    "answer": "Un derecho de primera generación (civil y político)."
+  },
+  {
+    "question": "Un ciudadano de Puerto Boyacá interpone una Acción de Tutela. Un juez de primera instancia falla en su contra y el ciudadano decide impugnar. \n¿Cuántos días hábiles tiene el ciudadano para impugnar la sentencia de tutela de primera instancia?",
+    "options": [
+      "1 día hábil.",
+      "3 días hábiles.",
+      "5 días hábiles.",
+      "10 días hábiles."
+    ],
+    "answer": "3 días hábiles."
+  },
+  {
+    "question": "La Corte Constitucional ha desarrollado el concepto del 'mínimo vital' como un derecho fundamental que garantiza las condiciones materiales básicas para la subsistencia digna de las personas. \n¿Qué derecho fundamental se considera el pilar o fundamento del concepto de mínimo vital?",
+    "options": [
+      "El derecho a la propiedad privada.",
+      "El derecho a la vida digna.",
+      "El derecho a la recreación.",
+      "El derecho al libre desarrollo de la personalidad."
+    ],
+    "answer": "El derecho a la vida digna."
+  },
+  {
+    "question": "Un empleado de la Alcaldía de Puerto Boyacá considera que se le vulneró su derecho al debido proceso en un procedimiento administrativo interno que resultó en su desvinculación. \n¿Qué acción puede interponer el empleado para proteger su derecho al debido proceso, si no existen otros recursos en sede administrativa que sean idóneos?",
+    "options": [
+      "Un Derecho de Petición.",
+      "Una Acción de Tutela.",
+      "Una Acción Popular.",
+      "Una queja disciplinaria."
+    ],
+    "answer": "Una Acción de Tutela."
+  },
+  {
+    "question": "La Ley 1755 de 2015 establece que el derecho de petición es fundamental y puede ser ejercido ante autoridades públicas y, excepcionalmente, ante organizaciones privadas en los casos que la ley determine. \n¿En qué plazo máximo debe responder una autoridad pública una petición de información?",
+    "options": [
+      "5 días hábiles.",
+      "10 días hábiles.",
+      "15 días hábiles.",
+      "30 días hábiles."
+    ],
+    "answer": "10 días hábiles."
+  },
+  {
+    "question": "Los tratados internacionales de derechos humanos ratificados por Colombia hacen parte del Bloque de Constitucionalidad, lo que significa que son parámetros de control de constitucionalidad. \n¿Qué implica que un tratado internacional de derechos humanos haga parte del Bloque de Constitucionalidad para la protección de derechos en Colombia?",
+    "options": [
+      "Que solo aplica a los ciudadanos extranjeros.",
+      "Que sus disposiciones tienen el mismo rango que la Constitución y sirven para interpretar y aplicar los derechos fundamentales.",
+      "Que solo pueden ser aplicados por la Corte Suprema de Justicia.",
+      "Que no tienen ninguna incidencia en la legislación interna."
+    ],
+    "answer": "Que sus disposiciones tienen el mismo rango que la Constitución y sirven para interpretar y aplicar los derechos fundamentales."
+  },
+  {
+    "question": "Una comunidad en Puerto Boyacá se siente amenazada por la posible construcción de un proyecto que afectaría gravemente un humedal, considerado un ecosistema vital para la biodiversidad local. \n¿Qué tipo de derecho fundamental se vería afectado en este caso?",
+    "options": [
+      "El derecho al trabajo.",
+      "El derecho a la libre asociación.",
+      "El derecho a un medio ambiente sano.",
+      "El derecho a la propiedad privada."
+    ],
+    "answer": "El derecho a un medio ambiente sano."
+  },
+  {
+    "question": "La Constitución Política de Colombia consagra el derecho a la igualdad, prohibiendo toda forma de discriminación. \n¿Qué artículo de la Constitución Política establece el derecho a la igualdad y prohíbe la discriminación?",
+    "options": [
+      "Artículo 1.",
+      "Artículo 11.",
+      "Artículo 13.",
+      "Artículo 23."
+    ],
+    "answer": "Artículo 13."
+  },
+  {
+    "question": "Una persona en Puerto Boyacá es reportada negativamente en una central de riesgo sin haber sido notificada previamente de la inclusión de la información ni de la posibilidad de presentar descargos. \n¿Qué derecho fundamental y principio se estaría vulnerando en este escenario?",
+    "options": [
+      "El derecho a la libertad de expresión y el principio de oportunidad.",
+      "El derecho al Habeas Data y el principio del debido proceso.",
+      "El derecho de petición y el principio de la buena fe.",
+      "El derecho a la libre circulación y el principio de publicidad."
+    ],
+    "answer": "El derecho al Habeas Data y el principio del debido proceso."
+  },
+  {
+    "question": "Los derechos fundamentales se consideran 'inviolables' porque ninguna autoridad o particular puede atentar contra ellos. \n¿Qué implica esta característica para la actuación de los servidores públicos de la Alcaldía de Puerto Boyacá?",
+    "options": [
+      "Que pueden limitar cualquier derecho fundamental si lo consideran necesario.",
+      "Que deben garantizar y respetar la plenitud de los derechos fundamentales de los ciudadanos.",
+      "Que solo están obligados a proteger los derechos económicos.",
+      "Que no tienen ninguna responsabilidad en la protección de derechos."
+    ],
+    "answer": "Que deben garantizar y respetar la plenitud de los derechos fundamentales de los ciudadanos."
+  },
+  {
+    "question": "La Acción de Tutela se caracteriza por ser un mecanismo 'sumario'. \n¿Qué significa que la Acción de Tutela sea un mecanismo 'sumario'?",
+    "options": [
+      "Que solo puede ser presentada por abogados.",
+      "Que se tramita de forma rápida y preferente, con plazos cortos.",
+      "Que requiere de un proceso judicial largo y complejo.",
+      "Que solo puede proteger derechos que no tienen desarrollo legal."
+    ],
+    "answer": "Que se tramita de forma rápida y preferente, con plazos cortos."
+  },
+
+
+  {
+    "question": "Un ciudadano de Puerto Boyacá se presenta ante la Personería Municipal para denunciar que la Secretaría de Tránsito Municipal lleva más de 30 días sin responderle una solicitud de información sobre un comparendo de tránsito, interpuesta hace 45 días. \n¿Qué derecho fundamental se considera vulnerado en este caso y qué mecanismo de protección sería el más adecuado para su garantía inmediata?",
+    "options": [
+      "El derecho al debido proceso; mediante una Acción Popular.",
+      "El derecho a la información pública; mediante un Habeas Data.",
+      "El derecho de petición; mediante una Acción de Tutela.",
+      "El derecho a la libre circulación; mediante una Acción de Cumplimiento."
+    ],
+    "answer": "El derecho de petición; mediante una Acción de Tutela."
+  },
+  {
+    "question": "Una persona con discapacidad visual, residente en Puerto Boyacá, solicita a la EPS un examen diagnóstico especializado que es vital para preservar la función de su ojo restante. La EPS se niega argumentando que el examen no está incluido en el Plan de Beneficios en Salud (PBS).\n¿Bajo qué principio o concepto jurisprudencial la Corte Constitucional ha permitido la protección del derecho a la salud en casos como este, a través de la Acción de Tutela?",
+    "options": [
+      "Principio de subsidiariedad estricta.",
+      "Concepto de la fundamentalidad por conexidad con la vida digna o integridad personal.",
+      "Principio de irrenunciabilidad de los derechos sociales.",
+      "Concepto de la aplicación exclusiva del derecho de petición."
+    ],
+    "answer": "Concepto de la fundamentalidad por conexidad con la vida digna o integridad personal."
+  },
+  {
+    "question": "Un grupo de vecinos de un barrio de Puerto Boyacá se ve afectado por los altos niveles de ruido y contaminación generados por una fábrica cercana que opera sin los permisos ambientales adecuados. Desean que se tomen medidas para cesar esta afectación a su entorno.\n¿Qué mecanismo judicial colectivo es el más adecuado para proteger el derecho a un medio ambiente sano y otros derechos colectivos vulnerados?",
+    "options": [
+      "Una Acción de Tutela.",
+      "Una Acción de Grupo.",
+      "Una Acción Popular.",
+      "Un Habeas Corpus."
+    ],
+    "answer": "Una Acción Popular."
+  },
+  {
+    "question": "Un ciudadano de Puerto Boyacá es capturado y privado de la libertad, pero considera que su detención fue ilegal porque no se le informó el motivo ni la autoridad que ordenó su aprehensión, y ya lleva más de 36 horas sin ser puesto a disposición de un juez.\n¿Qué mecanismo de protección de derechos fundamentales puede invocar para que se examine la legalidad de su privación de la libertad?",
+    "options": [
+      "Un Derecho de Petición.",
+      "Una Acción de Tutela por el debido proceso.",
+      "Un Habeas Corpus.",
+      "Una Acción de Cumplimiento."
+    ],
+    "answer": "Un Habeas Corpus."
+  },
+  {
+    "question": "La Constitución Política de Colombia establece en su Artículo 86 que la Acción de Tutela solo procederá cuando el afectado no disponga de otro medio de defensa judicial, salvo que aquella se utilice como mecanismo transitorio para evitar un perjuicio irremediable.\nEste principio que rige la Acción de Tutela se conoce como:",
+    "options": [
+      "Principio de preferencia.",
+      "Principio de sumariedad.",
+      "Principio de subsidiariedad y residualidad.",
+      "Principio de inmediatez."
+    ],
+    "answer": "Principio de subsidiariedad y residualidad."
+  },
+  {
+    "question": "Una joven madre cabeza de familia en Puerto Boyacá, con su hijo menor de edad, fue desalojada de su vivienda de forma irregular y se encuentra en situación de calle, sin acceso a los servicios básicos de salud o educación para su hijo.\nEn este caso, la Acción de Tutela podría concederse de forma más flexible, considerando que la madre y su hijo son:",
+    "options": [
+      "Sujetos de especial protección constitucional.",
+      "Ciudadanos extranjeros.",
+      "Grandes contribuyentes.",
+      "Servidores públicos."
+    ],
+    "answer": "Sujetos de especial protección constitucional."
+  },
+  {
+    "question": "Un ciudadano de Puerto Boyacá desea que se le retire de una base de datos de una entidad bancaria una información crediticia negativa que, a su juicio, es errónea y lo está afectando para acceder a créditos.\n¿Qué derecho fundamental le permite a esta persona solicitar la corrección o actualización de sus datos personales en bases de datos?",
+    "options": [
+      "El derecho a la intimidad.",
+      "El derecho de petición.",
+      "El Habeas Data.",
+      "El derecho a la libre asociación."
+    ],
+    "answer": "El Habeas Data."
+  },
+  {
+    "question": "La Constitución Política de Colombia establece que los derechos fundamentales son de aplicación inmediata, es decir, no requieren de una ley que los desarrolle para que puedan ser exigidos y protegidos.\nEste principio se conoce como:",
+    "options": [
+      "Principio de progresividad.",
+      "Principio de aplicación directa.",
+      "Principio de subsidiariedad.",
+      "Principio de indivisibilidad."
+    ],
+    "answer": "Principio de aplicación directa."
+  },
+  {
+    "question": "Una empresa contratista de la Alcaldía de Puerto Boyacá incumple gravemente una ley que exige la entrega de unos informes técnicos periódicos. Un ciudadano, que ha intentado por todos los medios obtener el cumplimiento de esta ley, desea que una autoridad judicial obligue a la empresa a cumplir con su deber.\n¿Qué mecanismo judicial sería el más adecuado para buscar el cumplimiento de la ley?",
+    "options": [
+      "Una Acción de Tutela.",
+      "Una Acción Popular.",
+      "Una Acción de Cumplimiento.",
+      "Un Habeas Data."
+    ],
+    "answer": "Una Acción de Cumplimiento."
+  },
+  {
+    "question": "La Corte Constitucional ha señalado que la dignidad humana es el pilar fundamental de la Constitución de 1991 y el fundamento de todos los derechos fundamentales. \n¿Qué artículo de la Constitución Política de Colombia consagra la dignidad humana como valor y principio fundante del Estado?",
+    "options": [
+      "Artículo 1.",
+      "Artículo 5.",
+      "Artículo 11.",
+      "Artículo 86."
+    ],
+    "answer": "Artículo 1."
+  },
+  {
+    "question": "Un grupo de 25 personas en Puerto Boyacá sufre afectaciones a su salud y pérdidas económicas significativas debido a una misma causa: la contaminación masiva de un pozo de agua potable por parte de una empresa de la región. Desean obtener una indemnización por los perjuicios sufridos.\n¿Qué tipo de acción judicial colectiva es la más adecuada para buscar la indemnización de estos perjuicios individuales?",
+    "options": [
+      "Una Acción Popular.",
+      "Una Acción de Grupo.",
+      "Una Acción de Tutela colectiva.",
+      "Un proceso ordinario individual."
+    ],
+    "answer": "Una Acción de Grupo."
+  },
+  {
+    "question": "El Defensor del Pueblo en Boyacá interpone una Acción de Tutela a nombre de una comunidad indígena que ha sido desplazada de su territorio y a la que no se le ha garantizado su derecho a la vivienda y el retorno en condiciones dignas. \n¿Qué facultad le permite al Defensor del Pueblo interponer acciones de tutela en nombre de terceros?",
+    "options": [
+      "La agencia oficiosa.",
+      "El control fiscal.",
+      "La función de control político.",
+      "La facultad de legislar."
+    ],
+    "answer": "La agencia oficiosa."
+  },
+  {
+    "question": "Un ciudadano de Puerto Boyacá interpuso una Acción de Tutela que le fue fallada en primera instancia a su favor. Sin embargo, la entidad accionada decide impugnar la decisión. \n¿De cuántos días hábiles dispone la entidad para impugnar la sentencia de tutela de primera instancia?",
+    "options": [
+      "5 días hábiles.",
+      "10 días hábiles.",
+      "3 días hábiles.",
+      "15 días hábiles."
+    ],
+    "answer": "3 días hábiles."
+  },
+  {
+    "question": "Los derechos fundamentales, según la Constitución Política de Colombia, se caracterizan por ser inalienables, imprescriptibles e irrenunciables. \n¿Qué significa que un derecho fundamental sea 'imprescriptible'?",
+    "options": [
+      "Que no se puede ceder a otra persona.",
+      "Que no se pierde por el paso del tiempo o por no ejercerlo.",
+      "Que no puede ser vulnerado por ninguna autoridad.",
+      "Que puede ser suspendido en estados de excepción."
+    ],
+    "answer": "Que no se pierde por el paso del tiempo o por no ejercerlo."
+  },
+  {
+    "question": "La Corte Constitucional ha reconocido que el derecho a la educación, aunque en principio es un derecho social, económico y cultural, puede adquirir fundamentalidad por conexidad, por ejemplo, cuando la falta de acceso a la educación afecta el desarrollo integral de un niño.\n¿Qué capítulo de la Constitución Política de Colombia aborda los Derechos Sociales, Económicos y Culturales (DESC)?",
+    "options": [
+      "Capítulo 1 del Título II.",
+      "Capítulo 2 del Título II.",
+      "Capítulo 3 del Título II.",
+      "Capítulo 4 del Título II."
+    ],
+    "answer": "Capítulo 2 del Título II."
+  },
+  {
+    "question": "Un servidor público de la Alcaldía de Puerto Boyacá se niega a suministrar información pública que ha sido solicitada por un ciudadano a través del derecho de petición, alegando que es información reservada sin justificación legal.\n¿Qué principio constitucional relacionado con la información pública y la transparencia se estaría vulnerando en este caso?",
+    "options": [
+      "El principio de la buena fe.",
+      "El principio de la publicidad de los actos y documentos públicos.",
+      "El principio de la autonomía de la voluntad.",
+      "El principio de la libre asociación."
+    ],
+    "answer": "El principio de la publicidad de los actos y documentos públicos."
+  },
+  {
+    "question": "La Ley 1751 de 2015, Ley Estatutaria de Salud, establece el derecho fundamental a la salud y regula su prestación. Esta ley es un desarrollo de un derecho fundamental. \n¿Qué tipo de ley es una 'ley estatutaria' y por qué se utiliza para regular derechos fundamentales?",
+    "options": [
+      "Es una ley ordinaria que puede ser modificada fácilmente.",
+      "Es una ley que requiere trámite legislativo especial y control previo de la Corte Constitucional, para regular derechos fundamentales y su protección.",
+      "Es una ley que solo puede ser expedida por el Presidente de la República.",
+      "Es una ley que solo se aplica a los servidores públicos."
+    ],
+    "answer": "Es una ley que requiere trámite legislativo especial y control previo de la Corte Constitucional, para regular derechos fundamentales y su protección."
+  },
+  {
+    "question": "Un grupo de 15 personas ha sufrido perjuicios económicos por el incumplimiento de un contrato de suministro por parte de una entidad pública de Puerto Boyacá. Desean iniciar una acción judicial para obtener una indemnización. \n¿Podrían estas 15 personas interponer una Acción de Grupo para reclamar sus perjuicios?",
+    "options": [
+      "Sí, sin ninguna restricción.",
+      "No, porque la Acción de Grupo requiere un mínimo de 20 personas.",
+      "Sí, si cuentan con el respaldo de la Defensoría del Pueblo.",
+      "No, la Acción de Grupo solo procede contra particulares."
+    ],
+    "answer": "No, porque la Acción de Grupo requiere un mínimo de 20 personas."
+  },
+  {
+    "question": "Una persona en Puerto Boyacá considera que su derecho a la libertad de expresión ha sido vulnerado por una autoridad pública que le impidió manifestarse pacíficamente. \n¿Qué artículo de la Constitución Política de Colombia consagra el derecho a la libertad de expresión?",
+    "options": [
+      "Artículo 11.",
+      "Artículo 13.",
+      "Artículo 20.",
+      "Artículo 25."
+    ],
+    "answer": "Artículo 20."
+  },
+  {
+    "question": "La Constitución Política de Colombia consagra el derecho a la vida, el cual es considerado el primer y más importante de los derechos fundamentales. \n¿Qué tipo de derecho es la vida, según la clasificación de derechos fundamentales por generaciones?",
+    "options": [
+      "Un derecho de segunda generación (social, económico y cultural).",
+      "Un derecho colectivo y del ambiente.",
+      "Un derecho de primera generación (civil y político).",
+      "Un derecho de tercera generación."
+    ],
+    "answer": "Un derecho de primera generación (civil y político)."
+  },
+  {
+    "question": "Un ciudadano de Puerto Boyacá interpone una Acción de Tutela. Un juez de primera instancia falla en su contra y el ciudadano decide impugnar. \n¿Cuántos días hábiles tiene el ciudadano para impugnar la sentencia de tutela de primera instancia?",
+    "options": [
+      "1 día hábil.",
+      "3 días hábiles.",
+      "5 días hábiles.",
+      "10 días hábiles."
+    ],
+    "answer": "3 días hábiles."
+  },
+  {
+    "question": "La Corte Constitucional ha desarrollado el concepto del 'mínimo vital' como un derecho fundamental que garantiza las condiciones materiales básicas para la subsistencia digna de las personas. \n¿Qué derecho fundamental se considera el pilar o fundamento del concepto de mínimo vital?",
+    "options": [
+      "El derecho a la propiedad privada.",
+      "El derecho a la vida digna.",
+      "El derecho a la recreación.",
+      "El derecho al libre desarrollo de la personalidad."
+    ],
+    "answer": "El derecho a la vida digna."
+  },
+  {
+    "question": "Un empleado de la Alcaldía de Puerto Boyacá considera que se le vulneró su derecho al debido proceso en un procedimiento administrativo interno que resultó en su desvinculación. \n¿Qué acción puede interponer el empleado para proteger su derecho al debido proceso, si no existen otros recursos en sede administrativa que sean idóneos?",
+    "options": [
+      "Un Derecho de Petición.",
+      "Una Acción de Tutela.",
+      "Una Acción Popular.",
+      "Una queja disciplinaria."
+    ],
+    "answer": "Una Acción de Tutela."
+  },
+  {
+    "question": "La Ley 1755 de 2015 establece que el derecho de petición es fundamental y puede ser ejercido ante autoridades públicas y, excepcionalmente, ante organizaciones privadas en los casos que la ley determine. \n¿En qué plazo máximo debe responder una autoridad pública una petición de información?",
+    "options": [
+      "5 días hábiles.",
+      "10 días hábiles.",
+      "15 días hábiles.",
+      "30 días hábiles."
+    ],
+    "answer": "10 días hábiles."
+  },
+  {
+    "question": "Los tratados internacionales de derechos humanos ratificados por Colombia hacen parte del Bloque de Constitucionalidad, lo que significa que son parámetros de control de constitucionalidad. \n¿Qué implica que un tratado internacional de derechos humanos haga parte del Bloque de Constitucionalidad para la protección de derechos en Colombia?",
+    "options": [
+      "Que solo aplica a los ciudadanos extranjeros.",
+      "Que sus disposiciones tienen el mismo rango que la Constitución y sirven para interpretar y aplicar los derechos fundamentales.",
+      "Que solo pueden ser aplicados por la Corte Suprema de Justicia.",
+      "Que no tienen ninguna incidencia en la legislación interna."
+    ],
+    "answer": "Que sus disposiciones tienen el mismo rango que la Constitución y sirven para interpretar y aplicar los derechos fundamentales."
+  },
+  {
+    "question": "Una comunidad en Puerto Boyacá se siente amenazada por la posible construcción de un proyecto que afectaría gravemente un humedal, considerado un ecosistema vital para la biodiversidad local. \n¿Qué tipo de derecho fundamental se vería afectado en este caso?",
+    "options": [
+      "El derecho al trabajo.",
+      "El derecho a la libre asociación.",
+      "El derecho a un medio ambiente sano.",
+      "El derecho a la propiedad privada."
+    ],
+    "answer": "El derecho a un medio ambiente sano."
+  },
+  {
+    "question": "La Constitución Política de Colombia consagra el derecho a la igualdad, prohibiendo toda forma de discriminación. \n¿Qué artículo de la Constitución Política establece el derecho a la igualdad y prohíbe la discriminación?",
+    "options": [
+      "Artículo 1.",
+      "Artículo 11.",
+      "Artículo 13.",
+      "Artículo 23."
+    ],
+    "answer": "Artículo 13."
+  },
+  {
+    "question": "Una persona en Puerto Boyacá es reportada negativamente en una central de riesgo sin haber sido notificada previamente de la inclusión de la información ni de la posibilidad de presentar descargos. \n¿Qué derecho fundamental y principio se estaría vulnerando en este escenario?",
+    "options": [
+      "El derecho a la libertad de expresión y el principio de oportunidad.",
+      "El derecho al Habeas Data y el principio del debido proceso.",
+      "El derecho de petición y el principio de la buena fe.",
+      "El derecho a la libre circulación y el principio de publicidad."
+    ],
+    "answer": "El derecho al Habeas Data y el principio del debido proceso."
+  },
+  {
+    "question": "Los derechos fundamentales se consideran 'inviolables' porque ninguna autoridad o particular puede atentar contra ellos. \n¿Qué implica esta característica para la actuación de los servidores públicos de la Alcaldía de Puerto Boyacá?",
+    "options": [
+      "Que pueden limitar cualquier derecho fundamental si lo consideran necesario.",
+      "Que deben garantizar y respetar la plenitud de los derechos fundamentales de los ciudadanos.",
+      "Que solo están obligados a proteger los derechos económicos.",
+      "Que no tienen ninguna responsabilidad en la protección de derechos."
+    ],
+    "answer": "Que deben garantizar y respetar la plenitud de los derechos fundamentales de los ciudadanos."
+  },
+  {
+    "question": "La Acción de Tutela se caracteriza por ser un mecanismo 'sumario'. \n¿Qué significa que la Acción de Tutela sea un mecanismo 'sumario'?",
+    "options": [
+      "Que solo puede ser presentada por abogados.",
+      "Que se tramita de forma rápida y preferente, con plazos cortos.",
+      "Que requiere de un proceso judicial largo y complejo.",
+      "Que solo puede proteger derechos que no tienen desarrollo legal."
+    ],
+    "answer": "Que se tramita de forma rápida y preferente, con plazos cortos."
+  },
+
+  {
+    "question": "¿Cuál es el mecanismo constitucional diseñado para la protección inmediata de derechos fundamentales en Colombia?",
+    "options": [
+      "Acción Popular",
+      "Acción de Tutela",
+      "Acción de Cumplimiento",
+      "Acción de Grupo"
+    ],
+    "answer": "Acción de Tutela"
+  },
+  {
+    "question": "Según el artículo 15 de la Constitución Política, toda persona tiene derecho a:",
+    "options": [
+      "La intimidad personal y familiar",
+      "La libertad de empresa",
+      "La propiedad privada ilimitada",
+      "La objeción de conciencia"
+    ],
+    "answer": "La intimidad personal y familiar"
+  },
+  {
+    "question": "La Ley 1581 de 2012 regula específicamente:",
+    "options": [
+      "El derecho de petición",
+      "La protección de datos personales",
+      "La acción de tutela",
+      "Los derechos de autor"
+    ],
+    "answer": "La protección de datos personales"
+  },
+  {
+    "question": "¿Qué artículo de la Constitución establece el derecho fundamental al debido proceso?",
+    "options": [
+      "Artículo 13",
+      "Artículo 29",
+      "Artículo 42",
+      "Artículo 74"
+    ],
+    "answer": "Artículo 29"
+  },
+  {
+    "question": "Cuando un servidor público niega información que debería ser pública, vulnera principalmente:",
+    "options": [
+      "El derecho de petición",
+      "El derecho a la intimidad",
+      "El derecho al trabajo",
+      "El derecho a la libertad de cultos"
+    ],
+    "answer": "El derecho de petición"
+  },
+  {
+    "question": "¿Cuál de estos derechos NO es considerado fundamental según la Constitución colombiana?",
+    "options": [
+      "Derecho a la vida",
+      "Derecho a la vivienda digna",
+      "Derecho a la herencia",
+      "Derecho al habeas data"
+    ],
+    "answer": "Derecho a la herencia"
+  },
+  {
+    "question": "El Habeas Corpus protege específicamente:",
+    "options": [
+      "La libertad personal",
+      "El derecho a la educación",
+      "La propiedad intelectual",
+      "Los derechos colectivos"
+    ],
+    "answer": "La libertad personal"
+  },
+  {
+    "question": "¿Qué órgano es competente para conocer de una acción de tutela contra una entidad municipal?",
+    "options": [
+      "La Fiscalía General",
+      "La Procuraduría",
+      "Los jueces de la República",
+      "El Concejo Municipal"
+    ],
+    "answer": "Los jueces de la República"
+  },
+  {
+    "question": "La Corte Constitucional ha establecido que el derecho fundamental al mínimo vital incluye:",
+    "options": [
+      "Acceso a servicios públicos básicos",
+      "Derecho a poseer armas",
+      "Libertad de empresa sin restricciones",
+      "Derecho a la doble nacionalidad"
+    ],
+    "answer": "Acceso a servicios públicos básicos"
+  },
+  {
+    "question": "¿Qué ley regula el derecho de petición en Colombia?",
+    "options": [
+      "Ley 1437 de 2011",
+      "Ley 1755 de 2015",
+      "Ley 1581 de 2012",
+      "Ley 1712 de 2014"
+    ],
+    "answer": "Ley 1755 de 2015"
+  },
+  {
+    "question": "El derecho a la igualdad está consagrado en el artículo:",
+    "options": [
+      "Artículo 1° de la CP",
+      "Artículo 13 de la CP",
+      "Artículo 25 de la CP",
+      "Artículo 40 de la CP"
+    ],
+    "answer": "Artículo 13 de la CP"
+  },
+  {
+    "question": "¿Qué tipo de derechos protegen principalmente las acciones populares?",
+    "options": [
+      "Derechos individuales",
+      "Derechos colectivos",
+      "Derechos políticos",
+      "Derechos económicos"
+    ],
+    "answer": "Derechos colectivos"
+  },
+  {
+    "question": "El derecho a la salud está reconocido como:",
+    "options": [
+      "Derecho fundamental autónomo",
+      "Derecho económico y social",
+      "Derecho político",
+      "Derecho colectivo"
+    ],
+    "answer": "Derecho fundamental autónomo"
+  },
+  {
+    "question": "¿Qué artículo constitucional consagra el derecho al habeas data?",
+    "options": [
+      "Artículo 15",
+      "Artículo 20",
+      "Artículo 23",
+      "Artículo 29"
+    ],
+    "answer": "Artículo 15"
+  },
+  {
+    "question": "La acción de cumplimiento está regulada por:",
+    "options": [
+      "Ley 393 de 1997",
+      "Ley 472 de 1998",
+      "Ley 1437 de 2011",
+      "Ley 1755 de 2015"
+    ],
+    "answer": "Ley 393 de 1997"
+  },
+  {
+    "question": "¿Cuál de estos NO es un derecho fundamental según la jurisprudencia de la Corte Constitucional?",
+    "options": [
+      "Derecho al agua potable",
+      "Derecho a la seguridad social",
+      "Derecho a la pensión",
+      "Derecho a la recreación"
+    ],
+    "answer": "Derecho a la recreación"
+  },
+  {
+    "question": "El principio de progresividad en derechos significa que:",
+    "options": [
+      "Los derechos deben ampliarse con el tiempo",
+      "Los derechos pueden restringirse en emergencias",
+      "Los derechos son absolutos",
+      "Los derechos solo aplican a ciudadanos"
+    ],
+    "answer": "Los derechos deben ampliarse con el tiempo"
+  },
+  {
+    "question": "¿Qué derecho protege principalmente la Ley 1712 de 2014?",
+    "options": [
+      "Derecho a la intimidad",
+      "Derecho de petición",
+      "Derecho al acceso a información pública",
+      "Derecho a la salud"
+    ],
+    "answer": "Derecho al acceso a información pública"
+  },
+  {
+    "question": "El derecho a la doble instancia en procesos judiciales está protegido por:",
+    "options": [
+      "El derecho al debido proceso",
+      "El derecho de petición",
+      "El derecho a la igualdad",
+      "El derecho a la intimidad"
+    ],
+    "answer": "El derecho al debido proceso"
+  },
+  {
+    "question": "¿Qué artículo constitucional consagra el derecho a la libertad de expresión?",
+    "options": [
+      "Artículo 20",
+      "Artículo 23",
+      "Artículo 27",
+      "Artículo 37"
+    ],
+    "answer": "Artículo 20"
+  },
+  {
+    "question": "La protección especial a la mujer embarazada se fundamenta en:",
+    "options": [
+      "El derecho a la igualdad",
+      "El derecho a la vida",
+      "El derecho a la salud",
+      "Todos los anteriores"
+    ],
+    "answer": "Todos los anteriores"
+  },
+  {
+    "question": "¿Qué mecanismo protege derechos cuando no hay otro medio de defensa judicial?",
+    "options": [
+      "Acción de tutela",
+      "Acción popular",
+      "Acción de grupo",
+      "Acción de nulidad"
+    ],
+    "answer": "Acción de tutela"
+  },
+  {
+    "question": "El derecho a la paz es:",
+    "options": [
+      "Un derecho fundamental",
+      "Un derecho colectivo",
+      "Un principio constitucional",
+      "Un deber ciudadano"
+    ],
+    "answer": "Un derecho colectivo"
+  },
+  {
+    "question": "¿Qué ley desarrolla el derecho a la participación ciudadana?",
+    "options": [
+      "Ley 134 de 1994",
+      "Ley 472 de 1998",
+      "Ley 1757 de 2015",
+      "Ley 1909 de 2018"
+    ],
+    "answer": "Ley 134 de 1994"
+  },
+  {
+    "question": "El principio de solidaridad está consagrado en el artículo:",
+    "options": [
+      "Artículo 1° de la CP",
+      "Artículo 2° de la CP",
+      "Artículo 13 de la CP",
+      "Artículo 95 de la CP"
+    ],
+    "answer": "Artículo 95 de la CP"
+  },
+  {
+    "question": "¿Qué derecho protege la acción de grupo?",
+    "options": [
+      "Derechos individuales homogéneos",
+      "Derechos colectivos",
+      "Derechos políticos",
+      "Derechos económicos"
+    ],
+    "answer": "Derechos individuales homogéneos"
+  },
+  {
+    "question": "El derecho a la educación está consagrado en el artículo:",
+    "options": [
+      "Artículo 16",
+      "Artículo 27",
+      "Artículo 44",
+      "Artículo 67"
+    ],
+    "answer": "Artículo 67"
+  },
+  {
+    "question": "¿Qué artículo constitucional establece el derecho al trabajo?",
+    "options": [
+      "Artículo 15",
+      "Artículo 25",
+      "Artículo 39",
+      "Artículo 53"
+    ],
+    "answer": "Artículo 25"
+  },
+  {
+    "question": "El derecho a la seguridad social es:",
+    "options": [
+      "Un derecho fundamental",
+      "Un derecho programático",
+      "Un servicio público",
+      "Todas las anteriores"
+    ],
+    "answer": "Todas las anteriores"
+  },
+  {
+    "question": "¿Qué derecho protege la acción de cumplimiento?",
+    "options": [
+      "Derecho a que se cumplan las leyes",
+      "Derecho a la igualdad",
+      "Derecho a la intimidad",
+      "Derecho a la libertad de expresión"
+    ],
+    "answer": "Derecho a que se cumplan las leyes"
+  },
+
+  {
+    "question": "Un ciudadano solicita acceso a su historial médico en la base de datos de un hospital público, pero le informan que debe pagar por esta información. ¿Qué derecho fundamental se está vulnerando?",
+    "options": [
+      "Derecho a la intimidad",
+      "Derecho de petición",
+      "Derecho al habeas data",
+      "Derecho a la salud"
+    ],
+    "answer": "Derecho de petición"
+  },
+  {
+    "question": "Una alcaldía publica en su página web los nombres completos y direcciones de beneficiarios de subsidios sociales. Varios afectados alegan que esto pone en riesgo su seguridad. ¿Qué mecanismo de protección pueden utilizar?",
+    "options": [
+      "Acción de tutela por violación del derecho a la intimidad",
+      "Acción popular por afectación a derechos colectivos",
+      "Derecho de petición para solicitar corrección",
+      "Acción de grupo por daños individuales"
+    ],
+    "answer": "Acción de tutela por violación del derecho a la intimidad"
+  },
+  {
+    "question": "Un funcionario público accede a la base de datos de una entidad estatal para obtener información personal de su expareja. ¿Qué tipo de responsabilidad enfrenta principalmente?",
+    "options": [
+      "Responsabilidad fiscal",
+      "Responsabilidad penal",
+      "Responsabilidad disciplinaria",
+      "Responsabilidad civil"
+    ],
+    "answer": "Responsabilidad disciplinaria"
+  },
+  {
+    "question": "Un colegio público exige a los estudiantes proporcionar su credencial religiosa para acceder a beneficios educativos. ¿Qué principio constitucional se está violando?",
+    "options": [
+      "Principio de igualdad",
+      "Principio de solidaridad",
+      "Principio de moralidad administrativa",
+      "Principio de economía"
+    ],
+    "answer": "Principio de igualdad"
+  },
+  {
+    "question": "Un ciudadano presenta una tutela porque una entidad pública no ha respondido su derecho de petición sobre un contrato de TI en 45 días. ¿Qué debe hacer el juez?",
+    "options": [
+      "Declarar improcedente la tutela por existir otro mecanismo de defensa",
+      "Ordenar a la entidad que responda el derecho de petición en 48 horas",
+      "Remitir el caso a la Procuraduría para investigación disciplinaria",
+      "Exhortar al ciudadano a presentar una acción popular"
+    ],
+    "answer": "Ordenar a la entidad que responda el derecho de petición en 48 horas"
+  },
+  {
+    "question": "Una empresa de servicios públicos corta el suministro de agua a un barrio sin previo aviso. Los afectados alegan que hay niños y adultos mayores en situación vulnerable. ¿Qué derecho fundamental está siendo vulnerado principalmente?",
+    "options": [
+      "Derecho al mínimo vital",
+      "Derecho al debido proceso",
+      "Derecho a la propiedad privada",
+      "Derecho a la libre empresa"
+    ],
+    "answer": "Derecho al mínimo vital"
+  },
+  {
+    "question": "Un periodista es detenido por publicar información crítica sobre la gestión de un alcalde. ¿Qué derecho fundamental se está violando?",
+    "options": [
+      "Derecho a la libertad de expresión",
+      "Derecho a la intimidad",
+      "Derecho a la igualdad",
+      "Derecho al trabajo"
+    ],
+    "answer": "Derecho a la libertad de expresión"
+  },
+  {
+    "question": "Una entidad pública exige a los ciudadanos proporcionar su historial crediticio para acceder a un trámite administrativo. ¿Qué principio está violando?",
+    "options": [
+      "Principio de proporcionalidad",
+      "Principio de finalidad en el tratamiento de datos",
+      "Principio de moralidad administrativa",
+      "Principio de economía procesal"
+    ],
+    "answer": "Principio de finalidad en el tratamiento de datos"
+  },
+  {
+    "question": "Un ciudadano con discapacidad no puede acceder al portal web de una alcaldía porque no cumple con estándares de accesibilidad. ¿Qué derecho fundamental está siendo vulnerado?",
+    "options": [
+      "Derecho a la igualdad",
+      "Derecho a la intimidad",
+      "Derecho de petición",
+      "Derecho a la libertad de expresión"
+    ],
+    "answer": "Derecho a la igualdad"
+  },
+  {
+    "question": "Una entidad pública niega información sobre contratación alegando que es reservada, sin justificación legal. ¿Qué mecanismo debe utilizar el ciudadano para acceder a esta información?",
+    "options": [
+      "Acción de tutela",
+      "Acción de cumplimiento",
+      "Derecho de petición",
+      "Acción popular"
+    ],
+    "answer": "Derecho de petición"
+  },
+  {
+    "question": "Un servidor público es sancionado sin que se le permita presentar descargos. ¿Qué derecho fundamental se ha violado?",
+    "options": [
+      "Derecho al debido proceso",
+      "Derecho a la igualdad",
+      "Derecho a la intimidad",
+      "Derecho al trabajo"
+    ],
+    "answer": "Derecho al debido proceso"
+  },
+  {
+    "question": "Una persona es discriminada en un concurso de méritos para un cargo público por su orientación sexual. ¿Qué acción judicial es la más adecuada?",
+    "options": [
+      "Acción de tutela",
+      "Acción de grupo",
+      "Acción popular",
+      "Acción de nulidad"
+    ],
+    "answer": "Acción de tutela"
+  },
+  {
+    "question": "Un colegio público prohíbe a una estudiante embarazada asistir a clases. ¿Qué derechos fundamentales está violando?",
+    "options": [
+      "Derecho a la educación y derecho a la igualdad",
+      "Derecho a la salud y derecho a la intimidad",
+      "Derecho al trabajo y derecho a la libertad de expresión",
+      "Derecho de petición y derecho al debido proceso"
+    ],
+    "answer": "Derecho a la educación y derecho a la igualdad"
+  },
+  {
+    "question": "Una entidad bancaria exige a sus clientes autorización para compartir sus datos personales con terceros sin especificar la finalidad. ¿Qué principio de protección de datos está violando?",
+    "options": [
+      "Principio de finalidad",
+      "Principio de veracidad",
+      "Principio de temporalidad",
+      "Principio de confidencialidad"
+    ],
+    "answer": "Principio de finalidad"
+  },
+  {
+    "question": "Un ciudadano descubre que su información personal está siendo comercializada por una empresa que la obtuvo de una entidad pública. ¿Qué mecanismo de protección puede utilizar?",
+    "options": [
+      "Habeas data",
+      "Acción popular",
+      "Acción de cumplimiento",
+      "Acción de grupo"
+    ],
+    "answer": "Habeas data"
+  },
+  {
+    "question": "Un medio de comunicación publica información falsa que afecta la reputación de un servidor público. ¿Qué derecho puede invocar el afectado?",
+    "options": [
+      "Derecho al buen nombre",
+      "Derecho a la intimidad",
+      "Derecho a la libertad de expresión",
+      "Derecho a la igualdad"
+    ],
+    "answer": "Derecho al buen nombre"
+  },
+  {
+    "question": "Una entidad pública niega el acceso a un documento alegando que contiene información sensible, sin justificación legal. ¿Qué derecho está siendo vulnerado?",
+    "options": [
+      "Derecho de petición",
+      "Derecho a la intimidad",
+      "Derecho al debido proceso",
+      "Derecho a la igualdad"
+    ],
+    "answer": "Derecho de petición"
+  },
+  {
+    "question": "Un ciudadano es detenido sin que se le informe de los cargos en su contra. ¿Qué derecho fundamental se está violando?",
+    "options": [
+      "Derecho al debido proceso",
+      "Derecho a la intimidad",
+      "Derecho a la igualdad",
+      "Derecho a la libertad de expresión"
+    ],
+    "answer": "Derecho al debido proceso"
+  },
+  {
+    "question": "Una persona es despedida de su trabajo por estar en estado de embarazo. ¿Qué derechos fundamentales están siendo vulnerados?",
+    "options": [
+      "Derecho al trabajo y derecho a la igualdad",
+      "Derecho a la salud y derecho a la intimidad",
+      "Derecho de petición y derecho al debido proceso",
+      "Derecho a la libertad de expresión y derecho de asociación"
+    ],
+    "answer": "Derecho al trabajo y derecho a la igualdad"
+  },
+  {
+    "question": "Un ciudadano solicita copia de su historia clínica a un hospital público y le exigen un pago que no puede costear. ¿Qué derecho fundamental está siendo vulnerado?",
+    "options": [
+      "Derecho a la salud",
+      "Derecho de petición",
+      "Derecho a la intimidad",
+      "Derecho al debido proceso"
+    ],
+    "answer": "Derecho a la salud"
+  },
+  {
+    "question": "Una entidad pública publica en redes sociales los nombres de personas con deudas tributarias sin previo aviso. ¿Qué derechos fundamentales están siendo vulnerados?",
+    "options": [
+      "Derecho al buen nombre y derecho a la intimidad",
+      "Derecho a la igualdad y derecho al trabajo",
+      "Derecho de petición y derecho al debido proceso",
+      "Derecho a la libertad de expresión y derecho de asociación"
+    ],
+    "answer": "Derecho al buen nombre y derecho a la intimidad"
+  },
+  {
+    "question": "Un ciudadano es obligado a proporcionar su huella digital para acceder a un servicio público básico. ¿Qué derecho fundamental podría estar siendo vulnerado?",
+    "options": [
+      "Derecho a la intimidad",
+      "Derecho a la igualdad",
+      "Derecho al trabajo",
+      "Derecho a la libertad de expresión"
+    ],
+    "answer": "Derecho a la intimidad"
+  },
+  {
+    "question": "Una entidad pública niega el acceso a información sobre contaminación ambiental alegando que es confidencial. ¿Qué mecanismo de protección es el más adecuado?",
+    "options": [
+      "Acción popular",
+      "Acción de tutela",
+      "Derecho de petición",
+      "Acción de grupo"
+    ],
+    "answer": "Acción popular"
+  },
+  {
+    "question": "Un ciudadano descubre que su información financiera fue compartida por una entidad bancaria sin su consentimiento. ¿Qué derecho fundamental está siendo vulnerado?",
+    "options": [
+      "Derecho al habeas data",
+      "Derecho a la igualdad",
+      "Derecho al debido proceso",
+      "Derecho a la libertad de empresa"
+    ],
+    "answer": "Derecho al habeas data"
+  },
+  {
+    "question": "Un periodista es amenazado por investigar casos de corrupción en una alcaldía. ¿Qué derecho fundamental está siendo vulnerado?",
+    "options": [
+      "Derecho a la libertad de prensa",
+      "Derecho a la intimidad",
+      "Derecho a la igualdad",
+      "Derecho al trabajo"
+    ],
+    "answer": "Derecho a la libertad de prensa"
+  },
+  {
+    "question": "Una entidad pública exige a los ciudadanos registrarse con su huella digital para acceder a un portal de trámites en línea. ¿Qué principio de protección de datos podría estar violando?",
+    "options": [
+      "Principio de proporcionalidad",
+      "Principio de finalidad",
+      "Principio de veracidad",
+      "Principio de temporalidad"
+    ],
+    "answer": "Principio de proporcionalidad"
+  },
+  {
+    "question": "Un ciudadano es discriminado en el acceso a un servicio público por su condición socioeconómica. ¿Qué derecho fundamental está siendo vulnerado?",
+    "options": [
+      "Derecho a la igualdad",
+      "Derecho a la intimidad",
+      "Derecho al debido proceso",
+      "Derecho a la libertad de expresión"
+    ],
+    "answer": "Derecho a la igualdad"
+  },
+  {
+    "question": "Una entidad pública niega el acceso a información sobre salarios de sus funcionarios alegando protección de datos personales. ¿Qué derecho prevalece en este caso?",
+    "options": [
+      "Derecho de acceso a información pública",
+      "Derecho a la intimidad",
+      "Derecho al buen nombre",
+      "Derecho a la igualdad"
+    ],
+    "answer": "Derecho de acceso a información pública"
+  },
+  {
+    "question": "Un ciudadano es desalojado de su vivienda sin orden judicial. ¿Qué derecho fundamental está siendo vulnerado?",
+    "options": [
+      "Derecho a la vivienda digna",
+      "Derecho a la intimidad",
+      "Derecho al debido proceso",
+      "Derecho a la libertad de expresión"
+    ],
+    "answer": "Derecho al debido proceso"
+  },
+  {
+    "question": "Una persona es detenida por publicar opiniones críticas en redes sociales contra una entidad pública. ¿Qué derecho fundamental está siendo vulnerado?",
+    "options": [
+      "Derecho a la libertad de expresión",
+      "Derecho a la intimidad",
+      "Derecho a la igualdad",
+      "Derecho al trabajo"
+    ],
+    "answer": "Derecho a la libertad de expresión"
+  },
+
+{
+    "question": "Una persona es detenida sin una orden judicial y no tiene acceso a un abogado. ¿Qué recurso puede interponer para proteger su derecho a la libertad?",
+    "options": [
+      "Acción de tutela",
+      "Habeas corpus",
+      "Recurso de apelación",
+      "Acción de inconstitucionalidad"
+    ],
+    "answer": "Habeas corpus"
+  },
+  {
+    "question": "Un ciudadano presenta una demanda de tutela porque considera que su derecho a la educación está siendo vulnerado al no poder acceder a un colegio público. ¿Qué acción judicial debe interponer?",
+    "options": [
+      "Acción de tutela",
+      "Acción de inconstitucionalidad",
+      "Recurso de apelación",
+      "Acción de nulidad"
+    ],
+    "answer": "Acción de tutela"
+  },
+  {
+    "question": "Un individuo es despedido de su trabajo sin justificación y sin el debido proceso. ¿Qué recurso puede utilizar para proteger su derecho a la igualdad y al trabajo?",
+    "options": [
+      "Acción de tutela",
+      "Recurso de casación",
+      "Habeas corpus",
+      "Acción de inconstitucionalidad"
+    ],
+    "answer": "Acción de tutela"
+  },
+  {
+    "question": "Una persona es arrestada sin una orden judicial y se le impide el acceso a un abogado. ¿Qué acción debe tomar para que se respete su derecho a la libertad personal?",
+    "options": [
+      "Acción de tutela",
+      "Habeas corpus",
+      "Recurso de amparo",
+      "Acción de nulidad"
+    ],
+    "answer": "Habeas corpus"
+  },
+  {
+    "question": "Un ciudadano considera que una ley que establece la obligación de vacunarse vulnera sus derechos fundamentales, ¿qué recurso puede interponer?",
+    "options": [
+      "Acción de tutela",
+      "Acción de inconstitucionalidad",
+      "Habeas corpus",
+      "Recurso de apelación"
+    ],
+    "answer": "Acción de inconstitucionalidad"
+  },
+  {
+    "question": "Una persona denuncia que su derecho a la propiedad ha sido vulnerado debido a que la administración municipal ha tomado posesión de su vivienda sin justificación legal. ¿Qué recurso puede interponer?",
+    "options": [
+      "Acción de tutela",
+      "Acción de inconstitucionalidad",
+      "Habeas corpus",
+      "Recurso de nulidad"
+    ],
+    "answer": "Acción de tutela"
+  },
+  {
+    "question": "Un niño es excluido de un programa educativo sin que se haya justificado la decisión y sin la participación de sus padres. ¿Qué recurso puede interponer su familia para proteger sus derechos fundamentales?",
+    "options": [
+      "Acción de tutela",
+      "Habeas corpus",
+      "Recurso de apelación",
+      "Acción de nulidad"
+    ],
+    "answer": "Acción de tutela"
+  },
+  {
+    "question": "Una persona es arrestada sin tener acceso a información sobre los cargos en su contra y no puede contactar a su abogado. ¿Qué recurso puede interponer para proteger su derecho a la defensa?",
+    "options": [
+      "Acción de tutela",
+      "Habeas corpus",
+      "Acción de nulidad",
+      "Recurso de apelación"
+    ],
+    "answer": "Habeas corpus"
+  },
+  {
+    "question": "Una persona denuncia que sus derechos humanos han sido vulnerados por una norma que discrimina a personas con discapacidad. ¿Qué recurso puede interponer para proteger sus derechos fundamentales?",
+    "options": [
+      "Acción de tutela",
+      "Acción de inconstitucionalidad",
+      "Habeas corpus",
+      "Recurso de nulidad"
+    ],
+    "answer": "Acción de inconstitucionalidad"
+  },
+  {
+    "question": "Un estudiante de una universidad pública presenta una acción de tutela porque considera que no está recibiendo el mismo trato que sus compañeros de otras instituciones. ¿Qué derecho fundamental está en riesgo?",
+    "options": [
+      "Derecho a la libertad de expresión",
+      "Derecho a la igualdad",
+      "Derecho a la propiedad",
+      "Derecho al trabajo"
+    ],
+    "answer": "Derecho a la igualdad"
+  },
+  {
+    "question": "Una persona es detenida sin orden judicial y se le impide el acceso a su familia. ¿Qué acción puede tomar para que se respete su derecho a la libertad?",
+    "options": [
+      "Acción de tutela",
+      "Acción de inconstitucionalidad",
+      "Habeas corpus",
+      "Recurso de nulidad"
+    ],
+    "answer": "Habeas corpus"
+  },
+  {
+    "question": "Una persona recibe un tratamiento médico sin su consentimiento. ¿Qué recurso puede interponer para proteger su derecho a la autonomía personal y al consentimiento informado?",
+    "options": [
+      "Acción de tutela",
+      "Habeas corpus",
+      "Recurso de apelación",
+      "Acción de inconstitucionalidad"
+    ],
+    "answer": "Acción de tutela"
+  },
+  {
+    "question": "Un funcionario público realiza una conducta ilegal que afecta los derechos de los ciudadanos. ¿Qué acción de control puede ejercer el Procurador General de la Nación?",
+    "options": [
+      "Acción de tutela",
+      "Investigación disciplinaria",
+      "Recurso de nulidad",
+      "Acción de inconstitucionalidad"
+    ],
+    "answer": "Investigación disciplinaria"
+  },
+  {
+    "question": "Una persona es excluida del proceso electoral sin justificación. ¿Qué derecho fundamental está siendo vulnerado?",
+    "options": [
+      "Derecho a la igualdad",
+      "Derecho a la participación política",
+      "Derecho a la propiedad",
+      "Derecho a la educación"
+    ],
+    "answer": "Derecho a la participación política"
+  },
+  {
+    "question": "Un ciudadano presenta una demanda de tutela porque considera que su derecho a la vivienda está siendo vulnerado por el gobierno local. ¿Qué recurso debe interponer?",
+    "options": [
+      "Acción de tutela",
+      "Acción de inconstitucionalidad",
+      "Recurso de apelación",
+      "Acción de nulidad"
+    ],
+    "answer": "Acción de tutela"
+  },
+  {
+    "question": "Un ciudadano considera que su derecho a la salud está siendo vulnerado debido a la falta de atención médica adecuada. ¿Qué recurso puede presentar?",
+    "options": [
+      "Acción de tutela",
+      "Acción de inconstitucionalidad",
+      "Habeas corpus",
+      "Recurso de apelación"
+    ],
+    "answer": "Acción de tutela"
+  },
+  {
+    "question": "Un niño con discapacidad es excluido de una actividad escolar sin justificación alguna. ¿Qué recurso puede interponer su familia?",
+    "options": [
+      "Acción de tutela",
+      "Habeas corpus",
+      "Acción de nulidad",
+      "Recurso de apelación"
+    ],
+    "answer": "Acción de tutela"
+  },
+  {
+    "question": "Una persona denuncia que su derecho a la propiedad ha sido vulnerado por una expropiación injustificada. ¿Qué recurso puede interponer?",
+    "options": [
+      "Acción de tutela",
+      "Acción de inconstitucionalidad",
+      "Habeas corpus",
+      "Recurso de apelación"
+    ],
+    "answer": "Acción de tutela"
+  },
+  {
+    "question": "Un ciudadano es discriminado en su lugar de trabajo por su orientación sexual. ¿Qué recurso puede interponer para proteger su derecho a la igualdad?",
+    "options": [
+      "Acción de tutela",
+      "Acción de inconstitucionalidad",
+      "Habeas corpus",
+      "Recurso de apelación"
+    ],
+    "answer": "Acción de tutela"
+  },
+  {
+    "question": "Un trabajador es despedido injustamente sin recibir la indemnización correspondiente. ¿Qué recurso puede interponer para proteger su derecho al trabajo?",
+    "options": [
+      "Acción de tutela",
+      "Recurso de nulidad",
+      "Recurso de apelación",
+      "Acción de inconstitucionalidad"
+    ],
+    "answer": "Acción de tutela"
+  },
+  {
+    "question": "Un gobierno local toma decisiones que afectan los derechos fundamentales de los ciudadanos sin seguir los procedimientos legales. ¿Qué órgano puede intervenir en este caso?",
+    "options": [
+      "La Corte Suprema de Justicia",
+      "La Corte Constitucional",
+      "La Procuraduría General de la Nación",
+      "La Defensoría del Pueblo"
+    ],
+    "answer": "La Corte Constitucional"
+  },
+  {
+    "question": "Una persona es detenida y no se le informa de los cargos en su contra. ¿Qué recurso puede interponer para proteger su derecho a la defensa?",
+    "options": [
+      "Acción de tutela",
+      "Habeas corpus",
+      "Acción de nulidad",
+      "Recurso de apelación"
+    ],
+    "answer": "Habeas corpus"
+  },
+
+{
+    "question": "¿Qué mecanismo legal permite a cualquier persona interponer una demanda para la protección de sus derechos fundamentales en Colombia?",
+    "options": [
+      "Acción de tutela",
+      "Habeas corpus",
+      "Derecho de petición",
+      "Recurso de apelación"
+    ],
+    "answer": "Acción de tutela"
+  },
+  {
+    "question": "¿Cuál de los siguientes derechos está garantizado por el artículo 13 de la Constitución de 1991?",
+    "options": [
+      "Derecho a la vida",
+      "Derecho a la igualdad",
+      "Derecho a la propiedad",
+      "Derecho al trabajo"
+    ],
+    "answer": "Derecho a la igualdad"
+  },
+  {
+    "question": "El derecho a la **tutela** está regulado por el artículo:",
+    "options": [
+      "86",
+      "13",
+      "11",
+      "49"
+    ],
+    "answer": "86"
+  },
+  {
+    "question": "¿Qué tipo de derechos están consagrados principalmente en el artículo 44 de la Constitución de 1991?",
+    "options": [
+      "Derechos políticos",
+      "Derechos fundamentales de los niños",
+      "Derechos sociales y económicos",
+      "Derechos civiles"
+    ],
+    "answer": "Derechos fundamentales de los niños"
+  },
+  {
+    "question": "¿Cuál de los siguientes derechos es protegido por la acción de tutela según la Constitución de 1991?",
+    "options": [
+      "Derecho al trabajo",
+      "Derecho a la salud",
+      "Derecho a la educación",
+      "Derecho a la propiedad"
+    ],
+    "answer": "Derecho a la salud"
+  },
+  {
+    "question": "La Corte Constitucional puede declarar la inconstitucionalidad de una norma cuando esta vulnera:",
+    "options": [
+      "Los derechos fundamentales",
+      "La seguridad nacional",
+      "El bienestar económico",
+      "La estabilidad política"
+    ],
+    "answer": "Los derechos fundamentales"
+  },
+  {
+    "question": "El derecho a la **libertad personal** y a la **seguridad** está consagrado en el artículo:",
+    "options": [
+      "28",
+      "29",
+      "12",
+      "44"
+    ],
+    "answer": "28"
+  },
+  {
+    "question": "¿En qué caso una persona puede interponer un **habeas corpus**?",
+    "options": [
+      "Cuando se violan derechos de propiedad",
+      "Cuando se violan derechos relacionados con el bienestar económico",
+      "Cuando se vulnera la libertad personal y la seguridad",
+      "Cuando se niega el acceso a la educación"
+    ],
+    "answer": "Cuando se vulnera la libertad personal y la seguridad"
+  },
+  {
+    "question": "¿Qué principio garantiza la **igualdad de todas las personas ante la ley**?",
+    "options": [
+      "El principio de justicia social",
+      "El principio de igualdad",
+      "El principio de autonomía",
+      "El principio de participación ciudadana"
+    ],
+    "answer": "El principio de igualdad"
+  },
+  {
+    "question": "El derecho a la **libertad de expresión** está protegido por el artículo:",
+    "options": [
+      "20",
+      "13",
+      "86",
+      "44"
+    ],
+    "answer": "20"
+  },
+  {
+    "question": "¿Cuál de los siguientes derechos se refiere al derecho de los ciudadanos a participar en asuntos públicos?",
+    "options": [
+      "Derecho a la participación política",
+      "Derecho a la igualdad",
+      "Derecho al trabajo",
+      "Derecho a la educación"
+    ],
+    "answer": "Derecho a la participación política"
+  },
+  {
+    "question": "El **derecho a la vida** está garantizado por el artículo:",
+    "options": [
+      "11",
+      "13",
+      "44",
+      "86"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "¿Qué derecho fundamental es protegido por la **acción de tutela** en Colombia?",
+    "options": [
+      "El derecho a la propiedad",
+      "El derecho a la participación política",
+      "El derecho a la educación",
+      "El derecho a la igualdad"
+    ],
+    "answer": "El derecho a la igualdad"
+  },
+  {
+    "question": "¿Qué mecanismo debe utilizarse cuando una persona es detenida de manera ilegal o arbitraria?",
+    "options": [
+      "Acción de tutela",
+      "Acción de inconstitucionalidad",
+      "Habeas corpus",
+      "Recurso de apelación"
+    ],
+    "answer": "Habeas corpus"
+  },
+  {
+    "question": "El **derecho a la salud** está relacionado con el artículo:",
+    "options": [
+      "49",
+      "44",
+      "44 y 50",
+      "40"
+    ],
+    "answer": "49"
+  },
+  {
+    "question": "¿Qué debe hacer un ciudadano si su derecho a la educación es vulnerado?",
+    "options": [
+      "Presentar una acción de tutela",
+      "Solicitar un recurso de apelación",
+      "Interponer un recurso de inconstitucionalidad",
+      "Solicitar una revisión ante la Corte Suprema de Justicia"
+    ],
+    "answer": "Presentar una acción de tutela"
+  },
+  {
+    "question": "¿Cuál de los siguientes mecanismos asegura la protección de los derechos fundamentales en Colombia?",
+    "options": [
+      "La Corte Suprema de Justicia",
+      "La Corte Constitucional",
+      "El Ministerio de Hacienda",
+      "La Procuraduría General de la Nación"
+    ],
+    "answer": "La Corte Constitucional"
+  },
+  {
+    "question": "El **derecho a la educación** está garantizado por el artículo:",
+    "options": [
+      "44",
+      "49",
+      "50",
+      "52"
+    ],
+    "answer": "44"
+  },
+  {
+    "question": "El derecho a **no ser discriminado** está relacionado con el artículo:",
+    "options": [
+      "13",
+      "44",
+      "45",
+      "86"
+    ],
+    "answer": "13"
+  },
+  {
+    "question": "¿Qué derecho está protegido por el artículo 86 de la Constitución?",
+    "options": [
+      "Derecho a la educación",
+      "Acción de tutela",
+      "Derecho a la propiedad",
+      "Derecho a la seguridad social"
+    ],
+    "answer": "Acción de tutela"
+  },
+  {
+    "question": "En caso de que un derecho fundamental sea vulnerado, ¿qué recurso judicial puede interponer una persona?",
+    "options": [
+      "Recurso de apelación",
+      "Acción de tutela",
+      "Recurso de casación",
+      "Acción de inconstitucionalidad"
+    ],
+    "answer": "Acción de tutela"
+  },
+  {
+    "question": "El derecho de **acceso a la información pública** está regulado por el artículo:",
+    "options": [
+      "23",
+      "43",
+      "50",
+      "53"
+    ],
+    "answer": "23"
+  },
+  {
+    "question": "¿Cuál es el principal objetivo de la **acción de tutela** en Colombia?",
+    "options": [
+      "Proteger los derechos económicos",
+      "Proteger los derechos fundamentales frente a actos de autoridades públicas",
+      "Garantizar el derecho al voto",
+      "Establecer normas constitucionales"
+    ],
+    "answer": "Proteger los derechos fundamentales frente a actos de autoridades públicas"
+  },
+  {
+    "question": "¿Cuál de los siguientes derechos es considerado **derecho fundamental** en Colombia?",
+    "options": [
+      "El derecho a la educación gratuita",
+      "El derecho a la propiedad privada",
+      "El derecho a la libre circulación",
+      "El derecho al trabajo"
+    ],
+    "answer": "El derecho a la educación gratuita"
+  },
+  {
+    "question": "La **Corte Constitucional** tiene la función de declarar la inconstitucionalidad de las normas que violen:",
+    "options": [
+      "El derecho a la libertad de expresión",
+      "Los derechos fundamentales",
+      "El derecho a la educación",
+      "El derecho al voto"
+    ],
+    "answer": "Los derechos fundamentales"
+  },
+  {
+    "question": "¿Qué principio constitucional garantiza el acceso a la **justicia y a la defensa** de los derechos fundamentales?",
+    "options": [
+      "Principio de legalidad",
+      "Principio de imparcialidad",
+      "Principio de igualdad",
+      "Principio de debido proceso"
+    ],
+    "answer": "Principio de debido proceso"
+  }
+
+
+]
