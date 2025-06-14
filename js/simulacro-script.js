@@ -8,9 +8,7 @@ let currentPage = 0; // Página actual
 let questions = [];
 let selectedAnswers = [];
 let startTime = Date.now(); // Guardamos el tiempo de inicio
-
-// Identificador único para el simulacro actual (modifica según el simulacro)
-const simulacroId = "simulacro-1"; // Esto debe cambiar según el simulacro en el que estás
+const topicId = 'ingresos-tributos'; // Identificador único para el tema actual (se asegura de que el historial sea solo para este tema)
 
 // Función para actualizar el cronómetro
 function updateTimer() {
@@ -27,11 +25,11 @@ function updateTimer() {
 setInterval(updateTimer, 1000);
 
 // Cargar preguntas desde el archivo JSON
-fetch('json/questions.json') // Verifica que esta ruta sea correcta
+fetch('json/questions-ingresos-tributos.json') // Verifica que esta ruta sea correcta
     .then(response => response.json())
     .then(data => {
         if (data.length === 0) {
-            console.error("El archivo 'questions.json' está vacío o no tiene datos.");
+            console.error("El archivo 'questions-ingresos-tributos.json' está vacío o no tiene datos.");
         } else {
             questions = getRandomQuestions(20, data); // Seleccionamos 20 preguntas aleatorias
             renderQuestions(); // Renderizamos las preguntas
@@ -147,33 +145,37 @@ submitBtn.addEventListener('click', function() {
     document.body.appendChild(scoreContainer);
 
     // Guardar el intento en el historial
-    saveAttempt(percentage, simulacroId);
+    saveAttempt(percentage);
 });
 
-// Función para guardar un intento en el historial de un simulacro específico
-function saveAttempt(score, simulacroId) {
+// Función para guardar un intento en el historial
+function saveAttempt(score) {
     const attempt = {
         date: new Date().toLocaleString(), // Fecha y hora del intento
         time: document.getElementById('time-display').textContent, // Tiempo que tardó en completar el cuestionario
-        score: score // Puntuación
+        score: score, // Puntuación
+        topicId: topicId // Guardamos el identificador del tema
     };
 
-    // Recuperar historial de intentos de localStorage para el simulacro específico
-    let attempts = JSON.parse(localStorage.getItem(simulacroId)) || [];
+    // Recuperar historial de intentos de localStorage
+    let attempts = JSON.parse(localStorage.getItem('attempts')) || [];
 
     // Agregar el nuevo intento al historial
     attempts.push(attempt);
 
-    // Guardar el historial actualizado en localStorage bajo la clave del simulacro
-    localStorage.setItem(simulacroId, JSON.stringify(attempts));
+    // Filtrar solo los intentos del tema actual
+    attempts = attempts.filter(attempt => attempt.topicId === topicId);
 
-    // Mostrar el historial de intentos
-    showHistory(attempts, simulacroId);
+    // Guardar el historial actualizado en localStorage
+    localStorage.setItem('attempts', JSON.stringify(attempts));
+
+    // Mostrar el historial de intentos en la página
+    showHistory(attempts);
 }
 
-// Función para mostrar el historial de intentos para un simulacro específico
-function showHistory(attempts, simulacroId) {
-    let historyHTML = `<h3>Historial de intentos</h3>`;
+// Función para mostrar el historial de intentos
+function showHistory(attempts) {
+    let historyHTML = '<h3>Historial de intentos:</h3>';
     attempts.forEach(attempt => {
         historyHTML += `
             <div class="history-item">
@@ -189,6 +191,6 @@ function showHistory(attempts, simulacroId) {
 
 // Mostrar historial de intentos al cargar la página
 document.addEventListener('DOMContentLoaded', () => {
-    const attempts = JSON.parse(localStorage.getItem(simulacroId)) || [];
-    showHistory(attempts, simulacroId);
+    const attempts = JSON.parse(localStorage.getItem('attempts')) || [];
+    showHistory(attempts);
 });

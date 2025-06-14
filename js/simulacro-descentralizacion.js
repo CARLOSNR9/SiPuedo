@@ -148,7 +148,7 @@ submitBtn.addEventListener('click', function() {
     saveAttempt(percentage);
 });
 
-// Función para guardar un intento en el historial
+// Función para guardar un intento en el historial de este tema
 function saveAttempt(score) {
     const attempt = {
         date: new Date().toLocaleString(), // Fecha y hora del intento
@@ -157,23 +157,20 @@ function saveAttempt(score) {
         topicId: topicId // Guardamos el identificador del tema
     };
 
-    // Recuperar historial de intentos de localStorage
-    let attempts = JSON.parse(localStorage.getItem('attempts')) || [];
+    // Recuperar historial de intentos de localStorage para el tema específico
+    let attempts = JSON.parse(localStorage.getItem(topicId)) || [];
 
     // Agregar el nuevo intento al historial
     attempts.push(attempt);
 
-    // Filtrar solo los intentos del tema actual
-    attempts = attempts.filter(attempt => attempt.topicId === topicId);
-
-    // Guardar el historial actualizado en localStorage
-    localStorage.setItem('attempts', JSON.stringify(attempts));
+    // Guardar el historial actualizado en localStorage bajo la clave del tema
+    localStorage.setItem(topicId, JSON.stringify(attempts));
 
     // Mostrar el historial de intentos en la página
     showHistory(attempts);
 }
 
-// Función para mostrar el historial de intentos
+// Función para mostrar el historial de intentos para este tema
 function showHistory(attempts) {
     let historyHTML = '<h3>Historial de intentos:</h3>';
     attempts.forEach(attempt => {
@@ -191,6 +188,7 @@ function showHistory(attempts) {
 
 // Mostrar historial de intentos al cargar la página
 document.addEventListener('DOMContentLoaded', () => {
-    const attempts = JSON.parse(localStorage.getItem('attempts')) || [];
+    // Recuperar historial de intentos de localStorage para este tema
+    const attempts = JSON.parse(localStorage.getItem(topicId)) || [];
     showHistory(attempts);
 });

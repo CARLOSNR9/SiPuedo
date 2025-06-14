@@ -1,0 +1,1722 @@
+[
+  {
+    "question": "La Alcaldía de Puerto Boyacá expide un Acuerdo Municipal que establece un nuevo impuesto sobre las ventas de productos agrícolas locales. Sin embargo, no existe una ley nacional que autorice a los municipios a crear este tipo de impuesto.\n¿Qué principio fundamental de la tributación territorial se estaría vulnerando con la expedición de este Acuerdo?",
+    "options": [
+      "El principio de equidad.",
+      "El principio de la irretroactividad.",
+      "El principio de legalidad (o representación popular).",
+      "El principio de no confiscatoriedad."
+    ],
+    "answer": "El principio de legalidad (o representación popular)."
+  },
+  {
+    "question": "Un contribuyente del Impuesto de Industria y Comercio en Puerto Boyacá reporta ingresos por $1.000.000.000, pero solo declara y paga sobre $500.000.000, omitiendo intencionalmente parte de sus ingresos. La Secretaría de Hacienda lo descubre.\n¿Qué tipo de procedimiento administrativo podría iniciar la Alcaldía para determinar el valor real del impuesto y las sanciones correspondientes?",
+    "options": [
+      "Un proceso de devolución de saldos a favor.",
+      "Un proceso de cobro coactivo.",
+      "Un proceso de revisión y determinación oficial del tributo.",
+      "Una solicitud de conciliación administrativa."
+    ],
+    "answer": "Un proceso de revisión y determinación oficial del tributo."
+  },
+  {
+    "question": "El Concejo Municipal de Puerto Boyacá aprueba un Acuerdo que reduce drásticamente las tarifas del Impuesto Predial para los predios de mayor valor catastral, mientras las mantiene o aumenta ligeramente para los de menor valor. Algunos ciudadanos consideran que esto es injusto.\n¿Qué principio constitucional de la tributación podría considerarse afectado por esta medida?",
+    "options": [
+      "El principio de eficiencia.",
+      "El principio de progresividad y equidad.",
+      "El principio de publicidad.",
+      "El principio de la legalidad."
+    ],
+    "answer": "El principio de progresividad y equidad."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá necesita financiar la construcción de una nueva planta de tratamiento de aguas residuales, una obra de gran impacto ambiental y social. Para ello, decide solicitar un crédito a un banco.\n¿Qué ley nacional establece los límites y las condiciones para el endeudamiento de las entidades territoriales, buscando garantizar su capacidad de pago?",
+    "options": [
+      "Ley 715 de 2001.",
+      "Ley 617 de 2000.",
+      "Ley 358 de 1997.",
+      "Ley 1454 de 2011."
+    ],
+    "answer": "Ley 358 de 1997."
+  },
+  {
+    "question": "Los recursos del Sistema General de Participaciones (SGP) que recibe la Alcaldía de Puerto Boyacá están mayormente destinados a financiar la educación y la salud. Un funcionario propone usar una parte significativa de estos recursos para la pavimentación de vías urbanas.\n¿Qué característica fundamental del SGP impide que estos recursos sean utilizados libremente para otros fines?",
+    "options": [
+      "Son ingresos propios de libre destinación.",
+      "Son transferencias que no requieren control fiscal.",
+      "Son recursos con destinación específica definida por la ley.",
+      "Son fondos exclusivos para gasto de funcionamiento."
+    ],
+    "answer": "Son recursos con destinación específica definida por la ley."
+  },
+  {
+    "question": "Un particular en Puerto Boyacá construye una obra de infraestructura (una vía) que beneficia directamente a los propietarios de predios colindantes, aumentando significativamente el valor de sus propiedades. El municipio decide cobrar un gravamen especial a estos propietarios por el beneficio recibido.\n¿A qué tipo de ingreso territorial corresponde este gravamen, que se cobra por un beneficio directo derivado de una obra pública?",
+    "options": [
+      "Impuesto Predial Unificado.",
+      "Tasa por servicio público.",
+      "Contribución por valorización (o contribución especial).",
+      "Impuesto de Industria y Comercio."
+    ],
+    "answer": "Contribución por valorización (o contribución especial)."
+  },
+  {
+    "question": "Una empresa de Puerto Boyacá, al pagar a sus proveedores de servicios, retiene un porcentaje del valor de la factura para luego girarlo a la Secretaría de Hacienda Municipal, cumpliendo con una obligación tributaria.\nEste mecanismo de recaudación corresponde a:",
+    "options": [
+      "Un pago directo sin intermediarios.",
+      "Una devolución de impuestos.",
+      "Una retención en la fuente (ej. ReteICA).",
+      "Un cobro coactivo."
+    ],
+    "answer": "Una retención en la fuente (ej. ReteICA)."
+  },
+  {
+    "question": "La Contraloría Departamental de Boyacá realiza una auditoría a la gestión fiscal de la Alcaldía de Puerto Boyacá, enfocándose en la legalidad y transparencia del recaudo de los ingresos propios y las transferencias recibidas.\n¿Qué tipo de control ejerce la Contraloría en este escenario?",
+    "options": [
+      "Control de legalidad.",
+      "Control disciplinario.",
+      "Control penal.",
+      "Control fiscal."
+    ],
+    "answer": "Control fiscal."
+  },
+  {
+    "question": "La Ley 617 de 2000 es una pieza clave en la disciplina fiscal de las entidades territoriales. Si la Alcaldía de Puerto Boyacá excede los límites establecidos en esta ley para sus gastos de funcionamiento en relación con sus Ingresos Corrientes de Libre Destinación (ICLD).\n¿Cuál podría ser una de las consecuencias directas para el municipio?",
+    "options": [
+      "Aumento inmediato de las transferencias del SGP.",
+      "La posibilidad de iniciar un proceso de saneamiento fiscal y financiero.",
+      "La suspensión de todos sus proyectos de inversión.",
+      "La facultad de crear nuevos impuestos sin aprobación del Concejo."
+    ],
+    "answer": "La posibilidad de iniciar un proceso de saneamiento fiscal y financiero."
+  },
+  {
+    "question": "El Concejo Municipal de Puerto Boyacá debe aprobar anualmente un documento que estima los ingresos que recibirá el municipio y autoriza los gastos para el año fiscal siguiente. Este documento es fundamental para la gestión financiera local.\n¿Cómo se denomina este documento que aprueba el Concejo Municipal?",
+    "options": [
+      "El Plan de Ordenamiento Territorial (POT).",
+      "El Estatuto Tributario Municipal.",
+      "La Ley de Presupuesto Anual (o Acuerdo de Presupuesto).",
+      "El Plan de Desarrollo Municipal."
+    ],
+    "answer": "La Ley de Presupuesto Anual (o Acuerdo de Presupuesto)."
+  },
+
+  {
+    "question": "La Secretaría de Hacienda de Puerto Boyacá está realizando una campaña de cobro persuasivo para motivar a los contribuyentes morosos del Impuesto Predial Unificado a ponerse al día con sus obligaciones. La campaña incluye descuentos por pronto pago y facilidades para acuerdos de pago.\n¿Cuál es el objetivo principal del cobro persuasivo en la gestión de ingresos territoriales?",
+    "options": [
+      "Iniciar un proceso de embargo de bienes sin previo aviso.",
+      "Identificar nuevos hechos generadores de impuestos.",
+      "Incentivar el pago voluntario de las deudas antes de iniciar acciones de cobro coactivo.",
+      "Anular las deudas tributarias de los contribuyentes."
+    ],
+    "answer": "Incentivar el pago voluntario de las deudas antes de iniciar acciones de cobro coactivo."
+  },
+  {
+    "question": "El Concejo Municipal de Puerto Boyacá aprueba un Acuerdo que establece una tarifa del 0% para el Impuesto de Industria y Comercio (ICA) a todas las empresas de servicios recién constituidas en el municipio, por un periodo de cinco años. La intención es fomentar la inversión y el empleo.\n¿Qué figura tributaria está aplicando el Concejo Municipal en este caso?",
+    "options": [
+      "Una amnistía tributaria.",
+      "Una exención tributaria temporal.",
+      "Una tasa por servicio especial.",
+      "Una contribución por valorización."
+    ],
+    "answer": "Una exención tributaria temporal."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá tiene proyectado que para el próximo año fiscal, sus gastos de personal superarán el porcentaje máximo permitido sobre sus Ingresos Corrientes de Libre Destinación (ICLD), según lo establecido por la Ley 617 de 2000. \nPara evitar esta situación, ¿qué tipo de medidas debería priorizar la administración municipal?",
+    "options": [
+      "Solicitar más transferencias del Sistema General de Participaciones (SGP) sin justificación.",
+      "Aumentar indiscriminadamente la planta de personal.",
+      "Implementar planes de austeridad y control del gasto de funcionamiento.",
+      "Declararse en incapacidad fiscal para ser intervenido por la Nación."
+    ],
+    "answer": "Implementar planes de austeridad y control del gasto de funcionamiento."
+  },
+  {
+    "question": "Una persona natural residente en Puerto Boyacá recibe una notificación de la Secretaría de Hacienda municipal en la que se le informa sobre un saldo a favor en su declaración del Impuesto de Industria y Comercio del año anterior, debido a un pago en exceso.\n¿Qué procedimiento administrativo debe seguir el ciudadano para recuperar ese dinero o aplicarlo a futuras obligaciones?",
+    "options": [
+      "Iniciar un proceso de cobro coactivo contra el municipio.",
+      "Solicitar la devolución y/o compensación del saldo a favor.",
+      "Presentar una nueva declaración sin ese saldo a favor.",
+      "Ignorar la notificación, ya que el municipio no está obligado a devolverlo."
+    ],
+    "answer": "Solicitar la devolución y/o compensación del saldo a favor."
+  },
+  {
+    "question": "Los recursos del Sistema General de Participaciones (SGP) se distribuyen entre las entidades territoriales con base en una serie de criterios. Uno de estos criterios para el sector de educación tiene en cuenta la población en edad escolar atendida.\n¿Qué ley nacional es la principal reguladora de la composición, criterios de distribución y destinación del SGP?",
+    "options": [
+      "Ley 1454 de 2011 (LOOT).",
+      "Ley 617 de 2000.",
+      "Ley 715 de 2001.",
+      "Ley 358 de 1997."
+    ],
+    "answer": "Ley 715 de 2001."
+  },
+  {
+    "question": "La Contraloría Departamental de Boyacá, al revisar la ejecución presupuestal de la Alcaldía de Puerto Boyacá, detecta que algunos recursos provenientes de los Ingresos Corrientes de Libre Destinación (ICLD) fueron utilizados para fines que no estaban contemplados en el presupuesto aprobado.\n¿Qué tipo de desviación en la gestión fiscal podría estar ocurriendo?",
+    "options": [
+      "Malversación de fondos.",
+      "Ineficiencia en el recaudo.",
+      "Incumplimiento del principio de especialización del gasto.",
+      "Excedente de capacidad de endeudamiento."
+    ],
+    "answer": "Incumplimiento del principio de especialización del gasto."
+  },
+  {
+    "question": "Una empresa en Puerto Boyacá ha colocado un letrero luminoso grande en la fachada de su local comercial para promocionar sus productos. Este tipo de publicidad está sujeta al pago de un impuesto municipal, complementario al Impuesto de Industria y Comercio.\n¿A qué impuesto se refiere esta obligación?",
+    "options": [
+      "Impuesto Predial Unificado.",
+      "Impuesto de Delineación Urbana.",
+      "Impuesto de Avisos y Tableros (IAT).",
+      "Impuesto de Valorización."
+    ],
+    "answer": "Impuesto de Avisos y Tableros (IAT)."
+  },
+  {
+    "question": "El Alcalde de Puerto Boyacá propone al Concejo Municipal un aumento considerable en las tarifas del Impuesto Predial Unificado, argumentando la necesidad de financiar proyectos de infraestructura urgentes. Sin embargo, el aumento propuesto supera el límite máximo establecido por la ley nacional.\n¿Qué principio constitucional de la tributación y qué límite a la autonomía fiscal se estaría vulnerando si el Concejo aprueba esta propuesta?",
+    "options": [
+      "El principio de equidad y la Ley 617 de 2000.",
+      "El principio de legalidad y los rangos tarifarios establecidos por la ley nacional (ej. Ley 44 de 1990).",
+      "El principio de eficiencia y la Ley 358 de 1997.",
+      "El principio de no confiscatoriedad y la Ley 715 de 2001."
+    ],
+    "answer": "El principio de legalidad y los rangos tarifarios establecidos por la ley nacional (ej. Ley 44 de 1990)."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá decide realizar una campaña de control y fiscalización intensiva sobre el cumplimiento de las obligaciones tributarias de Industria y Comercio. Para ello, solicita información a los bancos y otras entidades sobre las transacciones de los contribuyentes.\n¿Qué facultad de la administración tributaria territorial se está ejerciendo para garantizar el recaudo?",
+    "options": [
+      "La facultad de declarar la caducidad de los impuestos.",
+      "La facultad de fiscalización y determinación oficial.",
+      "La facultad de establecer nuevas exenciones sin autorización legal.",
+      "La facultad de ordenar el cierre definitivo de establecimientos comerciales sin proceso."
+    ],
+    "answer": "La facultad de fiscalización y determinación oficial."
+  },
+  {
+    "question": "El municipio de Puerto Boyacá recibe anualmente recursos del Sistema General de Regalías (SGR) debido a la explotación de recursos naturales no renovables en su territorio. Estos recursos deben ser invertidos en proyectos que impulsen el desarrollo local.\n¿Qué ley nacional es la principal que regula la distribución, administración y ejecución de los recursos del SGR?",
+    "options": [
+      "Ley 14 de 1983.",
+      "Ley 715 de 2001.",
+      "Ley 617 de 2000.",
+      "Ley 2056 de 2020."
+    ],
+    "answer": "Ley 2056 de 2020."
+  },
+  {
+    "question": "Un ciudadano de Puerto Boyacá considera que el cobro del Impuesto Predial Unificado por parte del municipio es excesivo y vulnera su derecho a la propiedad privada, llegando a ser 'confiscatorio'.\n¿Qué principio constitucional de la tributación estaría alegando el ciudadano en su inconformidad?",
+    "options": [
+      "Principio de legalidad.",
+      "Principio de eficiencia.",
+      "Principio de no confiscatoriedad.",
+      "Principio de equidad."
+    ],
+    "answer": "Principio de no confiscatoriedad."
+  },
+  {
+    "question": "La Secretaría de Hacienda de Puerto Boyacá notifica a un contribuyente un mandamiento de pago por una deuda atrasada de Impuesto de Industria y Comercio. El contribuyente tiene un plazo para pagar o interponer excepciones, de lo contrario se procederá con el embargo de sus bienes.\nEste procedimiento hace parte de la fase de:",
+    "options": [
+      "Cobro persuasivo.",
+      "Determinación oficial.",
+      "Cobro coactivo.",
+      "Devolución y/o compensación."
+    ],
+    "answer": "Cobro coactivo."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá ha identificado que sus gastos de funcionamiento son recurrentemente muy altos y superan los límites establecidos por la Ley 617 de 2000. Esta situación compromete la sostenibilidad financiera del municipio.\n¿Qué tipo de acciones de mediano y largo plazo debería considerar la Alcaldía para corregir esta situación y mejorar su disciplina fiscal?",
+    "options": [
+      "Endeudarse masivamente para cubrir el déficit de funcionamiento.",
+      "Recortar drásticamente la inversión en servicios públicos esenciales.",
+      "Implementar un programa de saneamiento fiscal y financiero y buscar el apoyo del Ministerio de Hacienda.",
+      "Trasladar la responsabilidad de sus gastos de funcionamiento al Gobierno Nacional."
+    ],
+    "answer": "Implementar un programa de saneamiento fiscal y financiero y buscar el apoyo del Ministerio de Hacienda."
+  },
+  {
+    "question": "Un propietario en Puerto Boyacá vende su inmueble y, antes de finalizar la transacción, debe asegurarse de que el Impuesto Predial Unificado esté al día. Este impuesto es un gravamen directo sobre la propiedad inmobiliaria.\n¿Quién es el sujeto pasivo principal del Impuesto Predial Unificado?",
+    "options": [
+      "El arrendatario del inmueble.",
+      "El comprador del inmueble.",
+      "El propietario o poseedor del inmueble.",
+      "El vendedor del inmueble."
+    ],
+    "answer": "El propietario o poseedor del inmueble."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá está elaborando su 'Marco Fiscal de Mediano Plazo (MFMP)' para los próximos diez años, proyectando los ingresos y gastos municipales y evaluando la sostenibilidad de sus finanzas.\n¿Qué ley nacional es la principal que establece la obligatoriedad de este instrumento y promueve la responsabilidad fiscal en las entidades territoriales?",
+    "options": [
+      "Ley 715 de 2001.",
+      "Ley 617 de 2000.",
+      "Ley 819 de 2003.",
+      "Ley 1454 de 2011."
+    ],
+    "answer": "Ley 819 de 2003."
+  },
+  {
+    "question": "Una empresa de servicios profesionales ubicada en Puerto Boyacá genera ingresos significativos por consultorías prestadas a nivel nacional. Al momento de declarar el Impuesto de Industria y Comercio (ICA) municipal, la empresa debe aplicar la tarifa definida por el Acuerdo Municipal.\n¿Sobre qué base gravable principal se calcula el ICA?",
+    "options": [
+      "El patrimonio de la empresa.",
+      "Los ingresos brutos obtenidos en la jurisdicción municipal.",
+      "Las utilidades netas de la empresa.",
+      "El número de empleados de la empresa."
+    ],
+    "answer": "Los ingresos brutos obtenidos en la jurisdicción municipal."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá recibe una porción de los recursos del Sistema General de Participaciones (SGP) que, por ley, es de 'Propósito General'.\n¿Cuál es la principal característica de los recursos del SGP de Propósito General para el municipio?",
+    "options": [
+      "Deben destinarse exclusivamente a la compra de armamento.",
+      "Son para la inversión en ciencia y tecnología.",
+      "Pueden destinarse a libre inversión o funcionamiento, dentro de los límites legales.",
+      "Están condicionados a la aprobación de proyectos por el Gobierno Nacional."
+    ],
+    "answer": "Pueden destinarse a libre inversión o funcionamiento, dentro de los límites legales."
+  },
+  {
+    "question": "El Alcalde de Puerto Boyacá decide, mediante una circular interna, exonerar del pago del Impuesto Predial a los adultos mayores del municipio, sin que exista un acuerdo del Concejo Municipal que lo autorice. \nEsta acción del Alcalde vulneraría directamente qué principio fundamental de la tributación?",
+    "options": [
+      "El principio de equidad.",
+      "El principio de eficiencia.",
+      "El principio de legalidad (o representación popular).",
+      "El principio de progresividad."
+    ],
+    "answer": "El principio de legalidad (o representación popular)."
+  },
+  {
+    "question": "La Contraloría General de la República inicia una investigación sobre el uso de recursos del Sistema General de Regalías (SGR) por parte de la Alcaldía de Puerto Boyacá, sospechando de irregularidades en la ejecución de un proyecto de infraestructura financiado con esos fondos.\n¿Qué tipo de control ejerce la Contraloría General sobre estos recursos?",
+    "options": [
+      "Control fiscal sobre recursos de la Nación transferidos.",
+      "Control político ejercido por el Congreso.",
+      "Control disciplinario exclusivo.",
+      "Control de legalidad de actos administrativos."
+    ],
+    "answer": "Control fiscal sobre recursos de la Nación transferidos."
+  },
+  {
+    "question": "Un empresario en Puerto Boyacá no presenta su declaración de Industria y Comercio por varios periodos. La Secretaría de Hacienda, ante la omisión, procede a determinar el valor del impuesto y las sanciones basándose en información obtenida de terceros.\n¿Qué facultad está utilizando la administración tributaria para establecer la obligación del contribuyente omiso?",
+    "options": [
+      "Facultad de devolver saldos a favor.",
+      "Facultad de aforo.",
+      "Facultad de otorgar exenciones.",
+      "Facultad de amnistía."
+    ],
+    "answer": "Facultad de aforo."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá está elaborando su presupuesto anual. Dentro de los ingresos proyectados, se incluyen los recursos provenientes del Impuesto Predial Unificado, el Impuesto de Industria y Comercio, y las tasas por servicios locales. \nEstos ingresos se consideran:",
+    "options": [
+      "Transferencias del Gobierno Nacional.",
+      "Créditos públicos.",
+      "Regalías directas.",
+      "Ingresos tributarios propios."
+    ],
+    "answer": "Ingresos tributarios propios."
+  },
+  {
+    "question": "Un Concejal de Puerto Boyacá propone un proyecto de acuerdo para crear una 'Tasa de Seguridad Ciudadana' que sería pagada por todos los ciudadanos para financiar el mejoramiento de la estación de policía. Sin embargo, no se logra demostrar una contraprestación directa y un beneficio específico individualizado.\n¿Qué característica fundamental de las tasas podría impedir la viabilidad legal de esta propuesta?",
+    "options": [
+      "Que no sean obligatorias.",
+      "Que no tengan una contraprestación directa o un beneficio específico para el pagador.",
+      "Que su tarifa sea muy alta.",
+      "Que no sean administradas por el municipio."
+    ],
+    "answer": "Que no tengan una contraprestación directa o un beneficio específico para el pagador."
+  },
+  {
+    "question": "El municipio de Puerto Boyacá está atravesando una crisis financiera debido a la baja recaudación de impuestos y un alto gasto de funcionamiento. El Ministerio de Hacienda y Crédito Público ofrece apoyo para la formulación de un 'Programa de Saneamiento Fiscal y Financiero'.\n¿Cuál es el objetivo principal de un 'Programa de Saneamiento Fiscal y Financiero' para una entidad territorial?",
+    "options": [
+      "Permitir el aumento ilimitado del gasto público.",
+      "Aumentar las transferencias nacionales sin condiciones.",
+      "Recuperar la capacidad de pago y la sostenibilidad fiscal de la entidad.",
+      "Centralizar la administración de todos los impuestos en la Nación."
+    ],
+    "answer": "Recuperar la capacidad de pago y la sostenibilidad fiscal de la entidad."
+  },
+  {
+    "question": "La Constitución Política de Colombia, en su Artículo 317, establece que 'solo los municipios podrán gravar la propiedad inmueble'.\nEsta disposición constitucional es un ejemplo de la autonomía fiscal municipal en relación con el Impuesto Predial, que implica:",
+    "options": [
+      "Que los municipios pueden crear impuestos sobre cualquier bien inmueble sin importar su ubicación.",
+      "Que la potestad para crear y administrar el impuesto a la propiedad inmueble es exclusiva de los municipios.",
+      "Que los municipios no pueden gravar la propiedad inmueble si ya está gravada por el departamento.",
+      "Que solo el Gobierno Nacional puede regular el Impuesto Predial."
+    ],
+    "answer": "Que la potestad para crear y administrar el impuesto a la propiedad inmueble es exclusiva de los municipios."
+  },
+  {
+    "question": "La Ley 715 de 2001, al regular el Sistema General de Participaciones (SGP), clasifica los recursos para 'propósito general' como aquellos que el municipio puede destinar a libre inversión, deporte, cultura, recreación, entre otros.\n¿Qué característica fundamental tienen los recursos de 'propósito general' dentro del SGP, en contraste con los recursos de salud o educación?",
+    "options": [
+      "Requieren cofinanciación de la Nación obligatoriamente.",
+      "Tienen una destinación específica limitada por la ley.",
+      "Permiten mayor discrecionalidad en su asignación por parte de la entidad territorial.",
+      "Son exclusivamente para pagar la deuda pública del municipio."
+    ],
+    "answer": "Permiten mayor discrecionalidad en su asignación por parte de la entidad territorial."
+  },
+  {
+    "question": "Un ciudadano de Puerto Boyacá interpone una acción de nulidad ante la Jurisdicción Contencioso Administrativa contra un acto administrativo de la Alcaldía que lo sanciona por no haber declarado a tiempo el Impuesto de Industria y Comercio.\n¿Qué tipo de proceso judicial busca el ciudadano al interponer esta acción?",
+    "options": [
+      "Un proceso penal por evasión fiscal.",
+      "Un proceso de restitución de bienes.",
+      "Un proceso de nulidad y restablecimiento del derecho.",
+      "Un proceso de control fiscal automático."
+    ],
+    "answer": "Un proceso de nulidad y restablecimiento del derecho."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá está considerando implementar un programa de descuentos significativos en el Impuesto Predial para los propietarios que hayan instalado sistemas de energía solar en sus viviendas, buscando fomentar la sostenibilidad ambiental.\n¿Qué tipo de instrumento de política fiscal está utilizando la Alcaldía para incentivar una conducta específica?",
+    "options": [
+      "Una prohibición de construcción.",
+      "Un mecanismo de exención o incentivo tributario.",
+      "Un aumento generalizado de tarifas.",
+      "Un cobro coactivo."
+    ],
+    "answer": "Un mecanismo de exención o incentivo tributario."
+  },
+  {
+    "question": "Para determinar la base gravable del Impuesto Predial Unificado, la Alcaldía de Puerto Boyacá utiliza el avalúo catastral del inmueble. Este avalúo es fijado por una autoridad especializada.\n¿Qué entidad es la principal responsable de establecer los avalúos catastrales en Colombia?",
+    "options": [
+      "La Dirección de Impuestos y Aduanas Nacionales (DIAN).",
+      "El Instituto Geográfico Agustín Codazzi (IGAC) o las autoridades catastrales delegadas.",
+      "La Contraloría General de la República.",
+      "El Departamento Nacional de Planeación (DNP)."
+    ],
+    "answer": "El Instituto Geográfico Agustín Codazzi (IGAC) o las autoridades catastrales delegadas."
+  },
+  {
+    "question": "El Gobierno Nacional, a través de una nueva ley, decide crear un impuesto sobre la emisión de carbono que se aplicará a nivel nacional, y establece que los recursos recaudados serán administrados por la DIAN. \n¿Qué principio tributario nacional se estaría aplicando en este caso en cuanto a la potestad de establecer el tributo?",
+    "options": [
+      "Principio de autonomía territorial exclusiva.",
+      "Principio de libre destinación de recursos.",
+      "Principio de legalidad y potestad tributaria del Congreso.",
+      "Principio de progresividad local."
+    ],
+    "answer": "Principio de legalidad y potestad tributaria del Congreso."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá tiene en su presupuesto anual una estimación de ingresos por concepto de 'multas de tránsito'. \n¿Qué tipo de ingreso representa esta estimación para el municipio?",
+    "options": [
+      "Un ingreso tributario.",
+      "Una transferencia del SGP.",
+      "Un recurso de capital.",
+      "Un ingreso no tributario."
+    ],
+    "answer": "Un ingreso no tributario."
+  },
+
+  {
+    "question": "El Concejo Municipal de Puerto Boyacá, buscando aumentar los ingresos propios para financiar un plan de desarrollo local, aprueba un acuerdo que crea un nuevo impuesto sobre la propiedad de vehículos automotores, estableciendo sus elementos esenciales: hecho generador, sujetos, base gravable y tarifa.\n¿Qué principio constitucional de la tributación territorial podría considerarse vulnerado por esta acción del Concejo Municipal?",
+    "options": [
+      "Principio de equidad, ya que afecta solo a propietarios de vehículos.",
+      "Principio de irretroactividad, al aplicarse a vehículos ya existentes.",
+      "Principio de legalidad, dado que la ley atribuye la potestad de este impuesto a otro nivel de gobierno.",
+      "Principio de eficiencia, al crear un impuesto adicional."
+    ],
+    "answer": "Principio de legalidad, dado que la ley atribuye la potestad de este impuesto a otro nivel de gobierno."
+  },
+  {
+    "question": "La Secretaría de Hacienda de Puerto Boyacá identifica que un gran contribuyente del Impuesto de Industria y Comercio (ICA) ha presentado declaraciones con inconsistencias que subestiman significativamente sus ingresos brutos. El municipio decide iniciar un proceso para ajustar la declaración y cobrar el valor real del impuesto, además de las sanciones.\n¿Qué procedimiento administrativo tributario está llevando a cabo la Secretaría de Hacienda en este caso?",
+    "options": [
+      "Un proceso de cobro persuasivo.",
+      "Un proceso de devolución de impuestos.",
+      "Un proceso de determinación oficial o de revisión de la declaración.",
+      "Un proceso de amnistía tributaria."
+    ],
+    "answer": "Un proceso de determinación oficial o de revisión de la declaración."
+  },
+  {
+    "question": "Para el año fiscal 2025, el municipio de Puerto Boyacá proyecta que sus gastos de funcionamiento excederán el límite establecido por la Ley 617 de 2000, en relación con sus Ingresos Corrientes de Libre Destinación (ICLD). El Alcalde es alertado sobre las posibles consecuencias de esta situación.\n¿Cuál es una implicación directa de superar los límites de gastos de funcionamiento establecidos por la Ley 617 de 2000?",
+    "options": [
+      "La prohibición de celebrar contratos de prestación de servicios.",
+      "La imposibilidad de aumentar el salario de los servidores públicos actuales.",
+      "La obligatoriedad de iniciar un proceso de saneamiento fiscal y financiero.",
+      "La pérdida automática de las transferencias del Sistema General de Participaciones (SGP)."
+    ],
+    "answer": "La obligatoriedad de iniciar un proceso de saneamiento fiscal y financiero."
+  },
+  {
+    "question": "Un ciudadano en Puerto Boyacá se acerca a la Alcaldía para pagar el impuesto anual de su vivienda, cuyo valor se calcula sobre el avalúo catastral del inmueble.\n¿A qué impuesto territorial se refiere el ciudadano?",
+    "options": [
+      "Impuesto de Industria y Comercio (ICA).",
+      "Impuesto de Delineación Urbana.",
+      "Impuesto Predial Unificado (IPU).",
+      "Impuesto de Avisos y Tableros (IAT)."
+    ],
+    "answer": "Impuesto Predial Unificado (IPU)."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá recibe anualmente recursos de la Nación que deben ser utilizados, de manera específica, para la financiación de programas de salud pública y para garantizar el acceso al agua potable y saneamiento básico en la zona rural. \nEstos recursos corresponden a transferencias provenientes de qué sistema?",
+    "options": [
+      "El Sistema General de Regalías (SGR).",
+      "El Sistema General de Participaciones (SGP).",
+      "Créditos de banca multilateral.",
+      "Los ingresos tributarios del impuesto de timbre."
+    ],
+    "answer": "El Sistema General de Participaciones (SGP)."
+  },
+  {
+    "question": "El Concejo Municipal de Puerto Boyacá aprueba un nuevo Acuerdo para la administración del Impuesto de Industria y Comercio (ICA). En este Acuerdo, se define la tarifa, la base gravable y los sujetos pasivos, de acuerdo con lo autorizado por la ley nacional.\n¿Qué documento legal local se está creando o actualizando en este caso para la gestión de los tributos?",
+    "options": [
+      "El Plan de Desarrollo Municipal.",
+      "La Ley de Presupuesto Anual.",
+      "El Marco Fiscal de Mediano Plazo (MFMP).",
+      "El Estatuto Tributario Municipal."
+    ],
+    "answer": "El Estatuto Tributario Municipal."
+  },
+  {
+    "question": "Un proyecto de construcción de una nueva vía en Puerto Boyacá, financiado por el municipio, ha generado un aumento significativo en el valor de los predios colindantes. La administración municipal decide cobrar un tributo especial a estos propietarios para recuperar una parte de la inversión, basado en el beneficio que han obtenido.\n¿A qué tipo de ingreso territorial se refiere este cobro?",
+    "options": [
+      "Tasa por el uso de la vía.",
+      "Impuesto Predial adicional.",
+      "Contribución por valorización (o contribución especial).",
+      "Multa por beneficio indebido."
+    ],
+    "answer": "Contribución por valorización (o contribución especial)."
+  },
+  {
+    "question": "El gerente de una empresa de servicios en Puerto Boyacá debe realizar la retención del Impuesto de Industria y Comercio (ReteICA) a sus proveedores y contratistas. Posteriormente, debe presentar una declaración y realizar el pago de los valores retenidos a la Secretaría de Hacienda Municipal.\n¿Qué característica distingue a la retención en la fuente como mecanismo de recaudo?",
+    "options": [
+      "Es un pago voluntario del contribuyente.",
+      "Es un cobro que se realiza directamente sobre el patrimonio.",
+      "Implica que un tercero (agente retenedor) recauda parte del impuesto en el momento del pago de una transacción.",
+      "Es un procedimiento exclusivo del control fiscal."
+    ],
+    "answer": "Implica que un tercero (agente retenedor) recauda parte del impuesto en el momento del pago de una transacción."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá está en proceso de elaborar su presupuesto para el próximo año. Para determinar los recursos disponibles, debe considerar los ingresos que recauda directamente de los impuestos locales, como el Predial y el ICA, y que puede destinar sin una limitación previa a fines específicos.\nEstos ingresos se conocen como:",
+    "options": [
+      "Recursos del Sistema General de Regalías.",
+      "Ingresos con destinación específica.",
+      "Ingresos Corrientes de Libre Destinación (ICLD).",
+      "Transferencias condicionadas del nivel nacional."
+    ],
+    "answer": "Ingresos Corrientes de Libre Destinación (ICLD)."
+  },
+  {
+    "question": "La Contraloría Departamental de Boyacá inicia una auditoría sobre el manejo de los fondos del Sistema General de Participaciones (SGP) en el municipio de Puerto Boyacá, para verificar que se estén destinando correctamente a educación y salud.\n¿Qué tipo de control ejerce la Contraloría en este contexto?",
+    "options": [
+      "Control disciplinario.",
+      "Control de legalidad.",
+      "Control político.",
+      "Control fiscal."
+    ],
+    "answer": "Control fiscal."
+  },
+  {
+    "question": "Un ciudadano de Puerto Boyacá, al iniciar una nueva actividad comercial, debe registrarse y obtener la licencia de funcionamiento, y posteriormente, declarar y pagar periódicamente el impuesto sobre los ingresos brutos generados por su actividad económica.\n¿A qué impuesto municipal se refiere esta obligación?",
+    "options": [
+      "Impuesto Predial Unificado.",
+      "Impuesto de Delineación Urbana.",
+      "Impuesto de Industria y Comercio (ICA).",
+      "Impuesto de Circulación y Tránsito."
+    ],
+    "answer": "Impuesto de Industria y Comercio (ICA)."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá implementa una política de recaudo que prioriza el cobro de impuestos a las microempresas, mientras que ofrece amplias exenciones a las grandes empresas, argumentando que estas últimas generan más empleo. Un grupo de microempresarios demanda esta política por considerarla injusta.\n¿Qué principio tributario constitucional podría estar en discusión en este caso?",
+    "options": [
+      "Principio de eficiencia.",
+      "Principio de legalidad.",
+      "Principio de equidad y progresividad.",
+      "Principio de irretroactividad."
+    ],
+    "answer": "Principio de equidad y progresividad."
+  },
+  {
+    "question": "Un ciudadano tiene una deuda de Impuesto Predial con la Alcaldía de Puerto Boyacá que lleva varios años sin pagar. La Secretaría de Hacienda le envía una comunicación informándole que, de no pagar, se iniciará un proceso para embargar sus bienes.\n¿Qué tipo de procedimiento de recaudo está a punto de iniciar la Alcaldía?",
+    "options": [
+      "Cobro persuasivo.",
+      "Cobro coactivo.",
+      "Devolución de saldos a favor.",
+      "Conciliación tributaria."
+    ],
+    "answer": "Cobro coactivo."
+  },
+  {
+    "question": "La Constitución Política de Colombia establece que 'solamente el Congreso, las asambleas departamentales y los concejos distritales y municipales podrán imponer contribuciones fiscales o parafiscales'.\nEste artículo consagra el principio de:",
+    "options": [
+      "Eficiencia tributaria.",
+      "Equidad tributaria.",
+      "Legalidad tributaria (o representación popular).",
+      "No confiscatoriedad."
+    ],
+    "answer": "Legalidad tributaria (o representación popular)."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá recibe recursos del Sistema General de Regalías (SGR) que debe destinar a proyectos de inversión en ciencia, tecnología e innovación, de acuerdo con los planes de desarrollo. \n¿De dónde provienen principalmente los recursos del SGR?",
+    "options": [
+      "De los impuestos recaudados por el Gobierno Nacional.",
+      "De los rendimientos financieros de las entidades territoriales.",
+      "De la explotación de recursos naturales no renovables.",
+      "De donaciones de organismos internacionales."
+    ],
+    "answer": "De la explotación de recursos naturales no renovables."
+  },
+  {
+    "question": "Un propietario en Puerto Boyacá decide remodelar su casa, lo que implica una ampliación y una modificación estructural. Antes de iniciar la obra, debe solicitar una licencia de construcción y pagar un impuesto asociado a la expedición de dicha licencia.\n¿Qué impuesto territorial debe pagar por la expedición de la licencia de construcción?",
+    "options": [
+      "Impuesto Predial Unificado.",
+      "Impuesto de Delineación Urbana.",
+      "Impuesto de Industria y Comercio.",
+      "Impuesto de Avisos y Tableros."
+    ],
+    "answer": "Impuesto de Delineación Urbana."
+  },
+  {
+    "question": "El Ministerio de Hacienda y Crédito Público realiza un seguimiento constante a la capacidad de pago y el nivel de endeudamiento de la Alcaldía de Puerto Boyacá, con base en lo establecido en la Ley 358 de 1997.\n¿Cuál es el objetivo principal de esta ley en el contexto de las finanzas territoriales?",
+    "options": [
+      "Promover la creación de nuevos impuestos locales.",
+      "Establecer un límite al gasto de funcionamiento de las entidades.",
+      "Regular y limitar el endeudamiento de las entidades territoriales.",
+      "Distribuir los recursos del Sistema General de Participaciones."
+    ],
+    "answer": "Regular y limitar el endeudamiento de las entidades territoriales."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá, buscando mejorar el bienestar de sus habitantes, decide construir una nueva biblioteca municipal. Para financiar esta obra, evalúa sus ingresos propios, que no tienen una destinación específica definida por ley.\nEstos ingresos se clasifican como:",
+    "options": [
+      "Recursos de capital provenientes de la venta de activos.",
+      "Transferencias del SGP para propósito general.",
+      "Ingresos tributarios de libre destinación (impuestos, tasas, contribuciones).",
+      "Regalías directas."
+    ],
+    "answer": "Ingresos tributarios de libre destinación (impuestos, tasas, contribuciones)."
+  },
+  {
+    "question": "La Secretaría de Hacienda de Puerto Boyacá emite un acto administrativo en el que liquida un mayor valor de Impuesto de Industria y Comercio a un contribuyente, basándose en una auditoría de sus libros contables. El contribuyente no está de acuerdo y desea impugnar la decisión.\n¿Ante qué jurisdicción debe acudir el contribuyente para demandar la legalidad de este acto administrativo de la Secretaría de Hacienda?",
+    "options": [
+      "La Jurisdicción Penal.",
+      "La Jurisdicción Civil.",
+      "La Jurisdicción Contencioso Administrativa.",
+      "La Jurisdicción Constitucional."
+    ],
+    "answer": "La Jurisdicción Contencioso Administrativa."
+  },
+  {
+    "question": "Una nueva ley nacional establece un impuesto sobre las actividades turísticas. Esta ley faculta a los Concejos Municipales para reglamentar sus tarifas y procedimientos de recaudo, dentro de unos rangos y directrices generales.\nEsta facultad de los Concejos Municipales es una manifestación de qué principio en la autonomía fiscal de las entidades territoriales?",
+    "options": [
+      "Centralización tributaria.",
+      "Autonomía para administrar sus recursos y establecer tributos dentro del marco legal.",
+      "Subordinación total a la ley nacional.",
+      "Independencia absoluta en materia tributaria."
+    ],
+    "answer": "Autonomía para administrar sus recursos y establecer tributos dentro del marco legal."
+  },
+  {
+    "question": "El municipio de Puerto Boyacá decide implementar una 'Tasa de Alumbrado Público' que se cobra a los usuarios de energía eléctrica por la prestación de este servicio. El valor cobrado se relaciona con el costo del servicio.\n¿Qué característica principal distingue a una tasa de un impuesto?",
+    "options": [
+      "La tasa no es un ingreso obligatorio.",
+      "La tasa no tiene destinación específica.",
+      "La tasa se cobra por una contraprestación directa o un servicio específico recibido.",
+      "La tasa solo la puede establecer el Congreso."
+    ],
+    "answer": "La tasa se cobra por una contraprestación directa o un servicio específico recibido."
+  },
+  {
+    "question": "Una empresa constructora en Puerto Boyacá, al calcular el valor del Impuesto de Industria y Comercio (ICA) por sus actividades, puede descontar algunos ingresos que legalmente no hacen parte de la base gravable, como los provenientes de exportaciones o los ingresos fuera del municipio.\nEsta posibilidad de descontar ciertos ingresos de la base gravable del ICA es un aspecto definido principalmente por:",
+    "options": [
+      "La política de descuentos de la DIAN.",
+      "El avalúo catastral del inmueble.",
+      "La ley nacional y el Estatuto Tributario Municipal.",
+      "La decisión unilateral del contribuyente."
+    ],
+    "answer": "La ley nacional y el Estatuto Tributario Municipal."
+  },
+  {
+    "question": "La Procuraduría General de la Nación inicia una investigación disciplinaria contra un servidor público de la Secretaría de Hacienda de Puerto Boyacá por presunta apropiación de fondos recaudados por concepto de impuestos.\n¿Qué tipo de control ejerce la Procuraduría en este escenario?",
+    "options": [
+      "Control fiscal.",
+      "Control político.",
+      "Control disciplinario.",
+      "Control de constitucionalidad."
+    ],
+    "answer": "Control disciplinario."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá, en su ejercicio de autonomía fiscal, debe garantizar que cualquier reforma a sus tributos locales no se aplique a hechos generadores ocurridos antes de la entrada en vigencia de la nueva norma, salvo que sea más favorable al contribuyente.\n¿Qué principio tributario se está respetando con esta actuación?",
+    "options": [
+      "Principio de eficiencia.",
+      "Principio de progresividad.",
+      "Principio de irretroactividad.",
+      "Principio de publicidad."
+    ],
+    "answer": "Principio de irretroactividad."
+  },
+  {
+    "question": "El Concejo Municipal de Puerto Boyacá, al momento de aprobar el presupuesto anual, debe estimar los ingresos que el municipio espera recaudar por concepto de impuestos, tasas, contribuciones y transferencias.\n¿Qué documento legal local contiene la estimación detallada de estos ingresos para el año fiscal siguiente?",
+    "options": [
+      "El Plan de Ordenamiento Territorial (POT).",
+      "El Marco Fiscal de Mediano Plazo (MFMP).",
+      "El Acuerdo de Presupuesto Anual (o Ley de Presupuesto Local).",
+      "El Plan de Desarrollo Municipal."
+    ],
+    "answer": "El Acuerdo de Presupuesto Anual (o Ley de Presupuesto Local)."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá requiere recursos para financiar un gran proyecto de inversión que supera su capacidad financiera actual. Un asesor sugiere buscar fuentes de financiación diferentes a los impuestos y tasas locales, como préstamos bancarios.\n¿A qué categoría de ingresos pertenece el financiamiento obtenido a través de préstamos?",
+    "options": [
+      "Ingresos corrientes tributarios.",
+      "Transferencias de la Nación.",
+      "Recursos de capital (Crédito Público).",
+      "Ingresos no tributarios."
+    ],
+    "answer": "Recursos de capital (Crédito Público)."
+  },
+  {
+    "question": "La Ley 819 de 2003 establece que las entidades territoriales deben elaborar anualmente un 'Marco Fiscal de Mediano Plazo (MFMP)', que proyecta sus ingresos y gastos para los siguientes 10 años. \n¿Qué busca principalmente este instrumento para las finanzas territoriales?",
+    "options": [
+      "Autorizar nuevos impuestos de forma unilateral.",
+      "Garantizar la disciplina fiscal y la sostenibilidad de las finanzas públicas.",
+      "Determinar las sanciones por evasión de impuestos.",
+      "Distribuir los recursos del Sistema General de Regalías."
+    ],
+    "answer": "Garantizar la disciplina fiscal y la sostenibilidad de las finanzas públicas."
+  },
+  {
+    "question": "Un ciudadano de Puerto Boyacá realiza una actividad industrial en el municipio y debe declarar anualmente el Impuesto de Industria y Comercio (ICA). Para ello, consulta la clasificación de sus ingresos y las tarifas aplicables en la normatividad local.\n¿Qué documento local detalla la información específica sobre la tarifa y la base gravable del ICA para su municipio?",
+    "options": [
+      "El Manual de Funciones de la Alcaldía.",
+      "El Estatuto Tributario Municipal.",
+      "El Plan de Desarrollo Departamental.",
+      "El Código Nacional de Tránsito."
+    ],
+    "answer": "El Estatuto Tributario Municipal."
+  },
+  {
+    "question": "La Gobernación de Boyacá, en su rol de entidad territorial, recauda el Impuesto sobre Vehículos Automotores. Este impuesto se destina a financiar proyectos de infraestructura vial a nivel departamental.\n¿Este Impuesto sobre Vehículos Automotores se considera un ingreso de qué tipo para la Gobernación?",
+    "options": [
+      "Una transferencia de la Nación.",
+      "Un ingreso no tributario.",
+      "Un ingreso tributario propio de destinación específica.",
+      "Una contribución por valorización."
+    ],
+    "answer": "Un ingreso tributario propio de destinación específica."
+  },
+  {
+    "question": "La Corte Constitucional ha reiterado que los tributos, al no ser confiscatorios, no pueden exceder la capacidad económica de los contribuyentes al punto de privarlos de una parte sustancial de su propiedad o ingresos. \nEste principio de la tributación territorial busca:",
+    "options": [
+      "Asegurar que los impuestos sean siempre mínimos.",
+      "Garantizar que la carga tributaria sea razonable y no expropiatoria.",
+      "Permitir la evasión de impuestos en casos extremos.",
+      "Prohibir la existencia de impuestos locales."
+    ],
+    "answer": "Garantizar que la carga tributaria sea razonable y no expropiatoria."
+  },
+
+{
+    "question": "El municipio de San Lorenzo aprobó un acuerdo para crear un impuesto del 2% sobre las ventas de alimentos en supermercados. ¿Esta medida es constitucional?",
+    "options": [
+      "Sí, porque los municipios tienen autonomía fiscal",
+      "No, porque invade competencia del IVA que es nacional",
+      "Sólo si el Ministerio de Hacienda lo autoriza",
+      "Sí, si los supermercados tienen sede en el municipio"
+    ],
+    "answer": "No, porque invade competencia del IVA que es nacional"
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá implementó una tasa del 5% sobre el uso de espacios públicos para eventos culturales. Un organizador se niega a pagar argumentando que ya paga ICA. ¿Qué procede?",
+    "options": [
+      "El organizador debe pagar ambas pues son tributos diferentes",
+      "Está exento por ser evento cultural",
+      "Sólo debe pagar el mayor valor entre ICA y la tasa",
+      "Debe pagar pero puede descontarlo del ICA"
+    ],
+    "answer": "El organizador debe pagar ambas pues son tributos diferentes"
+  },
+  {
+    "question": "Un contribuyente pagó $500,000 de más en su predial por error en el avalúo. ¿Qué puede hacer?",
+    "options": [
+      "Solicitar devolución administrativa ante la Secretaría de Hacienda",
+      "Demandar al municipio ante el Consejo de Estado",
+      "Descontarlo del pago del siguiente año",
+      "Reclamar ante la DIAN"
+    ],
+    "answer": "Solicitar devolución administrativa ante la Secretaría de Hacienda"
+  },
+  {
+    "question": "La Gobernación de Boyacá creó una sobretasa del 10% al impuesto nacional a la gasolina. Una estación de servicio no la está cobrando. ¿Qué sanción aplica?",
+    "options": [
+      "Multa del 10% del valor no recaudado",
+      "Clausura por 5 días",
+      "Cancelación de la licencia comercial",
+      "No hay sanción pues es voluntario"
+    ],
+    "answer": "Multa del 10% del valor no recaudado"
+  },
+  {
+    "question": "Un ciudadano recibió un comparendo por no pagar el predial por 3 años. Alega que nunca recibió la cuenta de cobro. ¿Qué argumento es válido?",
+    "options": [
+      "La notificación es obligatoria para exigir el pago",
+      "Es su deber consultar si tiene obligaciones tributarias",
+      "Sólo debe pagar los dos últimos años",
+      "Debe reclamar ante la Procuraduría"
+    ],
+    "answer": "Es su deber consultar si tiene obligaciones tributarias"
+  },
+  {
+    "question": "La Contraloría Municipal detectó que el 30% del recaudo del ICA no fue invertido en proyectos de desarrollo. ¿Qué consecuencia aplica?",
+    "options": [
+      "Ninguna, los municipios pueden usar libremente estos recursos",
+      "Investigación disciplinaria al alcalde",
+      "Reducción del SGP para el siguiente año",
+      "Intervención de la Gobernación"
+    ],
+    "answer": "Investigación disciplinaria al alcalde"
+  },
+  {
+    "question": "Un concejal propone eximir del ICA a las panaderías artesanales. ¿Qué se requiere para aprobarlo?",
+    "options": [
+      "Acuerdo municipal con votación mayoritaria",
+      "Aprobación del Ministerio de Hacienda",
+      "Consenso con otras municipalidades",
+      "Reforma a la Ley 715 de 2001"
+    ],
+    "answer": "Acuerdo municipal con votación mayoritaria"
+  },
+  {
+    "question": "Un comerciante pagó $0 de ICA porque su negocio generó pérdidas. La Secretaría de Hacienda le exige pagar el mínimo. ¿Qué procede?",
+    "options": [
+      "Debe pagar el mínimo establecido en el acuerdo municipal",
+      "Está exento por no tener ganancias",
+      "Debe pagar la mitad del mínimo",
+      "Puede solicitar prórroga"
+    ],
+    "answer": "Debe pagar el mínimo establecido en el acuerdo municipal"
+  },
+  {
+    "question": "La Alcaldía aumentó el predial un 300% en un año. Un ciudadano alega que es confiscatorio. ¿Qué tribunal resuelve?",
+    "options": [
+      "Consejo de Estado",
+      "Corte Constitucional",
+      "Juez administrativo municipal",
+      "Corte Suprema de Justicia"
+    ],
+    "answer": "Consejo de Estado"
+  },
+  {
+    "question": "Un municipio destina el 50% del SGP para educación a construir un estadio. ¿Es válido?",
+    "options": [
+      "Sí, si el Concejo lo aprueba",
+      "No, el SGP para educación tiene destinos específicos",
+      "Sólo si el Ministerio de Educación lo autoriza",
+      "Sí, si hay emergencia sanitaria"
+    ],
+    "answer": "No, el SGP para educación tiene destinos específicos"
+  },
+  {
+    "question": "Un contribuyente pagó su predial con 6 meses de retraso. ¿Qué recargo aplica?",
+    "options": [
+      "10% anual sobre el valor adeudado",
+      "20% del total inmediato",
+      "1% mensual acumulativo",
+      "No hay recargo si paga dentro del año"
+    ],
+    "answer": "1% mensual acumulativo"
+  },
+  {
+    "question": "Un ciudadano compró una casa y descubrió que tiene deuda de predial de años anteriores. ¿Quién debe pagarla?",
+    "options": [
+      "El nuevo dueño, por ser el titular actual",
+      "El vendedor, pues la deuda es de su gestión",
+      "Se divide proporcionalmente",
+      "El municipio la condona por cambio de propietario"
+    ],
+    "answer": "El nuevo dueño, por ser el titular actual"
+  },
+  {
+    "question": "Un restaurante paga ICA en Bogotá pero abre una sucursal en Chía. ¿Debe pagar ICA también en Chía?",
+    "options": [
+      "Sí, el ICA es municipal y aplica donde se realiza la actividad",
+      "No, basta con pagarlo en la sede principal",
+      "Sólo si supera cierto monto de ingresos",
+      "No, pero debe pagar tasa por licencia comercial"
+    ],
+    "answer": "Sí, el ICA es municipal y aplica donde se realiza la actividad"
+  },
+  {
+    "question": "La Alcaldía exige pago de predial desde 2010, pero el avalúo catastral se actualizó en 2020. ¿Cómo se calcula?",
+    "options": [
+      "Con el avalúo vigente en cada año",
+      "Sólo con el avalúo actual",
+      "Con el promedio de los últimos 5 años",
+      "Con el valor comercial del inmueble"
+    ],
+    "answer": "Con el avalúo vigente en cada año"
+  },
+  {
+    "question": "Un concejal propone cobrar tasa a vehículos foráneos que circulen en el municipio. ¿Es viable?",
+    "options": [
+      "Sí, si se demora congestión vehicular",
+      "No, porque invade competencia del peaje",
+      "Sólo para vehículos de carga",
+      "No, porque viola la libre movilidad"
+    ],
+    "answer": "No, porque viola la libre movilidad"
+  },
+  {
+    "question": "Un municipio usó regalías para comprar computadores a una empresa del alcalde. ¿Qué entidad debe investigar?",
+    "options": [
+      "Contraloría General de la República",
+      "Procuraduría General",
+      "Fiscalía General",
+      "Todas las anteriores"
+    ],
+    "answer": "Todas las anteriores"
+  },
+  {
+    "question": "Un comerciante pagó $0 de ICA por estar en zona franca, pero el municipio le exige pagar. ¿Qué procede?",
+    "options": [
+      "Debe pagar pues el ICA es municipal",
+      "Está exento por incentivos de zona franca",
+      "Sólo paga el 50% del mínimo",
+      "Paga pero puede descontarlo de renta"
+    ],
+    "answer": "Está exento por incentivos de zona franca"
+  },
+  {
+    "question": "Un ciudadano reclama que su predial aumentó 200% tras actualización catastral. ¿Puede impugnar?",
+    "options": [
+      "Sí, ante el Comité de Catastro Municipal",
+      "No, los avalúos son inimpugnables",
+      "Sólo si demuestra error material",
+      "Sí, pero debe pagar primero"
+    ],
+    "answer": "Sí, ante el Comité de Catastro Municipal"
+  },
+  {
+    "question": "Un municipio condonó deudas de predial a adultos mayores. ¿Es válido?",
+    "options": [
+      "Sí, por principios de equidad",
+      "No, viola el principio de universalidad",
+      "Sólo si son estratos 1 y 2",
+      "Sí, si lo aprueba el Concejo"
+    ],
+    "answer": "Sí, si lo aprueba el Concejo"
+  },
+  {
+    "question": "La DIAN audita a una empresa y detecta que no pagó ICA en 3 municipios. ¿Qué sanción aplica?",
+    "options": [
+      "Multa del 100% del valor evadido",
+      "La DIAN no puede sancionar tributos municipales",
+      "Cierre temporal del establecimiento",
+      "Prisión de 2 a 5 años"
+    ],
+    "answer": "La DIAN no puede sancionar tributos municipales"
+  },
+  {
+    "question": "Un contribuyente pagó su predial en dos municipios por error. ¿Cómo reclama?",
+    "options": [
+      "Solicita devolución ante el municipio donde pagó indebidamente",
+      "Presenta demanda ante el Consejo de Estado",
+      "Descuenta el doble pago del siguiente año",
+      "No puede reclamar por ser error propio"
+    ],
+    "answer": "Solicita devolución ante el municipio donde pagó indebidamente"
+  },
+  {
+    "question": "Un municipio creó un impuesto al consumo de energía eléctrica. ¿Es válido?",
+    "options": [
+      "Sí, si es para financiar servicios públicos",
+      "No, porque ya existe un impuesto nacional similar",
+      "Sólo para usuarios industriales",
+      "Sí, si lo aprueba la CREG"
+    ],
+    "answer": "No, porque ya existe un impuesto nacional similar"
+  },
+  {
+    "question": "Un ciudadano no pagó predial por 10 años porque nunca recibió cuenta de cobro. ¿Prescribe la deuda?",
+    "options": [
+      "Sí, a los 5 años",
+      "No, el predial no prescribe",
+      "Sólo si demuestra que no fue notificado",
+      "Sí, a los 10 años"
+    ],
+    "answer": "No, el predial no prescribe"
+  },
+  {
+    "question": "Un comerciante paga ICA en Medellín pero vende productos en 5 municipios. ¿Dónde debe pagar?",
+    "options": [
+      "Sólo en Medellín por ser su sede",
+      "En cada municipio donde tenga ventas",
+      "Donde tenga mayor volumen de ingresos",
+      "Ante la DIAN por ser operación nacional"
+    ],
+    "answer": "En cada municipio donde tenga ventas"
+  },
+  {
+    "question": "Un municipio redujo el ICA a cafeterías al aire libre para reactivar el turismo. ¿Es válido?",
+    "options": [
+      "Sí, si el Concejo lo aprueba por política pública",
+      "No, porque discrimina otros negocios",
+      "Sólo si es por emergencia sanitaria",
+      "Sí, pero debe compensar con otro impuesto"
+    ],
+    "answer": "Sí, si el Concejo lo aprueba por política pública"
+  },
+  {
+    "question": "La Contraloría detectó que el 40% del recaudo del predial no se invirtió. ¿Qué procede?",
+    "options": [
+      "Nada, los municipos deciden libremente el uso",
+      "Investigación al alcalde por posible irregularidad",
+      "Reducción del SGP para el siguiente año",
+      "Intervención de la Gobernación"
+    ],
+    "answer": "Investigación al alcalde por posible irregularidad"
+  },
+  {
+    "question": "Un ciudadano alega que su predial aumentó 150% sin actualización catastral. ¿Qué hacer?",
+    "options": [
+      "Reclamar ante el Comité de Catastro",
+      "Pagar bajo protesta y demandar al municipio",
+      "No pagar hasta que se corrija",
+      "Solicitar revisión ante la DIAN"
+    ],
+    "answer": "Reclamar ante el Comité de Catastro"
+  },
+  {
+    "question": "Un municipio condiciona la expedición de paz y salvo al pago de tasas pendientes. ¿Es válido?",
+    "options": [
+      "Sí, es un mecanismo de coerción legal",
+      "No, viola el debido proceso",
+      "Sólo para trámites comerciales",
+      "Sí, pero con un descuento del 50%"
+    ],
+    "answer": "Sí, es un mecanismo de coerción legal"
+  },
+  {
+    "question": "Un contribuyente pagó $0 de ICA por declarar pérdidas, pero el municipio le exige $500,000 como mínimo. ¿Qué procede?",
+    "options": [
+      "Debe pagar el mínimo fijado en el acuerdo municipal",
+      "Está exento por no tener ingresos",
+      "Paga el 50% del mínimo",
+      "Puede solicitar prórroga"
+    ],
+    "answer": "Debe pagar el mínimo fijado en el acuerdo municipal"
+  },
+
+
+
+  {
+    "question": "¿Qué artículo de la Constitución Política establece el Sistema General de Participaciones (SGP)?",
+    "options": [
+      "Artículo 287",
+      "Artículo 356",
+      "Artículo 363",
+      "Artículo 338"
+    ],
+    "answer": "Artículo 356"
+  },
+  {
+    "question": "El impuesto predial en un municipio es determinado por:",
+    "options": [
+      "La DIAN",
+      "El Concejo Municipal mediante acuerdo",
+      "El Ministerio de Hacienda",
+      "La Gobernación"
+    ],
+    "answer": "El Concejo Municipal mediante acuerdo"
+  },
+  {
+    "question": "¿Cuál de estos NO es un ingreso propio de un municipio?",
+    "options": [
+      "Impuesto de Industria y Comercio (ICA)",
+      "Transferencias del SGP",
+      "Tasas por alcantarillado",
+      "Multas de tránsito"
+    ],
+    "answer": "Transferencias del SGP"
+  },
+  {
+    "question": "Los recursos del SGP destinados a salud corresponden aproximadamente a:",
+    "options": [
+      "15%",
+      "25%",
+      "60%",
+      "75%"
+    ],
+    "answer": "25%"
+  },
+  {
+    "question": "¿Qué ley organiza el Sistema General de Participaciones (SGP)?",
+    "options": [
+      "Ley 1819 de 2016",
+      "Ley 715 de 2001",
+      "Ley 223 de 1995",
+      "Ley 4ª de 1913"
+    ],
+    "answer": "Ley 715 de 2001"
+  },
+  {
+    "question": "Un municipio puede crear un nuevo impuesto mediante:",
+    "options": [
+      "Decreto del alcalde",
+      "Acuerdo municipal",
+      "Resolución de la DIAN",
+      "Ley nacional"
+    ],
+    "answer": "Acuerdo municipal"
+  },
+  {
+    "question": "¿Cuál tributo es competencia exclusiva de los departamentos?",
+    "options": [
+      "Impuesto Predial",
+      "Sobretasa a la gasolina",
+      "IVA",
+      "Impuesto al consumo"
+    ],
+    "answer": "Sobretasa a la gasolina"
+  },
+  {
+    "question": "Las contribuciones por mejoras se aplican para financiar:",
+    "options": [
+      "Servicios públicos domiciliarios",
+      "Obras de infraestructura local",
+      "Educación pública",
+      "Pagos de la deuda municipal"
+    ],
+    "answer": "Obras de infraestructura local"
+  },
+  {
+    "question": "¿Qué entidad supervisa el recaudo del ICA en los municipios?",
+    "options": [
+      "DIAN",
+      "Contraloría Municipal",
+      "Secretaría de Hacienda Municipal",
+      "Superintendencia de Industria y Comercio"
+    ],
+    "answer": "Secretaría de Hacienda Municipal"
+  },
+  {
+    "question": "Según la Constitución, los municipios tienen autonomía para:",
+    "options": [
+      "Emitir moneda",
+      "Crear impuestos no contemplados en la ley nacional",
+      "Gravar el comercio exterior",
+      "Fijar tarifas arancelarias"
+    ],
+    "answer": "Crear impuestos no contemplados en la ley nacional"
+  },
+  {
+    "question": "¿Qué porcentaje del SGP se destina a educación en los municipios?",
+    "options": [
+      "30%",
+      "45%",
+      "60%",
+      "75%"
+    ],
+    "answer": "60%"
+  },
+  {
+    "question": "Las regalías destinadas a proyectos de ciencia y tecnología se rigen por:",
+    "options": [
+      "Ley 2056 de 2020",
+      "Ley 715 de 2001",
+      "Decreto 624 de 1989",
+      "Ley 1819 de 2016"
+    ],
+    "answer": "Ley 2056 de 2020"
+  },
+  {
+    "question": "¿Cuál es el hecho generador del Impuesto de Industria y Comercio (ICA)?",
+    "options": [
+      "Poseer un vehículo",
+      "Realizar actividad comercial en el municipio",
+      "Tener una propiedad rural",
+      "Recibir salarios"
+    ],
+    "answer": "Realizar actividad comercial en el municipio"
+  },
+  {
+    "question": "La base gravable del impuesto predial es:",
+    "options": [
+      "El ingreso anual del propietario",
+      "El avalúo catastral del inmueble",
+      "El área construida",
+      "El número de habitantes del municipio"
+    ],
+    "answer": "El avalúo catastral del inmueble"
+  },
+  {
+    "question": "¿Qué tipo de ingreso representa una multa por infracción de tránsito?",
+    "options": [
+      "Ingreso tributario",
+      "Ingreso no tributario",
+      "Transferencia nacional",
+      "Contribución especial"
+    ],
+    "answer": "Ingreso no tributario"
+  },
+  {
+    "question": "La Ley 223 de 1995 es conocida como:",
+    "options": [
+      "Ley de Regalías",
+      "Ley de Rentas",
+      "Ley de Participación",
+      "Ley de Transparencia"
+    ],
+    "answer": "Ley de Rentas"
+  },
+  {
+    "question": "¿Qué tribunal resuelve conflictos sobre interpretación de tributos municipales?",
+    "options": [
+      "Corte Suprema de Justicia",
+      "Consejo de Estado",
+      "Corte Constitucional",
+      "Tribunal Administrativo"
+    ],
+    "answer": "Consejo de Estado"
+  },
+  {
+    "question": "¿Qué entidad controla el uso de recursos del SGP en los municipios?",
+    "options": [
+      "Contraloría Municipal",
+      "Procuraduría General",
+      "Fiscalía General",
+      "Superintendencia de Servicios Públicos"
+    ],
+    "answer": "Contraloría Municipal"
+  },
+  {
+    "question": "Un municipio puede eximir del pago de predial a:",
+    "options": [
+      "Viviendas de interés social",
+      "Empresas multinacionales",
+      "Centros comerciales",
+      "Propiedades en zonas industriales"
+    ],
+    "answer": "Viviendas de interés social"
+  },
+  {
+    "question": "¿Qué norma establece los principios de equidad y eficiencia en el recaudo tributario?",
+    "options": [
+      "Ley 1819 de 2016",
+      "Ley 223 de 1995 (Ley de Rentas)",
+      "Decreto 624 de 1989",
+      "Ley 4ª de 1913"
+    ],
+    "answer": "Ley 223 de 1995 (Ley de Rentas)"
+  },
+  {
+    "question": "Las tasas por servicios públicos son:",
+    "options": [
+      "Voluntarias",
+      "Obligatorias y retributivas",
+      "Aplicadas solo a empresas",
+      "Determinadas por la nación"
+    ],
+    "answer": "Obligatorias y retributivas"
+  },
+  {
+    "question": "¿Qué impuesto NO puede ser creado por un municipio?",
+    "options": [
+      "Impuesto al espectáculo público",
+      "IVA",
+      "Impuesto a la publicidad exterior",
+      "Tasa por uso de bienes públicos"
+    ],
+    "answer": "IVA"
+  },
+  {
+    "question": "La tarifa del ICA es fijada por:",
+    "options": [
+      "El Ministerio de Hacienda",
+      "El Concejo Municipal",
+      "La Asamblea Departamental",
+      "La DIAN"
+    ],
+    "answer": "El Concejo Municipal"
+  },
+  {
+    "question": "¿Qué tipo de ingreso son las regalías para un municipio?",
+    "options": [
+      "Ingreso propio tributario",
+      "Transferencia nacional condicionada",
+      "Donación internacional",
+      "Endeudamiento público"
+    ],
+    "answer": "Transferencia nacional condicionada"
+  },
+  {
+    "question": "La sentencia C-776 de 2003 de la Corte Constitucional trata sobre:",
+    "options": [
+      "Autonomía fiscal territorial",
+      "Distribución del SGP",
+      "Impunidad en evasión de impuestos",
+      "Creación de la DIAN"
+    ],
+    "answer": "Autonomía fiscal territorial"
+  },
+  {
+    "question": "¿Qué documento aprueba el presupuesto de ingresos de un municipio?",
+    "options": [
+      "Decreto del alcalde",
+      "Acuerdo del Concejo Municipal",
+      "Resolución de la Contraloría",
+      "Ley del Congreso"
+    ],
+    "answer": "Acuerdo del Concejo Municipal"
+  },
+  {
+    "question": "La fiscalización del recaudo de tributos municipales es función de:",
+    "options": [
+      "La Procuraduría",
+      "La Contraloría Municipal",
+      "La Fiscalía",
+      "La Defensoría del Pueblo"
+    ],
+    "answer": "La Contraloría Municipal"
+  },
+  {
+    "question": "¿Qué ley regula las exenciones al impuesto predial?",
+    "options": [
+      "Ley 3ª de 1991",
+      "Ley 715 de 2001",
+      "Ley 1819 de 2016",
+      "Ley 223 de 1995"
+    ],
+    "answer": "Ley 3ª de 1991"
+  },
+  {
+    "question": "Un almacén con ingresos anuales de $300 millones paga ICA a:",
+    "options": [
+      "La DIAN",
+      "La Secretaría de Hacienda Municipal",
+      "La Gobernación",
+      "El Ministerio de Comercio"
+    ],
+    "answer": "La Secretaría de Hacienda Municipal"
+  },
+  {
+    "question": "¿Qué principio constitucional limita la creación de impuestos municipales?",
+    "options": [
+      "No contradicción con impuestos nacionales",
+      "Libre competencia",
+      "Centralización fiscal",
+      "Jerarquía normativa"
+    ],
+    "answer": "No contradicción con impuestos nacionales"
+  },
+
+{
+    "question": "¿Qué entidad territorial tiene la autonomía para crear y administrar tributos dentro de su jurisdicción?",
+    "options": [
+      "El gobierno nacional",
+      "Las entidades territoriales",
+      "La Corte Constitucional",
+      "La Procuraduría General de la Nación"
+    ],
+    "answer": "Las entidades territoriales"
+  },
+  {
+    "question": "¿Cuál de los siguientes impuestos es comúnmente recaudado por los municipios en Colombia?",
+    "options": [
+      "Impuesto sobre la renta",
+      "Impuesto predial unificado",
+      "Impuesto sobre el valor agregado (IVA)",
+      "Impuesto sobre la riqueza"
+    ],
+    "answer": "Impuesto predial unificado"
+  },
+  {
+    "question": "El **Sistema General de Participaciones (SGP)** distribuye los recursos entre el gobierno nacional y las entidades territoriales para financiar:",
+    "options": [
+      "Proyectos de infraestructura",
+      "Servicios públicos esenciales como salud, educación y agua potable",
+      "El presupuesto de los proyectos de desarrollo económico",
+      "Proyectos de seguridad y defensa"
+    ],
+    "answer": "Servicios públicos esenciales como salud, educación y agua potable"
+  },
+  {
+    "question": "Según el artículo 365 de la Constitución de 1991, las entidades territoriales tienen autonomía para:",
+    "options": [
+      "Crear leyes nacionales",
+      "Establecer y recaudar impuestos dentro de sus competencias",
+      "Reformar la Constitución",
+      "Definir la política exterior del país"
+    ],
+    "answer": "Establecer y recaudar impuestos dentro de sus competencias"
+  },
+  {
+    "question": "¿Qué tipo de ingreso representa el dinero recibido por un municipio del **Sistema General de Participaciones (SGP)**?",
+    "options": [
+      "Impuesto predial",
+      "Transferencia nacional",
+      "Impuesto sobre vehículos",
+      "Contribución especial"
+    ],
+    "answer": "Transferencia nacional"
+  },
+  {
+    "question": "¿Cuál es el principal objetivo de la **Ley 715 de 2001**?",
+    "options": [
+      "Establecer el sistema de regalías para la financiación de proyectos nacionales",
+      "Regular el sistema de recaudación de impuestos locales",
+      "Distribuir los recursos del Sistema General de Participaciones para educación, salud y agua potable",
+      "Establecer los tributos nacionales"
+    ],
+    "answer": "Distribuir los recursos del Sistema General de Participaciones para educación, salud y agua potable"
+  },
+  {
+    "question": "En el caso de la **autonomía fiscal** de las entidades territoriales, ¿qué poder tienen?",
+    "options": [
+      "Pueden crear y modificar las leyes nacionales",
+      "Pueden administrar recursos y aplicar impuestos dentro de sus límites competenciales",
+      "Pueden imponer impuestos sobre los ingresos nacionales",
+      "Pueden cambiar la política monetaria del país"
+    ],
+    "answer": "Pueden administrar recursos y aplicar impuestos dentro de sus límites competenciales"
+  },
+  {
+    "question": "¿Cuál de los siguientes tributos es recaudado por los municipios para financiar servicios públicos locales?",
+    "options": [
+      "Impuesto sobre la renta",
+      "Impuesto predial unificado",
+      "IVA",
+      "Impuesto a la riqueza"
+    ],
+    "answer": "Impuesto predial unificado"
+  },
+  {
+    "question": "¿Cuál es el propósito principal del **impuesto de industria y comercio (ICA)**?",
+    "options": [
+      "Gravar el consumo de productos en el municipio",
+      "Gravar la actividad comercial, industrial y de servicios dentro de la jurisdicción municipal",
+      "Gravar el uso de las vías públicas",
+      "Gravar la propiedad inmobiliaria"
+    ],
+    "answer": "Gravar la actividad comercial, industrial y de servicios dentro de la jurisdicción municipal"
+  },
+  {
+    "question": "¿Qué nivel de gobierno tiene la facultad de recaudar el **impuesto de vehículos**?",
+    "options": [
+      "El gobierno nacional",
+      "Las entidades territoriales (municipios y departamentos)",
+      "La Corte Constitucional",
+      "La Procuraduría General de la Nación"
+    ],
+    "answer": "Las entidades territoriales (municipios y departamentos)"
+  },
+  {
+    "question": "El **impuesto sobre vehículos automotores** se aplica a:",
+    "options": [
+      "Las propiedades comerciales",
+      "Los vehículos registrados en el municipio",
+      "Las propiedades rurales",
+      "Las empresas que fabrican vehículos"
+    ],
+    "answer": "Los vehículos registrados en el municipio"
+  },
+  {
+    "question": "¿Qué órgano es responsable de determinar los criterios de distribución de los recursos del **Sistema General de Participaciones (SGP)** entre las entidades territoriales?",
+    "options": [
+      "La Corte Suprema de Justicia",
+      "La Procuraduría General de la Nación",
+      "El Departamento Nacional de Planeación (DNP)",
+      "La Corte Constitucional"
+    ],
+    "answer": "El Departamento Nacional de Planeación (DNP)"
+  },
+  {
+    "question": "Un municipio decide establecer una **tasa de seguridad y vigilancia** para financiar el servicio de vigilancia pública. Este tipo de ingreso es considerado un:",
+    "options": [
+      "Impuesto",
+      "Ingreso no tributario",
+      "Contribución especial",
+      "Ingreso por transferencia"
+    ],
+    "answer": "Contribución especial"
+  },
+  {
+    "question": "El **impuesto predial unificado** es aplicado sobre:",
+    "options": [
+      "La propiedad rural",
+      "La propiedad inmobiliaria, tanto urbana como rural",
+      "Los vehículos comerciales",
+      "Las actividades industriales"
+    ],
+    "answer": "La propiedad inmobiliaria, tanto urbana como rural"
+  },
+  {
+    "question": "¿Qué recurso se destina al **Sistema General de Participaciones (SGP)** para garantizar los recursos en salud, educación y agua potable?",
+    "options": [
+      "El impuesto sobre la renta",
+      "Los ingresos provenientes de la venta de tierras del gobierno",
+      "Las regalías del petróleo",
+      "El porcentaje de los ingresos corrientes de la Nación"
+    ],
+    "answer": "El porcentaje de los ingresos corrientes de la Nación"
+  },
+  {
+    "question": "¿Qué principio se debe seguir cuando un municipio aplica un impuesto, según la Constitución de 1991?",
+    "options": [
+      "El principio de progresividad",
+      "El principio de igualdad",
+      "El principio de subsidiariedad",
+      "El principio de legalidad"
+    ],
+    "answer": "El principio de legalidad"
+  },
+  {
+    "question": "En un municipio, el impuesto predial unificado no ha sido actualizado conforme al valor catastral de los bienes. ¿Qué principio constitucional se está vulnerando?",
+    "options": [
+      "El principio de legalidad",
+      "El principio de eficiencia",
+      "El principio de equidad",
+      "El principio de subsidiariedad"
+    ],
+    "answer": "El principio de equidad"
+  },
+  {
+    "question": "Los **impuestos sobre vehículos** y **el impuesto predial** son recaudados por:",
+    "options": [
+      "El gobierno nacional",
+      "Las entidades territoriales",
+      "La Corte Constitucional",
+      "La Contraloría General de la República"
+    ],
+    "answer": "Las entidades territoriales"
+  },
+  {
+    "question": "Un municipio decide crear un **impuesto sobre la actividad comercial** en su territorio. ¿Qué tipo de tributo está creando?",
+    "options": [
+      "Impuesto sobre el consumo",
+      "Impuesto de industria y comercio",
+      "Tasa administrativa",
+      "Contribución especial"
+    ],
+    "answer": "Impuesto de industria y comercio"
+  },
+  {
+    "question": "¿Qué entidad se encarga de revisar la legalidad de los tributos y las tasas aplicadas por los municipios en Colombia?",
+    "options": [
+      "La Corte Constitucional",
+      "La Contraloría General de la República",
+      "El Ministerio de Hacienda",
+      "La Procuraduría General de la Nación"
+    ],
+    "answer": "La Contraloría General de la República"
+  },
+  {
+    "question": "¿Cómo se calcula el **impuesto predial unificado** en un municipio?",
+    "options": [
+      "Sobre el valor catastral del inmueble",
+      "Sobre el valor de mercado de la propiedad",
+      "Sobre el costo de construcción de la propiedad",
+      "Sobre los ingresos generados por el propietario"
+    ],
+    "answer": "Sobre el valor catastral del inmueble"
+  },
+  {
+    "question": "En el caso del **impuesto de industria y comercio (ICA)**, ¿qué tipo de actividades están gravadas?",
+    "options": [
+      "Las actividades comerciales, industriales y de servicios",
+      "Las actividades agrícolas",
+      "Las actividades culturales",
+      "Las actividades de transporte"
+    ],
+    "answer": "Las actividades comerciales, industriales y de servicios"
+  },
+
+  {
+    "question": "Un municipio decide modificar las tarifas del Impuesto Predial Unificado sin haber realizado una consulta pública ni haber sido aprobado por el Concejo Municipal. ¿Qué principio constitucional está siendo vulnerado?",
+    "options": [
+      "El principio de legalidad",
+      "El principio de eficiencia",
+      "El principio de participación ciudadana",
+      "El principio de equidad"
+    ],
+    "answer": "El principio de legalidad"
+  },
+  {
+    "question": "El gobierno departamental decide imponer un nuevo impuesto sobre el uso de las vías públicas sin consultar con los municipios que serán directamente afectados por la medida. ¿Qué principio de la descentralización está siendo afectado?",
+    "options": [
+      "El principio de autonomía territorial",
+      "El principio de eficiencia",
+      "El principio de legalidad",
+      "El principio de coordinación intergubernamental"
+    ],
+    "answer": "El principio de coordinación intergubernamental"
+  },
+  {
+    "question": "Un municipio recibe recursos del Sistema General de Participaciones (SGP) para proyectos de educación y salud. Sin embargo, los recursos no son utilizados para estos fines y se destinan a otros proyectos no prioritarios. ¿Qué principio constitucional está siendo vulnerado?",
+    "options": [
+      "El principio de eficiencia en el gasto público",
+      "El principio de transparencia",
+      "El principio de subsidiariedad",
+      "El principio de legalidad"
+    ],
+    "answer": "El principio de eficiencia en el gasto público"
+  },
+  {
+    "question": "Un concejo municipal decide aumentar la tarifa del Impuesto de Industria y Comercio (ICA) sin realizar los estudios previos sobre el impacto en las pequeñas y medianas empresas del municipio. ¿Qué principio está siendo vulnerado?",
+    "options": [
+      "El principio de equidad",
+      "El principio de legalidad",
+      "El principio de eficiencia",
+      "El principio de subsidiariedad"
+    ],
+    "answer": "El principio de equidad"
+  },
+  {
+    "question": "El gobierno nacional transfiere recursos a un municipio del Sistema General de Participaciones (SGP), pero el alcalde decide no utilizarlos para los fines previstos en la ley, como salud y educación, y los destina a proyectos de infraestructura. ¿Qué principio de legalidad está siendo vulnerado?",
+    "options": [
+      "El principio de eficiencia",
+      "El principio de legalidad",
+      "El principio de coordinación intergubernamental",
+      "El principio de transparencia"
+    ],
+    "answer": "El principio de legalidad"
+  },
+  {
+    "question": "Un alcalde decide privatizar la recolección de basuras sin realizar los trámites correspondientes ante el Concejo Municipal ni consultar con la comunidad. ¿Qué principio constitucional se está vulnerando?",
+    "options": [
+      "El principio de autonomía territorial",
+      "El principio de legalidad",
+      "El principio de participación ciudadana",
+      "El principio de subsidiariedad"
+    ],
+    "answer": "El principio de participación ciudadana"
+  },
+  {
+    "question": "Un municipio decide modificar la estructura de los impuestos municipales sin una justificación adecuada, afectando especialmente a los sectores comerciales más pequeños. ¿Qué principio de la política tributaria se está vulnerando?",
+    "options": [
+      "El principio de equidad tributaria",
+      "El principio de eficiencia",
+      "El principio de legalidad",
+      "El principio de subsidiariedad"
+    ],
+    "answer": "El principio de equidad tributaria"
+  },
+  {
+    "question": "El gobierno departamental destina recursos del SGP para la construcción de un hospital, pero no realiza una evaluación del impacto en las necesidades de salud locales. ¿Qué principio está siendo vulnerado?",
+    "options": [
+      "El principio de eficiencia",
+      "El principio de subsidiariedad",
+      "El principio de participación ciudadana",
+      "El principio de legalidad"
+    ],
+    "answer": "El principio de eficiencia"
+  },
+  {
+    "question": "Un municipio aplica una tasa por el uso de las vías públicas sin que haya sido previamente aprobada por el Concejo Municipal ni se haya realizado un estudio de impacto. ¿Qué principio constitucional se está vulnerando?",
+    "options": [
+      "El principio de legalidad",
+      "El principio de equidad",
+      "El principio de transparencia",
+      "El principio de autonomía territorial"
+    ],
+    "answer": "El principio de legalidad"
+  },
+  {
+    "question": "Un municipio establece un impuesto adicional para los comercios que operan en áreas rurales sin considerar la capacidad económica de los comerciantes. ¿Qué principio está siendo vulnerado?",
+    "options": [
+      "El principio de eficiencia tributaria",
+      "El principio de equidad tributaria",
+      "El principio de subsidiariedad",
+      "El principio de autonomía territorial"
+    ],
+    "answer": "El principio de equidad tributaria"
+  },
+  {
+    "question": "El gobierno nacional decide cambiar los criterios de distribución del SGP, afectando a algunos municipios que dependen principalmente de estos recursos para sus servicios básicos. ¿Qué principio constitucional está siendo vulnerado?",
+    "options": [
+      "El principio de eficiencia",
+      "El principio de subsidiariedad",
+      "El principio de equidad",
+      "El principio de participación ciudadana"
+    ],
+    "answer": "El principio de equidad"
+  },
+  {
+    "question": "Un alcalde decide suspender el cobro de impuestos municipales como medida para atraer inversiones sin tener en cuenta las necesidades de financiación para los servicios públicos. ¿Qué principio de la política tributaria está siendo afectado?",
+    "options": [
+      "El principio de eficiencia",
+      "El principio de subsidiariedad",
+      "El principio de equidad",
+      "El principio de legalidad"
+    ],
+    "answer": "El principio de eficiencia"
+  },
+  {
+    "question": "Un municipio no actualiza las tarifas del Impuesto Predial Unificado conforme al valor catastral actualizado, lo que provoca que los propietarios de inmuebles no paguen lo que les corresponde. ¿Qué principio constitucional está siendo vulnerado?",
+    "options": [
+      "El principio de equidad",
+      "El principio de legalidad",
+      "El principio de eficiencia",
+      "El principio de subsidiariedad"
+    ],
+    "answer": "El principio de equidad"
+  },
+  {
+    "question": "El gobierno nacional realiza una transferencia de recursos para un municipio sin haber consultado con la administración local sobre las prioridades en educación y salud. ¿Qué principio se está vulnerando?",
+    "options": [
+      "El principio de autonomía territorial",
+      "El principio de eficiencia",
+      "El principio de subsidiariedad",
+      "El principio de coordinación intergubernamental"
+    ],
+    "answer": "El principio de autonomía territorial"
+  },
+  {
+    "question": "Un municipio aplica una nueva tasa sobre el uso de las zonas de parqueo sin haber realizado una evaluación de impacto ni informado previamente a los ciudadanos. ¿Qué principio está siendo vulnerado?",
+    "options": [
+      "El principio de legalidad",
+      "El principio de transparencia",
+      "El principio de eficiencia",
+      "El principio de participación ciudadana"
+    ],
+    "answer": "El principio de transparencia"
+  },
+  {
+    "question": "El gobierno departamental decide implementar un impuesto sobre la propiedad en las zonas rurales del departamento sin consultar con los habitantes locales. ¿Qué principio de la política tributaria está siendo vulnerado?",
+    "options": [
+      "El principio de equidad tributaria",
+      "El principio de subsidiariedad",
+      "El principio de eficiencia",
+      "El principio de legalidad"
+    ],
+    "answer": "El principio de equidad tributaria"
+  },
+  {
+    "question": "El Concejo Municipal decide aumentar el impuesto sobre el consumo de alimentos sin realizar una consulta previa con los comerciantes locales. ¿Qué principio de la descentralización fiscal está siendo vulnerado?",
+    "options": [
+      "El principio de eficiencia",
+      "El principio de subsidiariedad",
+      "El principio de equidad",
+      "El principio de participación ciudadana"
+    ],
+    "answer": "El principio de participación ciudadana"
+  },
+  {
+    "question": "El municipio decide eliminar el impuesto de Industria y Comercio (ICA) sin justificación adecuada y sin consultar con los sectores económicos afectados. ¿Qué principio se está vulnerando?",
+    "options": [
+      "El principio de transparencia",
+      "El principio de autonomía territorial",
+      "El principio de eficiencia",
+      "El principio de equidad tributaria"
+    ],
+    "answer": "El principio de transparencia"
+  },
+  {
+    "question": "Un municipio cambia las normas para la recolección de impuestos sin haber informado adecuadamente a la ciudadanía sobre los nuevos requisitos. ¿Qué principio se está vulnerando?",
+    "options": [
+      "El principio de legalidad",
+      "El principio de eficiencia",
+      "El principio de equidad",
+      "El principio de participación ciudadana"
+    ],
+    "answer": "El principio de legalidad"
+  },
+  {
+    "question": "El gobierno municipal decide aumentar el impuesto sobre los comercios locales sin realizar un estudio de impacto que considere la capacidad económica de los empresarios. ¿Qué principio constitucional se está vulnerando?",
+    "options": [
+      "El principio de equidad tributaria",
+      "El principio de eficiencia",
+      "El principio de legalidad",
+      "El principio de subsidiariedad"
+    ],
+    "answer": "El principio de equidad tributaria"
+  }
+
+  
+]
