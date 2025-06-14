@@ -1,0 +1,1423 @@
+[
+  {
+    "question": "¿Qué ley regula principalmente la responsabilidad disciplinaria de los servidores públicos?",
+    "options": [
+      "Ley 734 de 2002",
+      "Ley 42 de 1993",
+      "Ley 850 de 2003",
+      "Ley 1952 de 2019"
+    ],
+    "answer": "Ley 734 de 2002"
+  },
+  {
+    "question": "¿Qué entidad es la encargada de investigar delitos cometidos por servidores públicos?",
+    "options": [
+      "Contraloría General",
+      "Procuraduría General",
+      "Fiscalía General",
+      "Veeduría Ciudadana"
+    ],
+    "answer": "Fiscalía General"
+  },
+  {
+    "question": "¿Cuál es el objetivo principal de la responsabilidad fiscal?",
+    "options": [
+      "Corregir omisiones disciplinarias",
+      "Proteger los derechos ciudadanos",
+      "Supervisar la contratación",
+      "Reparar daños al patrimonio del Estado"
+    ],
+    "answer": "Reparar daños al patrimonio del Estado"
+  },
+
+
+  {
+    "question": "Un Secretario de Despacho de la Alcaldía de Puerto Boyacá ha recibido múltiples quejas de ciudadanos por la demora injustificada en la respuesta a sus derechos de petición, excediendo los términos legales establecidos. \n¿Qué tipo de responsabilidad podría derivarse de esta conducta omisiva del servidor público?",
+    "options": [
+      "Responsabilidad penal.",
+      "Responsabilidad civil.",
+      "Responsabilidad disciplinaria.",
+      "Responsabilidad fiscal."
+    ],
+    "answer": "Responsabilidad disciplinaria."
+  },
+  {
+    "question": "El tesorero de la Alcaldía de Puerto Boyacá, en el ejercicio de sus funciones, realiza un pago a un contratista por un servicio que, mediante auditoría de la Contraloría, se verifica que nunca se prestó, causando un daño al patrimonio municipal. \n¿Qué tipo de responsabilidad se le podría imputar al tesorero en este caso?",
+    "options": [
+      "Responsabilidad civil y política.",
+      "Responsabilidad disciplinaria y penal.",
+      "Responsabilidad fiscal y disciplinaria.",
+      "Responsabilidad penal y política."
+    ],
+    "answer": "Responsabilidad fiscal y disciplinaria."
+  },
+  {
+    "question": "Un Alcalde de Puerto Boyacá es investigado por la Fiscalía General de la Nación por presunta 'concusión', un delito que consiste en exigir o solicitar dineros o prebendas a particulares en beneficio propio o de un tercero, abusando de su cargo. \n¿Qué rama del poder público o entidad es la encargada de investigar y juzgar este tipo de conductas delictivas?",
+    "options": [
+      "La Procuraduría General de la Nación.",
+      "La Contraloría Municipal.",
+      "La Fiscalía General de la Nación y la Rama Judicial (Jueces Penales).",
+      "La Personería Municipal."
+    ],
+    "answer": "La Fiscalía General de la Nación y la Rama Judicial (Jueces Penales)."
+  },
+  {
+    "question": "Una persona que ha sido sancionada con 'destitución e inhabilidad general' por una falta gravísima disciplinaria, aspira a ser nombrada en un cargo público en la Gobernación de Boyacá. \n¿Qué tipo de limitación le impediría acceder a dicho cargo?",
+    "options": [
+      "Una incompatibilidad.",
+      "Un conflicto de intereses.",
+      "Una inhabilidad.",
+      "Una prohibición."
+    ],
+    "answer": "Una inhabilidad."
+  },
+  {
+    "question": "Un Concejal de Puerto Boyacá, durante sus períodos de sesiones, también ejerce como representante legal de una empresa que se presenta y gana contratos de suministro con la misma Alcaldía de Puerto Boyacá. \n¿En qué situación irregular podría incurrir el Concejal al ejercer simultáneamente estas dos actividades?",
+    "options": [
+      "En un conflicto de intereses.",
+      "En una incompatibilidad.",
+      "En una inhabilidad sobreviniente.",
+      "En una falta disciplinaria leve."
+    ],
+    "answer": "En una incompatibilidad."
+  },
+  {
+    "question": "Un servidor público de la Alcaldía de Puerto Boyacá tiene conocimiento de un posible delito de peculado cometido por un compañero de trabajo, pero decide no denunciarlo para evitarse problemas. \n¿Qué deber fundamental del servidor público estaría incumpliendo al no denunciar el delito?",
+    "options": [
+      "El deber de actualizar la hoja de vida.",
+      "El deber de proteger los bienes de la entidad.",
+      "El deber de denunciar los delitos, contravenciones y faltas disciplinarias.",
+      "El deber de atender las peticiones oportunamente."
+    ],
+    "answer": "El deber de denunciar los delitos, contravenciones y faltas disciplinarias."
+  },
+  {
+    "question": "La Contraloría Municipal de Puerto Boyacá, al realizar una auditoría, identifica que un funcionario causó un detrimento patrimonial grave al municipio por su actuación negligente en la supervisión de un contrato. El funcionario es declarado responsable fiscal. \n¿Qué consecuencia principal tiene la declaración de responsabilidad fiscal para el funcionario, además del pago de la suma de dinero?",
+    "options": [
+      "La destitución inmediata del cargo.",
+      "La suspensión temporal del cargo.",
+      "La inclusión en el Boletín de Responsables Fiscales, con inhabilidad para contratar con el Estado.",
+      "La imposición de una pena de prisión."
+    ],
+    "answer": "La inclusión en el Boletín de Responsables Fiscales, con inhabilidad para contratar con el Estado."
+  },
+  {
+    "question": "Un servidor público de la Alcaldía de Puerto Boyacá es acusado de violar la reserva o secreto de los asuntos que conoce por razón de su cargo. \nEsta conducta se enmarca dentro de las:",
+    "options": [
+      "Inhabilidades.",
+      "Incompatibilidades.",
+      "Prohibiciones.",
+      "Deberes."
+    ],
+    "answer": "Prohibiciones."
+  },
+  {
+    "question": "La Procuraduría General de la Nación ejerce el 'poder preferente' para investigar y sancionar a cualquier servidor público en Colombia. \n¿Qué implica este 'poder preferente' para la Personería Municipal de Puerto Boyacá en un caso disciplinario que también esté investigando?",
+    "options": [
+      "Que la Personería no puede investigar ningún caso.",
+      "Que la Procuraduría puede asumir la investigación en cualquier momento, desplazando a la Personería.",
+      "Que la Personería debe pedir permiso a la Procuraduría para investigar.",
+      "Que ambos deben investigar el caso de forma paralela."
+    ],
+    "answer": "Que la Procuraduría puede asumir la investigación en cualquier momento, desplazando a la Personería."
+  },
+  {
+    "question": "Un servidor público de la Alcaldía de Puerto Boyacá, en medio de una campaña política, utiliza recursos y tiempo de su jornada laboral para apoyar a un candidato en particular. \n¿Qué prohibición disciplinaria estaría violando este servidor público?",
+    "options": [
+      "Prohibición de recibir dádivas.",
+      "Prohibición de revelar secretos.",
+      "Prohibición de ejercer sus funciones con fines de proselitismo político.",
+      "Prohibición de incumplir fallos judiciales."
+    ],
+    "answer": "Prohibición de ejercer sus funciones con fines de proselitismo político."
+  },
+  {
+    "question": "La acción de repetición es un mecanismo a través del cual el Estado puede buscar el resarcimiento de los daños que ha tenido que pagar a terceros, cuando estos han sido causados por la conducta dolosa o gravemente culposa de un servidor público. \n¿Qué tipo de responsabilidad del servidor público es el fundamento de la acción de repetición?",
+    "options": [
+      "Responsabilidad disciplinaria.",
+      "Responsabilidad fiscal.",
+      "Responsabilidad penal.",
+      "Responsabilidad civil."
+    ],
+    "answer": "Responsabilidad civil."
+  },
+  {
+    "question": "Según el Artículo 123 de la Constitución Política, los servidores públicos están al servicio del Estado y de la comunidad y ejercerán sus funciones en la forma prevista por la Constitución, la ley y el reglamento. \n¿Qué tipo de relación tienen los empleados públicos con la administración, que los diferencia de los trabajadores oficiales?",
+    "options": [
+      "Una relación contractual laboral.",
+      "Una relación legal y reglamentaria.",
+      "Una relación de representación política.",
+      "Una relación comercial."
+    ],
+    "answer": "Una relación legal y reglamentaria."
+  },
+  {
+    "question": "Un servidor público de la Alcaldía de Puerto Boyacá tiene que tomar una decisión sobre la aprobación de un permiso de construcción para un proyecto en el que su cónyuge tiene un interés económico directo. \n¿Qué situación debe manifestar el servidor público para evitar una posible irregularidad?",
+    "options": [
+      "Una inhabilidad.",
+      "Una incompatibilidad.",
+      "Un conflicto de intereses.",
+      "Una falta disciplinaria."
+    ],
+    "answer": "Un conflicto de intereses."
+  },
+  {
+    "question": "El Código General Disciplinario (Ley 1952 de 2019) establece los principios que rigen el proceso disciplinario. Uno de ellos es el 'principio de culpabilidad'. \n¿Qué significa el principio de culpabilidad en el régimen disciplinario?",
+    "options": [
+      "Que toda conducta debe ser sancionada, sin importar la intención.",
+      "Que la sanción debe ser proporcional a la falta.",
+      "Que la conducta debe ser cometida con dolo o culpa para que haya lugar a sanción.",
+      "Que el investigado siempre es culpable hasta que se demuestre lo contrario."
+    ],
+    "answer": "Que la conducta debe ser cometida con dolo o culpa para que haya lugar a sanción."
+  },
+  {
+    "question": "La Contraloría General de la República, además de la responsabilidad fiscal, también puede imponer sanciones a los particulares que causen daño al patrimonio público. \n¿Qué documento oficial publica la Contraloría con la información de las personas declaradas fiscalmente responsables?",
+    "options": [
+      "El registro de antecedentes disciplinarios.",
+      "El listado de deudores morosos del Estado.",
+      "El Boletín de Responsables Fiscales.",
+      "El registro de sanciones penales."
+    ],
+    "answer": "El Boletín de Responsables Fiscales."
+  },
+  {
+    "question": "Un empleado público de la Alcaldía de Puerto Boyacá es destituido de su cargo por una falta gravísima cometida con dolo. \n¿Qué tipo de sanción disciplinaria es la destitución y qué otras consecuencias puede acarrear?",
+    "options": [
+      "Es una sanción económica que no afecta su futuro laboral.",
+      "Es una sanción que solo aplica a funcionarios de alto nivel.",
+      "Es una sanción que implica la separación del cargo y la inhabilidad general para ejercer funciones públicas.",
+      "Es una sanción que lo inhabilita para contratar con el sector privado."
+    ],
+    "answer": "Es una sanción que implica la separación del cargo y la inhabilidad general para ejercer funciones públicas."
+  },
+  {
+    "question": "Un servidor público de la Alcaldía de Puerto Boyacá es sorprendido solicitando una 'dádiva' o 'regalo' a un particular a cambio de agilizar un trámite administrativo. \n¿Qué tipo de falta disciplinaria podría configurar esta conducta según el Código General Disciplinario?",
+    "options": [
+      "Una falta leve.",
+      "Una falta grave o gravísima, dependiendo de la modalidad y perjuicio.",
+      "No es una falta disciplinaria, sino una acción permitida.",
+      "Solo es una falta si la dádiva es muy grande."
+    ],
+    "answer": "Una falta grave o gravísima, dependiendo de la modalidad y perjuicio."
+  },
+  {
+    "question": "La Constitución Política de Colombia establece que los servidores públicos están al servicio del Estado y de la comunidad, y que la función administrativa se desarrollará con fundamento en los principios de igualdad, moralidad, eficacia, economía, celeridad, imparcialidad y publicidad. \n¿Qué artículo de la Constitución Política consagra estos principios de la función administrativa?",
+    "options": [
+      "Artículo 1.",
+      "Artículo 86.",
+      "Artículo 123.",
+      "Artículo 209."
+    ],
+    "answer": "Artículo 209."
+  },
+  {
+    "question": "Un Personero Municipal de Puerto Boyacá es acusado de omitir sus deberes en la vigilancia de la conducta oficial de los empleados municipales, a pesar de tener conocimiento de irregularidades. \n¿Qué entidad tiene la competencia preferente para investigar disciplinariamente al Personero Municipal?",
+    "options": [
+      "La Contraloría Departamental.",
+      "La Fiscalía General de la Nación.",
+      "La Procuraduría General de la Nación.",
+      "El Concejo Municipal."
+    ],
+    "answer": "La Procuraduría General de la Nación."
+  },
+  {
+    "question": "Una de las causales de exclusión de la responsabilidad disciplinaria es el 'estricto cumplimiento de un deber legal'. \n¿Qué implica esta causal para un servidor público de Puerto Boyacá que actúa conforme a lo que la ley le ordena, aunque esto genere alguna afectación?",
+    "options": [
+      "Que puede actuar discrecionalmente sin límites.",
+      "Que su conducta no generará responsabilidad disciplinaria si está amparada por la ley.",
+      "Que debe pedir permiso a un juez para cumplir su deber.",
+      "Que solo aplica para faltas leves."
+    ],
+    "answer": "Que su conducta no generará responsabilidad disciplinaria si está amparada por la ley."
+  },
+  {
+    "question": "El Código Penal tipifica el delito de 'prevaricato por omisión', que comete el servidor público que omita, retarde o deniegue un acto propio de sus funciones. \n¿Qué tipo de responsabilidad se desprende de la comisión de este delito?",
+    "options": [
+      "Responsabilidad disciplinaria y fiscal.",
+      "Responsabilidad penal y disciplinaria.",
+      "Responsabilidad civil y política.",
+      "Todas las anteriores."
+    ],
+    "answer": "Responsabilidad penal y disciplinaria."
+  },
+  {
+    "question": "Una persona desea aspirar a un cargo de elección popular en Puerto Boyacá, pero tiene un familiar en segundo grado de afinidad (cuñado/a) que es el Alcalde actual. \n¿Qué tipo de prohibición o limitación podría afectarle para ser elegido o nombrado en ciertos cargos?",
+    "options": [
+      "Conflicto de intereses.",
+      "Incompatibilidad.",
+      "Inhabilidad por parentesco (nepotismo).",
+      "Prohibición de proselitismo."
+    ],
+    "answer": "Inhabilidad por parentesco (nepotismo)."
+  },
+  {
+    "question": "La Ley 80 de 1993 (Estatuto General de Contratación de la Administración Pública) establece las inhabilidades e incompatibilidades para contratar con el Estado. \n¿Cuál es el propósito principal de estas inhabilidades e incompatibilidades en la contratación pública?",
+    "options": [
+      "Limitar la competencia entre los contratistas.",
+      "Garantizar la transparencia, imparcialidad y probidad en la contratación.",
+      "Simplificar los trámites contractuales.",
+      "Favorecer a ciertos contratistas."
+    ],
+    "answer": "Garantizar la transparencia, imparcialidad y probidad en la contratación."
+  },
+  {
+    "question": "Un servidor público de la Alcaldía de Puerto Boyacá omite un acto propio de su función, causando un grave perjuicio a un particular. El particular interpone una demanda de reparación directa contra el municipio. Si el municipio es condenado, podría ejercer la acción de repetición contra el servidor. \n¿Qué requisito es indispensable para que el Estado pueda ejercer la acción de repetición contra el servidor público?",
+    "options": [
+      "Que el servidor haya actuado con negligencia leve.",
+      "Que el servidor haya actuado con dolo o culpa grave.",
+      "Que el servidor sea trabajador oficial.",
+      "Que el daño no supere un salario mínimo."
+    ],
+    "answer": "Que el servidor haya actuado con dolo o culpa grave."
+  },
+  {
+    "question": "Los 'trabajadores oficiales' son servidores públicos vinculados por un contrato de trabajo, generalmente en actividades de construcción y mantenimiento de obras públicas. \n¿Qué régimen laboral los distingue principalmente de los empleados públicos?",
+    "options": [
+      "Se rigen por el Código Sustantivo del Trabajo.",
+      "Están sometidos al Código General Disciplinario de manera diferente.",
+      "No tienen derecho a la seguridad social.",
+      "Son nombrados por decreto presidencial."
+    ],
+    "answer": "Se rigen por el Código Sustantivo del Trabajo."
+  },
+  {
+    "question": "El 'principio de non bis in idem' en el régimen disciplinario garantiza que nadie podrá ser investigado o sancionado disciplinariamente dos veces por el mismo hecho. \n¿Qué aspecto fundamental de la justicia busca proteger este principio?",
+    "options": [
+      "La celeridad procesal.",
+      "La economía de recursos.",
+      "La seguridad jurídica y la prohibición de doble juzgamiento.",
+      "La discrecionalidad de la autoridad."
+    ],
+    "answer": "La seguridad jurídica y la prohibición de doble juzgamiento."
+  },
+  {
+    "question": "Un servidor público de la Alcaldía de Puerto Boyacá, en el ejercicio de sus funciones, se niega de manera arbitraria a permitir el acceso a un servicio público a un ciudadano sin justificación legal. \n¿Qué principio de la función pública estaría vulnerando directamente el servidor?",
+    "options": [
+      "Principio de economía.",
+      "Principio de publicidad.",
+      "Principio de imparcialidad.",
+      "Principio de celeridad."
+    ],
+    "answer": "Principio de imparcialidad."
+  },
+  {
+    "question": "Un empleado de carrera administrativa de la Alcaldía de Puerto Boyacá recibe una sanción de 'suspensión en el ejercicio del cargo e inhabilidad especial' por una falta grave. \n¿Qué implicaciones tiene esta sanción disciplinaria para el servidor?",
+    "options": [
+      "La terminación definitiva de su vinculación con el Estado.",
+      "La separación temporal del cargo y la prohibición de ejercer funciones públicas por un tiempo determinado.",
+      "Solo una multa económica.",
+      "La obligación de pagar una indemnización por daños y perjuicios."
+    ],
+    "answer": "La separación temporal del cargo y la prohibición de ejercer funciones públicas por un tiempo determinado."
+  },
+  {
+    "question": "Según el Código General Disciplinario, una falta disciplinaria puede ser calificada como leve, grave o gravísima, dependiendo de varios factores. \n¿Cuál de los siguientes NO es un criterio para calificar la gravedad o levedad de la falta disciplinaria?",
+    "options": [
+      "El grado de culpabilidad.",
+      "El perjuicio causado a la administración.",
+      "La modalidad de la conducta (dolo o culpa).",
+      "La nacionalidad del servidor público."
+    ],
+    "answer": "La nacionalidad del servidor público."
+  },
+  {
+    "question": "Un servidor público de la Alcaldía de Puerto Boyacá realiza un 'nombramiento' en un cargo de su libre nombramiento y remoción, pero la persona nombrada es su prima en segundo grado de consanguinidad. \n¿En qué prohibición específica podría estar incurriendo el servidor público?",
+    "options": [
+      "Prohibición de doble empleo.",
+      "Prohibición de recibir dádivas.",
+      "Prohibición de nepotismo.",
+      "Prohibición de proselitismo político."
+    ],
+    "answer": "Prohibición de nepotismo."
+  },
+
+   {
+    "question": "¿Cuál es el órgano competente para investigar faltas disciplinarias de servidores públicos en Colombia?",
+    "options": [
+      "Contraloría General",
+      "Procuraduría General",
+      "Fiscalía General",
+      "Defensoría del Pueblo"
+    ],
+    "answer": "Procuraduría General"
+  },
+  {
+    "question": "Según el Código Disciplinario Único (Ley 734 de 2002), ¿cuál de estas conductas constituye falta disciplinaria grave?",
+    "options": [
+      "Llegar tarde al trabajo ocasionalmente",
+      "No responder un derecho de petición dentro del plazo legal",
+      "Usar bienes públicos para beneficio personal",
+      "Asistir a reuniones sin preparación"
+    ],
+    "answer": "Usar bienes públicos para beneficio personal"
+  },
+  {
+    "question": "¿Qué tipo de responsabilidad aplica cuando un servidor público causa daño al patrimonio estatal?",
+    "options": [
+      "Responsabilidad fiscal",
+      "Responsabilidad penal",
+      "Responsabilidad civil",
+      "Responsabilidad política"
+    ],
+    "answer": "Responsabilidad fiscal"
+  },
+  {
+    "question": "El delito de peculado (Art. 397 CP) consiste en:",
+    "options": [
+      "Dar información privilegiada a terceros",
+      "Apropiarse de bienes o recursos públicos",
+      "Firmar contratos sin autorización",
+      "No presentar informes requeridos"
+    ],
+    "answer": "Apropiarse de bienes o recursos públicos"
+  },
+  {
+    "question": "¿Qué artículo de la Constitución establece los principios que deben guiar a los servidores públicos?",
+    "options": [
+      "Artículo 6",
+      "Artículo 25",
+      "Artículo 123",
+      "Artículo 209"
+    ],
+    "answer": "Artículo 209"
+  },
+  {
+    "question": "La sanción de destitución e inhabilidad general en el régimen disciplinario puede ser impuesta por:",
+    "options": [
+      "Contraloría General",
+      "Procuraduría General",
+      "Fiscalía General",
+      "Defensoría del Pueblo"
+    ],
+    "answer": "Procuraduría General"
+  },
+  {
+    "question": "¿Qué ley regula el proceso de responsabilidad fiscal en Colombia?",
+    "options": [
+      "Ley 734 de 2002",
+      "Ley 42 de 1993",
+      "Ley 190 de 1995",
+      "Ley 1437 de 2011"
+    ],
+    "answer": "Ley 42 de 1993"
+  },
+  {
+    "question": "Un funcionario que recibe regalos a cambio de favorecer a un contratista comete:",
+    "options": [
+      "Peculado por apropiación",
+      "Prevaricato por omisión",
+      "Cohecho por dar o recibir dádivas",
+      "Abuso de confianza"
+    ],
+    "answer": "Cohecho por dar o recibir dádivas"
+  },
+  {
+    "question": "¿Cuál es el plazo máximo para presentar descargos en un proceso disciplinario?",
+    "options": [
+      "5 días hábiles",
+      "10 días hábiles",
+      "20 días hábiles",
+      "30 días hábiles"
+    ],
+    "answer": "20 días hábiles"
+  },
+  {
+    "question": "La responsabilidad política aplica principalmente a:",
+    "options": [
+      "Todos los servidores públicos",
+      "Funcionarios de carrera administrativa",
+      "Altos funcionarios elegidos popularmente",
+      "Contratistas del Estado"
+    ],
+    "answer": "Altos funcionarios elegidos popularmente"
+  },
+  {
+    "question": "¿Qué principio constitucional viola un servidor que privilegia a familiares en contratación estatal?",
+    "options": [
+      "Principio de moralidad",
+      "Principio de economía",
+      "Principio de publicidad",
+      "Principio de eficacia"
+    ],
+    "answer": "Principio de moralidad"
+  },
+  {
+    "question": "La acción de repetición permite a la entidad pública:",
+    "options": [
+      "Recuperar lo pagado por daños causados por sus servidores",
+      "Repetir procesos de contratación anulados",
+      "Revocar nombramientos irregulares",
+      "Reabrir investigaciones disciplinarias"
+    ],
+    "answer": "Recuperar lo pagado por daños causados por sus servidores"
+  },
+  {
+    "question": "¿Qué sanción puede imponer la Contraloría General por irregularidades en contratos?",
+    "options": [
+      "Destitución del cargo",
+      "Pérdida de derechos políticos",
+      "Responsabilidad fiscal con reparación económica",
+      "Prisión preventiva"
+    ],
+    "answer": "Responsabilidad fiscal con reparación económica"
+  },
+  {
+    "question": "El prevaricato por acción (Art. 404 CP) ocurre cuando un servidor:",
+    "options": [
+      "Omite actuar cuando debe hacerlo",
+      "Toma decisiones contrarias a la ley sabiendo que lo son",
+      "Se apropia de bienes públicos",
+      "Revela información reservada"
+    ],
+    "answer": "Toma decisiones contrarias a la ley sabiendo que lo son"
+  },
+  {
+    "question": "¿Qué tipo de responsabilidad surge por daños a particulares causados por servidores en sus funciones?",
+    "options": [
+      "Responsabilidad administrativa",
+      "Responsabilidad civil",
+      "Responsabilidad política",
+      "Responsabilidad contractual"
+    ],
+    "answer": "Responsabilidad civil"
+  },
+  {
+    "question": "La inhabilidad para ejercer cargos públicos es una sanción que puede ser impuesta por:",
+    "options": [
+      "Procuraduría (vía disciplinaria) y Contraloría (vía fiscal)",
+      "Solo por la Fiscalía",
+      "Solo por los jueces penales",
+      "Por las veedurías ciudadanas"
+    ],
+    "answer": "Procuraduría (vía disciplinaria) y Contraloría (vía fiscal)"
+  },
+  {
+    "question": "¿Cuál es el plazo máximo para que la Procuraduría resuelva una investigación disciplinaria?",
+    "options": [
+      "4 meses",
+      "6 meses",
+      "1 año",
+      "2 años"
+    ],
+    "answer": "1 año"
+  },
+  {
+    "question": "La figura del 'peculado por culpa' se configura cuando:",
+    "options": [
+      "Hay apropiación consciente de bienes públicos",
+      "Se causa daño al patrimonio por negligencia grave",
+      "Se oculta información a los órganos de control",
+      "Se favorece a terceros en procesos de selección"
+    ],
+    "answer": "Se causa daño al patrimonio por negligencia grave"
+  },
+  {
+    "question": "¿Qué artículo constitucional define quiénes son servidores públicos?",
+    "options": [
+      "Artículo 6",
+      "Artículo 123",
+      "Artículo 209",
+      "Artículo 269"
+    ],
+    "answer": "Artículo 123"
+  },
+  {
+    "question": "La sanción de suspensión en el régimen disciplinario puede durar hasta:",
+    "options": [
+      "30 días",
+      "90 días",
+      "1 año",
+      "3 años"
+    ],
+    "answer": "1 año"
+  },
+  {
+    "question": "¿Qué norma establece el Estatuto Anticorrupción en Colombia?",
+    "options": [
+      "Ley 1900 de 2018",
+      "Ley 1474 de 2011",
+      "Ley 734 de 2002",
+      "Ley 42 de 1993"
+    ],
+    "answer": "Ley 1474 de 2011"
+  },
+  {
+    "question": "Un funcionario que falsifica documentos para justificar gastos incurre en:",
+    "options": [
+      "Falsedad ideológica en documento público",
+      "Abuso de autoridad",
+      "Prevaricato por omisión",
+      "Violación de datos personales"
+    ],
+    "answer": "Falsedad ideológica en documento público"
+  },
+  {
+    "question": "¿Qué principio viola un servidor que usa vehículo oficial para fines personales?",
+    "options": [
+      "Principio de transparencia",
+      "Principio de eficiencia",
+      "Principio de moralidad",
+      "Principio de publicidad"
+    ],
+    "answer": "Principio de moralidad"
+  },
+  {
+    "question": "La prescripción de la acción disciplinaria para faltas gravísimas es de:",
+    "options": [
+      "2 años",
+      "5 años",
+      "8 años",
+      "10 años"
+    ],
+    "answer": "5 años"
+  },
+  {
+    "question": "¿Qué tipo de responsabilidad conlleva el delito de concusión (Art. 406 CP)?",
+    "options": [
+      "Solo disciplinaria",
+      "Solo penal",
+      "Penal y disciplinaria",
+      "Fiscal y política"
+    ],
+    "answer": "Penal y disciplinaria"
+  },
+  {
+    "question": "La 'prohibición de contratar con el Estado' es una sanción que puede ser impuesta por:",
+    "options": [
+      "Solo la Procuraduría",
+      "Solo la Contraloría",
+      "Procuraduría y Contraloría",
+      "Solo los jueces penales"
+    ],
+    "answer": "Procuraduría y Contraloría"
+  },
+  {
+    "question": "¿Qué artículo del Código Disciplinario regula las causales de destitución?",
+    "options": [
+      "Artículo 25",
+      "Artículo 35",
+      "Artículo 49",
+      "Artículo 67"
+    ],
+    "answer": "Artículo 35"
+  },
+  {
+    "question": "La responsabilidad por el delito de enriquecimiento ilícito está prevista en:",
+    "options": [
+      "Ley 190 de 1995",
+      "Ley 1474 de 2011",
+      "Ley 734 de 2002",
+      "Ley 42 de 1993"
+    ],
+    "answer": "Ley 190 de 1995"
+  },
+  {
+    "question": "¿Qué sanción aplica a un servidor que no presenta declaración de renta y patrimonio?",
+    "options": [
+      "Multa hasta 200 SMLMV",
+      "Suspensión de 3 a 12 meses",
+      "Destitución e inhabilidad",
+      "Responsabilidad fiscal"
+    ],
+    "answer": "Destitución e inhabilidad"
+  },
+  {
+    "question": "El principio de 'presunción de legalidad' en la función pública significa que:",
+    "options": [
+      "Los servidores deben probar que actuaron correctamente",
+      "Los actos administrativos se presumen válidos mientras no se demuestre lo contrario",
+      "Los particulares deben demostrar siempre la ilegalidad de los actos públicos",
+      "Los órganos de control no pueden investigar sin prueba previa"
+    ],
+    "answer": "Los actos administrativos se presumen válidos mientras no se demuestre lo contrario"
+  },
+
+
+{
+    "question": "¿Qué tipo de responsabilidad puede asumir un servidor público cuando incurre en malas prácticas administrativas que afectan los recursos públicos?",
+    "options": [
+      "Responsabilidad civil",
+      "Responsabilidad fiscal",
+      "Responsabilidad penal",
+      "Responsabilidad administrativa"
+    ],
+    "answer": "Responsabilidad fiscal"
+  },
+  {
+    "question": "¿Quién tiene la competencia para investigar y sancionar los actos de corrupción de los servidores públicos en Colombia?",
+    "options": [
+      "La Corte Constitucional",
+      "La Procuraduría General de la Nación",
+      "La Contraloría General de la República",
+      "El Concejo Municipal"
+    ],
+    "answer": "La Procuraduría General de la Nación"
+  },
+  {
+    "question": "Cuando un servidor público actúa de manera ilegal, afectando a la ciudadanía, ¿qué tipo de responsabilidad se le asigna?",
+    "options": [
+      "Responsabilidad penal",
+      "Responsabilidad fiscal",
+      "Responsabilidad disciplinaria",
+      "Responsabilidad administrativa"
+    ],
+    "answer": "Responsabilidad disciplinaria"
+  },
+  {
+    "question": "¿En qué tipo de responsabilidad un servidor público puede ser obligado a devolver recursos mal gestionados?",
+    "options": [
+      "Responsabilidad fiscal",
+      "Responsabilidad penal",
+      "Responsabilidad civil",
+      "Responsabilidad administrativa"
+    ],
+    "answer": "Responsabilidad fiscal"
+  },
+  {
+    "question": "¿Qué sanción puede recibir un servidor público que haya cometido una falta disciplinaria grave?",
+    "options": [
+      "Amonestación",
+      "Destitución del cargo",
+      "Suspensión temporal",
+      "Multa económica"
+    ],
+    "answer": "Destitución del cargo"
+  },
+  {
+    "question": "Si un servidor público utiliza su cargo para beneficio personal, está incurriendo en:",
+    "options": [
+      "Una falta fiscal",
+      "Una falta penal",
+      "Una falta disciplinaria",
+      "Una falta administrativa"
+    ],
+    "answer": "Una falta penal"
+  },
+  {
+    "question": "¿Qué órgano realiza la **auditoría fiscal** sobre la gestión de recursos públicos por parte de los servidores públicos?",
+    "options": [
+      "La Corte Suprema de Justicia",
+      "La Procuraduría General de la Nación",
+      "La Contraloría General de la República",
+      "El Ministerio de Hacienda"
+    ],
+    "answer": "La Contraloría General de la República"
+  },
+  {
+    "question": "El servidor público que incumple las disposiciones legales en su gestión administrativa puede ser sancionado por:",
+    "options": [
+      "La Corte Constitucional",
+      "La Procuraduría General de la Nación",
+      "La Contraloría General de la República",
+      "El Concejo Municipal"
+    ],
+    "answer": "La Procuraduría General de la Nación"
+  },
+  {
+    "question": "¿Qué sanción se impone a un servidor público que incurre en una falta disciplinaria leve?",
+    "options": [
+      "Destitución",
+      "Suspensión temporal",
+      "Amonestación verbal o escrita",
+      "Prisión"
+    ],
+    "answer": "Amonestación verbal o escrita"
+  },
+  {
+    "question": "Si un funcionario público no cumple con la normatividad y da un uso indebido a los recursos públicos, se le asigna una responsabilidad:",
+    "options": [
+      "Administrativa",
+      "Fiscal",
+      "Disciplinaria",
+      "Penal"
+    ],
+    "answer": "Fiscal"
+  },
+  {
+    "question": "¿Qué ley regula la **responsabilidad disciplinaria** de los servidores públicos en Colombia?",
+    "options": [
+      "Ley 1430 de 2010",
+      "Ley 734 de 2002",
+      "Ley 100 de 1993",
+      "Ley 715 de 2001"
+    ],
+    "answer": "Ley 734 de 2002"
+  },
+  {
+    "question": "En caso de que un servidor público cause un daño patrimonial al Estado por una mala gestión, ¿qué tipo de responsabilidad es la aplicable?",
+    "options": [
+      "Responsabilidad penal",
+      "Responsabilidad fiscal",
+      "Responsabilidad disciplinaria",
+      "Responsabilidad administrativa"
+    ],
+    "answer": "Responsabilidad fiscal"
+  },
+  {
+    "question": "¿Qué debe hacer un servidor público si se enfrenta a una posible sanción disciplinaria por mala conducta?",
+    "options": [
+      "Interponer un recurso de apelación ante la Corte Constitucional",
+      "Solicitar la revisión del caso por la Procuraduría General de la Nación",
+      "Solicitar un recurso de amparo ante la Corte Suprema",
+      "Defenderse en el proceso disciplinario ante la autoridad competente"
+    ],
+    "answer": "Defenderse en el proceso disciplinario ante la autoridad competente"
+  },
+  {
+    "question": "Si un servidor público acepta un soborno por favorecer a una empresa, ¿qué tipo de responsabilidad incurre?",
+    "options": [
+      "Responsabilidad penal",
+      "Responsabilidad disciplinaria",
+      "Responsabilidad fiscal",
+      "Responsabilidad administrativa"
+    ],
+    "answer": "Responsabilidad penal"
+  },
+  {
+    "question": "Cuando un funcionario público es hallado culpable de corrupción, la sanción impuesta puede ser:",
+    "options": [
+      "Suspensión temporal del cargo",
+      "Destitución y prohibición para ocupar cargos públicos",
+      "Multa económica",
+      "Amonestación"
+    ],
+    "answer": "Destitución y prohibición para ocupar cargos públicos"
+  },
+  {
+    "question": "Si un servidor público incumple el deber de **negligencia en el ejercicio de sus funciones**, puede ser sancionado con:",
+    "options": [
+      "Una sanción penal",
+      "Una sanción fiscal",
+      "Una sanción disciplinaria",
+      "Una sanción administrativa"
+    ],
+    "answer": "Una sanción disciplinaria"
+  },
+  {
+    "question": "¿Qué entidad es responsable de investigar la **responsabilidad disciplinaria** de los servidores públicos en Colombia?",
+    "options": [
+      "La Corte Constitucional",
+      "La Procuraduría General de la Nación",
+      "La Contraloría General de la República",
+      "El Ministerio de Hacienda"
+    ],
+    "answer": "La Procuraduría General de la Nación"
+  },
+  {
+    "question": "Un servidor público que realiza una contratación sin cumplir con el proceso legal de licitación incurre en:",
+    "options": [
+      "Responsabilidad administrativa",
+      "Responsabilidad fiscal",
+      "Responsabilidad penal",
+      "Responsabilidad disciplinaria"
+    ],
+    "answer": "Responsabilidad fiscal"
+  },
+  {
+    "question": "Si un servidor público realiza un contrato con una empresa que resulta ser su familiar directo, ¿qué responsabilidad asume?",
+    "options": [
+      "Responsabilidad fiscal",
+      "Responsabilidad penal",
+      "Responsabilidad disciplinaria",
+      "Responsabilidad administrativa"
+    ],
+    "answer": "Responsabilidad disciplinaria"
+  },
+  {
+    "question": "Si un servidor público malgasta los recursos públicos asignados para un proyecto, ¿qué responsabilidad asume?",
+    "options": [
+      "Responsabilidad fiscal",
+      "Responsabilidad administrativa",
+      "Responsabilidad penal",
+      "Responsabilidad civil"
+    ],
+    "answer": "Responsabilidad fiscal"
+  },
+  {
+    "question": "Un servidor público que toma decisiones administrativas sin cumplir con los principios de **transparencia** e **imparcialidad** incurre en:",
+    "options": [
+      "Responsabilidad fiscal",
+      "Responsabilidad penal",
+      "Responsabilidad administrativa",
+      "Responsabilidad disciplinaria"
+    ],
+    "answer": "Responsabilidad administrativa"
+  },
+  {
+    "question": "¿Qué tipo de responsabilidad asume un servidor público si actúa en beneficio propio utilizando información confidencial del Estado?",
+    "options": [
+      "Responsabilidad fiscal",
+      "Responsabilidad penal",
+      "Responsabilidad administrativa",
+      "Responsabilidad disciplinaria"
+    ],
+    "answer": "Responsabilidad penal"
+  },
+  {
+    "question": "Cuando un funcionario público actúa fuera de los límites de su autoridad, causando daño a los recursos del Estado, ¿qué responsabilidad es aplicable?",
+    "options": [
+      "Responsabilidad fiscal",
+      "Responsabilidad administrativa",
+      "Responsabilidad penal",
+      "Responsabilidad disciplinaria"
+    ],
+    "answer": "Responsabilidad administrativa"
+  },
+  {
+    "question": "¿Qué responsabilidad tiene un servidor público que permite que se malgasten recursos del Estado sin justificación?",
+    "options": [
+      "Responsabilidad penal",
+      "Responsabilidad administrativa",
+      "Responsabilidad fiscal",
+      "Responsabilidad disciplinaria"
+    ],
+    "answer": "Responsabilidad fiscal"
+  },
+  {
+    "question": "Si un servidor público es señalado por **negligencia grave** en el ejercicio de sus funciones, ¿qué tipo de responsabilidad incurre?",
+    "options": [
+      "Responsabilidad penal",
+      "Responsabilidad fiscal",
+      "Responsabilidad administrativa",
+      "Responsabilidad disciplinaria"
+    ],
+    "answer": "Responsabilidad disciplinaria"
+  },
+
+{
+    "question": "Un servidor público es acusado de desviar recursos públicos para beneficio personal. ¿Qué tipo de responsabilidad asume?",
+    "options": [
+      "Responsabilidad fiscal",
+      "Responsabilidad penal",
+      "Responsabilidad disciplinaria",
+      "Responsabilidad administrativa"
+    ],
+    "answer": "Responsabilidad fiscal"
+  },
+  {
+    "question": "Un funcionario decide otorgar un contrato sin realizar el proceso de licitación pública, violando las normas establecidas. ¿Qué órgano de control debe intervenir en este caso?",
+    "options": [
+      "La Procuraduría General de la Nación",
+      "La Corte Constitucional",
+      "La Contraloría General de la República",
+      "El Concejo Municipal"
+    ],
+    "answer": "La Contraloría General de la República"
+  },
+  {
+    "question": "El alcalde de un municipio aprueba un contrato sin seguir el procedimiento legal de contratación. ¿Qué tipo de responsabilidad está incurriendo?",
+    "options": [
+      "Responsabilidad fiscal",
+      "Responsabilidad penal",
+      "Responsabilidad disciplinaria",
+      "Responsabilidad administrativa"
+    ],
+    "answer": "Responsabilidad disciplinaria"
+  },
+  {
+    "question": "Un servidor público es denunciado por incurrir en abuso de poder al favorecer a una empresa con un contrato sin cumplir con los requisitos establecidos. ¿Qué tipo de responsabilidad se está aplicando?",
+    "options": [
+      "Responsabilidad fiscal",
+      "Responsabilidad penal",
+      "Responsabilidad disciplinaria",
+      "Responsabilidad administrativa"
+    ],
+    "answer": "Responsabilidad penal"
+  },
+  {
+    "question": "Un servidor público utiliza recursos públicos para fines personales. ¿Qué tipo de responsabilidad debe asumir el servidor público?",
+    "options": [
+      "Responsabilidad fiscal",
+      "Responsabilidad penal",
+      "Responsabilidad administrativa",
+      "Responsabilidad disciplinaria"
+    ],
+    "answer": "Responsabilidad penal"
+  },
+  {
+    "question": "Un concejal presenta una denuncia porque un funcionario público ha incumplido con los principios de transparencia en la adjudicación de un contrato. ¿Qué principio está siendo vulnerado?",
+    "options": [
+      "El principio de eficiencia",
+      "El principio de legalidad",
+      "El principio de transparencia",
+      "El principio de equidad"
+    ],
+    "answer": "El principio de transparencia"
+  },
+  {
+    "question": "Un servidor público realiza un contrato con una empresa en la que tiene intereses personales, violando las normas sobre conflicto de intereses. ¿Qué tipo de responsabilidad incurre?",
+    "options": [
+      "Responsabilidad fiscal",
+      "Responsabilidad penal",
+      "Responsabilidad administrativa",
+      "Responsabilidad disciplinaria"
+    ],
+    "answer": "Responsabilidad disciplinaria"
+  },
+  {
+    "question": "Un funcionario público acepta un soborno a cambio de otorgar un contrato a una empresa. ¿Qué tipo de responsabilidad asume?",
+    "options": [
+      "Responsabilidad fiscal",
+      "Responsabilidad penal",
+      "Responsabilidad administrativa",
+      "Responsabilidad disciplinaria"
+    ],
+    "answer": "Responsabilidad penal"
+  },
+  {
+    "question": "Un servidor público omite el cumplimiento de sus funciones, causando un perjuicio económico al Estado. ¿Qué responsabilidad le corresponde?",
+    "options": [
+      "Responsabilidad fiscal",
+      "Responsabilidad administrativa",
+      "Responsabilidad penal",
+      "Responsabilidad disciplinaria"
+    ],
+    "answer": "Responsabilidad fiscal"
+  },
+  {
+    "question": "Un servidor público es encontrado culpable de malversación de fondos públicos. ¿Qué tipo de sanción se le puede aplicar?",
+    "options": [
+      "Destitución del cargo",
+      "Multa económica",
+      "Suspensión temporal",
+      "Inhabilitación para cargos públicos"
+    ],
+    "answer": "Destitución del cargo"
+  },
+  {
+    "question": "Un alcalde realiza un gasto público sin la aprobación del Concejo Municipal. ¿Qué tipo de responsabilidad asume el alcalde?",
+    "options": [
+      "Responsabilidad disciplinaria",
+      "Responsabilidad fiscal",
+      "Responsabilidad penal",
+      "Responsabilidad administrativa"
+    ],
+    "answer": "Responsabilidad disciplinaria"
+  },
+  {
+    "question": "Un servidor público toma decisiones que favorecen a sus familiares, generando un conflicto de intereses. ¿Qué tipo de responsabilidad incurre?",
+    "options": [
+      "Responsabilidad fiscal",
+      "Responsabilidad penal",
+      "Responsabilidad administrativa",
+      "Responsabilidad disciplinaria"
+    ],
+    "answer": "Responsabilidad disciplinaria"
+  },
+  {
+    "question": "Un funcionario realiza una contratación pública sin cumplir con las disposiciones legales, perjudicando al Estado. ¿Qué tipo de responsabilidad debe asumir?",
+    "options": [
+      "Responsabilidad fiscal",
+      "Responsabilidad administrativa",
+      "Responsabilidad penal",
+      "Responsabilidad disciplinaria"
+    ],
+    "answer": "Responsabilidad fiscal"
+  },
+  {
+    "question": "Un servidor público es denunciado por no cumplir con los plazos establecidos para la entrega de recursos a una comunidad. ¿Qué responsabilidad incurre?",
+    "options": [
+      "Responsabilidad fiscal",
+      "Responsabilidad disciplinaria",
+      "Responsabilidad penal",
+      "Responsabilidad administrativa"
+    ],
+    "answer": "Responsabilidad disciplinaria"
+  },
+  {
+    "question": "Un funcionario público es acusado de realizar un cobro indebido por la prestación de un servicio público. ¿Qué tipo de responsabilidad debe asumir?",
+    "options": [
+      "Responsabilidad penal",
+      "Responsabilidad fiscal",
+      "Responsabilidad administrativa",
+      "Responsabilidad disciplinaria"
+    ],
+    "answer": "Responsabilidad penal"
+  },
+  {
+    "question": "Un servidor público malgasta recursos destinados a un proyecto social. ¿Qué tipo de responsabilidad se aplica?",
+    "options": [
+      "Responsabilidad penal",
+      "Responsabilidad fiscal",
+      "Responsabilidad administrativa",
+      "Responsabilidad disciplinaria"
+    ],
+    "answer": "Responsabilidad fiscal"
+  },
+  {
+    "question": "Un servidor público toma decisiones que afectan la seguridad de los ciudadanos sin seguir los procedimientos legales adecuados. ¿Qué tipo de responsabilidad se aplica?",
+    "options": [
+      "Responsabilidad penal",
+      "Responsabilidad administrativa",
+      "Responsabilidad fiscal",
+      "Responsabilidad disciplinaria"
+    ],
+    "answer": "Responsabilidad penal"
+  },
+  {
+    "question": "Un alcalde no realiza una rendición de cuentas adecuada a los ciudadanos sobre el uso de recursos públicos. ¿Qué tipo de responsabilidad incurre?",
+    "options": [
+      "Responsabilidad administrativa",
+      "Responsabilidad fiscal",
+      "Responsabilidad disciplinaria",
+      "Responsabilidad penal"
+    ],
+    "answer": "Responsabilidad administrativa"
+  },
+  {
+    "question": "Un servidor público es denunciado por actuar de manera arbitraria en un proceso de contratación. ¿Qué responsabilidad se aplica?",
+    "options": [
+      "Responsabilidad fiscal",
+      "Responsabilidad administrativa",
+      "Responsabilidad disciplinaria",
+      "Responsabilidad penal"
+    ],
+    "answer": "Responsabilidad administrativa"
+  },
+  {
+    "question": "Un funcionario público incumple con el deber de **transparencia** al no rendir cuentas sobre la gestión de recursos públicos. ¿Qué tipo de responsabilidad se le asigna?",
+    "options": [
+      "Responsabilidad disciplinaria",
+      "Responsabilidad penal",
+      "Responsabilidad fiscal",
+      "Responsabilidad administrativa"
+    ],
+    "answer": "Responsabilidad disciplinaria"
+  },
+  {
+    "question": "Un servidor público ha causado un perjuicio económico al Estado debido a decisiones inadecuadas. ¿Qué sanción corresponde en este caso?",
+    "options": [
+      "Suspensión temporal del cargo",
+      "Amonestación",
+      "Destitución y obligación de devolver los recursos mal gestionados",
+      "Multa económica"
+    ],
+    "answer": "Destitución y obligación de devolver los recursos mal gestionados"
+  },
+  {
+    "question": "Un servidor público es denunciado por aceptar regalos de empresas contratistas a cambio de favores. ¿Qué tipo de responsabilidad incurre?",
+    "options": [
+      "Responsabilidad disciplinaria",
+      "Responsabilidad fiscal",
+      "Responsabilidad penal",
+      "Responsabilidad administrativa"
+    ],
+    "answer": "Responsabilidad penal"
+  },
+  {
+    "question": "Un servidor público se ve implicado en un conflicto de interés al adjudicar contratos a una empresa de su familia. ¿Qué tipo de responsabilidad incurre?",
+    "options": [
+      "Responsabilidad disciplinaria",
+      "Responsabilidad fiscal",
+      "Responsabilidad penal",
+      "Responsabilidad administrativa"
+    ],
+    "answer": "Responsabilidad disciplinaria"
+  },
+
+  {
+    "question": "Un alcalde utiliza vehículos oficiales para realizar viajes personales durante los fines de semana. ¿Qué tipo de responsabilidad podría configurarse?",
+    "options": [
+      "Solo responsabilidad disciplinaria",
+      "Responsabilidad disciplinaria y fiscal",
+      "Solo responsabilidad penal",
+      "Responsabilidad política exclusivamente"
+    ],
+    "answer": "Responsabilidad disciplinaria y fiscal"
+  },
+  {
+    "question": "Un funcionario público firma un contrato con una empresa donde su hermano es socio mayoritario, sin declarar el conflicto de intereses. ¿Qué irregularidad comete?",
+    "options": [
+      "Prevaricato por omisión",
+      "Nepotismo y posible corrupción",
+      "Abuso de confianza",
+      "Error administrativo excusable"
+    ],
+    "answer": "Nepotismo y posible corrupción"
+  },
+  {
+    "question": "Una secretaria de despacho municipal autoriza el pago de facturas sin verificar que los servicios fueron prestados. Posteriormente se descubre que eran falsas. ¿Qué responsabilidades enfrenta?",
+    "options": [
+      "Solo responsabilidad fiscal",
+      "Responsabilidad disciplinaria y fiscal",
+      "Solo responsabilidad penal por peculado",
+      "Ninguna, pues actuó de buena fe"
+    ],
+    "answer": "Responsabilidad disciplinaria y fiscal"
+  },
+  {
+    "question": "Un coordinador de sistemas permite el acceso no autorizado a la base de datos personal de ciudadanos a un amigo. ¿Qué delito podría configurarse?",
+    "options": [
+      "Abuso de autoridad",
+      "Violación de datos personales",
+      "Peculado por uso",
+      "Prevaricato por acción"
+    ],
+    "answer": "Violación de datos personales"
+  },
+  {
+    "question": "Un contratista estatal exige pagos adicionales no pactados para culminar una obra de TI. El funcionario a cargo accede para evitar retrasos. ¿Qué irregularidad se presenta?",
+    "options": [
+      "Extorsión del contratista",
+      "Concusión por parte del funcionario",
+      "Negociación ilegal de contratos",
+      "Abuso de autoridad"
+    ],
+    "answer": "Concusión por parte del funcionario"
+  },
+  {
+    "question": "Un servidor público recibe un porcentaje de los contratos que adjudica a una empresa específica. ¿Qué delito está cometiendo?",
+    "options": [
+      "Peculado por apropiación",
+      "Cohecho por dar o recibir dádivas",
+      "Enriquecimiento ilícito",
+      "Abuso de autoridad"
+    ],
+    "answer": "Cohecho por dar o recibir dádivas"
+  },
+  {
+    "question": "Un jefe de compras municipal justifica la contratación directa de un software argumentando urgencia, cuando existía tiempo para realizar licitación. ¿Qué principio viola?",
+    "options": [
+      "Principio de transparencia",
+      "Principio de economía",
+      "Principio de publicidad",
+      "Principio de moralidad"
+    ],
+    "answer": "Principio de economía"
+  },
+  {
+    "question": "Un funcionario utiliza información privilegiada sobre proyectos municipales para beneficiar inversiones personales. ¿Qué delito comete?",
+    "options": [
+      "Tráfico de influencias",
+      "Peculado por uso",
+      "Abuso de confianza",
+      "Utilización indebida de información privilegiada"
+    ],
+    "answer": "Utilización indebida de información privilegiada"
+  },
+  {
+    "question": "Un servidor público se niega a entregar documentos requeridos por la Contraloría alegando que son reservados, sin justificación legal. ¿Qué falta comete?",
+    "options": [
+      "Obstrucción a la justicia",
+      "Negligencia administrativa",
+      "Desacato a órganos de control",
+      "Omisión de funciones"
+    ],
+    "answer": "Desacato a órganos de control"
+  },
+  {
+    "question": "Un alcalde nombra como secretario de Hacienda a una persona que no cumple con los requisitos establecidos en el manual de funciones. ¿Qué tipo de responsabilidad podría generarse?",
+    "options": [
+      "Solo responsabilidad política",
+      "Responsabilidad disciplinaria y política",
+      "Solo responsabilidad fiscal",
+      "Ninguna, es potestad del alcalde"
+    ],
+    "answer": "Responsabilidad disciplinaria y política"
+  },
+  {
+    "question": "Un funcionario a cargo de compras de equipos tecnológicos recibe regalos costosos de un proveedor durante el proceso de selección. ¿Qué conducta irregular se configura?",
+    "options": [
+      "Conflicto de intereses",
+      "Cohecho por aceptar dádivas",
+      "Abuso de autoridad",
+      "Negociación incompatible"
+    ],
+    "answer": "Cohecho por aceptar dádivas"
+  },
+  {
+    "question": "Un servidor público utiliza su cargo para presionar a subalternos para que trabajen en su finca personal los fines de semana. ¿Qué falta comete?",
+    "options": [
+      "Abuso de autoridad",
+      "Acoso laboral",
+      "Violación de derechos laborales",
+      "Todas las anteriores"
+    ],
+    "answer": "Todas las anteriores"
+  },
+  {
+    "question": "Un director de proyecto oculta sobrecostos en la implementación de un sistema informático municipal. ¿Qué responsabilidades enfrenta?",
+    "options": [
+      "Solo responsabilidad fiscal",
+      "Responsabilidad fiscal y penal",
+      "Solo responsabilidad disciplinaria",
+      "Responsabilidad política exclusivamente"
+    ],
+    "answer": "Responsabilidad fiscal y penal"
+  },
+  {
+    "question": "Un funcionario modifica los términos de referencia de una licitación para favorecer a una empresa específica. ¿Qué irregularidad comete?",
+    "options": [
+      "Fraude procesal",
+      "Prevaricato por acción",
+      "Tráfico de influencias",
+      "Falsedad ideológica"
+    ],
+    "answer": "Prevaricato por acción"
+  },
+  {
+    "question": "Un servidor público utiliza fondos reservados para emergencias para organizar una fiesta de cumpleaños. ¿Qué delito comete?",
+    "options": [
+      "Peculado por uso",
+      "Malversación de fondos",
+      "Abuso de confianza",
+      "Apropiación indebida"
+    ],
+    "answer": "Peculado por uso"
+  },
+  {
+    "question": "Un empleado público falsifica su hoja de vida para acceder a un cargo de mayor jerarquía. ¿Qué consecuencias legales enfrenta?",
+    "options": [
+      "Nulidad del nombramiento",
+      "Responsabilidad disciplinaria",
+      "Responsabilidad penal por falsedad ideológica",
+      "Todas las anteriores"
+    ],
+    "answer": "Todas las anteriores"
+  },
+  {
+    "question": "Un funcionario de alto rango ordena destruir documentos relacionados con contratos irregulares. ¿Qué delito comete?",
+    "options": [
+      "Obstrucción a la justicia",
+      "Destrucción de evidencia",
+      "Encubrimiento",
+      "Todos los anteriores"
+    ],
+    "answer": "Todos los anteriores"
+  },
+  {
+    "question": "Un servidor público se niega a atender a ciudadanos de cierta región por prejuicios personales. ¿Qué principios viola?",
+    "options": [
+      "Igualdad y moralidad",
+      "Eficiencia y economía",
+      "Publicidad y transparencia",
+      "Imparcialidad y buena fe"
+    ],
+    "answer": "Igualdad y moralidad"
+  },
+  {
+    "question": "Un coordinador de sistemas instala software pirata en los equipos de la alcaldía para ahorrar recursos. ¿Qué responsabilidades genera?",
+    "options": [
+      "Solo responsabilidad fiscal",
+      "Responsabilidad disciplinaria y posible responsabilidad penal",
+      "Solo responsabilidad política",
+      "Ninguna, si demuestra que fue para beneficio institucional"
+    ],
+    "answer": "Responsabilidad disciplinaria y posible responsabilidad penal"
+  },
+  {
+    "question": "Un funcionario a cargo de compras tecnológicas recibe comisiones por adjudicar contratos a determinada empresa. ¿Qué delito comete?",
+    "options": [
+      "Cohecho impropio",
+      "Peculado por apropiación",
+      "Enriquecimiento ilícito",
+      "Abuso de autoridad"
+    ],
+    "answer": "Enriquecimiento ilícito"
+  },
+  {
+    "question": "Un secretario de despacho municipal utiliza personal y recursos públicos para realizar trabajos en su vivienda particular. ¿Qué irregularidad comete?",
+    "options": [
+      "Peculado por uso",
+      "Abuso de autoridad",
+      "Conflicto de intereses",
+      "Todas las anteriores"
+    ],
+    "answer": "Todas las anteriores"
+  },
+  {
+    "question": "Un servidor público revela información confidencial sobre investigaciones fiscales a un familiar involucrado. ¿Qué delito comete?",
+    "options": [
+      "Revelación de secreto",
+      "Obstrucción a la justicia",
+      "Prevaricato por acción",
+      "Encubrimiento"
+    ],
+    "answer": "Revelación de secreto"
+  },
+  {
+    "question": "Un funcionario encargado de proyectos de TI acepta vacaciones pagadas por un proveedor del estado. ¿Qué falta comete?",
+    "options": [
+      "Conflicto de intereses",
+      "Cohecho por aceptar dádivas",
+      "Negociación incompatible",
+      "Todas las anteriores"
+    ],
+    "answer": "Todas las anteriores"
+  },
+  {
+    "question": "Un alcalde ordena pagar facturas sin soportes contables para agilizar un proyecto de gobierno digital. ¿Qué responsabilidades genera?",
+    "options": [
+      "Solo responsabilidad fiscal",
+      "Responsabilidad fiscal y disciplinaria",
+      "Solo responsabilidad penal",
+      "Ninguna, si el proyecto era urgente"
+    ],
+    "answer": "Responsabilidad fiscal y disciplinaria"
+  },
+  {
+    "question": "Un jefe de sistemas oculta fallas de seguridad en una plataforma municipal que luego es hackeada. ¿Qué responsabilidades enfrenta?",
+    "options": [
+      "Solo responsabilidad disciplinaria",
+      "Responsabilidad disciplinaria y posible responsabilidad penal",
+      "Solo responsabilidad política",
+      "Ninguna, si no era previsible el ataque"
+    ],
+    "answer": "Responsabilidad disciplinaria y posible responsabilidad penal"
+  },
+  {
+    "question": "Un funcionario público utiliza su correo institucional para promocionar su negocio personal. ¿Qué principio viola?",
+    "options": [
+      "Principio de moralidad",
+      "Principio de eficiencia",
+      "Principio de transparencia",
+      "Principio de publicidad"
+    ],
+    "answer": "Principio de moralidad"
+  },
+  {
+    "question": "Un servidor público firma actas de entrega de equipos tecnológicos sin verificar que se recibieron. ¿Qué tipo de responsabilidad genera?",
+    "options": [
+      "Solo responsabilidad fiscal",
+      "Responsabilidad disciplinaria y fiscal",
+      "Solo responsabilidad penal",
+      "Ninguna, si actuó de buena fe"
+    ],
+    "answer": "Responsabilidad disciplinaria y fiscal"
+  },
+  {
+    "question": "Un director de departamento desvía recursos de mantenimiento de sistemas para pagar gastos de representación no autorizados. ¿Qué delito comete?",
+    "options": [
+      "Peculado por destino",
+      "Malversación de fondos",
+      "Falsedad ideológica",
+      "Abuso de autoridad"
+    ],
+    "answer": "Peculado por destino"
+  },
+  {
+    "question": "Un funcionario público utiliza datos personales de ciudadanos obtenidos en su trabajo para hacer marketing político. ¿Qué delito comete?",
+    "options": [
+      "Violación de datos personales",
+      "Abuso de autoridad",
+      "Revelación de secreto",
+      "Todos los anteriores"
+    ],
+    "answer": "Todos los anteriores"
+  },
+  {
+    "question": "Un servidor público se niega a capacitarse en sistemas de gestión documental alegando falta de tiempo, afectando la eficiencia del área. ¿Qué falta comete?",
+    "options": [
+      "Negligencia en el ejercicio del cargo",
+      "Abandono de funciones",
+      "Desacato a órdenes superiores",
+      "Omisión de funciones"
+    ],
+    "answer": "Negligencia en el ejercicio del cargo"
+  }
+
+
+
+
+]
