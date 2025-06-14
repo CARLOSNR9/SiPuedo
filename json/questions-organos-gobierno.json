@@ -1,0 +1,1698 @@
+[
+    {
+        "question": "¿Cuál es la principal función del Concejo Municipal en Colombia?",
+        "options": [
+            "Crear leyes nacionales",
+            "Expedir acuerdos municipales",
+            "Ejercer control político sobre el Presidente"
+        ],
+        "answer": "Expedir acuerdos municipales"
+    },
+    {
+        "question": "¿Qué organismo supervisa el manejo fiscal de los recursos públicos en los municipios?",
+        "options": [
+            "Procuraduría General",
+            "Contraloría General de la República",
+            "Corte Suprema de Justicia"
+        ],
+        "answer": "Contraloría General de la República"
+    },
+    {
+        "question": "¿Quién es responsable de fiscalizar la legalidad de los contratos municipales?",
+        "options": [
+            "El alcalde",
+            "El Concejo Municipal",
+            "La Contraloría Municipal"
+        ],
+        "answer": "La Contraloría Municipal"
+    },
+    {
+        "question": "¿Qué artículo de la Constitución Política de Colombia establece la autonomía territorial?",
+        "options": [
+            "Artículo 287",
+            "Artículo 311",
+            "Artículo 365"
+        ],
+        "answer": "Artículo 287"
+    },
+    {
+        "question": "¿Cuál es la función principal de la Procuraduría General de la Nación en las entidades territoriales?",
+        "options": [
+            "Ejercer control disciplinario sobre los servidores públicos",
+            "Administrar los recursos públicos",
+            "Aprobar el presupuesto territorial"
+        ],
+        "answer": "Ejercer control disciplinario sobre los servidores públicos"
+    },
+
+    {
+    "question": "Un municipio decide aumentar el impuesto sobre la propiedad inmobiliaria sin realizar un estudio previo de impacto ni consultar con el Concejo Municipal. ¿Qué principio constitucional se está vulnerando?",
+    "options": [
+      "El principio de legalidad",
+      "El principio de eficiencia",
+      "El principio de equidad tributaria",
+      "El principio de participación ciudadana"
+    ],
+    "answer": "El principio de legalidad"
+  },
+  {
+    "question": "El Concejo Municipal aprueba un presupuesto que incluye proyectos de infraestructura no priorizados por la comunidad ni respaldados por estudios técnicos. ¿Qué órgano debe verificar la legalidad de este presupuesto?",
+    "options": [
+      "La Corte Constitucional",
+      "La Procuraduría General de la Nación",
+      "La Contraloría General de la República",
+      "El Ministerio de Hacienda"
+    ],
+    "answer": "La Contraloría General de la República"
+  },
+  {
+    "question": "El alcalde de un municipio decide contratar un servicio de recolección de basuras sin seguir el proceso de licitación pública. ¿Qué órgano de control debería investigar esta acción?",
+    "options": [
+      "La Procuraduría General de la Nación",
+      "La Corte Constitucional",
+      "La Contraloría General de la República",
+      "La Defensoría del Pueblo"
+    ],
+    "answer": "La Procuraduría General de la Nación"
+  },
+  {
+    "question": "Un concejal presenta una denuncia porque considera que el alcalde está utilizando los recursos públicos para proyectos no aprobados por el Concejo Municipal. ¿Qué principio constitucional se está vulnerando?",
+    "options": [
+      "El principio de eficiencia",
+      "El principio de participación ciudadana",
+      "El principio de legalidad",
+      "El principio de autonomía territorial"
+    ],
+    "answer": "El principio de legalidad"
+  },
+  {
+    "question": "El **concejo municipal** decide modificar las tarifas del Impuesto Predial Unificado sin consultar previamente con los ciudadanos ni realizar un análisis del impacto. ¿Qué principio del Estado Social de Derecho está siendo vulnerado?",
+    "options": [
+      "El principio de eficiencia administrativa",
+      "El principio de equidad tributaria",
+      "El principio de legalidad",
+      "El principio de participación ciudadana"
+    ],
+    "answer": "El principio de participación ciudadana"
+  },
+  {
+    "question": "Un alcalde decide modificar el presupuesto municipal para destinar más recursos a un proyecto no prioritario sin la aprobación del Concejo Municipal. ¿Qué órgano debería intervenir en este caso?",
+    "options": [
+      "La Contraloría General de la República",
+      "La Procuraduría General de la Nación",
+      "La Corte Constitucional",
+      "El Ministerio de Hacienda"
+    ],
+    "answer": "La Contraloría General de la República"
+  },
+  {
+    "question": "Un concejo municipal aprueba una ordenanza que otorga exenciones fiscales a ciertos comercios sin evaluar su impacto en los ingresos municipales. ¿Qué principio del control fiscal está siendo vulnerado?",
+    "options": [
+      "El principio de transparencia",
+      "El principio de eficiencia",
+      "El principio de subsidiariedad",
+      "El principio de legalidad"
+    ],
+    "answer": "El principio de eficiencia"
+  },
+  {
+    "question": "El **alcalde** decide implementar una tasa por uso del espacio público sin consultar al Concejo Municipal ni a la comunidad. ¿Qué principio constitucional está siendo afectado?",
+    "options": [
+      "El principio de legalidad",
+      "El principio de eficiencia",
+      "El principio de participación ciudadana",
+      "El principio de equidad"
+    ],
+    "answer": "El principio de participación ciudadana"
+  },
+  {
+    "question": "Una entidad territorial decide tomar un préstamo sin la aprobación del Concejo Municipal, y los recursos se destinan a un proyecto no contemplado en el plan de desarrollo. ¿Qué principio de control está siendo vulnerado?",
+    "options": [
+      "El principio de eficiencia",
+      "El principio de legalidad",
+      "El principio de subsidiariedad",
+      "El principio de transparencia"
+    ],
+    "answer": "El principio de legalidad"
+  },
+  {
+    "question": "Un municipio aprueba un contrato con una empresa para la prestación de servicios sin cumplir con los requisitos legales establecidos para contratos públicos. ¿Qué órgano de control debe investigar esta irregularidad?",
+    "options": [
+      "La Procuraduría General de la Nación",
+      "La Contraloría General de la República",
+      "La Corte Constitucional",
+      "La Defensoría del Pueblo"
+    ],
+    "answer": "La Contraloría General de la República"
+  },
+  {
+    "question": "Un concejo municipal aprueba una tasa para la recolección de basura sin realizar un estudio de costos ni consultar con los ciudadanos. ¿Qué principio se está vulnerando?",
+    "options": [
+      "El principio de eficiencia administrativa",
+      "El principio de participación ciudadana",
+      "El principio de legalidad",
+      "El principio de transparencia"
+    ],
+    "answer": "El principio de eficiencia administrativa"
+  },
+  {
+    "question": "El alcalde de un municipio decide aumentar los impuestos sin consultar con el Concejo Municipal ni realizar un estudio de impacto económico. ¿Qué principio constitucional se está vulnerando?",
+    "options": [
+      "El principio de legalidad",
+      "El principio de participación ciudadana",
+      "El principio de eficiencia",
+      "El principio de subsidiariedad"
+    ],
+    "answer": "El principio de participación ciudadana"
+  },
+  {
+    "question": "Una alcaldía decide asignar recursos públicos a una empresa privada para realizar un proyecto sin seguir los procedimientos de licitación pública. ¿Qué principio de control está siendo vulnerado?",
+    "options": [
+      "El principio de transparencia",
+      "El principio de eficiencia",
+      "El principio de legalidad",
+      "El principio de subsidiariedad"
+    ],
+    "answer": "El principio de transparencia"
+  },
+  {
+    "question": "Un concejo municipal aprueba un presupuesto que no ha sido auditado por la Contraloría local. ¿Qué principio de control fiscal está siendo vulnerado?",
+    "options": [
+      "El principio de eficiencia",
+      "El principio de transparencia",
+      "El principio de legalidad",
+      "El principio de subsidiariedad"
+    ],
+    "answer": "El principio de transparencia"
+  },
+  {
+    "question": "El alcalde de un municipio decide modificar las tarifas del Impuesto sobre Vehículos Automotores sin consultar con el Concejo Municipal ni con la comunidad. ¿Qué principio se está vulnerando?",
+    "options": [
+      "El principio de legalidad",
+      "El principio de eficiencia",
+      "El principio de participación ciudadana",
+      "El principio de equidad"
+    ],
+    "answer": "El principio de legalidad"
+  },
+  {
+    "question": "Un alcalde decide suspender el cobro de un impuesto sin consultar con el Concejo Municipal. ¿Qué principio constitucional está siendo afectado?",
+    "options": [
+      "El principio de legalidad",
+      "El principio de eficiencia",
+      "El principio de equidad",
+      "El principio de transparencia"
+    ],
+    "answer": "El principio de legalidad"
+  },
+  {
+    "question": "Un concejo municipal decide otorgar exenciones fiscales a una empresa sin evaluar su impacto en la comunidad. ¿Qué principio de control está siendo vulnerado?",
+    "options": [
+      "El principio de eficiencia",
+      "El principio de equidad",
+      "El principio de legalidad",
+      "El principio de transparencia"
+    ],
+    "answer": "El principio de equidad"
+  },
+  {
+    "question": "El alcalde de un municipio decide utilizar recursos destinados para proyectos de infraestructura en otros proyectos sin la aprobación del Concejo Municipal. ¿Qué principio constitucional está siendo afectado?",
+    "options": [
+      "El principio de legalidad",
+      "El principio de eficiencia",
+      "El principio de autonomía territorial",
+      "El principio de transparencia"
+    ],
+    "answer": "El principio de legalidad"
+  },
+  {
+    "question": "Un concejo municipal aprueba una nueva tasa para financiar un proyecto de urbanización sin realizar una consulta pública ni un análisis de impacto. ¿Qué principio constitucional está siendo vulnerado?",
+    "options": [
+      "El principio de participación ciudadana",
+      "El principio de eficiencia",
+      "El principio de legalidad",
+      "El principio de subsidiariedad"
+    ],
+    "answer": "El principio de participación ciudadana"
+  },
+  {
+    "question": "Un municipio cambia las normas fiscales sobre el **Impuesto Predial** sin seguir el procedimiento legal establecido. ¿Qué principio constitucional está siendo vulnerado?",
+    "options": [
+      "El principio de eficiencia",
+      "El principio de legalidad",
+      "El principio de transparencia",
+      "El principio de subsidiariedad"
+    ],
+    "answer": "El principio de legalidad"
+  },
+  {
+    "question": "Un concejo municipal aprueba una tasa por el uso de los parques sin realizar una consulta pública ni un análisis de impacto. ¿Qué principio está siendo vulnerado?",
+    "options": [
+      "El principio de participación ciudadana",
+      "El principio de legalidad",
+      "El principio de eficiencia",
+      "El principio de equidad"
+    ],
+    "answer": "El principio de participación ciudadana"
+  },
+
+{
+    "question": "¿Quién tiene la responsabilidad principal de supervisar el uso adecuado de los recursos públicos en las entidades territoriales?",
+    "options": [
+      "La Procuraduría General de la Nación",
+      "La Contraloría General de la República",
+      "El Concejo Municipal",
+      "El Ministerio de Hacienda"
+    ],
+    "answer": "La Contraloría General de la República"
+  },
+  {
+    "question": "¿Qué órgano es responsable de la creación y ejecución de las políticas públicas a nivel municipal?",
+    "options": [
+      "La Corte Constitucional",
+      "El Concejo Municipal",
+      "El alcalde",
+      "La Procuraduría General de la Nación"
+    ],
+    "answer": "El alcalde"
+  },
+  {
+    "question": "El **Concejo Municipal** tiene la facultad de:",
+    "options": [
+      "Ejecutar políticas públicas",
+      "Crear y modificar las normas locales",
+      "Proponer y aprobar el presupuesto nacional",
+      "Auditar las actividades del gobierno local"
+    ],
+    "answer": "Crear y modificar las normas locales"
+  },
+  {
+    "question": "La **Contraloría General de la República** tiene la función de:",
+    "options": [
+      "Ejercer la vigilancia sobre la legalidad de los actos administrativos",
+      "Dictar sentencias judiciales en los procesos administrativos",
+      "Controlar los resultados de la política pública en los municipios",
+      "Imponer sanciones por corrupción"
+    ],
+    "answer": "Ejercer la vigilancia sobre la legalidad de los actos administrativos"
+  },
+  {
+    "question": "¿Qué órgano se encarga de vigilar la actuación de los servidores públicos en las entidades territoriales?",
+    "options": [
+      "La Corte Suprema de Justicia",
+      "La Procuraduría General de la Nación",
+      "La Contraloría General de la República",
+      "La Defensoría del Pueblo"
+    ],
+    "answer": "La Procuraduría General de la Nación"
+  },
+  {
+    "question": "El **alcalde** tiene la facultad de:",
+    "options": [
+      "Aprobar el presupuesto municipal",
+      "Establecer nuevas leyes a nivel nacional",
+      "Promover reformas constitucionales",
+      "Controlar las políticas públicas nacionales"
+    ],
+    "answer": "Aprobar el presupuesto municipal"
+  },
+  {
+    "question": "La **Contraloría** realiza auditorías para verificar el uso adecuado de los recursos públicos. ¿Qué tipo de control se ejerce?",
+    "options": [
+      "Control preventivo",
+      "Control fiscal",
+      "Control administrativo",
+      "Control judicial"
+    ],
+    "answer": "Control fiscal"
+  },
+  {
+    "question": "¿Qué entidad realiza las auditorías a la gestión fiscal de los municipios y departamentos?",
+    "options": [
+      "La Procuraduría General de la Nación",
+      "La Corte Suprema de Justicia",
+      "La Contraloría General de la República",
+      "El Ministerio de Hacienda"
+    ],
+    "answer": "La Contraloría General de la República"
+  },
+  {
+    "question": "El **Concejo Municipal** es responsable de:",
+    "options": [
+      "Ejecutar proyectos de infraestructura",
+      "Proponer leyes nacionales",
+      "Controlar y fiscalizar la administración del alcalde",
+      "Sancionar a los ciudadanos que infringen la ley"
+    ],
+    "answer": "Controlar y fiscalizar la administración del alcalde"
+  },
+  {
+    "question": "¿Cuál es la función principal de la **Corte Constitucional** en relación con las entidades territoriales?",
+    "options": [
+      "Crear leyes locales",
+      "Supervisar la ejecución de políticas públicas",
+      "Declarar la inconstitucionalidad de normas locales",
+      "Aprobar presupuestos municipales"
+    ],
+    "answer": "Declarar la inconstitucionalidad de normas locales"
+  },
+  {
+    "question": "¿Qué se entiende por **control disciplinario** en las entidades territoriales?",
+    "options": [
+      "Auditoría de la Contraloría General",
+      "Fiscalización de los recursos públicos",
+      "Vigilancia sobre la conducta de los servidores públicos",
+      "Análisis de impacto social de los proyectos locales"
+    ],
+    "answer": "Vigilancia sobre la conducta de los servidores públicos"
+  },
+  {
+    "question": "¿Cuál es la función del **Ministerio de Hacienda** en relación con las entidades territoriales?",
+    "options": [
+      "Establecer las políticas de control fiscal",
+      "Supervisar la ejecución del presupuesto municipal",
+      "Proveer recursos y asesoría financiera",
+      "Imponer sanciones administrativas"
+    ],
+    "answer": "Proveer recursos y asesoría financiera"
+  },
+  {
+    "question": "El **Procurador General de la Nación** tiene la facultad de:",
+    "options": [
+      "Supervisar el uso de los recursos públicos en las entidades territoriales",
+      "Revisar la legalidad de los actos administrativos del gobierno municipal",
+      "Imponer sanciones judiciales a los funcionarios públicos",
+      "Sancionar por corrupción administrativa en el gobierno local"
+    ],
+    "answer": "Revisar la legalidad de los actos administrativos del gobierno municipal"
+  },
+  {
+    "question": "¿Qué órgano tiene la responsabilidad de hacer cumplir los derechos humanos a nivel territorial?",
+    "options": [
+      "La Corte Suprema de Justicia",
+      "La Corte Constitucional",
+      "La Procuraduría General de la Nación",
+      "La Defensoría del Pueblo"
+    ],
+    "answer": "La Defensoría del Pueblo"
+  },
+  {
+    "question": "El **concejo municipal** está compuesto por:",
+    "options": [
+      "El alcalde y los concejales elegidos por voto popular",
+      "Solo por el alcalde",
+      "El alcalde y el Procurador",
+      "El alcalde y los funcionarios públicos del municipio"
+    ],
+    "answer": "El alcalde y los concejales elegidos por voto popular"
+  },
+  {
+    "question": "¿Qué principio de la **gestión pública** está relacionado con la supervisión que realiza la Contraloría General?",
+    "options": [
+      "Principio de eficiencia",
+      "Principio de legalidad",
+      "Principio de transparencia",
+      "Principio de imparcialidad"
+    ],
+    "answer": "Principio de transparencia"
+  },
+  {
+    "question": "¿Quién es responsable de presentar el presupuesto anual del municipio para su aprobación?",
+    "options": [
+      "El Concejo Municipal",
+      "La Contraloría General de la República",
+      "El alcalde",
+      "La Corte Constitucional"
+    ],
+    "answer": "El alcalde"
+  },
+  {
+    "question": "El **control fiscal** es realizado por:",
+    "options": [
+      "El Procurador General de la Nación",
+      "La Contraloría General de la República",
+      "El Ministerio de Hacienda",
+      "El Concejo Municipal"
+    ],
+    "answer": "La Contraloría General de la República"
+  },
+  {
+    "question": "¿Qué órgano realiza el **control disciplinario** sobre los servidores públicos en las entidades territoriales?",
+    "options": [
+      "La Corte Constitucional",
+      "La Procuraduría General de la Nación",
+      "La Contraloría General de la República",
+      "El Concejo Municipal"
+    ],
+    "answer": "La Procuraduría General de la Nación"
+  },
+  {
+    "question": "¿Qué autoridad tiene el poder de sancionar a un funcionario público de un municipio por actos de corrupción?",
+    "options": [
+      "La Corte Constitucional",
+      "La Procuraduría General de la Nación",
+      "El Concejo Municipal",
+      "La Contraloría General de la República"
+    ],
+    "answer": "La Procuraduría General de la Nación"
+  },
+  {
+    "question": "¿Qué función cumple la **Defensoría del Pueblo** en el control del gobierno local?",
+    "options": [
+      "Defender los derechos fundamentales de los ciudadanos frente a los abusos del poder",
+      "Realizar auditorías a los recursos del municipio",
+      "Imponer sanciones a los funcionarios públicos",
+      "Aprobar proyectos de ley locales"
+    ],
+    "answer": "Defender los derechos fundamentales de los ciudadanos frente a los abusos del poder"
+  },
+  {
+    "question": "¿Quién tiene la capacidad de emitir **informes de control fiscal** sobre las entidades territoriales?",
+    "options": [
+      "La Corte Suprema de Justicia",
+      "La Contraloría General de la República",
+      "El Ministerio de Hacienda",
+      "La Procuraduría General de la Nación"
+    ],
+    "answer": "La Contraloría General de la República"
+  },
+  {
+    "question": "El **Gobernador** tiene la responsabilidad de:",
+    "options": [
+      "Controlar la ejecución de los proyectos del municipio",
+      "Supervisar la gestión del alcalde",
+      "Coordinar la ejecución de políticas públicas departamentales",
+      "Aprobar proyectos de ley a nivel regional"
+    ],
+    "answer": "Coordinar la ejecución de políticas públicas departamentales"
+  },
+
+
+  {
+    "question": "Según la Constitución Política de Colombia, ¿cuál es el órgano de gobierno que dirige la administración municipal?",
+    "options": [
+      "El Concejo Municipal",
+      "La Alcaldía",
+      "La Contraloría Municipal",
+      "La Asamblea Departamental"
+    ],
+    "answer": "La Alcaldía"
+  },
+  {
+    "question": "¿Qué órgano municipal tiene la función de expedir acuerdos relacionados con el presupuesto para proyectos de TI?",
+    "options": [
+      "La Personería",
+      "El Concejo Municipal",
+      "La Contraloría",
+      "Las Juntas Administradoras Locales (JAL)"
+    ],
+    "answer": "El Concejo Municipal"
+  },
+  {
+    "question": "La vigilancia fiscal de los recursos públicos en un municipio es responsabilidad de:",
+    "options": [
+      "La Procuraduría General",
+      "La Contraloría Municipal",
+      "La Secretaría de Hacienda",
+      "La Gobernación"
+    ],
+    "answer": "La Contraloría Municipal"
+  },
+  {
+    "question": "¿Qué órgano de control puede investigar a un alcalde por negligencia en la implementación de políticas de gobierno digital?",
+    "options": [
+      "La Contraloría General de la República",
+      "La Fiscalía General",
+      "La Procuraduría General",
+      "El Concejo Municipal"
+    ],
+    "answer": "La Procuraduría General"
+  },
+  {
+    "question": "Las Juntas Administradoras Locales (JAL) existen en municipios que:",
+    "options": [
+      "Tienen más de 100,000 habitantes",
+      "Están divididos en comunas o corregimientos",
+      "Pertencen a departamentos fronterizos",
+      "Tienen régimen especial"
+    ],
+    "answer": "Están divididos en comunas o corregimientos"
+  },
+  {
+    "question": "¿Qué ley regula específicamente el régimen municipal en Colombia?",
+    "options": [
+      "Ley 715 de 2001",
+      "Ley 136 de 1994",
+      "Ley 1551 de 2012",
+      "Ley 617 de 2000"
+    ],
+    "answer": "Ley 136 de 1994"
+  },
+  {
+    "question": "¿Cuál es el principal mecanismo de participación ciudadana para vigilar proyectos de TI en un municipio?",
+    "options": [
+      "El Concejo Municipal",
+      "Las Veedurías Ciudadanas",
+      "La Contraloría",
+      "La Personería"
+    ],
+    "answer": "Las Veedurías Ciudadanas"
+  },
+  {
+    "question": "La Personería Municipal vela por:",
+    "options": [
+      "La ejecución del presupuesto",
+      "La protección de derechos humanos",
+      "La contratación de software",
+      "La elaboración del PETI"
+    ],
+    "answer": "La protección de derechos humanos"
+  },
+  {
+    "question": "¿Qué artículo de la Constitución establece la autonomía de las entidades territoriales?",
+    "options": [
+      "Artículo 1°",
+      "Artículo 287",
+      "Artículo 209",
+      "Artículo 315"
+    ],
+    "answer": "Artículo 287"
+  },
+  {
+    "question": "En un municipio, ¿quién aprueba el Plan Estratégico de Tecnologías de la Información (PETI)?",
+    "options": [
+      "El Secretario de Planeación",
+      "El Alcalde",
+      "El Concejo Municipal",
+      "La Contraloría"
+    ],
+    "answer": "El Alcalde"
+  },
+  {
+    "question": "¿Qué órgano departamental coordina proyectos de TI con los municipios?",
+    "options": [
+      "La Asamblea Departamental",
+      "La Gobernación",
+      "La Procuraduría Regional",
+      "La Contraloría Departamental"
+    ],
+    "answer": "La Gobernación"
+  },
+  {
+    "question": "¿Cuál ley establece las competencias y recursos de las entidades territoriales?",
+    "options": [
+      "Ley 136 de 1994",
+      "Ley 715 de 2001",
+      "Ley 1551 de 2012",
+      "Ley 617 de 2000"
+    ],
+    "answer": "Ley 715 de 2001"
+  },
+  {
+    "question": "La responsabilidad de garantizar transparencia en la contratación de bienes tecnológicos recae en:",
+    "options": [
+      "El Alcalde y la Contraloría",
+      "El Concejo y la Personería",
+      "La Secretaría de TI y las JAL",
+      "La Gobernación y la Procuraduría"
+    ],
+    "answer": "El Alcalde y la Contraloría"
+  },
+  {
+    "question": "¿Qué órgano puede imponer sanciones disciplinarias a un funcionario por mal manejo de bases de datos?",
+    "options": [
+      "La Fiscalía",
+      "La Procuraduría",
+      "El Concejo Municipal",
+      "La Contraloría"
+    ],
+    "answer": "La Procuraduría"
+  },
+  {
+    "question": "Según la Ley 850 de 2003, las veedurías ciudadanas pueden:",
+    "options": [
+      "Expedir acuerdos municipales",
+      "Vigilar la ejecución de proyectos públicos",
+      "Remover al alcalde",
+      "Auditar cuentas fiscales"
+    ],
+    "answer": "Vigilar la ejecución de proyectos públicos"
+  },
+  {
+    "question": "¿Qué secretaría municipal suele coordinar la implementación del gobierno digital?",
+    "options": [
+      "Secretaría de Educación",
+      "Secretaría de Salud",
+      "Secretaría General o de TI",
+      "Secretaría de Hacienda"
+    ],
+    "answer": "Secretaría General o de TI"
+  },
+  {
+    "question": "La rendición de cuentas sobre proyectos de TI debe presentarse ante:",
+    "options": [
+      "Solo el Concejo Municipal",
+      "El Alcalde y la Contraloría",
+      "La ciudadanía y órganos de control",
+      "La Gobernación"
+    ],
+    "answer": "La ciudadanía y órganos de control"
+  },
+  {
+    "question": "¿Qué norma regula el Código Disciplinario Único para servidores públicos?",
+    "options": [
+      "Ley 734 de 2002",
+      "Ley 909 de 2004",
+      "Ley 1437 de 2011",
+      "Ley 1952 de 2019"
+    ],
+    "answer": "Ley 734 de 2002"
+  },
+  {
+    "question": "En caso de irregularidades en un contrato de software, ¿qué órgano inicia la investigación fiscal?",
+    "options": [
+      "La Personería",
+      "La Contraloría",
+      "La Fiscalía",
+      "El Concejo"
+    ],
+    "answer": "La Contraloría"
+  },
+  {
+    "question": "¿Qué artículo constitucional define las funciones del Concejo Municipal?",
+    "options": [
+      "Artículo 315",
+      "Artículo 287",
+      "Artículo 269",
+      "Artículo 209"
+    ],
+    "answer": "Artículo 315"
+  },
+  {
+    "question": "La autonomía de las entidades territoriales incluye:",
+    "options": [
+      "Solo autonomía fiscal",
+      "Autonomía administrativa, fiscal y política",
+      "Solo autonomía política",
+      "Dependencia del gobierno nacional"
+    ],
+    "answer": "Autonomía administrativa, fiscal y política"
+  },
+  {
+    "question": "¿Qué ley limita los gastos de funcionamiento en municipios?",
+    "options": [
+      "Ley 617 de 2000",
+      "Ley 136 de 1994",
+      "Ley 715 de 2001",
+      "Ley 1551 de 2012"
+    ],
+    "answer": "Ley 617 de 2000"
+  },
+  {
+    "question": "Un profesional de TI municipal debe coordinar con la Contraloría para:",
+    "options": [
+      "Diseñar el PETI",
+      "Auditar contratos tecnológicos",
+      "Capacitar funcionarios",
+      "Implementar software"
+    ],
+    "answer": "Auditar contratos tecnológicos"
+  },
+  {
+    "question": "¿Qué órgano vela por el cumplimiento de la Ley de Transparencia (Ley 1712 de 2014) en un municipio?",
+    "options": [
+      "La Personería",
+      "La Secretaría de Gobierno",
+      "El Concejo Municipal",
+      "La Procuraduría"
+    ],
+    "answer": "La Personería"
+  },
+  {
+    "question": "La Asamblea Departamental es el órgano legislativo de:",
+    "options": [
+      "Los municipios",
+      "Los departamentos",
+      "Los distritos especiales",
+      "Las regiones"
+    ],
+    "answer": "Los departamentos"
+  },
+  {
+    "question": "¿Qué documento debe ser aprobado por el Concejo Municipal para financiar proyectos de TI?",
+    "options": [
+      "El Plan de Desarrollo",
+      "El PETI",
+      "El Presupuesto Anual",
+      "El Manual de Funciones"
+    ],
+    "answer": "El Presupuesto Anual"
+  },
+  {
+    "question": "La Ley 1551 de 2012 establece:",
+    "options": [
+      "Régimen especial para Bogotá",
+      "Competencias de las JAL",
+      "Creación de nuevos municipios",
+      "Fusiones territoriales"
+    ],
+    "answer": "Competencias de las JAL"
+  },
+  {
+    "question": "¿Qué órgano supervisa la correcta ejecución del presupuesto asignado a gobierno digital?",
+    "options": [
+      "La Secretaría de Hacienda",
+      "La Contraloría",
+      "La Personería",
+      "Las Veedurías"
+    ],
+    "answer": "La Contraloría"
+  },
+  {
+    "question": "¿Cuál es el marco legal para la protección de datos personales en sistemas municipales?",
+    "options": [
+      "Ley 1581 de 2012",
+      "Ley 1712 de 2014",
+      "Ley 1341 de 2009",
+      "Ley 1952 de 2019"
+    ],
+    "answer": "Ley 1581 de 2012"
+  },
+  {
+    "question": "¿Qué órgano puede conceptuar sobre la legalidad de un contrato de adquisición de hardware?",
+    "options": [
+      "La Procuraduría",
+      "La Contraloría",
+      "La Fiscalía",
+      "El Concejo Municipal"
+    ],
+    "answer": "La Contraloría"
+  },
+
+{
+    "question": "Un alcalde ordena la compra de 50 computadores sin estudios técnicos ni licitación. Como profesional de TI municipal, ¿qué órgano debe intervenir para investigar este hecho?",
+    "options": [
+      "La Personería Municipal",
+      "La Contraloría Municipal",
+      "El Concejo Municipal",
+      "La Fiscalía General"
+    ],
+    "answer": "La Contraloría Municipal"
+  },
+  {
+    "question": "El Concejo Municipal rechaza el presupuesto para actualizar el sistema de seguridad informática. ¿Qué acción debe tomar el profesional de TI?",
+    "options": [
+      "Presentar un nuevo proyecto con justificación técnica al Alcalde",
+      "Solicitar directamente recursos a la Gobernación",
+      "Ignorar la decisión y usar partidas de otras áreas",
+      "Denunciar al Concejo ante la Procuraduría"
+    ],
+    "answer": "Presentar un nuevo proyecto con justificación técnica al Alcalde"
+  },
+  {
+    "question": "Se descubre que una base de datos municipal con información ciudadana no tiene protocolos de ciberseguridad. ¿Qué órgano puede imponer sanciones disciplinarias al responsable?",
+    "options": [
+      "La Contraloría",
+      "La Procuraduría",
+      "La Fiscalía",
+      "El Concejo Municipal"
+    ],
+    "answer": "La Procuraduría"
+  },
+  {
+    "question": "Una veeduría ciudadana denuncia que el software adquirido por la Alcaldía no cumple con lo contratado. ¿Qué debe hacer el profesional de TI?",
+    "options": [
+      "Archivar la denuncia por no ser competencia técnica",
+      "Elaborar un informe técnico para la Contraloría",
+      "Ignorar la denuncia por ser de carácter político",
+      "Solicitar la destitución de la veeduría"
+    ],
+    "answer": "Elaborar un informe técnico para la Contraloría"
+  },
+  {
+    "question": "El Alcalde solicita implementar un sistema de firma digital sin consultar al Concejo. ¿Qué riesgo legal existe?",
+    "options": [
+      "Ninguno, es decisión exclusiva del Alcalde",
+      "Falta de viabilidad presupuestal sin aprobación del Concejo",
+      "Violación a la Ley de Protección de Datos",
+      "Conflictos con la Gobernación"
+    ],
+    "answer": "Falta de viabilidad presupuestal sin aprobación del Concejo"
+  },
+  {
+    "question": "La Contraloría Municipal identifica sobrecostos en un contrato de cloud computing. ¿Qué documento debe revisar el profesional de TI para sustentar el proceso?",
+    "options": [
+      "El Plan de Desarrollo Municipal",
+      "El estudio de mercado y actas de licitación",
+      "La Ley 1150 de 2007",
+      "El manual de funciones del cargo"
+    ],
+    "answer": "El estudio de mercado y actas de licitación"
+  },
+  {
+    "question": "Un funcionario usa datos personales de ciudadanos para campañas políticas. ¿Qué norma se viola y qué órgano actúa?",
+    "options": [
+      "Ley 1581 de 2012 (Protección de Datos) - Personería",
+      "Ley 1712 de 2014 (Transparencia) - Contraloría",
+      "Ley 734 de 2002 (Disciplinaria) - Procuraduría",
+      "Ley 136 de 1994 (Municipal) - Concejo"
+    ],
+    "answer": "Ley 1581 de 2012 (Protección de Datos) - Personería"
+  },
+  {
+    "question": "El PETI municipal no incluye metas de gobierno digital. ¿Qué instancia debe exigir su actualización?",
+    "options": [
+      "La Secretaría de Planeación",
+      "La Contraloría Departamental",
+      "El Ministerio de Tecnologías de la Información",
+      "El Concejo Municipal"
+    ],
+    "answer": "El Concejo Municipal"
+  },
+  {
+    "question": "Una empresa dona equipos informáticos al municipio sin contratación. ¿Qué órgano verifica la legalidad?",
+    "options": [
+      "La Personería",
+      "La Contraloría",
+      "La Procuraduría",
+      "La Fiscalía"
+    ],
+    "answer": "La Contraloría"
+  },
+  {
+    "question": "El sistema de pagos en línea municipal colapsa por falta de mantenimiento. ¿Qué principio del Estado Social de Derecho se vulnera?",
+    "options": [
+      "Eficiencia en la gestión pública",
+      "Libre competencia",
+      "Autonomía territorial",
+      "Descentralización"
+    ],
+    "answer": "Eficiencia en la gestión pública"
+  },
+  {
+    "question": "Un contrato de software se adjudica a un familiar del Alcalde. ¿Qué tipo de responsabilidad se configura?",
+    "options": [
+      "Penal",
+      "Fiscal",
+      "Disciplinaria y fiscal",
+      "Administrativa"
+    ],
+    "answer": "Disciplinaria y fiscal"
+  },
+  {
+    "question": "La página web municipal no publica información sobre contratos de TI. ¿Qué ley se incumple?",
+    "options": [
+      "Ley 1712 de 2014 (Transparencia)",
+      "Ley 1581 de 2012 (Protección de Datos)",
+      "Ley 1341 de 2009 (TIC)",
+      "Ley 1437 de 2011 (Procedimiento Administrativo)"
+    ],
+    "answer": "Ley 1712 de 2014 (Transparencia)"
+  },
+  {
+    "question": "El Alcalde ordena eliminar registros de un sistema sin respaldo. ¿Qué órgano investiga?",
+    "options": [
+      "La Fiscalía",
+      "La Procuraduría",
+      "La Contraloría",
+      "El Concejo Municipal"
+    ],
+    "answer": "La Procuraduría"
+  },
+  {
+    "question": "Un proveedor incumple el SLA de soporte técnico. ¿Qué documento debe usarse para reclamar?",
+    "options": [
+      "El Plan de Desarrollo",
+      "El pliego de condiciones del contrato",
+      "La Ley 80 de 1993",
+      "El manual de funciones"
+    ],
+    "answer": "El pliego de condiciones del contrato"
+  },
+  {
+    "question": "La Alcaldía compra licencias de software sin garantías. ¿Qué principio de contratación estatal se violó?",
+    "options": [
+      "Economía",
+      "Transparencia",
+      "Responsabilidad ambiental",
+      "Planificación"
+    ],
+    "answer": "Economía"
+  },
+  {
+    "question": "Un hacker accede a datos personales por falta de firewall. ¿Qué órgano puede sancionar al responsable?",
+    "options": [
+      "La Superintendencia de Industria y Comercio",
+      "La Procuraduría",
+      "La Fiscalía",
+      "El Concejo Municipal"
+    ],
+    "answer": "La Superintendencia de Industria y Comercio"
+  },
+  {
+    "question": "El Concejo exige informes trimestrales de avance del PETI. ¿Qué artículo constitucional respalda esto?",
+    "options": [
+      "Artículo 209 (Función Pública)",
+      "Artículo 315 (Funciones del Concejo)",
+      "Artículo 287 (Autonomía Territorial)",
+      "Artículo 269 (Control Fiscal)"
+    ],
+    "answer": "Artículo 315 (Funciones del Concejo)"
+  },
+  {
+    "question": "Un funcionario usa equipos municipales para minar criptomonedas. ¿Qué norma aplica para sancionarlo?",
+    "options": [
+      "Ley 734 de 2002 (Código Disciplinario)",
+      "Ley 1581 de 2012 (Protección de Datos)",
+      "Ley 1437 de 2011 (Procedimiento Administrativo)",
+      "Ley 80 de 1993 (Contratación)"
+    ],
+    "answer": "Ley 734 de 2002 (Código Disciplinario)"
+  },
+  {
+    "question": "La Contraloría detecta que no hay inventario de equipos de TI. ¿Qué debe hacer el profesional?",
+    "options": [
+      "Ignorar la observación por ser técnica",
+      "Elaborar un inventario con soportes de compra",
+      "Solicitar más equipos para justificar el error",
+      "Denunciar a la Contraloría por injerencia"
+    ],
+    "answer": "Elaborar un inventario con soportes de compra"
+  },
+  {
+    "question": "Un ciudadano exige acceso a su información en bases de datos municipales. ¿Qué derecho ejerce?",
+    "options": [
+      "Habeas Data",
+      "Acción de Tutela",
+      "Derecho de Petición",
+      "Acción Popular"
+    ],
+    "answer": "Habeas Data"
+  },
+  {
+    "question": "El sistema de facturación municipal no cumple con estándares de la DIAN. ¿Qué riesgo enfrenta el municipio?",
+    "options": [
+      "Sanciones fiscales",
+      "Pérdida de autonomía",
+      "Intervención de la Gobernación",
+      "Ninguno, es decisión interna"
+    ],
+    "answer": "Sanciones fiscales"
+  },
+  {
+    "question": "El Alcalde pide al profesional de TI ocultar un informe sobre fallas en seguridad. ¿Qué debe hacer?",
+    "options": [
+      "Obedecer por jerarquía",
+      "Documentar la solicitud y reportarla a la Procuraduría",
+      "Renunciar al cargo",
+      "Ignorar la solicitud sin registro"
+    ],
+    "answer": "Documentar la solicitud y reportarla a la Procuraduría"
+  },
+  {
+    "question": "Una IPS municipal exige compartir historias clínicas sin consentimiento. ¿Qué ley viola?",
+    "options": [
+      "Ley 1581 de 2012",
+      "Ley 1753 de 2015 (Plan Nacional de Desarrollo)",
+      "Ley 1341 de 2009 (TIC)",
+      "Ley 100 de 1993 (Salud)"
+    ],
+    "answer": "Ley 1581 de 2012"
+  },
+  {
+    "question": "El PETI no se alinea con el Plan de Desarrollo Municipal. ¿Qué instancia debe corregirlo?",
+    "options": [
+      "La Secretaría de Planeación",
+      "La Contraloría",
+      "El Ministerio de Tecnologías de la Información",
+      "El Departamento Nacional de Planeación"
+    ],
+    "answer": "La Secretaría de Planeación"
+  },
+  {
+    "question": "Un contrato de mantenimiento de software no incluye penalidades por incumplimiento. ¿Qué principio de contratación se omitió?",
+    "options": [
+      "Responsabilidad",
+      "Transparencia",
+      "Economía",
+      "Planificación"
+    ],
+    "answer": "Responsabilidad"
+  },
+  {
+    "question": "La página web municipal no tiene versión en lengua indígena local. ¿Qué derecho se afecta?",
+    "options": [
+      "Derecho a la igualdad",
+      "Derecho a la participación",
+      "Derecho a la información",
+      "Derecho a la intimidad"
+    ],
+    "answer": "Derecho a la participación"
+  },
+  {
+    "question": "Un proveedor de TI incumple pero es amigo del Secretario General. ¿Qué órgano actúa?",
+    "options": [
+      "La Personería",
+      "La Contraloría",
+      "El Concejo Municipal",
+      "La Fiscalía"
+    ],
+    "answer": "La Contraloría"
+  },
+  {
+    "question": "El Alcalde ordena comprar software sin estudios de necesidad. ¿Qué artículo constitucional se viola?",
+    "options": [
+      "Artículo 209 (Moralidad Administrativa)",
+      "Artículo 315 (Funciones del Alcalde)",
+      "Artículo 287 (Autonomía Territorial)",
+      "Artículo 269 (Control Fiscal)"
+    ],
+    "answer": "Artículo 209 (Moralidad Administrativa)"
+  },
+  {
+    "question": "Un funcionario pierde un USB con datos sensibles. ¿Qué protocolo debió aplicar?",
+    "options": [
+      "Notificar a la Personería y ciudadanos afectados",
+      "Ocultar el incidente para evitar sanciones",
+      "Formatear el equipo sin reporte",
+      "Denunciar penalmente al funcionario"
+    ],
+    "answer": "Notificar a la Personería y ciudadanos afectados"
+  },
+  {
+    "question": "La Contraloría solicita informes de licitaciones de TI. ¿Qué plazo tiene el municipio para responder?",
+    "options": [
+      "5 días hábiles",
+      "10 días hábiles",
+      "15 días hábiles",
+      "30 días hábiles"
+    ],
+    "answer": "10 días hábiles"
+  },
+
+
+{
+    "question": "El Gobernador de Boyacá, en uso de sus atribuciones, expide un decreto departamental que reglamenta el uso del suelo en una zona protegida del departamento. Sin embargo, la Constitución Política y las leyes orgánicas atribuyen esta función de reglamentación del uso del suelo a las Asambleas Departamentales o los Concejos Municipales mediante ordenanzas o acuerdos.\n¿Qué principio de la organización territorial o de la separación de poderes se estaría vulnerando con la actuación del Gobernador?",
+    "options": [
+      "El principio de autonomía fiscal.",
+      "El principio de la función administrativa de los alcaldes.",
+      "El principio de legalidad y la competencia normativa de las Asambleas.",
+      "El principio de control político de las Contralorías."
+    ],
+    "answer": "El principio de legalidad y la competencia normativa de las Asambleas."
+  },
+  {
+    "question": "El Concejo Municipal de Puerto Boyacá, durante una sesión plenaria, convoca al Secretario de Educación Municipal para que rinda un informe detallado sobre la ejecución del presupuesto destinado a la construcción de nuevas aulas escolares y responda a las inquietudes de los concejales.\n¿Qué tipo de función está ejerciendo el Concejo Municipal en esta situación?",
+    "options": [
+      "Función administrativa.",
+      "Función electoral.",
+      "Función de control político.",
+      "Función judicial."
+    ],
+    "answer": "Función de control político."
+  },
+  {
+    "question": "La Contraloría Municipal de Puerto Boyacá, al realizar una auditoría a la gestión de los recursos públicos, encuentra que se realizaron pagos indebidos a un contratista, generando un presunto daño patrimonial al municipio.\n¿Cuál es la acción inmediata que debe iniciar la Contraloría en este escenario para recuperar los recursos?",
+    "options": [
+      "Un proceso disciplinario contra el Alcalde.",
+      "Un proceso de responsabilidad fiscal.",
+      "Una acción penal ante la Fiscalía.",
+      "Una acción de nulidad ante la jurisdicción contencioso administrativa."
+    ],
+    "answer": "Un proceso de responsabilidad fiscal."
+  },
+  {
+    "question": "El Alcalde de Puerto Boyacá decide realizar varios nombramientos en cargos de libre nombramiento y remoción en su administración, con el fin de conformar su equipo de trabajo para el cuatrienio.\n¿Qué tipo de función está ejerciendo el Alcalde al nombrar a sus colaboradores más cercanos?",
+    "options": [
+      "Función legislativa.",
+      "Función judicial.",
+      "Función administrativa (ejecutiva).",
+      "Función de control fiscal."
+    ],
+    "answer": "Función administrativa (ejecutiva)."
+  },
+  {
+    "question": "La Asamblea Departamental de Boyacá se reúne en sesiones ordinarias para debatir y aprobar el Plan de Desarrollo Departamental propuesto por el Gobernador, así como para estudiar y expedir las normas que regirán el departamento.\nLas normas expedidas por las Asambleas Departamentales se denominan:",
+    "options": [
+      "Leyes.",
+      "Acuerdos.",
+      "Ordenanzas.",
+      "Decretos."
+    ],
+    "answer": "Ordenanzas."
+  },
+  {
+    "question": "Un ciudadano de Puerto Boyacá, inconforme con la gestión del Alcalde y respaldado por un número significativo de firmas, inicia un proceso para buscar la terminación anticipada del mandato del Alcalde. \n¿Qué mecanismo de participación ciudadana está siendo utilizado en este caso?",
+    "options": [
+      "El plebiscito.",
+      "La consulta popular.",
+      "La revocatoria del mandato.",
+      "El cabildo abierto."
+    ],
+    "answer": "La revocatoria del mandato."
+  },
+  {
+    "question": "El Gobernador de Boyacá, además de ser el jefe de la administración departamental y representante legal del departamento, cumple una función adicional en relación con el Gobierno Nacional.\n¿Cuál es esa función adicional del Gobernador?",
+    "options": [
+      "Agente del Contralor General de la República en el departamento.",
+      "Representante diplomático del departamento.",
+      "Agente del Presidente de la República en su jurisdicción.",
+      "Juez de primera instancia en asuntos departamentales."
+    ],
+    "answer": "Agente del Presidente de la República en su jurisdicción."
+  },
+  {
+    "question": "El Concejo Municipal de Puerto Boyacá, en su rol de corporación pública de elección popular, debate el proyecto de presupuesto anual presentado por el Alcalde y procede a votarlo para su aprobación. \n¿Qué tipo de norma legal local se produce una vez el presupuesto es aprobado por el Concejo?",
+    "options": [
+      "Una ley de presupuesto.",
+      "Un decreto presupuestal.",
+      "Un acuerdo municipal de presupuesto.",
+      "Una ordenanza presupuestal."
+    ],
+    "answer": "Un acuerdo municipal de presupuesto."
+  },
+  {
+    "question": "La Procuraduría General de la Nación, a través de su delegada para la Función Pública, inicia una investigación disciplinaria contra un Secretario de Despacho de la Alcaldía de Puerto Boyacá por presunto incumplimiento de sus deberes.\n¿Qué tipo de control ejerce la Procuraduría en este caso?",
+    "options": [
+      "Control fiscal.",
+      "Control político.",
+      "Control disciplinario.",
+      "Control judicial penal."
+    ],
+    "answer": "Control disciplinario."
+  },
+  {
+    "question": "En el municipio de Puerto Boyacá existen unas divisiones territoriales para la gestión de servicios y la participación ciudadana, que cuentan con Juntas Administradoras Locales (JAL).\n¿En qué divisiones territoriales municipales se establecen las Juntas Administradoras Locales (JAL)?",
+    "options": [
+      "Solo en las veredas.",
+      "Solo en las cabeceras municipales.",
+      "En las comunas y corregimientos.",
+      "En los centros poblados exclusivamente."
+    ],
+    "answer": "En las comunas y corregimientos."
+  },
+  {
+    "question": "El Alcalde de Puerto Boyacá debe presentar cada año a la Contraloría Municipal un informe detallado sobre la ejecución de los recursos públicos, la contratación y la situación financiera del municipio.\n¿Qué función del control fiscal se ejerce a través de la revisión de estos informes por parte de la Contraloría?",
+    "options": [
+      "Función de sanción disciplinaria.",
+      "Función de auditoría y evaluación de la gestión fiscal.",
+      "Función de reglamentación tributaria.",
+      "Función de aprobación del presupuesto."
+    ],
+    "answer": "Función de auditoría y evaluación de la gestión fiscal."
+  },
+  {
+    "question": "La Asamblea Departamental de Boyacá, en el ejercicio de su función de control político, puede citar a los Secretarios del despacho del Gobernador para que expliquen sus actuaciones. Si la explicación no es satisfactoria, la Asamblea podría considerar una moción de censura en ciertos casos.\n¿Cuál es el propósito principal de la moción de censura en el control político?",
+    "options": [
+      "Destituir al Gobernador del cargo.",
+      "Revocar el mandato de los Secretarios de Despacho.",
+      "Exigir la renuncia o la separación del cargo de un Secretario o Director de Departamento Administrativo.",
+      "Aprobar nuevos proyectos de ordenanza."
+    ],
+    "answer": "Exigir la renuncia o la separación del cargo de un Secretario o Director de Departamento Administrativo."
+  },
+  {
+    "question": "El Alcalde de Puerto Boyacá es elegido por voto popular para un período de cuatro años. Su elección directa por los ciudadanos es una manifestación de la autonomía de la entidad territorial.\n¿Qué tipo de poder ejerce el Alcalde como jefe de la administración municipal?",
+    "options": [
+      "Poder legislativo local.",
+      "Poder judicial local.",
+      "Poder ejecutivo local.",
+      "Poder de control fiscal."
+    ],
+    "answer": "Poder ejecutivo local."
+  },
+  {
+    "question": "Un ex-Secretario de la Alcaldía de Puerto Boyacá es investigado por la Fiscalía General de la Nación por presunta malversación de fondos públicos durante su gestión.\n¿Qué tipo de responsabilidad se le estaría imputando al ex-Secretario en este caso?",
+    "options": [
+      "Responsabilidad política.",
+      "Responsabilidad fiscal.",
+      "Responsabilidad disciplinaria.",
+      "Responsabilidad penal."
+    ],
+    "answer": "Responsabilidad penal."
+  },
+  {
+    "question": "La Ley 136 de 1994, Régimen Municipal, establece que los Concejos Municipales tienen la función de votar, de conformidad con la Constitución y la ley, los tributos y gastos locales.\nEsta función del Concejo es esencial para la autonomía del municipio en el ámbito:",
+    "options": [
+      "Judicial.",
+      "De seguridad nacional.",
+      "Fiscal y presupuestal.",
+      "Diplomático."
+    ],
+    "answer": "Fiscal y presupuestal."
+  },
+  {
+    "question": "En el caso de los Distritos Especiales en Colombia (como Bogotá, Barranquilla, Cartagena, entre otros), su régimen político, administrativo y fiscal es diferente al de los municipios ordinarios. \n¿Qué característica principal distingue el régimen de un Distrito Especial de un municipio normal?",
+    "options": [
+      "No eligen a su Alcalde por voto popular.",
+      "No tienen Concejo Distrital.",
+      "Tienen funciones y autonomía ampliadas, asimilándose en parte a un departamento.",
+      "Sus recursos provienen exclusivamente de transferencias nacionales."
+    ],
+    "answer": "Tienen funciones y autonomía ampliadas, asimilándose en parte a un departamento."
+  },
+  {
+    "question": "El Personero Municipal de Puerto Boyacá ejerce funciones de Ministerio Público, de protección de los derechos humanos y de vigilancia de la conducta oficial de los servidores públicos municipales.\n¿Quién elige al Personero Municipal?",
+    "options": [
+      "El Alcalde Municipal.",
+      "La ciudadanía en elecciones populares.",
+      "El Concejo Municipal.",
+      "El Gobernador de Boyacá."
+    ],
+    "answer": "El Concejo Municipal."
+  },
+  {
+    "question": "Un grupo de ciudadanos de Puerto Boyacá, a través de una veeduría ciudadana, ha estado siguiendo de cerca la ejecución de un contrato de obra pública municipal y ha encontrado posibles irregularidades. Desean hacer control social a la gestión pública.\n¿Qué documento legal o mecanismo les permite a los ciudadanos ejercer este control sobre la administración?",
+    "options": [
+      "La Ley 134 de 1994 (Mecanismos de Participación Ciudadana).",
+      "La Ley 617 de 2000.",
+      "La Ley 715 de 2001.",
+      "La Constitución Política, Artículo 287 (Autonomía)."
+    ],
+    "answer": "La Ley 134 de 1994 (Mecanismos de Participación Ciudadana)."
+  },
+  {
+    "question": "Un Concejal de Puerto Boyacá es inhabilitado por la Procuraduría General de la Nación para ejercer cargos públicos debido a una falta disciplinaria grave en el ejercicio de sus funciones.\n¿Qué código normativo establece el régimen disciplinario para los servidores públicos en Colombia?",
+    "options": [
+      "El Código Civil.",
+      "El Código Penal.",
+      "El Código de Régimen Municipal (Ley 136 de 1994).",
+      "El Código General Disciplinario (Ley 1952 de 2019)."
+    ],
+    "answer": "El Código General Disciplinario (Ley 1952 de 2019)."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá se ve obligada a limitar el número de nuevos contratos de prestación de servicios para el próximo año, debido a las restricciones impuestas por la Ley 617 de 2000.\n¿Qué aspecto de la gestión territorial busca controlar principalmente la Ley 617 de 2000?",
+    "options": [
+      "La inversión en infraestructura.",
+      "Los ingresos tributarios propios.",
+      "Los gastos de funcionamiento de las entidades territoriales.",
+      "Las transferencias del Sistema General de Participaciones."
+    ],
+    "answer": "Los gastos de funcionamiento de las entidades territoriales."
+  },
+  {
+    "question": "La Gobernación de Boyacá expide un decreto para reglamentar una ordenanza aprobada por la Asamblea Departamental. Este acto administrativo busca desarrollar lo dispuesto en la ordenanza para su correcta aplicación.\n¿Qué relación normativa existe entre la ordenanza y el decreto del Gobernador?",
+    "options": [
+      "El decreto puede contradecir la ordenanza.",
+      "La ordenanza es superior jerárquicamente y el decreto la desarrolla o reglamenta.",
+      "Ambos tienen el mismo rango normativo.",
+      "La ordenanza es una simple recomendación para el Gobernador."
+    ],
+    "answer": "La ordenanza es superior jerárquicamente y el decreto la desarrolla o reglamenta."
+  },
+  {
+    "question": "Las Juntas Administradoras Locales (JAL) en Puerto Boyacá tienen, entre otras funciones, la de distribuir algunas partidas globales del presupuesto municipal asignadas a su comuna o corregimiento.\n¿Qué principio de la administración pública se fortalece con la existencia y funciones de las JAL?",
+    "options": [
+      "La centralización de decisiones.",
+      "La eficiencia en el gasto militar.",
+      "La descentralización y participación ciudadana a nivel local.",
+      "La burocratización de los procesos."
+    ],
+    "answer": "La descentralización y participación ciudadana a nivel local."
+  },
+  {
+    "question": "El Tribunal Administrativo de Boyacá recibe una demanda de nulidad contra un Acuerdo del Concejo Municipal de Puerto Boyacá, bajo el argumento de que excede las competencias atribuidas por la ley.\n¿Qué rama del poder público ejerce control sobre la legalidad de los actos de las corporaciones públicas territoriales en este caso?",
+    "options": [
+      "La Rama Ejecutiva.",
+      "La Rama Legislativa.",
+      "La Rama Judicial (Jurisdicción Contencioso Administrativa).",
+      "Los Órganos de Control Fiscal."
+    ],
+    "answer": "La Rama Judicial (Jurisdicción Contencioso Administrativa)."
+  },
+  {
+    "question": "El Alcalde de Puerto Boyacá debe presentar ante el Concejo Municipal el Plan de Desarrollo Municipal, que contiene las metas y estrategias para el cuatrienio. Este plan debe ser coherente con el Plan de Desarrollo Departamental y Nacional.\nLa aprobación del Plan de Desarrollo Municipal por parte del Concejo es un ejemplo de la función:",
+    "options": [
+      "Administrativa exclusiva del Alcalde.",
+      "De control fiscal del Concejo.",
+      "Normativa y de co-gobierno del Concejo.",
+      "Judicial de los concejales."
+    ],
+    "answer": "Normativa y de co-gobierno del Concejo."
+  },
+  {
+    "question": "Un Concejal de Puerto Boyacá es elegido por voto popular. Al igual que los demás concejales, su principal función es expedir acuerdos y ejercer control político sobre la administración municipal.\n¿Qué Corporación Pública de elección popular es la cabeza del gobierno local deliberante en el municipio?",
+    "options": [
+      "La Asamblea Departamental.",
+      "La Junta Administradora Local (JAL).",
+      "El Concejo Municipal.",
+      "El Cabildo Abierto."
+    ],
+    "answer": "El Concejo Municipal."
+  },
+  {
+    "question": "La Ley 1454 de 2011 (LOOT) busca fortalecer la capacidad de las entidades territoriales para asociarse entre sí para la gestión de intereses comunes, creando figuras como las Regiones Administrativas y de Planificación (RAP).\n¿Qué objetivo principal persigue la asociación de entidades territoriales a través de figuras como las RAP?",
+    "options": [
+      "Disminuir la autonomía de los municipios.",
+      "Centralizar todas las decisiones en el gobierno nacional.",
+      "Fortalecer la capacidad de gestión y planificación conjunta para el desarrollo regional.",
+      "Eliminar la necesidad de los órganos de control."
+    ],
+    "answer": "Fortalecer la capacidad de gestión y planificación conjunta para el desarrollo regional."
+  },
+  {
+    "question": "El Contralor Municipal de Puerto Boyacá es elegido por el Concejo Municipal. Esta forma de elección es crucial para garantizar la autonomía e independencia del órgano de control frente a la administración que debe vigilar.\n¿Qué principio se busca preservar con la independencia de las contralorías?",
+    "options": [
+      "El principio de la jerarquía administrativa.",
+      "El principio de la unidad de mando.",
+      "El principio de la separación de poderes y la independencia de los órganos de control.",
+      "El principio de la subordinación al poder ejecutivo."
+    ],
+    "answer": "El principio de la separación de poderes y la independencia de los órganos de control."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá tiene la función de velar por la prestación eficiente de los servicios públicos domiciliarios. Para ello, puede contratar directamente con empresas de servicios públicos o crear empresas propias.\nEsta función es un claro ejemplo del rol del Alcalde como jefe de la rama:",
+    "options": [
+      "Legislativa.",
+      "Judicial.",
+      "Ejecutiva (administrativa).",
+      "De control."
+    ],
+    "answer": "Ejecutiva (administrativa)."
+  },
+  {
+    "question": "Un grupo de ciudadanos de Puerto Boyacá solicita al Concejo Municipal la realización de un 'Cabildo Abierto' para discutir la problemática del uso del suelo en una zona de expansión urbana y proponer soluciones a las autoridades.\n¿Qué característica principal tiene un Cabildo Abierto como mecanismo de participación ciudadana?",
+    "options": [
+      "Es una votación secreta para aprobar una ley.",
+      "Es una reunión pública de los Concejos o Asambleas donde los ciudadanos pueden intervenir directamente.",
+      "Es un mecanismo para destituir a un funcionario público.",
+      "Es una consulta popular obligatoria."
+    ],
+    "answer": "Es una reunión pública de los Concejos o Asambleas donde los ciudadanos pueden intervenir directamente."
+  },
+  {
+    "question": "Los miembros de las Asambleas Departamentales son los 'Diputados', mientras que los miembros de los Concejos Municipales son los 'Concejales'. Ambos son elegidos por voto popular en sus respectivas jurisdicciones.\n¿Qué función común y primordial cumplen tanto las Asambleas como los Concejos en sus respectivos niveles territoriales?",
+    "options": [
+      "Ejercer la jefatura de la administración ejecutiva.",
+      "Resolver conflictos entre particulares y el Estado.",
+      "Expedir normas (ordenanzas/acuerdos) y ejercer control político sobre la administración.",
+      "Administrar justicia penal."
+    ],
+    "answer": "Expedir normas (ordenanzas/acuerdos) y ejercer control político sobre la administración."
+  },
+
+{
+    "question": "El Alcalde de Puerto Boyacá, en su plan de gobierno, propone la creación de una nueva Secretaría para gestionar el turismo en el municipio. Para ello, debe presentar un proyecto de acuerdo ante la corporación pública local. \n¿Qué órgano de gobierno municipal tiene la facultad de determinar la estructura de la administración municipal y crear cargos, según la Constitución Política?",
+    "options": [
+      "La Junta Administradora Local (JAL).",
+      "El Concejo Municipal.",
+      "La Asamblea Departamental.",
+      "La Contraloría Municipal."
+    ],
+    "answer": "El Concejo Municipal."
+  },
+  {
+    "question": "La Contraloría Municipal de Puerto Boyacá realiza una auditoría al proceso de contratación de la Secretaría de Infraestructura y detecta que un funcionario ha actuado con manifiesta ignorancia de la ley, causando un detrimento patrimonial al municipio. \n¿Qué tipo de responsabilidad podría imputársele a este funcionario en el ámbito del control fiscal?",
+    "options": [
+      "Responsabilidad disciplinaria.",
+      "Responsabilidad penal.",
+      "Responsabilidad política.",
+      "Responsabilidad fiscal."
+    ],
+    "answer": "Responsabilidad fiscal."
+  },
+  {
+    "question": "Un grupo de ciudadanos de Puerto Boyacá, preocupados por la gestión del Alcalde, logra reunir las firmas necesarias para solicitar la revocatoria de su mandato. Este es un mecanismo de participación ciudadana que busca la terminación anticipada del período de un funcionario elegido por voto popular. \n¿Qué ley nacional regula este mecanismo y otros de participación ciudadana?",
+    "options": [
+      "Ley 617 de 2000.",
+      "Ley 134 de 1994.",
+      "Ley 715 de 2001.",
+      "Ley 819 de 2003."
+    ],
+    "answer": "Ley 134 de 1994."
+  },
+  {
+    "question": "El Gobernador de Boyacá, en su rol como agente del Presidente de la República, debe velar por el cumplimiento de las políticas nacionales en su departamento, como las relacionadas con el orden público y la seguridad. \n¿Qué rama del poder público representa el Gobernador a nivel departamental?",
+    "options": [
+      "Legislativa.",
+      "Judicial.",
+      "Ejecutiva.",
+      "De Control."
+    ],
+    "answer": "Ejecutiva."
+  },
+  {
+    "question": "La Asamblea Departamental de Boyacá está debatiendo un proyecto de ordenanza que busca modificar la estructura de tarifas de un impuesto departamental. \n¿Cuál es la naturaleza jurídica de las normas que expide la Asamblea Departamental?",
+    "options": [
+      "Leyes.",
+      "Decretos.",
+      "Acuerdos.",
+      "Ordenanzas."
+    ],
+    "answer": "Ordenanzas."
+  },
+  {
+    "question": "Un Concejal de Puerto Boyacá es citado por la Procuraduría Provincial para rendir descargos ante una queja por presunta participación indebida en política durante las elecciones. \n¿Qué tipo de control ejerce la Procuraduría sobre la conducta de los servidores públicos territoriales?",
+    "options": [
+      "Control fiscal.",
+      "Control político.",
+      "Control disciplinario.",
+      "Control judicial penal."
+    ],
+    "answer": "Control disciplinario."
+  },
+  {
+    "question": "El Alcalde de Puerto Boyacá, como jefe de la administración municipal, debe velar por la prestación eficiente de los servicios públicos domiciliarios, como el acueducto y alcantarillado, en su jurisdicción. \n¿Qué artículo de la Constitución Política de Colombia establece esta función fundamental del Alcalde?",
+    "options": [
+      "Artículo 287.",
+      "Artículo 300.",
+      "Artículo 315.",
+      "Artículo 338."
+    ],
+    "answer": "Artículo 315."
+  },
+  {
+    "question": "Las Juntas Administradoras Locales (JAL) de las comunas de Puerto Boyacá tienen entre sus funciones la de vigilar y controlar la prestación de los servicios públicos en su área. \n¿Qué principio de la organización territorial se fortalece con la existencia y funciones de las JAL?",
+    "options": [
+      "Centralización administrativa.",
+      "Autonomía fiscal plena.",
+      "Descentralización y participación ciudadana.",
+      "Uniformidad normativa nacional."
+    ],
+    "answer": "Descentralización y participación ciudadana."
+  },
+  {
+    "question": "La Contraloría General de la República detecta irregularidades en la ejecución de un contrato financiado con recursos del Sistema General de Participaciones (SGP) en el municipio de Puerto Boyacá. \n¿Por qué la Contraloría General, y no la Contraloría Municipal, tendría competencia para intervenir en este caso?",
+    "options": [
+      "Porque los recursos del SGP son de origen nacional.",
+      "Porque el contrato supera un monto específico.",
+      "Porque el Alcalde lo solicitó directamente.",
+      "Porque la Contraloría Municipal no tiene facultades para auditar."
+    ],
+    "answer": "Porque los recursos del SGP son de origen nacional."
+  },
+  {
+    "question": "El Concejo Municipal de Puerto Boyacá aprueba el Plan de Desarrollo Municipal, que es la hoja de ruta para la administración durante los próximos cuatro años. \n¿Qué tipo de acto jurídico es el Plan de Desarrollo Municipal una vez aprobado por el Concejo?",
+    "options": [
+      "Un decreto del Alcalde.",
+      "Una ley de la República.",
+      "Un acuerdo municipal.",
+      "Una ordenanza departamental."
+    ],
+    "answer": "Un acuerdo municipal."
+  },
+  {
+    "question": "El Tribunal Administrativo de Boyacá anula un decreto del Gobernador por considerar que excede sus facultades reglamentarias y contraría una ley nacional. \n¿Qué tipo de control ejerce la Jurisdicción Contencioso Administrativa en este escenario?",
+    "options": [
+      "Control fiscal.",
+      "Control disciplinario.",
+      "Control de legalidad de los actos administrativos.",
+      "Control político."
+    ],
+    "answer": "Control de legalidad de los actos administrativos."
+  },
+  {
+    "question": "El Personero Municipal de Puerto Boyacá debe velar por la protección de los derechos humanos y el cumplimiento de los deberes de los servidores públicos municipales. \n¿Qué órgano de gobierno territorial elige al Personero Municipal?",
+    "options": [
+      "El Alcalde.",
+      "La ciudadanía en las urnas.",
+      "El Concejo Municipal.",
+      "La Asamblea Departamental."
+    ],
+    "answer": "El Concejo Municipal."
+  },
+  {
+    "question": "La Constitución Política de Colombia, en su Artículo 287, establece que las entidades territoriales tienen autonomía para la gestión de sus intereses y dentro de los límites de la Constitución y la ley. \n¿Qué implica esta autonomía para el municipio de Puerto Boyacá en el ámbito de sus órganos de gobierno?",
+    "options": [
+      "La facultad de crear sus propias leyes sin sujeción al Congreso.",
+      "La capacidad de elegir a sus autoridades y administrar sus recursos y competencias.",
+      "La potestad de desconocer las decisiones del gobierno nacional.",
+      "La posibilidad de eliminar los órganos de control."
+    ],
+    "answer": "La capacidad de elegir a sus autoridades y administrar sus recursos y competencias."
+  },
+  {
+    "question": "Durante un debate de control político en el Concejo Municipal de Puerto Boyacá, varios concejales manifiestan su inconformidad con la gestión del Secretario de Hacienda y solicitan su renuncia. \n¿Qué mecanismo de control político de las corporaciones públicas puede llevar a la separación del cargo de un secretario de despacho, bajo ciertas condiciones?",
+    "options": [
+      "La destitución directa por el Concejo.",
+      "La moción de censura.",
+      "La revocatoria del mandato.",
+      "La interpelación simple."
+    ],
+    "answer": "La moción de censura."
+  },
+  {
+    "question": "La Fiscalía General de la Nación investiga a un ex-Alcalde de Puerto Boyacá por presuntos actos de corrupción relacionados con contratos públicos. \n¿Qué tipo de responsabilidad se busca establecer en esta investigación por parte de la Fiscalía?",
+    "options": [
+      "Responsabilidad política.",
+      "Responsabilidad fiscal.",
+      "Responsabilidad disciplinaria.",
+      "Responsabilidad penal."
+    ],
+    "answer": "Responsabilidad penal."
+  },
+  {
+    "question": "La Ley 136 de 1994, que regula el régimen municipal, establece las funciones específicas del Concejo Municipal. \nAdemás de expedir acuerdos, ¿cuál es otra función primordial del Concejo Municipal?",
+    "options": [
+      "Administrar la justicia municipal.",
+      "Nombrar a los secretarios de despacho del Alcalde.",
+      "Ejercer control político sobre el Alcalde y sus secretarios.",
+      "Promulgar los decretos del Alcalde."
+    ],
+    "answer": "Ejercer control político sobre el Alcalde y sus secretarios."
+  },
+  {
+    "question": "El Contralor Departamental de Boyacá es un funcionario de control que ejerce vigilancia sobre la gestión fiscal de la Gobernación y de los municipios de su jurisdicción. \n¿Quién es el encargado de elegir al Contralor Departamental?",
+    "options": [
+      "El Gobernador.",
+      "La Asamblea Departamental.",
+      "La Contraloría General de la República.",
+      "Los ciudadanos en elecciones populares."
+    ],
+    "answer": "La Asamblea Departamental."
+  },
+  {
+    "question": "Un ciudadano de Puerto Boyacá desea conocer cómo se están ejecutando los recursos del presupuesto municipal para la construcción de una obra pública. Para ello, asiste a una sesión del Concejo Municipal donde se discute este tema y los ciudadanos pueden participar. \n¿Qué mecanismo de participación ciudadana le permite al ciudadano intervenir directamente en las deliberaciones del Concejo?",
+    "options": [
+      "El plebiscito.",
+      "La consulta popular.",
+      "El cabildo abierto.",
+      "La iniciativa popular normativa."
+    ],
+    "answer": "El cabildo abierto."
+  },
+  {
+    "question": "El Alcalde de Puerto Boyacá debe cumplir y hacer cumplir la Constitución, las leyes y los acuerdos del Concejo Municipal. Esto implica que sus decretos y actos administrativos deben estar en consonancia con la normativa superior. \n¿Qué principio fundamental rige la actuación del Alcalde en relación con las normas expedidas por el Concejo?",
+    "options": [
+      "Principio de independencia absoluta.",
+      "Principio de jerarquía normativa.",
+      "Principio de delegación de funciones.",
+      "Principio de control político recíproco."
+    ],
+    "answer": "Principio de jerarquía normativa."
+  },
+  {
+    "question": "La Ley 617 de 2000, además de establecer límites a los gastos de funcionamiento de las entidades territoriales, también influye en la capacidad de las administraciones para crear nuevas plantas de personal o incrementar los salarios. \n¿Qué propósito fundamental tiene esta ley en la gestión de los órganos de gobierno territorial?",
+    "options": [
+      "Promover el endeudamiento público.",
+      "Fomentar la burocracia en el sector público.",
+      "Garantizar la disciplina y sostenibilidad fiscal de las entidades.",
+      "Establecer la destinación específica de las regalías."
+    ],
+    "answer": "Garantizar la disciplina y sostenibilidad fiscal de las entidades."
+  },
+  {
+    "question": "Los departamentos, como entidades territoriales, tienen autonomía para la gestión de sus intereses dentro de los límites de la Constitución y la ley. \n¿Quién es el jefe de la administración departamental y el representante legal del departamento?",
+    "options": [
+      "El Presidente de la Asamblea Departamental.",
+      "El Contralor Departamental.",
+      "El Gobernador.",
+      "El Presidente de la República."
+    ],
+    "answer": "El Gobernador."
+  },
+  {
+    "question": "Un ciudadano de Puerto Boyacá, al considerar que un Acuerdo del Concejo Municipal es inconstitucional, decide demandarlo ante la autoridad competente. \n¿Qué órgano de la Rama Judicial es el encargado de revisar la legalidad y constitucionalidad de los Acuerdos municipales?",
+    "options": [
+      "La Corte Suprema de Justicia.",
+      "El Tribunal Administrativo con competencia en el departamento.",
+      "La Jurisdicción Ordinaria.",
+      "La Contraloría Municipal."
+    ],
+    "answer": "El Tribunal Administrativo con competencia en el departamento."
+  },
+  {
+    "question": "En el contexto de la organización territorial, los municipios son considerados la entidad fundamental de la división político-administrativa del Estado. \n¿Qué órganos de gobierno se consideran esenciales para el funcionamiento de un municipio?",
+    "options": [
+      "Solo el Alcalde, sin necesidad de un Concejo.",
+      "El Alcalde como rama ejecutiva y el Concejo Municipal como rama deliberante.",
+      "La Asamblea Departamental y el Gobernador.",
+      "La Contraloría y la Procuraduría municipales exclusivamente."
+    ],
+    "answer": "El Alcalde como rama ejecutiva y el Concejo Municipal como rama deliberante."
+  },
+  {
+    "question": "El Procurador General de la Nación, en ejercicio de sus funciones, puede intervenir en los procesos judiciales y administrativos que se surtan ante las autoridades territoriales. \n¿Qué rol cumple el Ministerio Público en el marco del control a las entidades territoriales?",
+    "options": [
+      "Aprobar el presupuesto de las entidades.",
+      "Ejercer control fiscal sobre los recursos públicos.",
+      "Proteger los derechos humanos y vigilar la conducta oficial.",
+      "Expedir las normas tributarias locales."
+    ],
+    "answer": "Proteger los derechos humanos y vigilar la conducta oficial."
+  },
+  {
+    "question": "La Ley 1551 de 2012 introdujo modificaciones al régimen municipal, fortaleciendo la autonomía y las capacidades de gestión de los municipios. \n¿Qué propósito principal tienen estas leyes que modifican el régimen de las entidades territoriales?",
+    "options": [
+      "Centralizar las decisiones en el gobierno nacional.",
+      "Debilitar la capacidad de gestión local.",
+      "Modernizar y adecuar la institucionalidad territorial a los nuevos desafíos.",
+      "Restringir la participación ciudadana en la gestión pública."
+    ],
+    "answer": "Modernizar y adecuar la institucionalidad territorial a los nuevos desafíos."
+  },
+  {
+    "question": "El Contralor Municipal de Puerto Boyacá debe presentar informes periódicos sobre la gestión fiscal del municipio ante el Concejo Municipal. \n¿Qué tipo de relación de control se evidencia en este escenario?",
+    "options": [
+      "Control jerárquico.",
+      "Control interno.",
+      "Control de co-gobierno.",
+      "Control político del Concejo sobre el órgano de control."
+    ],
+    "answer": "Control político del Concejo sobre el órgano de control."
+  },
+  {
+    "question": "Un ciudadano de Puerto Boyacá busca establecer una veeduría ciudadana para vigilar la ejecución de un contrato de alimentación escolar en el municipio. \n¿Cuál es el objetivo principal de la veeduría ciudadana en el contexto de la gestión de los órganos de gobierno?",
+    "options": [
+      "Sustituir a los órganos de control formal.",
+      "Ejercer presión política para destituir al Alcalde.",
+      "Fortalecer el control social y la transparencia en la gestión pública.",
+      "Crear nuevas normas legales para el municipio."
+    ],
+    "answer": "Fortalecer el control social y la transparencia en la gestión pública."
+  },
+  {
+    "question": "La Constitución Política de Colombia establece que las Asambleas Departamentales están compuestas por Diputados, quienes son elegidos por voto popular. \n¿Cuál es la función normativa principal de las Asambleas Departamentales?",
+    "options": [
+      "Expedir leyes departamentales.",
+      "Expedir acuerdos departamentales.",
+      "Expedir ordenanzas departamentales.",
+      "Expedir decretos departamentales."
+    ],
+    "answer": "Expedir ordenanzas departamentales."
+  },
+  {
+    "question": "Un ex-Secretario de Hacienda de la Alcaldía de Puerto Boyacá es encontrado responsable de una falta disciplinaria grave por la Procuraduría. Una de las sanciones impuestas es la inhabilidad para ejercer cargos públicos por un tiempo determinado.\n¿Qué implicación tiene la inhabilidad impuesta por la Procuraduría para el ex-Secretario en relación con la Rama Ejecutiva territorial?",
+    "options": [
+      "Le permite postularse de inmediato a otro cargo de elección popular.",
+      "Le prohíbe temporal o definitivamente volver a ocupar cargos en la administración pública.",
+      "Le exige pagar una multa fiscal al municipio.",
+      "Lo exonera de cualquier otra responsabilidad."
+    ],
+    "answer": "Le prohíbe temporal o definitivamente volver a ocupar cargos en la administración pública."
+  },
+  {
+    "question": "La Constitución Política establece que los departamentos y municipios tienen la capacidad de gobernarse por autoridades propias. \n¿Qué principio fundamental de la organización territorial se reafirma con esta disposición?",
+    "options": [
+      "El centralismo administrativo.",
+      "La jerarquía burocrática.",
+      "La autonomía territorial.",
+      "La unidad de mando."
+    ],
+    "answer": "La autonomía territorial."
+  }
+
+
+
+]

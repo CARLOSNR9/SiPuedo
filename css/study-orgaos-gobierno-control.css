@@ -1,0 +1,136 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    padding: 10px;
+    text-align: center;
+}
+
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+header nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Títulos y secciones */
+h1, h2, h3, h4 {
+    color: #333;
+    margin-bottom: 15px;
+}
+
+h1 {
+    font-size: 2.2rem;
+    color: #2c6f30; /* Un verde más oscuro para el título principal */
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.8rem;
+    color: #4CAF50; /* Verde principal para las secciones de IA */
+    padding-top: 20px; /* Espacio antes de cada sección grande */
+    border-top: 1px solid #eee; /* Separador sutil */
+    margin-top: 30px;
+}
+
+h3 {
+    font-size: 1.5rem;
+    color: #5cb85c; /* Un verde ligeramente más claro */
+    margin-top: 25px;
+}
+
+h4 {
+    font-size: 1.2rem;
+    color: #6dcc6d; /* Un verde aún más claro */
+    margin-top: 20px;
+}
+
+p {
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Listas */
+ul {
+    list-style-type: disc; /* Vuelve a los puntos para listas principales */
+    padding-left: 25px;
+    margin-bottom: 15px;
+}
+
+ul li {
+    margin-bottom: 8px;
+    line-height: 1.5;
+}
+
+/* Para listas anidadas o de respuesta */
+ul ul {
+    list-style-type: circle; /* Círculos para sub-listas */
+    padding-left: 20px;
+}
+
+/* Negritas */
+strong {
+    color: #333; /* Asegura que las negritas resalten bien */
+}
+
+
+/* Footer */
+footer {
+    text-align: center;
+    font-size: 0.9rem;
+    padding: 20px;
+    background-color: #4CAF50;
+    color: white;
+    margin-top: 40px; /* Más espacio antes del footer */
+}
+
+/* Línea divisoria entre secciones de IA */
+section + section {
+    border-top: 3px solid #ddd; /* Separador más notorio entre las secciones de IA */
+    padding-top: 30px;
+    margin-top: 30px;
+}
+
+/* Estilo para los bloques de respuesta */
+section p:has(strong) { /* Para los párrafos que contienen la respuesta correcta */
+    font-weight: bold;
+    color: #2c6f30;
+}
