@@ -1,0 +1,1169 @@
+
+[
+    {
+        "question": "¿Cuál es una manifestación clara del compromiso con la organización?",
+        "options": [
+            "Asistir puntualmente sin contribuir con ideas.",
+            "Cumplir únicamente con lo exigido en su contrato.",
+            "Colaborar activamente en iniciativas que mejoran el servicio.",
+            "Criticar constantemente la dirección institucional."
+        ],
+        "answer": "Colaborar activamente en iniciativas que mejoran el servicio"
+    },
+    {
+        "question": "¿Qué componente del compromiso implica una conexión emocional con la organización?",
+        "options": [
+            "Compromiso calculado",
+            "Compromiso normativo",
+            "Compromiso afectivo",
+            "Compromiso pasivo"
+        ],
+        "answer": "Compromiso afectivo"
+    },
+{
+    "question": "Tu jefe te asigna una nueva tarea que no está en tu descripción de trabajo habitual. ¿Cómo manejas este cambio?",
+    "options": [
+      "Me resisto y trato de delegar la tarea a otro compañero",
+      "La acepto de inmediato y busco la manera más eficiente de completarla",
+      "Me siento incómodo y trato de evitar involucrarme en la tarea",
+      "Me quejo con mis compañeros sobre el cambio"
+    ],
+    "answer": "La acepto de inmediato y busco la manera más eficiente de completarla"
+  },
+  {
+    "question": "En tu equipo de trabajo se implementa un nuevo proceso que cambia la forma en que realizas tus tareas diarias. ¿Cómo reaccionas?",
+    "options": [
+      "Me resisto al cambio y trato de mantener mi forma de trabajo anterior",
+      "Me adapto rápidamente, aprendo el nuevo proceso y ayudo a otros a hacerlo también",
+      "Ignoro el cambio y sigo con el proceso antiguo",
+      "Me quejo del nuevo proceso y trato de buscar excusas para no implementarlo"
+    ],
+    "answer": "Me adapto rápidamente, aprendo el nuevo proceso y ayudo a otros a hacerlo también"
+  },
+  {
+    "question": "Tu organización introduce nuevas políticas para mejorar la eficiencia en el trabajo. ¿Cómo demuestras tu compromiso con estas políticas?",
+    "options": [
+      "Las ignoro, ya que no creo que sean necesarias",
+      "Me quejo, pero trato de seguirlas lo mejor posible",
+      "Participo activamente en la implementación de las políticas y doy sugerencias para mejorar",
+      "Me esfuerzo por adaptar mi trabajo a las nuevas políticas para mejorar la eficiencia"
+    ],
+    "answer": "Participo activamente en la implementación de las políticas y doy sugerencias para mejorar"
+  },
+  {
+    "question": "El equipo al que perteneces está teniendo dificultades para cumplir con una meta importante. ¿Cómo contribuyes a alcanzar esa meta?",
+    "options": [
+      "Ignoro la situación y espero que otros se encarguen",
+      "Me esfuerzo por aportar ideas y motivar al equipo a colaborar para alcanzar la meta",
+      "Me quejo de la falta de recursos y no hago nada para cambiar la situación",
+      "Delego todas mis responsabilidades a los demás miembros del equipo"
+    ],
+    "answer": "Me esfuerzo por aportar ideas y motivar al equipo a colaborar para alcanzar la meta"
+  },
+  {
+    "question": "En tu lugar de trabajo, algunos compañeros están desmotivados debido a los cambios recientes. ¿Cómo actúas?",
+    "options": [
+      "Ignoro el problema y sigo trabajando como siempre",
+      "Me uno a las quejas de mis compañeros y me siento igual de desmotivado",
+      "Intento entender las preocupaciones y ayudo a mis compañeros a adaptarse positivamente al cambio",
+      "Dejo que otros resuelvan el problema, ya que no es mi responsabilidad"
+    ],
+    "answer": "Intento entender las preocupaciones y ayudo a mis compañeros a adaptarse positivamente al cambio"
+  },
+  {
+    "question": "Tu jefe te pide que colabores con un compañero que no te cae bien. ¿Cómo manejas esta situación?",
+    "options": [
+      "Evito colaborar con él y trato de delegar la tarea",
+      "Me concentro en el objetivo de la tarea y trabajo con él de manera profesional",
+      "Me quejo a mi jefe sobre la colaboración forzada",
+      "Hago todo lo posible para evitar trabajar con él, aunque sea necesario"
+    ],
+    "answer": "Me concentro en el objetivo de la tarea y trabajo con él de manera profesional"
+  },
+  {
+    "question": "Se te asigna un proyecto que involucra nuevas herramientas tecnológicas. ¿Cómo abordas esta tarea?",
+    "options": [
+      "Me siento abrumado y trato de evitar el uso de las nuevas herramientas",
+      "Investigo sobre las nuevas herramientas, me capacito y aplico lo aprendido en el proyecto",
+      "Me resisto a usar las nuevas herramientas y trato de hacer el proyecto de la forma tradicional",
+      "Ignoro las nuevas herramientas y espero que otros se encarguen"
+    ],
+    "answer": "Investigo sobre las nuevas herramientas, me capacito y aplico lo aprendido en el proyecto"
+  },
+  {
+    "question": "Un compañero no está cumpliendo con sus responsabilidades dentro de un proyecto importante. ¿Cómo abordas esta situación?",
+    "options": [
+      "Ignoro el problema y espero que otros lo resuelvan",
+      "Hablo con mi compañero de manera respetuosa para ofrecerle ayuda y solucionar el problema",
+      "Me quejo con otros compañeros, pero no hago nada al respecto",
+      "Asumo toda la responsabilidad para cubrir su falta de trabajo"
+    ],
+    "answer": "Hablo con mi compañero de manera respetuosa para ofrecerle ayuda y solucionar el problema"
+  },
+  {
+    "question": "Te asignan un nuevo proyecto con tareas que no dominabas anteriormente. ¿Cómo reaccionas?",
+    "options": [
+      "Me siento incómodo y trato de delegar las tareas",
+      "Acepto el desafío, aprendo lo necesario y busco realizar las tareas de la mejor manera posible",
+      "Me quejo por no tener experiencia en el área y espero que otro lo haga",
+      "Ignoro el proyecto y no me involucro mucho"
+    ],
+    "answer": "Acepto el desafío, aprendo lo necesario y busco realizar las tareas de la mejor manera posible"
+  },
+  {
+    "question": "El equipo de trabajo experimenta una reestructuración y ahora se te asignan nuevas responsabilidades. ¿Cómo manejas este cambio?",
+    "options": [
+      "Me resisto al cambio y trato de mantener mis tareas anteriores",
+      "Acepto la reestructuración y me adapto a las nuevas responsabilidades con una actitud positiva",
+      "Me quejo de la reestructuración y trato de no involucrarme demasiado",
+      "Me siento incómodo y no hago mucho para adaptarme a las nuevas responsabilidades"
+    ],
+    "answer": "Acepto la reestructuración y me adapto a las nuevas responsabilidades con una actitud positiva"
+  },
+  {
+    "question": "El proyecto que estás gestionando tiene un plazo ajustado, ¿cómo gestionas la situación para cumplir con los tiempos?",
+    "options": [
+      "Me quejo de los plazos ajustados y trato de retrasar el proyecto",
+      "Trabajo de manera organizada, priorizo las tareas y colaboro con el equipo para cumplir con el plazo",
+      "Dejo que otros se encarguen de gestionar el proyecto",
+      "Ignoro los plazos y dejo que el proyecto se retrase"
+    ],
+    "answer": "Trabajo de manera organizada, priorizo las tareas y colaboro con el equipo para cumplir con el plazo"
+  },
+  {
+    "question": "En tu trabajo, surgen varios cambios en las normas y procedimientos. ¿Cómo te adaptas a estas modificaciones?",
+    "options": [
+      "Me resisto al cambio y trato de seguir con los procedimientos anteriores",
+      "Me capacito sobre las nuevas normas, adapto mi trabajo y ayudo a otros a entenderlas",
+      "Me siento frustrado y evito implementar las nuevas normas",
+      "Ignoro los cambios y trato de continuar con los métodos previos"
+    ],
+    "answer": "Me capacito sobre las nuevas normas, adapto mi trabajo y ayudo a otros a entenderlas"
+  },
+  {
+    "question": "En un proyecto en equipo, las expectativas no se cumplen y hay desacuerdos. ¿Cómo contribuyes a resolver el conflicto?",
+    "options": [
+      "Ignoro los desacuerdos y espero que se resuelvan solos",
+      "Participo activamente en la discusión para encontrar una solución y asegurar que el proyecto siga adelante",
+      "Me quedo callado y dejo que otros manejen la situación",
+      "Me quejo de los problemas y trato de no involucrarme"
+    ],
+    "answer": "Participo activamente en la discusión para encontrar una solución y asegurar que el proyecto siga adelante"
+  },
+  {
+    "question": "Se presentan cambios organizacionales y muchos de tus compañeros están desmotivados. ¿Cómo reaccionas?",
+    "options": [
+      "Me uno a las quejas y me siento desmotivado también",
+      "Busco entender los cambios y ayudo a mis compañeros a adaptarse a la nueva situación",
+      "Me quejo sobre los cambios y trato de evitar involucrarme",
+      "Ignoro los cambios y sigo trabajando como antes"
+    ],
+    "answer": "Busco entender los cambios y ayudo a mis compañeros a adaptarse a la nueva situación"
+  },
+  {
+    "question": "Tu jefe te asigna un nuevo proyecto que está fuera de tu área de experiencia. ¿Cómo lo enfrentas?",
+    "options": [
+      "Me siento incómodo y trato de delegar el proyecto",
+      "Investigo sobre el tema, aprendo lo necesario y me comprometo a cumplir con el proyecto",
+      "Evito asumir el proyecto, ya que no me siento capaz",
+      "Rechazo el proyecto y pido que lo asuma otra persona"
+    ],
+    "answer": "Investigo sobre el tema, aprendo lo necesario y me comprometo a cumplir con el proyecto"
+  },
+  {
+    "question": "En tu trabajo, debes colaborar con un equipo multidisciplinario. ¿Cómo gestionas la diversidad de opiniones?",
+    "options": [
+      "Ignoro las opiniones de otros y trato de hacer todo a mi manera",
+      "Escucho activamente las ideas de mis compañeros, colaboro y trato de encontrar soluciones que beneficien al equipo",
+      "Dejo que otros tomen las decisiones sin involucrarme",
+      "Me resisto a colaborar con los demás y prefiero trabajar de manera independiente"
+    ],
+    "answer": "Escucho activamente las ideas de mis compañeros, colaboro y trato de encontrar soluciones que beneficien al equipo"
+  },
+  {
+    "question": "Tu equipo tiene una meta difícil de alcanzar debido a recursos limitados. ¿Cómo motivas a tu equipo para seguir adelante?",
+    "options": [
+      "Me quejo de los recursos limitados y me siento desmotivado",
+      "Motivo a mi equipo, busco soluciones alternativas y trato de maximizar el uso de los recursos disponibles",
+      "Dejo que el equipo maneje la situación sin involucrarme",
+      "Me siento abrumado y dejo que otros tomen las riendas"
+    ],
+    "answer": "Motivo a mi equipo, busco soluciones alternativas y trato de maximizar el uso de los recursos disponibles"
+  },
+  {
+    "question": "Tu equipo debe cumplir con un proyecto importante, pero las tareas no están claras. ¿Cómo gestionas esta situación?",
+    "options": [
+      "Dejo que el equipo se encargue de definir las tareas sin mi intervención",
+      "Organizo una reunión con el equipo para definir claramente las tareas y asegurar que todos sepan qué hacer",
+      "Ignoro el problema y espero que se resuelva solo",
+      "Me quejo de la falta de claridad y trato de delegar el trabajo"
+    ],
+    "answer": "Organizo una reunión con el equipo para definir claramente las tareas y asegurar que todos sepan qué hacer"
+  },
+  {
+    "question": "Durante un proyecto importante, un compañero no cumple con su parte del trabajo. ¿Cómo manejas esta situación?",
+    "options": [
+      "Ignoro el problema y espero que se solucione por sí solo",
+      "Abordo la situación con mi compañero de manera constructiva y ofrezco mi ayuda si es necesario",
+      "Me quejo a mi jefe sin intentar resolver el problema directamente",
+      "Dejo que otros asuman la responsabilidad de resolver la situación"
+    ],
+    "answer": "Abordo la situación con mi compañero de manera constructiva y ofrezco mi ayuda si es necesario"
+  },
+  {
+    "question": "Tu equipo está pasando por una fase de transición debido a cambios en la organización. ¿Cómo contribuyes a que el proceso sea exitoso?",
+    "options": [
+      "Me resisto a los cambios y trato de mantener el trabajo como estaba",
+      "Trabajo de manera flexible, me adapto y ayudo a mis compañeros a adaptarse a los nuevos procesos",
+      "Dejo que los cambios sucedan sin involucrarme en el proceso",
+      "Me quejo del cambio y trato de evitar participar en la transición"
+    ],
+    "answer": "Trabajo de manera flexible, me adapto y ayudo a mis compañeros a adaptarse a los nuevos procesos"
+  },
+
+  {
+    "question": "Tu organización implementa un nuevo sistema de gestión que requiere cambios en la forma en que realizas tus tareas diarias. El cambio ha generado resistencia en parte del equipo. ¿Cómo lideras el proceso de adaptación?",
+    "options": [
+      "Rechazo el cambio y trato de seguir con las prácticas anteriores",
+      "Implico a todos los miembros del equipo en la implementación del sistema, identificando sus preocupaciones y ofreciendo soluciones",
+      "Me siento frustrado por la resistencia y trato de delegar la responsabilidad del cambio en otros",
+      "Dejo que otros manejen la implementación del sistema sin involucrarme"
+    ],
+    "answer": "Implico a todos los miembros del equipo en la implementación del sistema, identificando sus preocupaciones y ofreciendo soluciones"
+  },
+  {
+    "question": "Te han asignado la tarea de liderar un proyecto importante, pero el equipo está dividido por desacuerdos sobre cómo abordar las tareas. ¿Qué enfoque tomas para garantizar la colaboración efectiva?",
+    "options": [
+      "Obligo a todos a seguir un único enfoque sin importar sus opiniones",
+      "Escucho las ideas de todos, facilito un diálogo abierto y encuentro un enfoque común que considere las preocupaciones de todos",
+      "Dejo que el equipo decida entre ellos, sin involucrarme mucho",
+      "Imposibilito las discusiones y tomo la decisión final sin consultar al equipo"
+    ],
+    "answer": "Escucho las ideas de todos, facilito un diálogo abierto y encuentro un enfoque común que considere las preocupaciones de todos"
+  },
+  {
+    "question": "Tu equipo enfrenta un retraso en el proyecto debido a la falta de recursos y tiempo. ¿Cómo motivas a tus compañeros para que el proyecto siga adelante?",
+    "options": [
+      "Me quejo sobre la falta de recursos y espero que el proyecto se resuelva solo",
+      "Identifico formas alternativas de trabajar con los recursos disponibles y ayudo al equipo a mantener el enfoque en las metas",
+      "Evito tomar responsabilidad por el retraso y dejo que otros manejen la situación",
+      "Me siento desmotivado y no hago mucho para avanzar el proyecto"
+    ],
+    "answer": "Identifico formas alternativas de trabajar con los recursos disponibles y ayudo al equipo a mantener el enfoque en las metas"
+  },
+  {
+    "question": "En tu equipo, algunos compañeros están pasando por dificultades personales que afectan su rendimiento. ¿Cómo muestras tu compromiso organizacional frente a esta situación?",
+    "options": [
+      "Ignoro sus dificultades y me concentro solo en mi trabajo",
+      "Trato de brindarles apoyo y trabajar juntos para mantener el rendimiento del equipo mientras gestionamos las dificultades",
+      "Me quejo de la situación y dejo que otros se encarguen de ayudar",
+      "Dejo que sus problemas personales afecten mi trabajo sin intervenir"
+    ],
+    "answer": "Trato de brindarles apoyo y trabajar juntos para mantener el rendimiento del equipo mientras gestionamos las dificultades"
+  },
+  {
+    "question": "Se presenta un conflicto ético dentro del equipo sobre cómo manejar un proyecto con presupuesto limitado. ¿Cómo actúas para resolver la situación de manera ética y mantener el compromiso con la organización?",
+    "options": [
+      "Ignoro el conflicto y sigo adelante con el proyecto",
+      "Promuevo una discusión abierta, identifico soluciones éticas y aseguro que todos los involucrados comprendan las decisiones",
+      "Tomo la decisión de manera unilateral sin consultar al equipo",
+      "Dejo que el conflicto se resuelva por sí solo sin intervención"
+    ],
+    "answer": "Promuevo una discusión abierta, identifico soluciones éticas y aseguro que todos los involucrados comprendan las decisiones"
+  },
+  {
+    "question": "El gobierno introduce una nueva política que cambia significativamente la manera en que tu equipo debe operar. ¿Cómo gestionas la transición para que todos se adapten al cambio?",
+    "options": [
+      "Me opongo a la política y trato de seguir trabajando como antes",
+      "Organizo sesiones informativas para explicar la política y facilito el proceso de adaptación para el equipo",
+      "Dejo que los miembros del equipo gestionen el cambio por sí mismos",
+      "Me siento frustrado por el cambio y no ayudo en el proceso de adaptación"
+    ],
+    "answer": "Organizo sesiones informativas para explicar la política y facilito el proceso de adaptación para el equipo"
+  },
+  {
+    "question": "En un proyecto crucial, se presenta un error significativo en los primeros pasos que compromete el plazo de entrega. ¿Cómo manejas la situación para mantener el compromiso organizacional y la moral del equipo?",
+    "options": [
+      "Me siento culpable y dejo que otros se encarguen de la solución",
+      "Asumo la responsabilidad del error, propongo una solución y motivo al equipo a trabajar juntos para solucionar el problema",
+      "Rechazo la responsabilidad del error y dejo que otros tomen el control",
+      "Me desmotivo y trato de retrasar la entrega del proyecto"
+    ],
+    "answer": "Asumo la responsabilidad del error, propongo una solución y motivo al equipo a trabajar juntos para solucionar el problema"
+  },
+  {
+    "question": "Tu equipo tiene que cumplir con una meta ambiciosa, pero algunos compañeros están desmotivados y no están contribuyendo lo suficiente. ¿Cómo gestionas la situación?",
+    "options": [
+      "Ignoro la situación y espero que los compañeros se adapten por sí mismos",
+      "Motivo a los compañeros, hago un seguimiento cercano y busco soluciones que beneficien a todos para cumplir con la meta",
+      "Reprendo a los compañeros por no cumplir con sus tareas",
+      "Me siento frustrado, me alejo del grupo y dejo que se resuelva solo"
+    ],
+    "answer": "Motivo a los compañeros, hago un seguimiento cercano y busco soluciones que beneficien a todos para cumplir con la meta"
+  },
+  {
+    "question": "En una reunión, se discuten cambios que afectan el rol de tu equipo. ¿Cómo actúas para asegurar que el equipo esté comprometido y preparado para adaptarse a los cambios?",
+    "options": [
+      "Me resisto al cambio y trato de evitar la implementación de las nuevas ideas",
+      "Escucho las preocupaciones del equipo, promuevo un ambiente abierto y ayudo a todos a adaptarse de manera efectiva",
+      "Dejo que los miembros del equipo se adapten por sí mismos sin intervenir",
+      "Me siento frustrado y trato de ignorar los cambios propuestos"
+    ],
+    "answer": "Escucho las preocupaciones del equipo, promuevo un ambiente abierto y ayudo a todos a adaptarse de manera efectiva"
+  },
+  {
+    "question": "Cuando te enfrentas a una meta difícil de alcanzar, ¿cómo gestionas la presión para cumplir con las expectativas?",
+    "options": [
+      "Me siento abrumado y trato de delegar el trabajo",
+      "Organizo mis tareas, priorizo actividades y mantengo una actitud positiva para alcanzar la meta",
+      "Me doy por vencido rápidamente cuando las cosas se complican",
+      "Me quejo constantemente sobre la dificultad de la meta"
+    ],
+    "answer": "Organizo mis tareas, priorizo actividades y mantengo una actitud positiva para alcanzar la meta"
+  },
+  {
+    "question": "Tu organización introduce un sistema de evaluación del desempeño basado en nuevos criterios. Algunos empleados se sienten inseguros al respecto. ¿Cómo ayudas a tu equipo a adaptarse?",
+    "options": [
+      "Ignoro el cambio y sigo trabajando como siempre",
+      "Comento con mi equipo sobre los nuevos criterios, aclaro dudas y los animo a verlo como una oportunidad de mejora",
+      "Dejo que otros resuelvan las inquietudes sin intervenir",
+      "Me siento incómodo y no ayudo a mis compañeros a entender el cambio"
+    ],
+    "answer": "Comento con mi equipo sobre los nuevos criterios, aclaro dudas y los animo a verlo como una oportunidad de mejora"
+  },
+  {
+    "question": "Tu jefe te solicita que lideres un proyecto que involucra nuevas estrategias que no conoces. ¿Cómo te preparas para liderar este desafío?",
+    "options": [
+      "Me siento inseguro y evito asumir el liderazgo del proyecto",
+      "Investigo las nuevas estrategias, me capacito y lidero el proyecto con confianza",
+      "Me quejo del desafío y dejo que otros tomen el control",
+      "No trato de aprender sobre las nuevas estrategias y delego todo el trabajo"
+    ],
+    "answer": "Investigo las nuevas estrategias, me capacito y lidero el proyecto con confianza"
+  },
+  {
+    "question": "El gobierno decide implementar una nueva política que cambia la manera en que los empleados públicos deben interactuar con los ciudadanos. ¿Cómo gestionas tu adaptación a esta nueva política?",
+    "options": [
+      "Me opongo a la política y trato de seguir trabajando de la misma manera",
+      "Estudio la nueva política, la aplico y ayudo a mis compañeros a entenderla",
+      "Ignoro la nueva política y mantengo mis métodos antiguos",
+      "Dejo que otros se adapten a la nueva política sin involucrarme"
+    ],
+    "answer": "Estudio la nueva política, la aplico y ayudo a mis compañeros a entenderla"
+  },
+  {
+    "question": "Tu equipo enfrenta la posibilidad de cambios en su estructura organizativa. ¿Cómo contribuyes al proceso de adaptación?",
+    "options": [
+      "Me resisto al cambio y trato de mantener la estructura anterior",
+      "Promuevo una actitud abierta al cambio, colaboro activamente con el proceso y apoyo a mis compañeros en la transición",
+      "Dejo que otros manejen los cambios sin involucrarme",
+      "Me siento frustrado y trato de no adaptarme al cambio"
+    ],
+    "answer": "Promuevo una actitud abierta al cambio, colaboro activamente con el proceso y apoyo a mis compañeros en la transición"
+  },
+  {
+    "question": "Tu equipo ha tenido problemas para adaptarse a un nuevo proceso de trabajo. ¿Cómo contribuyes a mejorar la situación?",
+    "options": [
+      "Ignoro el problema y dejo que se resuelva por sí mismo",
+      "Identifico las dificultades, propongo soluciones y apoyo a mis compañeros a adaptarse al nuevo proceso",
+      "Dejo que otros resuelvan el problema",
+      "Me quejo constantemente sobre las dificultades del proceso"
+    ],
+    "answer": "Identifico las dificultades, propongo soluciones y apoyo a mis compañeros a adaptarse al nuevo proceso"
+  },
+  {
+    "question": "Una nueva ley afecta la manera en que se deben gestionar los recursos dentro de tu entidad. ¿Cómo reaccionas ante este cambio?",
+    "options": [
+      "Me resisto a la ley y trato de seguir haciendo las cosas como antes",
+      "Estudio la ley, me capacito y ajusto mis métodos de trabajo para cumplir con las nuevas disposiciones",
+      "Ignoro la ley y trato de seguir con los procesos previos",
+      "Dejo que otros manejen la implementación de la ley"
+    ],
+    "answer": "Estudio la ley, me capacito y ajusto mis métodos de trabajo para cumplir con las nuevas disposiciones"
+  },
+
+{
+    "question": "Como jefe de TI, descubre que su equipo usa licencias educativas de software (más baratas) para ahorrar presupuesto. El proveedor lo sabe pero hace la vista gorda. El sistema es crítico para servicios ciudadanos. ¿Qué haría?",
+    "options": [
+      "Continuar usando las licencias y guardar silencio, pues beneficia al erario público.",
+      "Reportar la irregularidad aunque implique suspender servicios temporalmente por falta de presupuesto.",
+      "Comprar gradualmente licencias comerciales mientras se sigue usando el sistema.",
+      "Presionar al proveedor para que formalice la situación sin costo adicional."
+    ],
+    "answer": "Reportar la irregularidad aunque implique suspender servicios temporalmente por falta de presupuesto.",
+    "explicacion": "El compromiso con la legalidad (Ley 80 de 1993) prevalece sobre beneficios económicos, incluso con impacto operativo."
+  },
+  {
+    "question": "Un alto funcionario le pide acceder a los correos de un colega para investigar una supuesta filtración, sin orden judicial. Usted sabe que podría ser por conflicto personal. ¿Cómo procedería?",
+    "options": [
+      "Negarse rotundamente por violación a la privacidad (Ley 1581 de 2012).",
+      "Acceder pero documentar la solicitud para cubrirse legalmente.",
+      "Pedir una orden por escrito del jefe inmediato para proceder.",
+      "Informar al Comité de Ética para que decida."
+    ],
+    "answer": "Negarse rotundamente por violación a la privacidad (Ley 1581 de 2012).",
+    "explicacion": "El compromiso organizacional incluye proteger derechos fundamentales, incluso ante presiones jerárquicas."
+  },
+  {
+    "question": "Al implementar un sistema de gobierno digital, identifica que dejará sin trabajo a 20 funcionarios con baja capacitación tecnológica. El Alcalde insiste en avanzar. ¿Cuál sería su postura?",
+    "options": [
+      "Acelerar la implementación sin contemplaciones para modernizar la entidad.",
+      "Proponer un plan de reconversión laboral y capacitación progresiva (6 meses).",
+      "Ralentizar el proyecto para proteger los puestos de trabajo.",
+      "Externalizar el sistema para evitar despidos directos."
+    ],
+    "answer": "Proponer un plan de reconversión laboral y capacitación progresiva (6 meses).",
+    "explicacion": "Balance entre innovación y responsabilidad social institucional (Art. 25 CN)."
+  },
+  {
+    "question": "Descubre que su equipo falsificó firmas digitales en documentos urgentes durante una crisis, pero esto evitó el colapso de servicios esenciales. ¿Qué haría?",
+    "options": [
+      "Validar la acción por el bien común y no reportarla.",
+      "Reportar el hecho pero solicitar inmunidad por el contexto excepcional.",
+      "Exigir la reposición inmediata de los documentos con firmas válidas.",
+      "Capacitar al equipo en autenticación biométrica para evitar repeticiones."
+    ],
+    "answer": "Exigir la reposición inmediata de los documentos con firmas válidas.",
+    "explicacion": "Ninguna emergencia justifica falsificación documental (Art. 220 CP). Compromiso con la integridad procesal."
+  },
+  {
+    "question": "Un sistema que desarrolló tiene vulnerabilidades conocidas pero su reparación costaría el 30% del presupuesto anual. El riesgo de explotación es bajo. ¿Cómo procedería?",
+    "options": [
+      "No actuar hasta que haya un incidente de seguridad.",
+      "Priorizar la corrección aunque implique recortar otros proyectos.",
+      "Implementar parches temporales y gestionar presupuesto para el próximo año.",
+      "Contratar un seguro contra ciberataques como medida paliativa."
+    ],
+    "answer": "Priorizar la corrección aunque implique recortar otros proyectos.",
+    "explicacion": "Seguridad de datos ciudadanos es prioritaria (Ley Estatutaria 1581 de 2012). Riesgo bajo no significa riesgo aceptable."
+  },
+  {
+    "question": "Un proveedor clave ofrece migrar su sistema a la nube gratuitamente por 1 año, pero exige exclusividad por 5 años después. ¿Qué haría?",
+    "options": [
+      "Aceptar porque el ahorro inicial beneficia a la entidad.",
+      "Rechazar por atentar contra la libre competencia (Art. 333 CN).",
+      "Negociar cláusulas de salida anticipada sin penalizaciones.",
+      "Consultar a la Procuraduría para evitar problemas legales."
+    ],
+    "answer": "Rechazar por atentar contra la libre competencia (Art. 333 CN).",
+    "explicacion": "Compromiso con principios constitucionales prevalece sobre beneficios económicos."
+  },
+  {
+    "question": "Debe elegir entre implementar un software propietario seguro pero costoso, o uno open-source con posibles vulnerabilidades. El presupuesto es limitado. ¿Qué criterio usaría?",
+    "options": [
+      "Open-source: priorizar ahorro y adaptabilidad.",
+      "Propietario: seguridad ante todo aunque requiera recortar otros rubros.",
+      "Híbrido: módulos críticos en software propietario, el resto open-source.",
+      "Postergar la decisión hasta conseguir más fondos."
+    ],
+    "answer": "Híbrido: módulos críticos en software propietario, el resto open-source.",
+    "explicacion": "Solución balanceada que protege datos sensibles (Ley 1581) sin descuidar sostenibilidad financiera."
+  },
+  {
+    "question": "Un funcionario de confianza cometió un error grave pero su despido afectaría un proyecto clave. ¿Cómo manejaría la situación?",
+    "options": [
+      "Aplicar sanción ejemplar para mantener estándares.",
+      "Reubicarlo en otra área y corregir el error internamente.",
+      "Dar capacitación correctiva y mantenerlo con supervisión estrecha.",
+      "Minimizar el hecho para no desmotivar al equipo."
+    ],
+    "answer": "Dar capacitación correctiva y mantenerlo con supervisión estrecha.",
+    "explicacion": "Equilibrio entre consecuencias por errores y retención de talento (Decreto 1227 de 2020 sobre evaluación de desempeño)."
+  },
+  {
+    "question": "El Concejo Municipal le pide acceso total a bases de datos ciudadanas para 'fiscalización', sin protocolo claro. ¿Cómo respondería?",
+    "options": [
+      "Entregar los datos con advertencia de confidencialidad.",
+      "Solicitar un acta formal que delimite usos y proteja datos sensibles.",
+      "Negarse por violación a la privacidad (Ley 1581).",
+      "Consultar al Ministerio TIC para cubrirse legalmente."
+    ],
+    "answer": "Solicitar un acta formal que delimite usos y proteja datos sensibles.",
+    "explicacion": "Balance entre transparencia (Ley 1712) y protección de datos personales."
+  },
+  {
+    "question": "Un colega modificó resultados de una prueba de software para cumplir plazos. El error se descubrirá después de su ascenso. ¿Qué haría?",
+    "options": [
+      "Exigirle que revele la verdad aunque pierda el ascenso.",
+      "Reportarlo anónimamente a Recursos Humanos.",
+      "Ayudarlo a corregir los errores en silencio.",
+      "Negociar su confesión a cambio de apoyo futuro."
+    ],
+    "answer": "Exigirle que revele la verdad aunque pierda el ascenso.",
+    "explicacion": "Compromiso con la integridad técnica prevalece sobre lealtades personales (Código de Ética TI)."
+  },
+
+  {
+    "question": "Debe elegir entre contratar un consultor externo costoso para resolver una falla crítica o capacitar a su equipo (más lento pero sostenible). El alcalde exige rapidez. ¿Qué haría?",
+    "options": [
+      "Contratar al externo para cumplir plazos, aunque dependa de él en el futuro.",
+      "Capacitar al equipo interno y negociar un plazo realista con el alcalde.",
+      "Usar software pirata temporalmente mientras capacita al equipo.",
+      "Ambas: contratar al externo y obligarlo a capacitar al equipo."
+    ],
+    "answer": "Ambas: contratar al externo y obligarlo a capacitar al equipo.",
+    "explicacion": "Balance entre urgencia (Art. 209 CN - Eficacia del Estado) y sostenibilidad (Ley 1900/2018 - Formación funcionarial)."
+  },
+  {
+    "question": "Un sistema que implementó tiene un bug que beneficia a ciudadanos vulnerables (ej: descuentos no autorizados). Corregirlo afectaría a esta población. ¿Cómo actuaría?",
+    "options": [
+      "Mantener el error discretamente por equidad social.",
+      "Corregirlo y proponer un subsidio formal para los afectados.",
+      "Reportarlo al Concejo Municipal para que decida.",
+      "Compensar el error con fondos de otra partida no utilizada."
+    ],
+    "answer": "Corregirlo y proponer un subsidio formal para los afectados.",
+    "explicacion": "Legalidad (Art. 6 Ley 734/2002) prima, pero con soluciones creativas que protejan poblaciones vulnerables."
+  },
+  {
+    "question": "Descubre que su sucesor en el cargo no tiene las competencias técnicas necesarias, pero fue asignado por nepotismo. ¿Qué haría?",
+    "options": [
+      "Capacitarlo intensivamente en su último mes para minimizar riesgos.",
+      "Documentar las carencias y enviar un informe confidencial a Control Interno.",
+      "No intervenir para evitar conflictos con quienes lo nombraron.",
+      "Sabotear discretamente sistemas clave para evidenciar su incompetencia."
+    ],
+    "answer": "Documentar las carencias y enviar un informe confidencial a Control Interno.",
+    "explicacion": "Compromiso con la institución trasciende lealtades personales (Código de Ética del Servidor Público)."
+  },
+  {
+    "question": "Una orden judicial exige entregar datos de usuarios para una investigación, pero violaría la Ley 1581 de Protección de Datos. ¿Cómo procedería?",
+    "options": [
+      "Entregar los datos cumpliendo la orden judicial.",
+      "Solicitar revisión del fallo alegando conflicto normativo.",
+      "Entregar solo datos no sensibles con asesoría jurídica.",
+      "Renunciar para evitar responsabilidad legal."
+    ],
+    "answer": "Solicitar revisión del fallo alegando conflicto normativo.",
+    "explicacion": "Jerarquía normativa: derechos fundamentales (Art. 15 CN) prevalecen sobre órdenes judiciales contradictorias."
+  },
+  {
+    "question": "Su equipo desarrolló una app innovadora que podría comercializarse. Un privado ofrece comprar el código fuente. ¿Qué haría?",
+    "options": [
+      "Venderlo y repartir utilidades con el equipo como incentivo.",
+      "Registrarlo como propiedad intelectual de la entidad pública.",
+      "Liberarlo como open-source para beneficio social.",
+      "Negociar una alianza público-privada con regalías."
+    ],
+    "answer": "Registrarlo como propiedad intelectual de la entidad pública.",
+    "explicacion": "Principio de prevalencia del interés general (Art. 1 CN). Los funcionarios no pueden lucrar con recursos públicos."
+  },
+  {
+    "question": "Una auditoría revela que su área incumple el Esquema de Seguridad Digital (Decreto 1078/2015), pero ajustarse paralizaría servicios por 3 meses. ¿Cómo procedería?",
+    "options": [
+      "Implementar correcciones gradualmente sin detener operaciones.",
+      "Paralizar servicios y cumplir a cabalidad la normativa.",
+      "Ocultar hallazgos hasta conseguir más presupuesto.",
+      "Contratar un seguro contra ciberataques como medida temporal."
+    ],
+    "answer": "Implementar correcciones gradualmente sin detener operaciones.",
+    "explicacion": "Principio de gradualidad (Art. 83 Ley 1437) aplicado a seguridad digital, con plan de mitigación de riesgos."
+  },
+  {
+    "question": "Un proveedor amenaza con retirar soporte técnico si no renueva contrato con sobrecostos. El sistema es vital para hospitales. ¿Qué haría?",
+    "options": [
+      "Aceptar bajo protesta y denunciar posterior extorsión.",
+      "Migrant a otro proveedor aunque implique downtime crítico.",
+      "Desarrollar solución interna con recursos limitados.",
+      "Negociar pagos escalonados para ganar tiempo."
+    ],
+    "answer": "Aceptar bajo protesta y denunciar posterior extorsión.",
+    "explicacion": "Estado de necesidad justificado (Art. 32 CP), pero con acciones legales contra abuso de posición dominante."
+  },
+  {
+    "question": "Un error en IA discrimina a población rural en trámites en línea. Corregirlo retrasaría la meta de gobierno digital. ¿Cómo actuaría?",
+    "options": [
+      "Mantener el sistema y atender casos discriminatorios manualmente.",
+      "Retirar temporalmente la herramienta hasta corregir sesgos.",
+      "Capacitar a la población rural para adaptarse al sistema.",
+      "Minimizar el problema como 'fallas técnicas menores'."
+    ],
+    "answer": "Retirar temporalmente la herramienta hasta corregir sesgos.",
+    "explicacion": "No discriminación (Art. 13 CN) prevalece sobre metas cuantitativas. Principio de precaución en IA pública."
+  },
+  {
+    "question": "Debe elegir entre certificar un sistema inseguro que beneficiará a 100.000 ciudadanos o retrasarlo 6 meses para corregir vulnerabilidades. ¿Qué haría?",
+    "options": [
+      "Certificarlo con advertencias escritas sobre riesgos.",
+      "Postergarlo y ofrecer solución transitoria no digital.",
+      "Implementarlo solo para usuarios que firmen descargos.",
+      "Dividirlo: módulos seguros ya, riesgosos después."
+    ],
+    "answer": "Postergarlo y ofrecer solución transitoria no digital.",
+    "explicacion": "Seguridad y responsabilidad (Art. 15 Ley 1341/2009) priman sobre cobertura. Derecho a servicios libres de riesgos."
+  },
+  {
+    "question": "Un hacker expone vulnerabilidades de su sistema pidiendo rescate. Usted podría corregirlas sin pagar, pero el hacker amenaza con revelar datos ciudadanos. ¿Cómo procedería?",
+    "options": [
+      "Negociar el pago discretamente para proteger datos.",
+      "Denunciar a la Policía Nacional y asumir responsabilidad por filtro.",
+      "Corregir las vulnerabilidades y llamar a rueda de prensa preventiva.",
+      "Pedir tiempo fingiendo interés en pagar mientras corrige."
+    ],
+    "answer": "Denunciar a la Policía Nacional y asumir responsabilidad por filtro.",
+    "explicacion": "No se negocia con delincuentes (Política de Ciberseguridad Nacional). Transparencia fortalece confianza institucional."
+  },
+  {
+    "question": "Su jefe le pide usar datos falsos para cumplir indicadores de gobierno digital. De lo contrario, perderán financiación internacional. ¿Qué haría?",
+    "options": [
+      "Ajustar los datos marginalmente para alcanzar metas.",
+      "Negarse y documentar la solicitud irregular.",
+      "Pedir revisión de los indicadores con los cooperantes.",
+      "Renunciar para no ser cómplice."
+    ],
+    "answer": "Pedir revisión de los indicadores con los cooperantes.",
+    "explicacion": "Diplomacia institucional + integridad. Soluciones creativas que eviten falsedad documental (Art. 220 CP)."
+  },
+  {
+    "question": "Una alianza con empresa privada exige compartir datos ciudadanos 'anonimizados'. Expertos dicen que podrían reidentificarse. ¿Cómo procedería?",
+    "options": [
+      "Firmar el convenio porque técnicamente cumple la ley.",
+      "Rechazarlo hasta garantizar anonimización irreversible.",
+      "Pedir consentimiento expreso de los ciudadanos afectados.",
+      "Consultar al Ministerio TIC para cubrirse legalmente."
+    ],
+    "answer": "Rechazarlo hasta garantizar anonimización irreversible.",
+    "explicacion": "Principio de precaución en protección de datos (Art. 4 Ley 1581/2012). Riesgo potencial = prohibición."
+  },
+  {
+    "question": "Un funcionario clave para modernizar la entidad tiene conductas sexistas. Su despido retrasaría proyectos 1 año. ¿Qué haría?",
+    "options": [
+      "Tolerarlo temporalmente hasta completar los proyectos.",
+      "Aplicar sanción ejemplar aunque afecte operación.",
+      "Capacitarlo en equidad de género con evaluación conductual.",
+      "Reubicarlo en área sin contacto con víctimas."
+    ],
+    "answer": "Capacitarlo en equidad de género con evaluación conductual.",
+    "explicacion": "Balance entre no impunidad (Ley 1257/2008) y continuidad del servicio. Enfoque restaurativo."
+  },
+  {
+    "question": "Una falla en su sistema dejó sin pensiones a adultos mayores. El proveedor pide 72h para repararlo, pero usted podría hackearlo temporalmente. ¿Qué haría?",
+    "options": [
+      "Hackearlo para restablecer el servicio y asumir consecuencias.",
+      "Activar pagos manuales aunque sea más lento.",
+      "Pedir a los adultos que esperen la solución formal.",
+      "Improvisar un sistema paralelo no probado."
+    ],
+    "answer": "Activar pagos manuales aunque sea más lento.",
+    "explicacion": "Soluciones legales aunque ineficientes priman sobre acciones ilegales (por bienintencionadas que sean)."
+  },
+  {
+    "question": "Su equipo quiere renunciar masivamente por exceso de trabajo. Usted sabe que son indispensables para un proyecto estratégico. ¿Cómo reaccionaría?",
+    "options": [
+      "Amenazar con no dar recomendaciones laborales futuras.",
+      "Negociar horarios flexibles y reconocimiento extraordinario.",
+      "Contratar reemplazos rápidamente para no ceder a presiones.",
+      "Aceptar las renuncias y asumir el fracaso del proyecto."
+    ],
+    "answer": "Negociar horarios flexibles y reconocimiento extraordinario.",
+    "explicacion": "Liderazgo adaptativo (Teoría de Hershey-Blanchard) ante crisis de talento humano."
+  },
+  {
+    "question": "Una norma obliga a destruir archivos físicos antiguos, pero usted sabe que son clave para procesos judiciales en curso. ¿Qué haría?",
+    "options": [
+      "Destruirlos cumpliendo la norma estrictamente.",
+      "Preservarlos discretamente en otro lugar.",
+      "Digitalizarlos antes de destruir los físicos.",
+      "Solicitar opinión jurídica para una excepción."
+    ],
+    "answer": "Solicitar opinión jurídica para una excepción.",
+    "explicacion": "Jerarquía de normas: procesos judiciales (Art. 228 CN) priman sobre disposiciones administrativas."
+  },
+  {
+    "question": "Un colega modificó contratos antiguos digitalizados para 'actualizar errores'. Los originales se perdieron. ¿Cómo procedería?",
+    "options": [
+      "Validar los cambios porque mejoran los documentos.",
+      "Restaurar versiones anteriores desde backups ocultos.",
+      "Denunciar el hecho ante Fiscalía por falsedad documental.",
+      "Exigirle que firme un descargo asumiendo responsabilidad."
+    ],
+    "answer": "Denunciar el hecho ante Fiscalía por falsedad documental.",
+    "explicacion": "Alteración de documentos públicos es delito (Art. 220 CP), independientemente de la intención."
+  },
+  {
+    "question": "Debe implementar biometría para seguridad, pero el proveedor usa algoritmos con sesgo racial. No hay alternativas locales. ¿Qué haría?",
+    "options": [
+      "Implementarlo con ajustes manuales para corregir sesgos.",
+      "Rechazarlo y mantener sistema antiguo menos seguro.",
+      "Usarlo solo para grupos no afectados por el sesgo.",
+      "Exigir al proveedor adaptar el algoritmo bajo contrato."
+    ],
+    "answer": "Exigir al proveedor adaptar el algoritmo bajo contrato.",
+    "explicacion": "Tecnología pública debe ser inclusiva (ODS 10). Cláusulas contractuales pueden forzar ajustes éticos."
+  },
+  {
+    "question": "Una orden directa del Alcalde viola la Política de Gobierno Digital. Cumplirla le daría beneficios personales. ¿Qué haría?",
+    "options": [
+      "Ejecutarla y documentar que fue orden superior.",
+      "Negarse por escrito citando la normativa técnica.",
+      "Solicitar reunión con el Concejo para mediar.",
+      "Renunciar para no verse comprometido."
+    ],
+    "answer": "Negarse por escrito citando la normativa técnica.",
+    "explicacion": "Art. 27 Ley 1900/2018: los funcionarios técnicos pueden objetar órdenes ilegales o anti-técnicas."
+  },
+  {
+    "question": "Su sistema predice que un proyecto fracasará, pero el Alcalde insiste en implementarlo por intereses políticos. ¿Cómo actuaría?",
+    "options": [
+      "Ajustar el modelo para mostrar resultados favorables.",
+      "Publicar un informe técnico independiente en redes.",
+      "Presentar alternativas viables con evidencia sólida.",
+      "Implementarlo contra su juicio profesional."
+    ],
+    "answer": "Presentar alternativas viables con evidencia sólida.",
+    "explicacion": "Deber de asesoría técnica (Art. 209 CN) + manejo político de conflictos."
+  },
+
+  {
+    "question": "Como Profesional Universitario de TIC, usted detecta que un proyecto crucial del 'Plan Estratégico de Tecnologías de la Información (PETI)' del municipio para la 'racionalización de trámites' está a punto de incumplir sus plazos por falta de recursos asignados a otras secretarías que deben proporcionar información. Usted tiene otras tareas urgentes. ¿Cómo demostraría su 'compromiso con la organización' para evitar el retraso del proyecto?",
+    "options": [
+      "Notificar el incumplimiento al superior y esperar que la situación se resuelva sin su intervención, ya que no es su responsabilidad directa.",
+      "Centrarse exclusivamente en sus tareas asignadas, asumiendo que el problema de recursos es ajeno a su área y al 'compromiso con la organización'.",
+      "Proactivamente ofrecer su 'colaboración' para gestionar o facilitar la obtención de la información requerida, incluso si implica dedicar tiempo adicional fuera de sus funciones habituales, buscando 'soluciones' creativas para el 'mejoramiento continuo' del proyecto y su 'impacto' en la 'gestión eficiente, eficaz y transparente'.",
+      "Sugerir que se posponga el proyecto hasta que todas las dependencias tengan los recursos necesarios, sin buscar alternativas."
+    ],
+    "answer": "Proactivamente ofrecer su 'colaboración' para gestionar o facilitar la obtención de la información requerida, incluso si implica dedicar tiempo adicional fuera de sus funciones habituales, buscando 'soluciones' creativas para el 'mejoramiento continuo' del proyecto y su 'impacto' en la 'gestión eficiente, eficaz y transparente'."
+  },
+  {
+    "question": "Se ha implementado un nuevo 'software' de 'gestión de la calidad' en la Alcaldía de Puerto Boyacá. Durante las primeras semanas, algunos compañeros de otras áreas manifiestan resistencia a su uso, argumentando que es complejo y les quita tiempo, lo que afecta el 'flujo de documentos' y la 'agilización de trámites'. ¿Cómo respondería a esta situación, evidenciando su 'compromiso con la organización'?",
+    "options": [
+      "Limitarse a usar el software en su propia área y esperar que los demás se adapten con el tiempo.",
+      "Quejarse con sus compañeros sobre la complejidad del software, reforzando la resistencia al cambio.",
+      "Ofrecerse a brindar 'capacitación' adicional o 'soporte' técnico a los compañeros que presenten dificultades, recopilar sus inquietudes para proponer 'mejoras' al 'software' o al proceso de 'implementación', y comunicar los beneficios a largo plazo para la 'racionalización de trámites' y la 'gestión eficiente, eficaz y transparente', demostrando un alto 'compromiso con la organización' y 'trabajo en equipo'.",
+      "Reportar la resistencia a su superior para que tome medidas disciplinarias contra los funcionarios reacios."
+    ],
+    "answer": "Ofrecerse a brindar 'capacitación' adicional o 'soporte' técnico a los compañeros que presenten dificultades, recopilar sus inquietudes para proponer 'mejoras' al 'software' o al proceso de 'implementación', y comunicar los beneficios a largo plazo para la 'racionalización de trámites' y la 'gestión eficiente, eficaz y transparente', demostrando un alto 'compromiso con la organización' y 'trabajo en equipo'."
+  },
+  {
+    "question": "En medio de una crisis de 'ciberseguridad' que afecta 'sistemas críticos de información' en la Alcaldía, usted es solicitado para trabajar en horario extendido durante varios días, incluyendo fines de semana, para 'resolver el problema' y restaurar los servicios. Tenía planes personales importantes. ¿Cuál sería su prioridad, demostrando su 'compromiso con la organización' y su 'responsabilidad como servidor público'?",
+    "options": [
+      "Comunicar que tiene compromisos personales y que solo podrá trabajar en su horario habitual.",
+      "Asistir a sus compromisos personales y unirse al equipo de trabajo cuando le sea posible, una vez solucionados.",
+      "Priorizar la 'resolución del problema' de 'ciberseguridad' y la 'recuperación de los sistemas', entendiendo la 'gravedad de la situación' y la 'importancia' de los 'servicios a través del medio tecnológico' para el ciudadano, y ajustar sus planes personales, comunicando la situación a sus allegados. Su 'compromiso con la organización' y la 'protección de derechos fundamentales' de la información es primordial.",
+      "Delegar su parte del trabajo a un compañero para poder cumplir con sus planes personales."
+    ],
+    "answer": "Priorizar la 'resolución del problema' de 'ciberseguridad' y la 'recuperación de los sistemas', entendiendo la 'gravedad de la situación' y la 'importancia' de los 'servicios a través del medio tecnológico' para el ciudadano, y ajustar sus planes personales, comunicando la situación a sus allegados. Su 'compromiso con la organización' y la 'protección de derechos fundamentales' de la información es primordial."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá está desarrollando un nuevo portal web municipal ('página web del Municipio de Puerto Boyacá') en línea con la 'Política de Gobierno Digital'. Se le solicita trabajar en un módulo que, si bien no es directamente de su especialidad en TIC, es esencial para la 'prestación de la mayor cantidad de servicios a través del medio tecnológico'. ¿Cómo asumiría este desafío, demostrando 'compromiso con la organización' y 'aprendizaje continuo'?",
+    "options": [
+      "Rechazar la asignación, argumentando que no es su área de especialización y podría afectar la calidad del trabajo.",
+      "Intentar el módulo de forma superficial, esperando que otro compañero con más experiencia lo finalice.",
+      "Aceptar el desafío, investigar y 'adquirir los conocimientos' necesarios sobre el módulo específico (demostrando 'aprendizaje continuo'), buscar 'colaboración' con otros expertos si es necesario, y dedicar el esfuerzo extra para asegurar la 'calidad' del resultado y el 'mejoramiento continuo' de la 'atención al usuario y al ciudadano' a través del portal, lo que refleja un fuerte 'compromiso con la organización'.",
+      "Pedir que se contrate a un consultor externo para desarrollar el módulo, sin su participación activa."
+    ],
+    "answer": "Aceptar el desafío, investigar y 'adquirir los conocimientos' necesarios sobre el módulo específico (demostrando 'aprendizaje continuo'), buscar 'colaboración' con otros expertos si es necesario, y dedicar el esfuerzo extra para asegurar la 'calidad' del resultado y el 'mejoramiento continuo' de la 'atención al usuario y al ciudadano' a través del portal, lo que refleja un fuerte 'compromiso con la organización'."
+  },
+  {
+    "question": "En una reunión de equipo sobre la 'planeación' del 'Plan Estratégico de Tecnologías de la Información (PETI)', su superior propone una iniciativa ambiciosa que implica un gran 'cambio' y 'adaptación' por parte de todos, y usted tiene dudas sobre su viabilidad. Sin embargo, ve su potencial para el 'mejoramiento continuo' de la 'gestión eficiente, eficaz y transparente'. ¿Cómo actuaría, balanceando su experticia con su 'compromiso con la organización'?",
+    "options": [
+      "Expresar sus dudas de forma crítica y negativa, desmotivando al equipo antes de iniciar el proyecto.",
+      "Guardar sus dudas para sí mismo y no participar activamente en la discusión para no generar conflictos.",
+      "Expresar sus inquietudes de manera constructiva, ofreciendo 'análisis de sistemas' y 'soluciones' alternativas o mitigaciones a los posibles riesgos, y comprometerse a investigar y 'adquirir los conocimientos' necesarios para apoyar la iniciativa si se aprueba, demostrando su 'compromiso con la organización' y su 'adaptación al cambio' para el 'beneficio común'.",
+      "Aceptar la iniciativa sin cuestionar, aunque crea que no es viable, para evitar confrontaciones."
+    ],
+    "answer": "Expresar sus inquietudes de manera constructiva, ofreciendo 'análisis de sistemas' y 'soluciones' alternativas o mitigaciones a los posibles riesgos, y comprometerse a investigar y 'adquirir los conocimientos' necesarios para apoyar la iniciativa si se aprueba, demostrando su 'compromiso con la organización' y su 'adaptación al cambio' para el 'beneficio común'."
+  },
+  {
+    "question": "La 'normatividad vigente' establece una nueva obligación de 'rendición de informes periódicos de gestión' con un alto nivel de detalle técnico que excede las capacidades de las herramientas actuales de la Alcaldía. Su jefe le pide que investigue 'software y hardware' para automatizar la generación de estos informes. Usted sabe que será un proceso largo y complejo. ¿Cómo enfocaría esta tarea, mostrando su 'compromiso con la organización'?",
+    "options": [
+      "Preparar un informe manual lo más básico posible, indicando las limitaciones de las herramientas existentes.",
+      "Delegar la investigación en un asistente, sin involucrarse en los detalles técnicos de la solución.",
+      "Asumir la 'responsabilidad', investigar a fondo las 'soluciones' disponibles en 'software y hardware' que permitan la automatización, 'adquirir los conocimientos' técnicos necesarios para evaluar su viabilidad e 'implementación', y presentar una propuesta detallada que demuestre el 'beneficio' a largo plazo para la 'transparencia' y 'gestión eficiente, eficaz y transparente' del municipio, evidenciando 'compromiso con la organización'.",
+      "Argumentar que la automatización no es necesaria y que los informes manuales son suficientes."
+    ],
+    "answer": "Asumir la 'responsabilidad', investigar a fondo las 'soluciones' disponibles en 'software y hardware' que permitan la automatización, 'adquirir los conocimientos' técnicos necesarios para evaluar su viabilidad e 'implementación', y presentar una propuesta detallada que demuestre el 'beneficio' a largo plazo para la 'transparencia' y 'gestión eficiente, eficaz y transparente' del municipio, evidenciando 'compromiso con la organización'."
+  },
+  {
+    "question": "Durante la implementación de un proyecto de 'racionalización de trámites' que implica la 'agilización de flujos de documentos' digitales, usted identifica una debilidad en el diseño del 'software' que podría comprometer la 'seguridad de la información' si no se corrige a tiempo. El proyecto ya está muy avanzado y la corrección implicaría un retraso. ¿Cuál sería su acción, demostrando 'compromiso con la organización' y con la 'protección de derechos fundamentales'?",
+    "options": [
+      "Ignorar la debilidad para no retrasar el proyecto y esperar a que se detecte en una fase posterior.",
+      "Reportar la debilidad al equipo de seguridad, pero no involucrarse en la búsqueda de soluciones para no afectar su tiempo.",
+      "Notificar de inmediato a su superior y al equipo de proyecto, proponiendo 'soluciones' y liderando la 'resolución del problema' de la vulnerabilidad, incluso si ello implica un esfuerzo adicional y una leve recalibración del cronograma, priorizando la 'ciberseguridad' y la 'protección de derechos fundamentales' de la información del ciudadano, lo que refleja un alto 'compromiso con la organización' y 'responsabilidad'.",
+      "Implementar una solución temporal superficial que no garantice la seguridad a largo plazo."
+    ],
+    "answer": "Notificar de inmediato a su superior y al equipo de proyecto, proponiendo 'soluciones' y liderando la 'resolución del problema' de la vulnerabilidad, incluso si ello implica un esfuerzo adicional y una leve recalibración del cronograma, priorizando la 'ciberseguridad' y la 'protección de derechos fundamentales' de la información del ciudadano, lo que refleja un alto 'compromiso con la organización' y 'responsabilidad'."
+  },
+  {
+    "question": "Usted identifica que el actual sistema de 'atención al usuario y al ciudadano' en la Alcaldía no está logrando la 'satisfacción del ciudadano' debido a su complejidad tecnológica. Propone la implementación de un 'asistente virtual' impulsado por IA, una tecnología nueva para el municipio. Su superior es escéptico debido al costo y la novedad. ¿Cómo presentaría su propuesta, demostrando 'compromiso con la organización' y 'visión de futuro'?",
+    "options": [
+      "Abandonar la idea, ya que su superior no muestra interés y la implementación sería difícil.",
+      "Presentar una propuesta técnica compleja, sin enfocarse en los beneficios para el ciudadano.",
+      "Elaborar una propuesta detallada que incluya un 'análisis de sistemas' de costo-beneficio, destacando cómo el 'asistente virtual' mejorará la 'eficiencia', 'eficacia' y la 'atención al usuario y al ciudadano', e incluso proponer un piloto a menor escala para demostrar su valor. Demostraría su 'compromiso con la organización' buscando 'innovación' y 'mejoramiento continuo' de los 'servicios a través del medio tecnológico'.",
+      "Buscar apoyo en otros colegas para presionar a su superior a aceptar la propuesta."
+    ],
+    "answer": "Elaborar una propuesta detallada que incluya un 'análisis de sistemas' de costo-beneficio, destacando cómo el 'asistente virtual' mejorará la 'eficiencia', 'eficacia' y la 'atención al usuario y al ciudadano', e incluso proponer un piloto a menor escala para demostrar su valor. Demostraría su 'compromiso con la organización' buscando 'innovación' y 'mejoramiento continuo' de los 'servicios a través del medio tecnológico'."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá decide participar en un concurso nacional de 'Gobierno Digital' para visibilizar sus avances en 'racionalización de trámites' y 'ciberseguridad'. La preparación del material requiere un esfuerzo adicional de su parte, que podría distraerlo de sus tareas diarias más urgentes. ¿Cómo gestionaría esta situación, demostrando 'compromiso con la organización'?",
+    "options": [
+      "Declinar participar en la preparación del material, priorizando sus tareas diarias y la 'gestión eficiente' individual.",
+      "Delegar completamente la preparación a otros compañeros, sin supervisión o aporte significativo.",
+      "Organizar su tiempo de manera 'eficiente' para cumplir con sus tareas diarias y, al mismo tiempo, dedicar 'esfuerzo adicional' a la preparación del material para el concurso, entendiendo la 'importancia estratégica' de la visibilidad y el reconocimiento para la 'imagen' y el 'mejoramiento continuo' de la Alcaldía, demostrando así su 'compromiso con la organización'.",
+      "Solicitar una extensión de plazo para sus tareas diarias, priorizando el concurso sobre su trabajo habitual."
+    ],
+    "answer": "Organizar su tiempo de manera 'eficiente' para cumplir con sus tareas diarias y, al mismo tiempo, dedicar 'esfuerzo adicional' a la preparación del material para el concurso, entendiendo la 'importancia estratégica' de la visibilidad y el reconocimiento para la 'imagen' y el 'mejoramiento continuo' de la Alcaldía, demostrando así su 'compromiso con la organización'."
+  },
+  {
+    "question": "Un nuevo empleado de TIC se incorpora a su equipo en la Alcaldía, y usted nota que tiene dificultades para 'adaptarse al cambio' y comprender la 'normatividad vigente' y los 'procedimientos' internos, lo que ralentiza el trabajo. ¿Cómo actuaría para ayudar a este compañero, fomentando el 'trabajo en equipo' y demostrando su 'compromiso con la organización'?",
+    "options": [
+      "Dejar que el nuevo empleado aprenda por sí mismo, ya que es su responsabilidad 'adaptarse'.",
+      "Reportar las dificultades del nuevo empleado a su superior, sin ofrecer ayuda directa.",
+      "Ofrecerse a ser su mentor, 'compartir información útil' sobre los 'procedimientos', 'normatividad' y la cultura de la Alcaldía, y brindar 'capacitación' práctica para facilitar su 'adaptación', entendiendo que su éxito contribuye al 'mejoramiento continuo' y la 'eficiencia' del equipo y de la 'organización', lo que refleja un alto 'compromiso con la organización' y con el 'trabajo en equipo'.",
+      "Asumir parte del trabajo del nuevo empleado para evitar retrasos, sin ayudarlo a mejorar sus habilidades."
+    ],
+    "answer": "Ofrecerse a ser su mentor, 'compartir información útil' sobre los 'procedimientos', 'normatividad' y la cultura de la Alcaldía, y brindar 'capacitación' práctica para facilitar su 'adaptación', entendiendo que su éxito contribuye al 'mejoramiento continuo' y la 'eficiencia' del equipo y de la 'organización', lo que refleja un alto 'compromiso con la organización' y con el 'trabajo en equipo'."
+  },
+  {
+    "question": "En el desarrollo de un proyecto de 'software' para la 'gestión de la calidad' en el municipio, su equipo llega a un punto muerto debido a un 'problema' técnico muy complejo para el que nadie tiene una 'solución' inmediata. Usted no es el líder del proyecto, pero se siente 'comprometido con la organización'. ¿Cuál sería su rol en esta situación?",
+    "options": [
+      "Esperar a que el líder del proyecto encuentre una solución o solicite ayuda externa.",
+      "Expresar frustración y desmotivación, ya que el problema parece insuperable.",
+      "Asumir un rol proactivo en la 'resolución del problema': investigar 'soluciones' innovadoras, 'compartir información útil' con el equipo, proponer diferentes enfoques de 'análisis de sistemas' y, si es necesario, 'adquirir conocimientos' adicionales sobre la tecnología específica para destrabar el proyecto, demostrando 'compromiso con la organización' y 'orientación a resultados'.",
+      "Culpar al diseño inicial del software por la aparición de este problema complejo."
+    ],
+    "answer": "Asumir un rol proactivo en la 'resolución del problema': investigar 'soluciones' innovadoras, 'compartir información útil' con el equipo, proponer diferentes enfoques de 'análisis de sistemas' y, si es necesario, 'adquirir conocimientos' adicionales sobre la tecnología específica para destrabar el proyecto, demostrando 'compromiso con la organización' y 'orientación a resultados'."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá decide migrar todos sus 'sistemas de información' a una nueva 'infraestructura de nube'. Este 'cambio' implica una curva de aprendizaje considerable para todo el personal de TIC, incluyéndolo a usted, y requiere 'adaptación'. Usted está en desacuerdo con la elección del proveedor de la nube. ¿Cómo conciliaría su opinión técnica con su 'compromiso con la organización'?",
+    "options": [
+      "Expresar su desacuerdo públicamente y negarse a participar activamente en la migración.",
+      "Cumplir con las tareas asignadas para la migración, pero sin entusiasmo ni aportes adicionales.",
+      "Aceptar la decisión institucional, y a pesar de su desacuerdo inicial, 'adaptarse al cambio', 'adquirir los conocimientos' necesarios sobre la nueva 'infraestructura' y el proveedor, y poner su 'esfuerzo' en asegurar que la migración sea exitosa, buscando oportunidades para 'optimizar' o mitigar posibles riesgos, demostrando un alto 'compromiso con la organización' y 'profesionalismo'.",
+      "Buscar una forma de sabotear la migración para que se demuestre que su opinión era correcta."
+    ],
+    "answer": "Aceptar la decisión institucional, y a pesar de su desacuerdo inicial, 'adaptarse al cambio', 'adquirir los conocimientos' necesarios sobre la nueva 'infraestructura' y el proveedor, y poner su 'esfuerzo' en asegurar que la migración sea exitosa, buscando oportunidades para 'optimizar' o mitigar posibles riesgos, demostrando un alto 'compromiso con la organización' y 'profesionalismo'."
+  },
+  {
+    "question": "Se detecta una vulnerabilidad crítica de 'ciberseguridad' en la 'página web del Municipio de Puerto Boyacá' que podría exponer datos de ciudadanos, infringiendo la 'protección de derechos fundamentales' y la 'normatividad vigente'. Su jefe está ausente y la solución requiere una acción inmediata y compleja. ¿Cómo demostraría su 'compromiso con la organización' y 'responsabilidad'?",
+    "options": [
+      "Esperar a que su jefe regrese para tomar una decisión y que asuma la 'responsabilidad' de la situación.",
+      "Bloquear temporalmente la página web para evitar la exposición, sin intentar solucionar la vulnerabilidad.",
+      "Tomar la 'iniciativa' para 'resolver el problema' de inmediato, aplicando sus 'conocimientos' en 'ciberseguridad' para mitigar la vulnerabilidad, documentando todas las acciones y notificando a su superior tan pronto como sea posible, priorizando la 'protección de derechos fundamentales' del ciudadano y la 'seguridad de la información', lo que es un claro reflejo de su 'compromiso con la organización' y 'responsabilidad de los servidores públicos'.",
+      "Compartir la información de la vulnerabilidad con otros colegas para que ellos decidan qué hacer."
+    ],
+    "answer": "Tomar la 'iniciativa' para 'resolver el problema' de inmediato, aplicando sus 'conocimientos' en 'ciberseguridad' para mitigar la vulnerabilidad, documentando todas las acciones y notificando a su superior tan pronto como sea posible, priorizando la 'protección de derechos fundamentales' del ciudadano y la 'seguridad de la información', lo que es un claro reflejo de su 'compromiso con la organización' y 'responsabilidad de los servidores públicos'."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá está en proceso de certificación de calidad bajo una nueva norma que exige cambios en los 'flujos de documentos' y la 'gestión de procedimientos' de su área de TIC. Esto implica un 'esfuerzo adicional' en la documentación y revisión de procesos. Algunos compañeros ven esto como burocracia. ¿Cómo promovería usted esta iniciativa, demostrando 'compromiso con la organización'?",
+    "options": [
+      "Cumplir con la documentación mínima requerida, sin convencer a los demás de su importancia.",
+      "Quejarse con sus compañeros sobre la carga de trabajo adicional que implica la certificación.",
+      "Explicar a sus compañeros la 'importancia' de la certificación para el 'mejoramiento continuo' de la 'gestión eficiente, eficaz y transparente', liderar la revisión de los 'procedimientos', 'compartir información útil' sobre las mejores prácticas y colaborar activamente en la documentación, demostrando con el ejemplo su 'compromiso con la organización' y la 'calidad'.",
+      "Delegar la mayor parte de la documentación en otros y dedicarse a otras tareas."
+    ],
+    "answer": "Explicar a sus compañeros la 'importancia' de la certificación para el 'mejoramiento continuo' de la 'gestión eficiente, eficaz y transparente', liderar la revisión de los 'procedimientos', 'compartir información útil' sobre las mejores prácticas y colaborar activamente en la documentación, demostrando con el ejemplo su 'compromiso con la organización' y la 'calidad'."
+  },
+  {
+    "question": "Se presenta la oportunidad de que la Alcaldía de Puerto Boyacá lidere un proyecto regional de 'descentralización' de 'servicios a través del medio tecnológico' con otros municipios, lo que podría generar prestigio pero también una carga de trabajo adicional significativa para el área de TIC. Su superior le pide su opinión. ¿Cómo se pronunciaría, demostrando 'compromiso con la organización' y 'visión de liderazgo'?",
+    "options": [
+      "Aconsejar no participar, argumentando que la carga de trabajo excedería la capacidad actual del equipo.",
+      "Mostrar desinterés, ya que no es un proyecto directamente relacionado con sus funciones diarias.",
+      "Destacar el 'potencial beneficio' del proyecto para la 'Alcaldía' y para el 'mejoramiento continuo' de los 'servicios' a nivel regional, ofrecer su 'esfuerzo' para asumir la carga adicional, y proponer un 'plan de acción' para mitigar los riesgos, demostrando su 'compromiso con la organización' y su 'orientación a resultados' a gran escala.",
+      "Aceptar el proyecto solo si se contrata más personal para el área de TIC."
+    ],
+    "answer": "Destacar el 'potencial beneficio' del proyecto para la 'Alcaldía' y para el 'mejoramiento continuo' de los 'servicios' a nivel regional, ofrecer su 'esfuerzo' para asumir la carga adicional, y proponer un 'plan de acción' para mitigar los riesgos, demostrando su 'compromiso con la organización' y su 'orientación a resultados' a gran escala."
+  },
+  {
+    "question": "La 'página web del Municipio de Puerto Boyacá' recibe quejas constantes sobre la dificultad para encontrar información de trámites clave, afectando la 'atención al usuario y al ciudadano'. Usted tiene una idea para reorganizar la información que implicaría un rediseño menor, pero requeriría 'esfuerzo' fuera de su jornada laboral. ¿Cómo abordaría esta iniciativa, demostrando su 'compromiso con la organización'?",
+    "options": [
+      "Informar a su superior sobre las quejas y esperar a que se asigne un proyecto oficial para el rediseño.",
+      "Realizar el rediseño de forma improvisada, sin considerar el impacto en otros departamentos.",
+      "Presentar una propuesta formal a su superior, detallando las 'mejoras' de 'usabilidad' y 'eficiencia' en la 'atención al usuario y al ciudadano', y ofrecerse a liderar el rediseño en su tiempo libre o buscar apoyo de 'trabajo en equipo' para implementarlo, evidenciando su 'compromiso con la organización' y su 'orientación a resultados' y 'mejoramiento continuo' del 'servicio público'.",
+      "Sugerir que los ciudadanos se adapten a la estructura actual de la página web."
+    ],
+    "answer": "Presentar una propuesta formal a su superior, detallando las 'mejoras' de 'usabilidad' y 'eficiencia' en la 'atención al usuario y al ciudadano', y ofrecerse a liderar el rediseño en su tiempo libre o buscar apoyo de 'trabajo en equipo' para implementarlo, evidenciando su 'compromiso con la organización' y su 'orientación a resultados' y 'mejoramiento continuo' del 'servicio público'."
+  },
+  {
+    "question": "Se ha implementado una nueva 'normatividad' que exige a todas las entidades públicas realizar 'auditorías de ciberseguridad' más rigurosas. La Alcaldía no cuenta con el personal con las 'destrezas' necesarias para este tipo de auditorías. Su jefe le pregunta si podría 'adquirir conocimientos' en esta área. ¿Cómo respondería, demostrando 'compromiso con la organización'?",
+    "options": [
+      "Decir que no es su función principal y que se debería contratar a un experto externo.",
+      "Aceptar a regañadientes, con la intención de aprender lo mínimo indispensable para cumplir.",
+      "Expresar su disposición a 'adquirir los conocimientos' y 'destrezas' en 'ciberseguridad' y auditorías, buscar cursos o certificaciones relevantes, y proponer un 'plan de capacitación' para él y otros compañeros, demostrando un 'compromiso con la organización' activo en el 'mejoramiento continuo' de las capacidades internas y la 'responsabilidad de los servidores públicos'.",
+      "Pedir que la Alcaldía invierta en herramientas de auditoría costosas sin que usted se capacite."
+    ],
+    "answer": "Expresar su disposición a 'adquirir los conocimientos' y 'destrezas' en 'ciberseguridad' y auditorías, buscar cursos o certificaciones relevantes, y proponer un 'plan de capacitación' para él y otros compañeros, demostrando un 'compromiso con la organización' activo en el 'mejoramiento continuo' de las capacidades internas y la 'responsabilidad de los servidores públicos'."
+  },
+  {
+    "question": "Durante un proceso de 'planeación' del 'PETI', se presenta un debate acalorado sobre la priorización de dos grandes 'proyectos': uno enfocado en 'infraestructura de TI' (hardware y software) y otro en 'servicios al ciudadano' (racionalización de trámites). Ambos son importantes para la Alcaldía. ¿Cómo contribuiría a la 'toma de decisiones', demostrando 'compromiso con la organización'?",
+    "options": [
+      "Tomar partido por el proyecto que más se alinea con sus intereses personales o área de especialización.",
+      "Mantenerse al margen del debate, esperando que los líderes tomen la decisión final.",
+      "Realizar un 'análisis de sistemas' objetivo de ambos proyectos, presentando datos y 'conceptos' técnicos sobre su 'impacto' potencial en la 'gestión eficiente, eficaz y transparente' y la 'satisfacción del ciudadano', y apoyar la 'instrumentación de decisiones' que beneficie más a la Alcaldía en su conjunto, demostrando 'compromiso con la organización' por encima de intereses particulares.",
+      "Criticar ambas propuestas, sugiriendo que ninguna es completamente viable."
+    ],
+    "answer": "Realizar un 'análisis de sistemas' objetivo de ambos proyectos, presentando datos y 'conceptos' técnicos sobre su 'impacto' potencial en la 'gestión eficiente, eficaz y transparente' y la 'satisfacción del ciudadano', y apoyar la 'instrumentación de decisiones' que beneficie más a la Alcaldía en su conjunto, demostrando 'compromiso con la organización' por encima de intereses particulares."
+  },
+  {
+    "question": "Usted detecta que un 'flujo de documentos' interno crucial en la Alcaldía, aunque digitalizado, es ineficiente y causa retrasos en la 'agilización de trámites'. Propone una 'solución' tecnológica que requiere 'adaptación al cambio' por parte de varios departamentos. ¿Cómo impulsaría esta 'mejora', demostrando 'compromiso con la organización'?",
+    "options": [
+      "Presentar la propuesta y esperar que la alta dirección la implemente sin su participación en la gestión del cambio.",
+      "Implementar la 'solución' en su propia área sin consultar a los demás departamentos afectados.",
+      "Elaborar un 'plan de acción' detallado, presentar los 'beneficios' de la 'agilización' para la 'gestión eficiente, eficaz y transparente' del municipio, involucrar a los departamentos afectados en el diseño de la 'solución', ofrecer 'capacitación' y 'soporte' constante para facilitar la 'adaptación al cambio', y liderar la implementación demostrando su 'compromiso con la organización' y con el 'mejoramiento continuo'.",
+      "Descartar la mejora si encuentra resistencia inicial, para evitar conflictos."
+    ],
+    "answer": "Elaborar un 'plan de acción' detallado, presentar los 'beneficios' de la 'agilización' para la 'gestión eficiente, eficaz y transparente' del municipio, involucrar a los departamentos afectados en el diseño de la 'solución', ofrecer 'capacitación' y 'soporte' constante para facilitar la 'adaptación al cambio', y liderar la implementación demostrando su 'compromiso con la organización' y con el 'mejoramiento continuo'."
+  },
+  {
+    "question": "La 'Política de Gobierno Digital' del municipio exige una mayor 'transparencia' en el 'manejo de la información' pública, lo que implica publicar datos sensibles de contratos o presupuestos en formatos abiertos. Esto genera preocupación en algunos funcionarios por la 'seguridad de la información'. ¿Cómo actuaría, demostrando su 'compromiso con la organización' y sus valores?",
+    "options": [
+      "Apoyar la postura de los funcionarios preocupados por la seguridad y sugerir no publicar los datos.",
+      "Publicar los datos sin tener en cuenta las preocupaciones de seguridad o la 'normatividad vigente'.",
+      "Abogar por la 'transparencia' como valor fundamental del 'Gobierno Digital', pero al mismo tiempo 'investigar' e 'implementar' las mejores prácticas en 'ciberseguridad' y 'anonimización de datos' para garantizar la 'protección de derechos fundamentales' y el cumplimiento de la 'normatividad vigente', 'compartiendo información útil' sobre cómo equilibrar ambos aspectos, demostrando 'compromiso con la organización' y sus principios.",
+      "Delegar la decisión sobre la publicación de datos a la oficina jurídica, sin ofrecer una 'solución' técnica."
+    ],
+    "answer": "Abogar por la 'transparencia' como valor fundamental del 'Gobierno Digital', pero al mismo tiempo 'investigar' e 'implementar' las mejores prácticas en 'ciberseguridad' y 'anonimización de datos' para garantizar la 'protección de derechos fundamentales' y el cumplimiento de la 'normatividad vigente', 'compartiendo información útil' sobre cómo equilibrar ambos aspectos, demostrando 'compromiso con la organización' y sus principios."
+  },
+  {
+    "question": "Se le solicita a usted participar en un comité interinstitucional para 'compartir información útil' y 'conocimientos' sobre 'ciberseguridad' con otros municipios vecinos, lo que implica reuniones fuera de su horario laboral. ¿Cómo abordaría esta solicitud, evidenciando 'compromiso con la organización' y 'colaboración interinstitucional'?",
+    "options": [
+      "Rechazar la participación, argumentando que ya tiene una carga de trabajo completa y que no le compensarán las horas extra.",
+      "Asistir a las reuniones, pero con mínima participación, para cumplir con el requisito.",
+      "Aceptar la participación, entendiendo el 'valor estratégico' de la 'colaboración interinstitucional' para fortalecer la 'ciberseguridad' regional y la 'imagen' de la Alcaldía de Puerto Boyacá. 'Dedicarse' a 'compartir información útil' y 'adquirir conocimientos' de otros, demostrando 'compromiso con la organización' y con el 'interés general'.",
+      "Solicitar una remuneración adicional por su participación en el comité."
+    ],
+    "answer": "Aceptar la participación, entendiendo el 'valor estratégico' de la 'colaboración interinstitucional' para fortalecer la 'ciberseguridad' regional y la 'imagen' de la Alcaldía de Puerto Boyacá. 'Dedicarse' a 'compartir información útil' y 'adquirir conocimientos' de otros, demostrando 'compromiso con la organización' y con el 'interés general'."
+  },
+  {
+    "question": "En el marco de la 'evaluación' y 'mejoramiento continuo' del 'Sistema de Gestión de la Calidad' de la Alcaldía, se le pide 'desarrollar' y 'aplicar' nuevos 'indicadores de desempeño' para medir la eficiencia de los 'sistemas de información'. Usted no tiene experiencia profunda en el diseño de métricas de calidad. ¿Cómo abordaría este reto, demostrando 'compromiso con la organización' y 'aprendizaje continuo'?",
+    "options": [
+      "Buscar ejemplos genéricos de indicadores y aplicarlos sin un 'análisis de sistemas' profundo de la realidad del municipio.",
+      "Delegar la tarea en un colega que tenga más experiencia en métricas, sin involucrarse en el proceso.",
+      "Investigar metodologías de 'diseño de indicadores de desempeño' y 'gestión de la calidad', 'adquirir los conocimientos' necesarios, 'colaborar' con las áreas para entender sus necesidades, y 'proyectar' un conjunto de 'indicadores' que realmente aporten al 'mejoramiento continuo' y la 'toma de decisiones', demostrando su 'compromiso con la organización' y 'orientación a resultados'.",
+      "Argumentar que los indicadores actuales son suficientes y no necesitan ser revisados."
+    ],
+    "answer": "Investigar metodologías de 'diseño de indicadores de desempeño' y 'gestión de la calidad', 'adquirir los conocimientos' necesarios, 'colaborar' con las áreas para entender sus necesidades, y 'proyectar' un conjunto de 'indicadores' que realmente aporten al 'mejoramiento continuo' y la 'toma de decisiones', demostrando su 'compromiso con la organización' y 'orientación a resultados'."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá ha recibido fondos para una importante inversión en 'infraestructura de TI' (nuevos 'hardware y software'). Durante el proceso de 'adquisición', usted detecta una posible irregularidad menor que podría, aunque no directamente ilegal, ir en contra del espíritu de 'transparencia' y 'gestión eficiente, eficaz y transparente'. ¿Cómo actuaría, demostrando 'compromiso con la organización' y 'responsabilidad'?",
+    "options": [
+      "Ignorar la irregularidad, ya que no es directamente ilegal y podría retrasar la adquisición.",
+      "Denunciar la situación a entes externos de control sin intentar resolverlo internamente primero.",
+      "Documentar la situación y 'comunicar' la posible irregularidad a su superior inmediato de manera confidencial, ofreciendo 'soluciones' para corregirla dentro de la 'normatividad vigente' y los principios de 'transparencia', priorizando la 'integridad' y el 'compromiso con la organización' por encima de la comodidad o eludir el problema.",
+      "Aprobar la adquisición, ya que es beneficiosa para el municipio, a pesar de la pequeña irregularidad."
+    ],
+    "answer": "Documentar la situación y 'comunicar' la posible irregularidad a su superior inmediato de manera confidencial, ofreciendo 'soluciones' para corregirla dentro de la 'normatividad vigente' y los principios de 'transparencia', priorizando la 'integridad' y el 'compromiso con la organización' por encima de la comodidad o eludir el problema."
+  },
+  {
+    "question": "El Alcalde de Puerto Boyacá le solicita que 'proyecte' un informe de gestión sobre el estado de la 'Política de Gobierno Digital' en el municipio, el cual será presentado a la ciudadanía. Se le pide que sea muy 'transparente' y muestre tanto los logros como los desafíos. ¿Cómo abordaría la preparación de este informe, evidenciando 'compromiso con la organización'?",
+    "options": [
+      "Solo destacar los logros para mejorar la imagen de la administración, minimizando los desafíos.",
+      "Presentar un informe muy técnico, que la ciudadanía no pueda comprender fácilmente.",
+      "Preparar un informe 'claro', 'conciso' y 'transparente', que presente de forma objetiva tanto los avances como los desafíos en la implementación de la 'Política de Gobierno Digital', usando un lenguaje accesible para la 'atención al usuario y al ciudadano', y proponiendo 'planes de mejoramiento' para los desafíos, demostrando 'compromiso con la organización' y 'rendición de cuentas'.",
+      "Delegar la preparación del informe en un comunicador, sin aportar su 'conocimiento' técnico."
+    ],
+    "answer": "Preparar un informe 'claro', 'conciso' y 'transparente', que presente de forma objetiva tanto los avances como los desafíos en la implementación de la 'Política de Gobierno Digital', usando un lenguaje accesible para la 'atención al usuario y al ciudadano', y proponiendo 'planes de mejoramiento' para los desafíos, demostrando 'compromiso con la organización' y 'rendición de cuentas'."
+  },
+  {
+    "question": "Usted detecta que un 'proceso' dentro de la Alcaldía utiliza un 'software' obsoleto y vulnerable que, aunque funcional, representa un riesgo de 'ciberseguridad' y contraviene el 'Plan Estratégico de Tecnologías de la Información (PETI)'. La actualización implicaría una interrupción temporal del servicio. ¿Cómo actuaría, demostrando 'compromiso con la organización' y 'responsabilidad'?",
+    "options": [
+      "Permitir que el software siga funcionando hasta que falle, para evitar interrupciones.",
+      "Notificar la situación a su superior, pero sin proponer una 'solución' o asumir la 'responsabilidad' de la 'implementación'.",
+      "Realizar un 'análisis de sistemas' de la vulnerabilidad y el riesgo, 'proyectar' una 'solución' de actualización o reemplazo del 'software', 'comunicar' el 'impacto' de la interrupción temporal y 'planear' la migración minimizando las afectaciones, priorizando la 'ciberseguridad' a largo plazo y el 'cumplimiento del PETI', lo que es un claro signo de 'compromiso con la organización' y 'mejoramiento continuo'.",
+      "Sugería que el área que utiliza el software obsoleto se haga cargo de la actualización."
+    ],
+    "answer": "Realizar un 'análisis de sistemas' de la vulnerabilidad y el riesgo, 'proyectar' una 'solución' de actualización o reemplazo del 'software', 'comunicar' el 'impacto' de la interrupción temporal y 'planear' la migración minimizando las afectaciones, priorizando la 'ciberseguridad' a largo plazo y el 'cumplimiento del PETI', lo que es un claro signo de 'compromiso con la organización' y 'mejoramiento continuo'."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá decide implementar una 'mesa de ayuda' centralizada para la 'atención al usuario y al ciudadano' en temas de TIC, lo que es un 'cambio' significativo en la 'prestación de servicios a través del medio tecnológico'. Esto implica que usted y sus compañeros deben 'adquirir nuevas destrezas' en soporte y 'comunicación efectiva'. ¿Cómo abordaría este proceso, demostrando 'compromiso con la organización'?",
+    "options": [
+      "Protestar por el 'cambio' y la nueva 'carga laboral' que implica la mesa de ayuda.",
+      "Asumir las nuevas funciones de soporte sin interés, enfocándose solo en la 'resolución de problemas' técnicos.",
+      "Involucrarse activamente en la 'capacitación' para 'adquirir las destrezas' necesarias, 'compartir información útil' con sus compañeros sobre cómo mejorar la 'comunicación efectiva' con los usuarios, y 'proponer mejoras' continuas al 'funcionamiento' de la mesa de ayuda, demostrando su 'compromiso con la organización' y con el 'mejoramiento continuo' de la 'atención al usuario y al ciudadano'.",
+      "Buscar excusas para no participar en las rotaciones de la mesa de ayuda."
+    ],
+    "answer": "Involucrarse activamente en la 'capacitación' para 'adquirir las destrezas' necesarias, 'compartir información útil' con sus compañeros sobre cómo mejorar la 'comunicación efectiva' con los usuarios, y 'proponer mejoras' continuas al 'funcionamiento' de la mesa de ayuda, demostrando su 'compromiso con la organización' y con el 'mejoramiento continuo' de la 'atención al usuario y al ciudadano'."
+  },
+  {
+    "question": "Se le asigna la tarea de auditar el cumplimiento de la 'Política de Gobierno Digital' en el uso de 'software y hardware' en todas las secretarías del municipio. Durante la auditoría, usted encuentra una secretaría que utiliza 'hardware' obsoleto y no licenciado, lo que pone en riesgo la 'seguridad de la información' y la 'responsabilidad de los servidores públicos'. La secretaria a cargo es una persona influyente. ¿Cómo manejaría la situación, demostrando 'compromiso con la organización' y ética?",
+    "options": [
+      "Ignorar la situación para evitar un conflicto con una persona influyente.",
+      "Reportar la situación directamente a los entes de control externos sin antes informar internamente.",
+      "Documentar la situación con 'rigurosidad', 'comunicar' los hallazgos a su superior y a la secretaria involucrada de manera 'objetiva' y 'constructiva', explicando los 'riesgos' para la 'ciberseguridad' y la 'responsabilidad institucional', y 'proponer un plan de acción' para la regularización, demostrando su 'compromiso con la organización' y la 'normatividad vigente', incluso ante la presión.",
+      "Informar a la secretaria influyente de que se omitirá la información para evitar problemas."
+    ],
+    "answer": "Documentar la situación con 'rigurosidad', 'comunicar' los hallazgos a su superior y a la secretaria involucrada de manera 'objetiva' y 'constructiva', explicando los 'riesgos' para la 'ciberseguridad' y la 'responsabilidad institucional', y 'proponer un plan de acción' para la regularización, demostrando su 'compromiso con la organización' y la 'normatividad vigente', incluso ante la presión."
+  },
+  {
+    "question": "La Alcaldía ha decidido invertir en 'hardware' y 'software' de inteligencia artificial para 'análisis de sistemas' de datos de transporte urbano, buscando 'racionalizar' rutas y 'agilizar' la movilidad. Usted es el líder técnico. El proyecto es innovador y no hay precedentes en la región. ¿Cómo abordaría este proyecto, demostrando 'compromiso con la organización' y 'visión de futuro'?",
+    "options": [
+      "Implementar una solución básica de inteligencia artificial sin explorar todo su potencial, para reducir los riesgos.",
+      "Esperar a que otras ciudades implementen algo similar antes de avanzar con el proyecto.",
+      "Liderar la investigación de las últimas tendencias en IA para 'análisis de sistemas' de transporte, 'adquirir los conocimientos' y 'destrezas' necesarias, 'diseñar' una arquitectura innovadora que maximice los 'beneficios' para la 'gestión eficiente' del municipio y la 'satisfacción del ciudadano', y 'proyectar' su 'implementación' demostrando un alto 'compromiso con la organización' con la 'innovación' y el 'mejoramiento continuo'.",
+      "Delegar toda la 'investigación' a un consultor externo sin involucrarse en la parte técnica."
+    ],
+    "answer": "Liderar la investigación de las últimas tendencias en IA para 'análisis de sistemas' de transporte, 'adquirir los conocimientos' y 'destrezas' necesarias, 'diseñar' una arquitectura innovadora que maximice los 'beneficios' para la 'gestión eficiente' del municipio y la 'satisfacción del ciudadano', y 'proyectar' su 'implementación' demostrando un alto 'compromiso con la organización' con la 'innovación' y el 'mejoramiento continuo'."
+  },
+  {
+    "question": "Un colega en otra secretaría, que maneja datos sensibles de ciudadanos, le solicita que desactive temporalmente algunas funciones de 'ciberseguridad' en su sistema para agilizar un proceso, argumentando que no hay riesgo. Usted sabe que esto contraviene la 'normatividad vigente' y la 'protección de derechos fundamentales'. ¿Cómo respondería, demostrando 'compromiso con la organización' y 'responsabilidad'?",
+    "options": [
+      "Desactivar las funciones de seguridad, asumiendo que el colega es consciente de los riesgos y es su 'responsabilidad'.",
+      "Negarse rotundamente sin ofrecer ninguna alternativa o explicación detallada.",
+      "Explicar 'claramente' al colega los 'riesgos' de 'ciberseguridad' y las implicaciones legales para la 'Alcaldía' y para la 'protección de derechos fundamentales' de los ciudadanos, 'proponer una alternativa' que permita agilizar el proceso sin comprometer la 'seguridad', y documentar la interacción, demostrando su 'compromiso con la organización' y su 'apego a la normatividad vigente' y los 'valores éticos'.",
+      "Escalar el problema a su superior sin antes intentar explicar la situación al colega."
+    ],
+    "answer": "Explicar 'claramente' al colega los 'riesgos' de 'ciberseguridad' y las implicaciones legales para la 'Alcaldía' y para la 'protección de derechos fundamentales' de los ciudadanos, 'proponer una alternativa' que permita agilizar el proceso sin comprometer la 'seguridad', y documentar la interacción, demostrando su 'compromiso con la organización' y su 'apego a la normatividad vigente' y los 'valores éticos'."
+  },
+  {
+    "question": "El 'Plan Estratégico de Tecnologías de la Información (PETI)' de la Alcaldía incluye un objetivo ambicioso de 'transformación digital' que requiere que usted y su equipo 'adquieran' constantemente 'nuevos conocimientos' en tecnologías emergentes, incluso fuera del horario laboral. ¿Cómo abordaría esta exigencia, demostrando 'compromiso con la organización' y 'aprendizaje continuo'?",
+    "options": [
+      "Negarse a estudiar fuera de horario, argumentando que la formación es responsabilidad de la Alcaldía durante la jornada laboral.",
+      "Estudiar lo mínimo indispensable para cumplir con las expectativas superficialmente.",
+      "Asumir la 'responsabilidad' de su desarrollo profesional, dedicar 'tiempo adicional' para 'adquirir los conocimientos' y 'destrezas' en tecnologías emergentes relevantes para el 'PETI', y 'compartir' esos aprendizajes con el equipo para el 'mejoramiento continuo' de las capacidades de la Alcaldía, demostrando un profundo 'compromiso con la organización' y su 'visión de futuro'.",
+      "Esperar a que la Alcaldía ofrezca cursos pagados y certificados para empezar a estudiar."
+    ],
+    "answer": "Asumir la 'responsabilidad' de su desarrollo profesional, dedicar 'tiempo adicional' para 'adquirir los conocimientos' y 'destrezas' en tecnologías emergentes relevantes para el 'PETI', y 'compartir' esos aprendizajes con el equipo para el 'mejoramiento continuo' de las capacidades de la Alcaldía, demostrando un profundo 'compromiso con la organización' y su 'visión de futuro'."
+  },
+  {
+    "question": "Se ha presentado una ola de críticas en redes sociales hacia la 'página web del Municipio de Puerto Boyacá' por fallas en un 'servicio a través del medio tecnológico' recién implementado. Aunque usted no fue el desarrollador principal, es el Profesional Universitario de TIC. ¿Cómo manejaría esta situación, demostrando 'compromiso con la organización' y 'orientación al usuario y al ciudadano'?",
+    "options": [
+      "Ignorar las críticas, ya que no fueron dirigidas directamente a usted o a su área.",
+      "Culpar al desarrollador principal de las fallas y la mala reputación de la página web.",
+      "Asumir la 'responsabilidad' de la situación ante la ciudadanía, liderar la 'resolución de problemas' de la falla en el 'servicio', 'comunicar' a través de la 'página web' o redes sociales las acciones correctivas, y 'trabajar en equipo' para implementar 'mejoras' rápidas, demostrando 'compromiso con la organización', 'transparencia' y 'atención al usuario y al ciudadano'.",
+      "Desactivar temporalmente el servicio problemático para evitar más críticas."
+    ],
+    "answer": "Asumir la 'responsabilidad' de la situación ante la ciudadanía, liderar la 'resolución de problemas' de la falla en el 'servicio', 'comunicar' a través de la 'página web' o redes sociales las acciones correctivas, y 'trabajar en equipo' para implementar 'mejoras' rápidas, demostrando 'compromiso con la organización', 'transparencia' y 'atención al usuario y al ciudadano'."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá necesita un 'análisis de sistemas' urgente de datos complejos para la 'toma de decisiones estratégicas' en materia de 'tributos e ingresos municipales', pero el equipo no cuenta con las 'destrezas' avanzadas en ciencia de datos. Usted tiene conocimientos básicos en el tema. ¿Cómo se comprometería con este desafío, evidenciando 'compromiso con la organización' y 'aprendizaje continuo'?",
+    "options": [
+      "Sugerir que se contrate un analista de datos externo, sin su participación en el proceso.",
+      "Realizar un análisis superficial con sus conocimientos básicos, aunque no sea el nivel de detalle requerido.",
+      "Ofrecerse a 'adquirir los conocimientos' y 'destrezas' en 'ciencia de datos' y 'análisis de sistemas' avanzados (ej. a través de cursos online o investigación), y liderar la 'ejecución' del análisis para proporcionar la 'información útil' necesaria para la 'toma de decisiones estratégica' de la Alcaldía, demostrando su 'compromiso con la organización' y su 'capacidad de adaptación'.",
+      "Argumentar que el análisis de datos no es una función principal de su área de TIC."
+    ],
+    "answer": "Ofrecerse a 'adquirir los conocimientos' y 'destrezas' en 'ciencia de datos' y 'análisis de sistemas' avanzados (ej. a través de cursos online o investigación), y liderar la 'ejecución' del análisis para proporcionar la 'información útil' necesaria para la 'toma de decisiones estratégica' de la Alcaldía, demostrando su 'compromiso con la organización' y su 'capacidad de adaptación'."
+  },
+  {
+    "question": "Un colega de otra secretaría le pide que le ayude con una configuración compleja de 'hardware' que no está directamente relacionada con sus funciones, pero que es crucial para un 'servicio' que prestan a la comunidad. Usted tiene la 'capacidad técnica' para ayudar. ¿Cómo respondería, demostrando 'compromiso con la organización' y 'trabajo en equipo'?",
+    "options": [
+      "Rechazar la solicitud, argumentando que no es su responsabilidad y que el colega debe pedirle a su jefe.",
+      "Ayudar, pero mostrando desinterés y sin dedicarle el tiempo necesario para una 'solución' duradera.",
+      "Ofrecer su 'ayuda' y 'conocimientos técnicos' para resolver la configuración del 'hardware', entendiendo que la 'colaboración' inter-áreas contribuye al 'mejoramiento continuo' y la 'eficiencia' de los 'servicios a través del medio tecnológico' del municipio y al 'bienestar de la comunidad', lo que refleja un fuerte 'compromiso con la organización' y 'trabajo en equipo'.",
+      "Cobrarle al colega por su tiempo y experiencia, ya que no es parte de sus funciones."
+    ],
+    "answer": "Ofrecer su 'ayuda' y 'conocimientos técnicos' para resolver la configuración del 'hardware', entendiendo que la 'colaboración' inter-áreas contribuye al 'mejoramiento continuo' y la 'eficiencia' de los 'servicios a través del medio tecnológico' del municipio y al 'bienestar de la comunidad', lo que refleja un fuerte 'compromiso con la organización' y 'trabajo en equipo'."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá decide implementar una nueva metodología de 'gestión de proyectos' (ej. Scrum, Kanban) en el área de TIC para mejorar la 'agilización de flujos de documentos' y la 'racionalización de trámites'. Esta metodología implica un 'cambio' cultural y de 'procedimientos' significativo. ¿Cómo se 'adaptaría' a este 'cambio', demostrando 'compromiso con la organización'?",
+    "options": [
+      "Resistirse al 'cambio' y continuar trabajando con las metodologías antiguas, sin adoptar las nuevas prácticas.",
+      "Asistir a las 'capacitaciones' obligatorias, pero sin aplicar realmente la nueva metodología en su trabajo.",
+      "Involucrarse activamente en el 'aprendizaje continuo' de la nueva metodología, 'proponer ideas' para su 'adaptación' a los 'procedimientos' de la Alcaldía, 'compartir' sus 'conocimientos' con el equipo y 'liderar' con el ejemplo su 'implementación' para el 'mejoramiento continuo' de la 'gestión eficiente, eficaz y transparente', lo que refleja un alto 'compromiso con la organización'.",
+      "Criticar la nueva metodología, argumentando que no funcionará en el contexto de la Alcaldía."
+    ],
+    "answer": "Involucrarse activamente en el 'aprendizaje continuo' de la nueva metodología, 'proponer ideas' para su 'adaptación' a los 'procedimientos' de la Alcaldía, 'compartir' sus 'conocimientos' con el equipo y 'liderar' con el ejemplo su 'implementación' para el 'mejoramiento continuo' de la 'gestión eficiente, eficaz y transparente', lo que refleja un alto 'compromiso con la organización'."
+  },
+  {
+    "question": "Se le solicita a usted, como Profesional Universitario de TIC, investigar una nueva 'tecnología emergente' (ej. blockchain para la 'transparencia' en procesos) para evaluar su viabilidad en la Alcaldía, a pesar de que no hay un proyecto inmediato para su 'implementación'. La investigación requiere 'dedicación' fuera de sus 'funciones' diarias directas. ¿Cómo abordaría esta tarea, demostrando 'compromiso con la organización' y 'visión de futuro'?",
+    "options": [
+      "Posponer la investigación indefinidamente, ya que no hay un proyecto urgente asociado a ella.",
+      "Realizar una investigación superficial, presentando un informe básico sin profundizar en la viabilidad técnica.",
+      "Asumir la 'responsabilidad' de la investigación con 'entusiasmo', 'adquirir los conocimientos' técnicos sobre la tecnología, 'proyectar' posibles casos de uso para la 'gestión eficiente, eficaz y transparente' del municipio, y presentar un 'informe' detallado que demuestre su 'potencial' y los desafíos, evidenciando un alto 'compromiso con la organización' y con la 'innovación' para el 'mejoramiento continuo'.",
+      "Argumentar que solo debe investigar tecnologías que tengan un proyecto asignado y financiado."
+    ],
+    "answer": "Asumir la 'responsabilidad' de la investigación con 'entusiasmo', 'adquirir los conocimientos' técnicos sobre la tecnología, 'proyectar' posibles casos de uso para la 'gestión eficiente, eficaz y transparente' del municipio, y presentar un 'informe' detallado que demuestre su 'potencial' y los desafíos, evidenciando un alto 'compromiso con la organización' y con la 'innovación' para el 'mejoramiento continuo'."
+  },
+  {
+    "question": "Durante un proceso de auditoría externa del 'Sistema de Gestión de la Calidad', se identifican hallazgos que señalan debilidades en los 'procedimientos' de su área de TIC. Esto podría afectar la reputación de la Alcaldía. ¿Cómo reaccionaría a estos hallazgos, demostrando 'compromiso con la organización' y 'adaptación al cambio'?",
+    "options": [
+      "Negar la existencia de las debilidades y defender los 'procedimientos' actuales, para no afectar la reputación.",
+      "Culpar a otros departamentos o a la falta de recursos por los hallazgos de la auditoría.",
+      "Aceptar los hallazgos de la auditoría con una 'actitud proactiva', 'analizar' las 'causas raíz' de las debilidades, 'diseñar' y 'ejecutar' 'planes de mejoramiento' efectivos, y 'compartir' los 'aprendizajes' con el equipo para fortalecer el 'Sistema de Gestión de la Calidad' y el 'mejoramiento continuo' de la 'gestión eficiente, eficaz y transparente', demostrando un fuerte 'compromiso con la organización' y 'adaptación al cambio'.",
+      "Esperar a que la alta dirección dé órdenes específicas para implementar los planes de mejoramiento."
+    ],
+    "answer": "Aceptar los hallazgos de la auditoría con una 'actitud proactiva', 'analizar' las 'causas raíz' de las debilidades, 'diseñar' y 'ejecutar' 'planes de mejoramiento' efectivos, y 'compartir' los 'aprendizajes' con el equipo para fortalecer el 'Sistema de Gestión de la Calidad' y el 'mejoramiento continuo' de la 'gestión eficiente, eficaz y transparente', demostrando un fuerte 'compromiso con la organización' y 'adaptación al cambio'."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá recibe una solicitud de información pública de gran volumen que requiere extraer datos de múltiples 'sistemas de información' diferentes, bajo la 'normatividad vigente' de 'transparencia'. La tarea es tediosa y no hay una herramienta automatizada. ¿Cómo se comprometería con la 'ejecución' de esta solicitud, demostrando 'compromiso con la organización' y 'eficiencia'?",
+    "options": [
+      "Realizar la extracción de datos de forma incompleta, argumentando la dificultad y falta de herramientas.",
+      "Postergar la solicitud tanto como sea posible, esperando que sea olvidada o que alguien más la resuelva.",
+      "Asumir la 'responsabilidad' de la extracción de datos, 'organizar' las 'fuentes de información', 'aplicar' sus 'conocimientos' en 'análisis de sistemas' para buscar la manera más 'eficiente' de recopilar y consolidar la información, y 'ejecutar' la tarea con 'diligencia' para asegurar el 'cumplimiento' de la 'normatividad vigente' y la 'transparencia', evidenciando su 'compromiso con la organización' y el 'servicio al ciudadano'.",
+      "Sugerir a la persona que realizó la solicitud que simplifique su requerimiento."
+    ],
+    "answer": "Asumir la 'responsabilidad' de la extracción de datos, 'organizar' las 'fuentes de información', 'aplicar' sus 'conocimientos' en 'análisis de sistemas' para buscar la manera más 'eficiente' de recopilar y consolidar la información, y 'ejecutar' la tarea con 'diligencia' para asegurar el 'cumplimiento' de la 'normatividad vigente' y la 'transparencia', evidenciando su 'compromiso con la organización' y el 'servicio al ciudadano'."
+  },
+  {
+    "question": "En una reunión del equipo de TIC, un compañero presenta una 'propuesta innovadora' para mejorar la 'ciberseguridad' utilizando una 'tecnología' que usted no conoce y sobre la cual tiene dudas. Sin embargo, la propuesta tiene un 'potencial significativo' para la 'protección de derechos fundamentales' de la información del municipio. ¿Cómo reaccionaría, demostrando 'compromiso con la organización' y 'apertura al aprendizaje'?",
+    "options": [
+      "Criticar la propuesta por usar una tecnología desconocida y enfocarse en sus posibles desventajas.",
+      "Mantenerse en silencio y no expresar su opinión, dejando que otros decidan.",
+      "Expresar sus dudas de manera 'constructiva', pero también manifestar 'interés' en 'adquirir conocimientos' sobre la nueva 'tecnología', 'proponer' un 'análisis de sistemas' más profundo para evaluar su viabilidad y 'colaborar' con el compañero para explorar su 'potencial' para la 'ciberseguridad' del municipio, demostrando 'compromiso con la organización' y 'aprendizaje continuo'.",
+      "Asumir que la propuesta es inviable por ser demasiado arriesgada y sin experiencia previa."
+    ],
+    "answer": "Expresar sus dudas de manera 'constructiva', pero también manifestar 'interés' en 'adquirir conocimientos' sobre la nueva 'tecnología', 'proponer' un 'análisis de sistemas' más profundo para evaluar su viabilidad y 'colaborar' con el compañero para explorar su 'potencial' para la 'ciberseguridad' del municipio, demostrando 'compromiso con la organización' y 'aprendizaje continuo'."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá está rediseñando su 'Plan Estratégico de Tecnologías de la Información (PETI)' para los próximos años. Se le solicita participar activamente en la definición de las 'metas' y 'proyectos' a largo plazo, los cuales implicarán 'grandes desafíos' y un 'constante mejoramiento continuo'. ¿Cómo abordaría esta participación, evidenciando su 'compromiso con la organización'?",
+    "options": [
+      "Limitar su participación a las 'funciones' que le son directamente asignadas, sin proponer ideas innovadoras.",
+      "Asistir a las reuniones, pero sin contribuir activamente, esperando que otros definan las metas.",
+      "Involucrarse 'proactivamente' en la 'planeación' del 'PETI', 'aportar' su 'visión' y 'conocimientos' sobre las 'tendencias tecnológicas' y su 'aplicación' para la 'gestión eficiente, eficaz y transparente' del municipio, y 'comprometerse' a 'trabajar' para alcanzar las 'metas' ambiciosas, demostrando un alto 'compromiso con la organización' y 'visión de futuro'.",
+      "Presentar ideas demasiado idealistas o costosas que no son viables para el presupuesto municipal."
+    ],
+    "answer": "Involucrarse 'proactivamente' en la 'planeación' del 'PETI', 'aportar' su 'visión' y 'conocimientos' sobre las 'tendencias tecnológicas' y su 'aplicación' para la 'gestión eficiente, eficaz y transparente' del municipio, y 'comprometerse' a 'trabajar' para alcanzar las 'metas' ambiciosas, demostrando un alto 'compromiso con la organización' y 'visión de futuro'."
+  },
+  {
+    "question": "Un 'sistema de información' crítico para la 'racionalización de trámites' del municipio sufre una falla inesperada que afecta directamente la 'atención al usuario y al ciudadano'. La 'resolución del problema' requiere 'dedicación' fuera de horario y 'colaboración' con un equipo externo. ¿Cuál sería su reacción, demostrando 'compromiso con la organización' y 'orientación al usuario y al ciudadano'?",
+    "options": [
+      "Limitarse a notificar la falla y esperar que el equipo externo la solucione sin su intervención directa.",
+      "Quejarse por tener que trabajar fuera de horario en un problema que no es su 'responsabilidad' directa.",
+      "Asumir la 'urgencia' de la situación, 'dedicarse' a 'resolver el problema' con el equipo externo, 'comunicar' a los usuarios afectados las medidas que se están tomando, y 'trabajar sin descanso' hasta restaurar el 'servicio' y minimizar el impacto en la 'satisfacción del ciudadano', demostrando un fuerte 'compromiso con la organización' y la 'eficiencia'.",
+      "Considerar que si la falla ocurrió fuera de horario, la 'resolución' puede esperar al día siguiente."
+    ],
+    "answer": "Asumir la 'urgencia' de la situación, 'dedicarse' a 'resolver el problema' con el equipo externo, 'comunicar' a los usuarios afectados las medidas que se están tomando, y 'trabajar sin descanso' hasta restaurar el 'servicio' y minimizar el impacto en la 'satisfacción del ciudadano', demostrando un fuerte 'compromiso con la organización' y la 'eficiencia'."
+  },
+  {
+    "question": "Para cumplir con la 'Política de Gobierno Digital', la Alcaldía de Puerto Boyacá busca implementar una 'firma digital' con validez legal para todos sus 'documentos' y 'trámites', lo que implica un 'cambio' tecnológico y 'procedimental' significativo. Este es un 'proyecto complejo' que requiere 'aprendizaje continuo'. ¿Cómo lideraría este proceso, evidenciando 'compromiso con la organización'?",
+    "options": [
+      "Sugería que se implemente una firma escaneada simple, sin validez legal, para evitar la complejidad del 'cambio'.",
+      "Esperar a que un ente de mayor nivel implemente la 'firma digital' para luego replicar su experiencia sin mayor esfuerzo.",
+      "Investigar a fondo la 'normatividad vigente' sobre 'firma digital', 'adquirir los conocimientos' técnicos sobre 'software' de firma digital y 'criptografía', 'diseñar' un 'plan de implementación' por fases, 'capacitar' al personal en el nuevo 'procedimiento', y 'promover' activamente su uso para la 'agilización de trámites' y la 'transparencia', demostrando su 'compromiso con la organización' y 'adaptación al cambio'.",
+      "Delegar la 'implementación' en un tercero sin supervisión activa o 'aprendizaje' del proceso."
+    ],
+    "answer": "Investigar a fondo la 'normatividad vigente' sobre 'firma digital', 'adquirir los conocimientos' técnicos sobre 'software' de firma digital y 'criptografía', 'diseñar' un 'plan de implementación' por fases, 'capacitar' al personal en el nuevo 'procedimiento', y 'promover' activamente su uso para la 'agilización de trámites' y la 'transparencia', demostrando su 'compromiso con la organización' y 'adaptación al cambio'."
+  },
+  {
+    "question": "Durante un proceso de 'adquisición de software y hardware' para la Alcaldía, usted identifica que una oferta, aunque ligeramente más costosa, presenta 'mejores características' de 'seguridad de la información' y 'escalabilidad' a largo plazo, lo que beneficiaría al 'Plan Estratégico de Tecnologías de la Información (PETI)'. La directriz inicial es optar por la oferta más económica. ¿Cómo actuaría, demostrando 'compromiso con la organización' y 'análisis de sistemas'?",
+    "options": [
+      "Optar por la oferta más económica sin presentar sus objeciones, para evitar conflictos y 'agilizar' el proceso.",
+      "Presentar sus objeciones de forma informal, sin una justificación técnica sólida.",
+      "Realizar un 'análisis de sistemas' de 'costo-beneficio' a largo plazo, destacando los 'ahorros potenciales' en 'ciberseguridad' y 'mantenimiento', y 'comunicar' su 'concepto' técnico de manera 'clara' y 'convencente' a la 'dirección', 'velando por el cumplimiento de los indicadores' de calidad y 'estrategia' del 'PETI', demostrando su 'compromiso con la organización' y 'visión estratégica' de la 'gestión eficiente'.",
+      "Filtrar información sobre la oferta más costosa para que sea la elegida, sin justificación formal."
+    ],
+    "answer": "Realizar un 'análisis de sistemas' de 'costo-beneficio' a largo plazo, destacando los 'ahorros potenciales' en 'ciberseguridad' y 'mantenimiento', y 'comunicar' su 'concepto' técnico de manera 'clara' y 'convencente' a la 'dirección', 'velando por el cumplimiento de los indicadores' de calidad y 'estrategia' del 'PETI', demostrando su 'compromiso con la organización' y 'visión estratégica' de la 'gestión eficiente'."
+  },
+  {
+    "question": "Usted es consciente de que la Alcaldía de Puerto Boyacá necesita 'mejorar' la 'interacción ciudadana' en su 'página web del Municipio de Puerto Boyacá' más allá de la simple publicación de información. Propone la implementación de 'foros' o 'espacios de participación ciudadana' activos, lo que implicaría 'gestión' de contenidos y moderación. ¿Cómo impulsaría esta iniciativa, demostrando 'compromiso con la organización' y 'orientación al usuario y al ciudadano'?",
+    "options": [
+      "Esperar a que se dé una directriz explícita para implementar herramientas de 'participación ciudadana'.",
+      "Implementar un foro sin una 'estrategia' clara de 'moderación' o 'gestión de contenidos'.",
+      "Diseñar una 'propuesta' detallada para la 'implementación' de 'foros' o 'espacios de participación', 'investigar' las 'mejores prácticas' en 'gestión de comunidades' online, 'proyectar' los 'beneficios' para la 'transparencia' y la 'atención al usuario y al ciudadano', y ofrecerse a 'liderar' la 'gestión' y 'moderación' inicial, demostrando un alto 'compromiso con la organización' con la 'participación ciudadana' y el 'mejoramiento continuo'.",
+      "Limitar la 'página web' a ser solo un canal de información unidireccional."
+    ],
+    "answer": "Diseñar una 'propuesta' detallada para la 'implementación' de 'foros' o 'espacios de participación', 'investigar' las 'mejores prácticas' en 'gestión de comunidades' online, 'proyectar' los 'beneficios' para la 'transparencia' y la 'atención al usuario y al ciudadano', y ofrecerse a 'liderar' la 'gestión' y 'moderación' inicial, demostrando un alto 'compromiso con la organización' con la 'participación ciudadana' y el 'mejoramiento continuo'."
+  },
+  {
+    "question": "En la Alcaldía de Puerto Boyacá, se ha detectado que la 'información' de 'contactos de ciudadanos' utilizada por diferentes secretarías no es consistente ni está actualizada, afectando la 'comunicación efectiva' y la 'calidad de la atención al usuario y al ciudadano'. Como Profesional Universitario de TIC, usted no es directamente responsable de la 'gestión de datos' de todas las secretarías. ¿Cómo abordaría este 'problema', demostrando 'compromiso con la organización'?",
+    "options": [
+      "Ignorar el problema de la inconsistencia de datos, ya que no es su 'responsabilidad' directa y cada secretaría debe manejar sus propios datos.",
+      "Enviar un correo electrónico masivo a todas las secretarías pidiendo que actualicen sus datos, sin ofrecer 'soporte' o 'soluciones'.",
+      "Liderar una 'iniciativa' para unificar y 'mejorar' la 'calidad de los datos' de 'contactos ciudadanos': 'proponer' un 'análisis de sistemas' para identificar las 'fuentes de inconsistencia', 'investigar' 'soluciones' de 'software' para 'gestión de datos maestros', 'colaborar' con las secretarías para establecer 'procedimientos' de 'actualización' y 'velar por el cumplimiento de indicadores' de 'calidad de datos', demostrando su 'compromiso con la organización' y con el 'mejoramiento continuo' de la 'gestión eficiente, eficaz y transparente'.",
+      "Recomendar que cada secretaría invierta en su propio 'software' para gestionar sus datos, sin buscar una 'solución' unificada."
+    ],
+    "answer": "Liderar una 'iniciativa' para unificar y 'mejorar' la 'calidad de los datos' de 'contactos ciudadanos': 'proponer' un 'análisis de sistemas' para identificar las 'fuentes de inconsistencia', 'investigar' 'soluciones' de 'software' para 'gestión de datos maestros', 'colaborar' con las secretarías para establecer 'procedimientos' de 'actualización' y 'velar por el cumplimiento de indicadores' de 'calidad de datos', demostrando su 'compromiso con la organización' y con el 'mejoramiento continuo' de la 'gestión eficiente, eficaz y transparente'."
+  },
+  {
+    "question": "La 'Alcaldía de Puerto Boyacá' desea 'innovar' en la 'prestación de servicios a través del medio tecnológico' mediante la exploración de 'tecnologías inmersivas' (realidad virtual/aumentada) para 'visitas virtuales' a lugares turísticos del municipio. Usted no tiene 'experiencia' previa en estas 'tecnologías', y su 'jefe' le ha pedido una 'propuesta' de viabilidad. ¿Cómo abordaría este 'desafío', demostrando 'compromiso con la organización' y 'aprendizaje continuo'?",
+    "options": [
+      "Informar a su 'jefe' que no tiene la 'experiencia' necesaria y que la 'investigación' de estas 'tecnologías' excede sus 'funciones' y 'conocimientos' actuales.",
+      "Realizar una 'investigación' básica en internet sobre 'realidad virtual'/'aumentada' y presentar un 'informe' superficial sin considerar la 'viabilidad técnica' o los 'costos' reales para el 'municipio'.",
+      "Asumir el 'desafío' con 'entusiasmo', 'adquirir los conocimientos' y 'destrezas' específicos en 'tecnologías inmersivas' a través de cursos especializados, 'investigar' 'casos de éxito' en otros 'gobiernos locales', 'diseñar' un 'plan piloto' viable y 'proyectar' los 'beneficios' para la 'atención al usuario y al ciudadano' y la 'imagen' del 'municipio', demostrando un alto 'compromiso con la organización' con la 'innovación' y el 'mejoramiento continuo' de los 'servicios a través del medio tecnológico'.",
+      "Sugería 'contratar' a una empresa 'externa' para que se encargue de toda la 'investigación' y 'desarrollo', sin involucrarse en el 'aprendizaje' del 'equipo' interno."
+    ],
+    "answer": "Asumir el 'desafío' con 'entusiasmo', 'adquirir los conocimientos' y 'destrezas' específicos en 'tecnologías inmersivas' a través de cursos especializados, 'investigar' 'casos de éxito' en otros 'gobiernos locales', 'diseñar' un 'plan piloto' viable y 'proyectar' los 'beneficios' para la 'atención al usuario y al ciudadano' y la 'imagen' del 'municipio', demostrando un alto 'compromiso con la organización' con la 'innovación' y el 'mejoramiento continuo' de los 'servicios a través del medio tecnológico'."
+  }
+
+
+]
