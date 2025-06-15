@@ -1,0 +1,1350 @@
+[
+  {
+    "question": "¿Qué describe mejor el concepto de aprendizaje continuo?",
+    "options": [
+      "La capacidad de hacer una maestría cada 10 años.",
+      "La disposición a aprender constantemente y adaptarse a nuevas realidades.",
+      "Aprender solo lo necesario para cumplir funciones actuales.",
+      "Recibir formación únicamente cuando la impone la entidad."
+    ],
+    "answer": "La disposición a aprender constantemente y adaptarse a nuevas realidades."
+  },
+  {
+    "question": "Un servidor público que practica el aprendizaje continuo tiende a:",
+    "options": [
+      "Evitar nuevas responsabilidades hasta recibir una orden formal.",
+      "Buscar oportunidades de aprendizaje y aplicar lo aprendido.",
+      "Esperar a que otros implementen los cambios primero.",
+      "Seguir trabajando como siempre para evitar errores."
+    ],
+    "answer": "Buscar oportunidades de aprendizaje y aplicar lo aprendido."
+  },
+  {
+    "question": "¿Cuál es una herramienta adecuada para fomentar el aprendizaje continuo?",
+    "options": [
+      "Reducir el acceso a información técnica para evitar saturación.",
+      "Fomentar solo reuniones presenciales mensuales.",
+      "Implementar plataformas de e-learning y promover el autoestudio.",
+      "Eliminar cualquier forma de evaluación del aprendizaje."
+    ],
+    "answer": "Implementar plataformas de e-learning y promover el autoestudio."
+  },
+  {
+    "question": "En un entorno laboral cambiante, el aprendizaje continuo permite:",
+    "options": [
+      "Evitar el contacto con nuevas tecnologías.",
+      "Adaptarse, innovar y mejorar la eficiencia en el trabajo.",
+      "Permanecer en la misma posición laboral sin cambios.",
+      "Resistirse a nuevas políticas institucionales."
+    ],
+    "answer": "Adaptarse, innovar y mejorar la eficiencia en el trabajo."
+  },
+  {
+    "question": "¿Qué actitud representa mejor el aprendizaje continuo?",
+    "options": [
+      "Evitar nuevas tareas para no salir de la zona de confort.",
+      "Aprender de experiencias pasadas para mejorar el desempeño futuro.",
+      "Esperar a que el jefe indique exactamente qué debe aprender.",
+      "Ignorar capacitaciones si no son obligatorias."
+    ],
+    "answer": "Aprender de experiencias pasadas para mejorar el desempeño futuro."
+  },
+
+
+  {
+    "question": "¿Qué significa el concepto de 'aprendizaje continuo' en el ámbito laboral?",
+    "options": [
+      "El aprendizaje solo ocurre durante la educación formal",
+      "El aprendizaje es un proceso continuo de adquisición de nuevos conocimientos y habilidades",
+      "El aprendizaje solo se refiere a la capacitación técnica",
+      "El aprendizaje solo ocurre cuando se cambia de trabajo"
+    ],
+    "answer": "El aprendizaje es un proceso continuo de adquisición de nuevos conocimientos y habilidades"
+  },
+  {
+    "question": "¿Por qué el aprendizaje continuo es clave para un servidor público?",
+    "options": [
+      "Porque permite adaptarse a los cambios legislativos y tecnológicos",
+      "Porque facilita la permanencia en el cargo",
+      "Porque es un requisito solo en algunas áreas del gobierno",
+      "Porque solo se aplica a empleados de alto rango"
+    ],
+    "answer": "Porque permite adaptarse a los cambios legislativos y tecnológicos"
+  },
+  {
+    "question": "El aprendizaje continuo permite a los servidores públicos:",
+    "options": [
+      "Mantenerse actualizados con las nuevas tecnologías y normativas",
+      "Trabajar más rápido sin necesidad de aprender nuevas habilidades",
+      "Evitar enfrentar situaciones desconocidas",
+      "Cumplir con las tareas asignadas sin necesidad de cambio"
+    ],
+    "answer": "Mantenerse actualizados con las nuevas tecnologías y normativas"
+  },
+  {
+    "question": "¿Cómo se relaciona el aprendizaje continuo con la capacidad de adaptación al cambio en el servicio público?",
+    "options": [
+      "El aprendizaje continuo no está relacionado con la adaptación al cambio",
+      "El aprendizaje continuo es fundamental para adaptarse a nuevas tecnologías, normativas y cambios organizacionales",
+      "El aprendizaje continuo solo ayuda a adaptarse a nuevos procesos sin cambiar el comportamiento",
+      "El aprendizaje continuo se limita a procesos de capacitación técnica"
+    ],
+    "answer": "El aprendizaje continuo es fundamental para adaptarse a nuevas tecnologías, normativas y cambios organizacionales"
+  },
+  {
+    "question": "¿Qué característica es común en las personas que practican el aprendizaje continuo?",
+    "options": [
+      "Falta de interés por aprender nuevas habilidades",
+      "Proactividad y disposición para aprender constantemente",
+      "Resistencia al cambio y a nuevos métodos",
+      "Preferencia por las tareas tradicionales y conocidas"
+    ],
+    "answer": "Proactividad y disposición para aprender constantemente"
+  },
+  {
+    "question": "¿Cuál de las siguientes competencias se desarrolla con la práctica constante del aprendizaje continuo?",
+    "options": [
+      "Mayor resistencia al cambio",
+      "Mejor capacidad de adaptación y resolución de problemas",
+      "Reducción en la productividad",
+      "Reducción de la motivación laboral"
+    ],
+    "answer": "Mejor capacidad de adaptación y resolución de problemas"
+  },
+  {
+    "question": "El aprendizaje continuo está relacionado con la **autodirección** porque permite a las personas:",
+    "options": [
+      "Esperar instrucciones claras de sus superiores antes de actuar",
+      "Asumir responsabilidad por su propio desarrollo y buscar oportunidades de aprendizaje",
+      "Evitar cualquier tipo de cambio y mejorar solo lo que ya conocen",
+      "Depender de los demás para guiar su desarrollo"
+    ],
+    "answer": "Asumir responsabilidad por su propio desarrollo y buscar oportunidades de aprendizaje"
+  },
+  {
+    "question": "¿Cómo el aprendizaje continuo contribuye a mejorar el desempeño laboral de los servidores públicos?",
+    "options": [
+      "Mantiene a los empleados estáticos y enfocados en lo que ya saben",
+      "Les permite desarrollar habilidades y competencias para enfrentar nuevos desafíos y mejorar la eficiencia",
+      "Hace que los empleados se sientan inseguros y dependientes de otros",
+      "Los motiva a abandonar la capacitación continua para no cambiar"
+    ],
+    "answer": "Les permite desarrollar habilidades y competencias para enfrentar nuevos desafíos y mejorar la eficiencia"
+  },
+  {
+    "question": "¿De qué manera el aprendizaje continuo se relaciona con la **adaptación al cambio** en el servicio público?",
+    "options": [
+      "El aprendizaje continuo facilita que los empleados se resistan al cambio",
+      "El aprendizaje continuo ayuda a los servidores públicos a estar preparados para implementar y gestionar cambios eficaces",
+      "El aprendizaje continuo no tiene relación con la adaptación al cambio",
+      "El aprendizaje continuo se aplica solo a tareas que ya son familiares"
+    ],
+    "answer": "El aprendizaje continuo ayuda a los servidores públicos a estar preparados para implementar y gestionar cambios eficaces"
+  },
+  {
+    "question": "¿Cuáles son algunos de los métodos más efectivos para promover el aprendizaje continuo en un entorno profesional?",
+    "options": [
+      "Estudios autodirigidos, mentoría, y uso de plataformas tecnológicas",
+      "Solo realizar un curso anual de capacitación",
+      "Imponer un proceso de aprendizaje obligatorio sin libertad de elección",
+      "Evitar que los empleados accedan a recursos educativos fuera del trabajo"
+    ],
+    "answer": "Estudios autodirigidos, mentoría, y uso de plataformas tecnológicas"
+  },
+  {
+    "question": "¿Cómo influyen las tecnologías en el aprendizaje continuo?",
+    "options": [
+      "Las tecnologías dificultan el aprendizaje continuo",
+      "Las tecnologías facilitan el acceso a recursos educativos, permitiendo el aprendizaje continuo a distancia y en cualquier momento",
+      "Las tecnologías limitan la capacidad de los empleados para adaptarse al cambio",
+      "Las tecnologías solo son útiles para el aprendizaje en entornos formales"
+    ],
+    "answer": "Las tecnologías facilitan el acceso a recursos educativos, permitiendo el aprendizaje continuo a distancia y en cualquier momento"
+  },
+  {
+    "question": "¿Cómo se puede evaluar el impacto del aprendizaje continuo en el rendimiento laboral dentro de una entidad pública?",
+    "options": [
+      "Mediante encuestas de satisfacción de los empleados sin relación al desempeño",
+      "A través de la observación del desempeño mejorado en tareas relacionadas con nuevas competencias adquiridas",
+      "Evaluando únicamente los resultados de exámenes al final de cada curso",
+      "Midiendo la cantidad de horas que los empleados invierten en capacitación"
+    ],
+    "answer": "A través de la observación del desempeño mejorado en tareas relacionadas con nuevas competencias adquiridas"
+  },
+  {
+    "question": "¿Qué tipo de indicadores son relevantes para medir el impacto del aprendizaje continuo en los empleados públicos?",
+    "options": [
+      "La cantidad de horas dedicadas a cursos",
+      "El aumento de la productividad y la efectividad en la implementación de nuevos procesos",
+      "El número de empleados que asisten a cursos de formación",
+      "La reducción de actividades laborales realizadas por cada empleado"
+    ],
+    "answer": "El aumento de la productividad y la efectividad en la implementación de nuevos procesos"
+  },
+  {
+    "question": "El aprendizaje continuo puede ser clave para el desarrollo de competencias como la **resolución de problemas**. ¿Cómo contribuye el aprendizaje continuo a mejorar esta competencia?",
+    "options": [
+      "Proporcionando soluciones predefinidas para problemas",
+      "Fomentando el pensamiento crítico y la búsqueda de nuevas soluciones para problemas complejos",
+      "Reduciendo la necesidad de resolver problemas de manera autónoma",
+      "Limitando la creatividad al seguir estrictamente procedimientos establecidos"
+    ],
+    "answer": "Fomentando el pensamiento crítico y la búsqueda de nuevas soluciones para problemas complejos"
+  },
+  {
+    "question": "¿Cómo puede el aprendizaje continuo contribuir a mejorar la **comunicación efectiva** en el servicio público?",
+    "options": [
+      "Promoviendo el aprendizaje de nuevos idiomas y tecnologías de comunicación",
+      "Exigiendo que los empleados sigan un guion establecido sin lugar a la adaptación",
+      "Limitando las interacciones entre los empleados",
+      "Fomentando la competencia individual sin colaboración"
+    ],
+    "answer": "Promoviendo el aprendizaje de nuevos idiomas y tecnologías de comunicación"
+  },
+  {
+    "question": "El aprendizaje continuo ayuda a mejorar el trabajo en equipo. ¿De qué manera?",
+    "options": [
+      "Permite a los empleados aprender a colaborar mejor, comprender mejor las necesidades de otros y trabajar hacia objetivos comunes",
+      "Reduce la capacidad de los empleados para colaborar eficazmente",
+      "Hace que los empleados se vuelvan más competitivos entre ellos",
+      "No tiene impacto en el trabajo en equipo"
+    ],
+    "answer": "Permite a los empleados aprender a colaborar mejor, comprender mejor las necesidades de otros y trabajar hacia objetivos comunes"
+  },
+  {
+    "question": "Cuando un nuevo procedimiento se introduce en el lugar de trabajo, el aprendizaje continuo ayuda a los empleados a:",
+    "options": [
+      "Adherirse al procedimiento sin cuestionarlo",
+      "Adaptarse rápidamente y aplicar el procedimiento de manera efectiva",
+      "Evitar aprender el nuevo procedimiento",
+      "Mantenerse con el procedimiento antiguo"
+    ],
+    "answer": "Adaptarse rápidamente y aplicar el procedimiento de manera efectiva"
+  },
+  {
+    "question": "¿Cómo puede el aprendizaje continuo fortalecer los **procesos de gestión de personas** dentro de las entidades públicas?",
+    "options": [
+      "Mejorando la capacidad de los empleados para asumir nuevas responsabilidades y colaborar en equipos multidisciplinarios",
+      "Reduciendo la importancia de la capacitación y el desarrollo",
+      "Limitando el alcance de las competencias de los empleados",
+      "Fomentando la dependencia de los superiores para la toma de decisiones"
+    ],
+    "answer": "Mejorando la capacidad de los empleados para asumir nuevas responsabilidades y colaborar en equipos multidisciplinarios"
+  },
+  {
+    "question": "En el contexto del **liderazgo**, ¿cómo contribuye el aprendizaje continuo a mejorar las habilidades de los líderes dentro de las entidades públicas?",
+    "options": [
+      "Permite a los líderes mantenerse actualizados con las mejores prácticas y mejorar su capacidad para guiar a otros",
+      "Limita la creatividad de los líderes al seguir estrictos protocolos",
+      "Hace que los líderes dependen solo de sus experiencias pasadas",
+      "Impide a los líderes aprender de nuevos enfoques de trabajo"
+    ],
+    "answer": "Permite a los líderes mantenerse actualizados con las mejores prácticas y mejorar su capacidad para guiar a otros"
+  },
+
+  {
+    "question": "¿Cuál de estas acciones demuestra mejor el aprendizaje continuo en un funcionario público?",
+    "options": [
+      "Cumplir exactamente con los mismos procedimientos durante años sin cambios.",
+      "Tomar iniciativa para capacitarse en nuevas tecnologías relevantes para su cargo.",
+      "Esperar a que su jefe le ordene participar en cursos obligatorios.",
+      "Rechazar oportunidades de formación por considerar que ya sabe lo suficiente."
+    ],
+    "answer": "Tomar iniciativa para capacitarse en nuevas tecnologías relevantes para su cargo."
+  },
+  {
+    "question": "En el contexto del servicio público, el aprendizaje continuo es importante principalmente porque:",
+    "options": [
+      "Permite ascender más rápido en el escalafón.",
+      "Facilita la adaptación a cambios normativos y mejora la calidad del servicio.",
+      "Es requisito para obtener aumentos salariales automáticos.",
+      "Permite evitar el trabajo en equipo."
+    ],
+    "answer": "Facilita la adaptación a cambios normativos y mejora la calidad del servicio."
+  },
+  {
+    "question": "Un funcionario que practica el aprendizaje continuo se caracteriza por:",
+    "options": [
+      "Resistirse a cambios en los procedimientos establecidos.",
+      "Buscar retroalimentación y aprender de sus errores.",
+      "Ocultar sus carencias de conocimiento.",
+      "Trabajar siempre de forma aislada."
+    ],
+    "answer": "Buscar retroalimentación y aprender de sus errores."
+  },
+  {
+    "question": "¿Cuál es el principal beneficio del aprendizaje continuo para las entidades públicas?",
+    "options": [
+      "Reducir la necesidad de supervisiones.",
+      "Mantener procedimientos obsoletos pero conocidos.",
+      "Mejorar la eficiencia y transparencia en los servicios.",
+      "Disminuir el número de empleados necesarios."
+    ],
+    "answer": "Mejorar la eficiencia y transparencia en los servicios."
+  },
+  {
+    "question": "La autodirección en el aprendizaje continuo implica:",
+    "options": [
+      "Esperar siempre instrucciones precisas para capacitarse.",
+      "Identificar necesidades de formación y buscar activamente satisfacerlas.",
+      "Delegar completamente la planificación de capacitaciones.",
+      "Limitarse solo a los conocimientos adquiridos en la universidad."
+    ],
+    "answer": "Identificar necesidades de formación y buscar activamente satisfacerlas."
+  },
+  {
+    "question": "En su municipio implementarán un nuevo sistema de gestión documental digital. ¿Cómo demostraría aprendizaje continuo?",
+    "options": [
+      "Aprender por su cuenta el funcionamiento básico antes de la capacitación oficial.",
+      "Quejarse porque tendrá que aprender algo nuevo.",
+      "Esperar a que alguien más resuelva los problemas con el sistema.",
+      "Negarse a usarlo hasta que sea obligatorio."
+    ],
+    "answer": "Aprender por su cuenta el funcionamiento básico antes de la capacitación oficial."
+  },
+  {
+    "question": "¿Cuál de estas es una estrategia efectiva para fomentar el aprendizaje continuo en un equipo?",
+    "options": [
+      "Castigar a quienes no asistan a capacitaciones.",
+      "Crear un banco de conocimientos compartido donde todos aporten.",
+      "Limitar el acceso a oportunidades de formación.",
+      "Desincentivar la discusión de nuevos métodos de trabajo."
+    ],
+    "answer": "Crear un banco de conocimientos compartido donde todos aporten."
+  },
+  {
+    "question": "El aprendizaje continuo contribuye a la innovación en el sector público porque:",
+    "options": [
+      "Permite conocer y aplicar mejores prácticas y tecnologías.",
+      "Mantiene los procesos exactamente igual para evitar errores.",
+      "Reduce la necesidad de pensar en soluciones creativas.",
+      "Limita la interacción con otras entidades."
+    ],
+    "answer": "Permite conocer y aplicar mejores prácticas y tecnologías."
+  },
+  {
+    "question": "¿Cómo se relaciona el aprendizaje continuo con la adaptación al cambio?",
+    "options": [
+      "Son competencias completamente independientes.",
+      "El aprendizaje continuo dificulta la adaptación al mantener métodos antiguos.",
+      "El aprendizaje continuo facilita la adaptación al desarrollar habilidades para enfrentar cambios.",
+      "Solo los jóvenes necesitan ambas competencias."
+    ],
+    "answer": "El aprendizaje continuo facilita la adaptación al desarrollar habilidades para enfrentar cambios."
+  },
+  {
+    "question": "Un indicador efectivo para medir el aprendizaje continuo en una entidad sería:",
+    "options": [
+      "Número de quejas por procedimientos obsoletos.",
+      "Cantidad de funcionarios que aplican nuevos conocimientos en sus funciones.",
+      "Promedio de edad de los empleados.",
+      "Número de equipos tecnológicos comprados."
+    ],
+    "answer": "Cantidad de funcionarios que aplican nuevos conocimientos en sus funciones."
+  },
+  {
+    "question": "Las tecnologías digitales han impactado el aprendizaje continuo principalmente porque:",
+    "options": [
+      "Han eliminado la necesidad de capacitaciones presenciales.",
+      "Facilitan el acceso a recursos educativos en cualquier momento y lugar.",
+      "Han hecho más difícil verificar la calidad de la información.",
+      "Reducen la necesidad de que los funcionarios aprendan cosas nuevas."
+    ],
+    "answer": "Facilitan el acceso a recursos educativos en cualquier momento y lugar."
+  },
+  {
+    "question": "¿Cuál de estas acciones NO demuestra aprendizaje continuo?",
+    "options": [
+      "Asistir a un curso sobre gobierno digital por iniciativa propia.",
+      "Compartir con colegas lo aprendido en una capacitación reciente.",
+      "Rehusarse a usar un nuevo sistema porque 'el anterior funcionaba bien'.",
+      "Investigar soluciones a un problema técnico en foros especializados."
+    ],
+    "answer": "Rehusarse a usar un nuevo sistema porque 'el anterior funcionaba bien'."
+  },
+  {
+    "question": "En el contexto de la Ley 909 de 2004, el aprendizaje continuo es relevante porque:",
+    "options": [
+      "Es obligatorio para todos los funcionarios sin excepción.",
+      "Contribuye al desarrollo de la carrera administrativa basada en méritos.",
+      "Permite evitar evaluaciones de desempeño.",
+      "Es requisito solo para altos cargos directivos."
+    ],
+    "answer": "Contribuye al desarrollo de la carrera administrativa basada en méritos."
+  },
+  {
+    "question": "¿Cómo podría un profesional de TI en una alcaldía aplicar el aprendizaje continuo para mejorar la seguridad informática?",
+    "options": [
+      "Manteniendo los mismos sistemas de seguridad por años.",
+      "Actualizándose regularmente sobre nuevas amenazas y medidas de protección.",
+      "Delegando toda responsabilidad de seguridad al proveedor externo.",
+      "Ignorando alertas sobre vulnerabilidades para no alarmar al equipo."
+    ],
+    "answer": "Actualizándose regularmente sobre nuevas amenazas y medidas de protección."
+  },
+  {
+    "question": "La mentoría entre colegas es una herramienta valiosa para el aprendizaje continuo porque:",
+    "options": [
+      "Permite transferir conocimiento práctico específico al contexto laboral.",
+      "Reduce la necesidad de capacitaciones formales.",
+      "Es más barata que otros métodos de formación.",
+      "Elimina la competencia entre funcionarios."
+    ],
+    "answer": "Permite transferir conocimiento práctico específico al contexto laboral."
+  },
+  {
+    "question": "Ante un cambio en la normativa de protección de datos, ¿qué haría un funcionario con buena capacidad de aprendizaje continuo?",
+    "options": [
+      "Esperar a que lo capaciten formalmente para actuar.",
+      "Leer la nueva normativa y analizar sus implicaciones para sus procesos.",
+      "Seguir aplicando la normativa anterior hasta recibir órdenes explícitas.",
+      "Delegar toda responsabilidad al área jurídica."
+    ],
+    "answer": "Leer la nueva normativa y analizar sus implicaciones para sus procesos."
+  },
+  {
+    "question": "¿Cuál de estas es una barrera común para el aprendizaje continuo en el sector público?",
+    "options": [
+      "Exceso de oportunidades de capacitación gratuitas.",
+      "Cultura organizacional que resiste al cambio.",
+      "Falta de normas que exijan actualización profesional.",
+      "Demasiado tiempo libre para estudiar."
+    ],
+    "answer": "Cultura organizacional que resiste al cambio."
+  },
+  {
+    "question": "El aprendizaje continuo fortalece el trabajo en equipo porque:",
+    "options": [
+      "Permite que todos los miembros actualicen sus conocimientos y contribuyan mejor.",
+      "Reduce la necesidad de comunicación entre colegas.",
+      "Elimina diferencias de opinión al estandarizar el conocimiento.",
+      "Hace que algunos miembros destaquen más que otros."
+    ],
+    "answer": "Permite que todos los miembros actualicen sus conocimientos y contribuyan mejor."
+  },
+  {
+    "question": "¿Cómo contribuye el aprendizaje continuo a la resolución de problemas?",
+    "options": [
+      "Limitando las soluciones a métodos tradicionales.",
+      "Proporcionando más herramientas y perspectivas para abordar desafíos.",
+      "Haciendo que los problemas parezcan más complejos de lo que son.",
+      "Disminuyendo la necesidad de creatividad."
+    ],
+    "answer": "Proporcionando más herramientas y perspectivas para abordar desafíos."
+  },
+  {
+    "question": "Un funcionario quiere mejorar sus habilidades en gestión de proyectos TI. ¿Cuál sería la mejor estrategia de aprendizaje continuo?",
+    "options": [
+      "Tomar un curso certificado y aplicar lo aprendido en un proyecto piloto.",
+      "Leer un libro antiguo sobre informática básica.",
+      "Esperar a que su jefe le enseñe lo necesario.",
+      "Copiar los métodos de un colega sin entenderlos."
+    ],
+    "answer": "Tomar un curso certificado y aplicar lo aprendido en un proyecto piloto."
+  },
+  {
+    "question": "En evaluación de desempeño, el aprendizaje continuo se puede medir mediante:",
+    "options": [
+      "Número de diplomas enmarcados en la oficina.",
+      "Aplicación concreta de nuevos conocimientos para mejorar resultados.",
+      "Cantidad de horas sentado en capacitaciones.",
+      "Años de experiencia en el mismo cargo."
+    ],
+    "answer": "Aplicación concreta de nuevos conocimientos para mejorar resultados."
+  },
+  {
+    "question": "¿Cuál de estas plataformas es más útil para el aprendizaje continuo de un funcionario público?",
+    "options": [
+      "Redes sociales personales sin filtro.",
+      "Cursos en línea de la ESAP o SENA.",
+      "Juegos móviles sin relación con el trabajo.",
+      "Foros de entretenimiento general."
+    ],
+    "answer": "Cursos en línea de la ESAP o SENA."
+  },
+  {
+    "question": "El aprendizaje continuo es fundamental para la implementación exitosa de:",
+    "options": [
+      "Procedimientos burocráticos obsoletos.",
+      "Políticas de gobierno digital y modernización del Estado.",
+      "Sistemas que nunca cambian.",
+      "Métodos de trabajo completamente individuales."
+    ],
+    "answer": "Políticas de gobierno digital y modernización del Estado."
+  },
+  {
+    "question": "¿Qué actitud caracteriza a un líder que fomenta el aprendizaje continuo en su equipo?",
+    "options": [
+      "Castigar los errores para evitar repeticiones.",
+      "Reconocer y recompensar los esfuerzos de capacitación.",
+      "Desalentar la participación en actividades formativas.",
+      "Contratar solo personas que ya lo sepan todo."
+    ],
+    "answer": "Reconocer y recompensar los esfuerzos de capacitación."
+  },
+  {
+    "question": "Ante un nuevo software municipal complejo, ¿qué haría un funcionario con mentalidad de aprendizaje continuo?",
+    "options": [
+      "Dominar las funciones básicas mediante tutoriales y práctica antes del entrenamiento formal.",
+      "Quejarse hasta que lo trasladen a otra área.",
+      "Usar solo las funciones que ya conoce e ignorar las nuevas.",
+      "Decir que es demasiado viejo para aprender."
+    ],
+    "answer": "Dominar las funciones básicas mediante tutoriales y práctica antes del entrenamiento formal."
+  },
+  {
+    "question": "El aprendizaje continuo en el servicio público debe ser:",
+    "options": [
+      "Ocasional y solo cuando hay presupuesto.",
+      "Continuo, sistemático y alineado con las necesidades institucionales.",
+      "Limitado a los primeros años de carrera.",
+      "Voluntario sin ningún tipo de seguimiento."
+    ],
+    "answer": "Continuo, sistemático y alineado con las necesidades institucionales."
+  },
+  {
+    "question": "¿Cómo beneficia el aprendizaje continuo a los ciudadanos?",
+    "options": [
+      "Los funcionarios atienden con mejores herramientas y conocimientos actualizados.",
+      "Permite reducir personal en las entidades públicas.",
+      "Los trámites se mantienen igual para evitar confusiones.",
+      "Los ciudadanos deben capacitarse para entender los procedimientos."
+    ],
+    "answer": "Los funcionarios atienden con mejores herramientas y conocimientos actualizados."
+  },
+  {
+    "question": "Un indicador de que una entidad fomenta efectivamente el aprendizaje continuo es:",
+    "options": [
+      "Tasa alta de rotación de personal.",
+      "Existencia de un plan de capacitación alineado con objetivos institucionales.",
+      "Uso exclusivo de métodos de enseñanza tradicionales.",
+      "Presupuesto cero para desarrollo de personal."
+    ],
+    "answer": "Existencia de un plan de capacitación alineado con objetivos institucionales."
+  },
+  {
+    "question": "¿Cuál es la relación entre aprendizaje continuo y calidad en el servicio público?",
+    "options": [
+      "No hay relación demostrable.",
+      "Permite mejorar procesos y atención al ciudadano con conocimientos actualizados.",
+      "Solo afecta la calidad en entidades privadas.",
+      "Reduce la calidad al introducir demasiados cambios."
+    ],
+    "answer": "Permite mejorar procesos y atención al ciudadano con conocimientos actualizados."
+  },
+  {
+    "question": "Para mantener actualizados sus conocimientos sobre ciberseguridad, un profesional de TI en el sector público debería:",
+    "options": [
+      "Suscribirse a boletines especializados y participar en comunidades técnicas.",
+      "Confiar solo en lo aprendido en la universidad.",
+      "Esperar a que ocurra un ciberataque para aprender.",
+      "Delegar toda responsabilidad al proveedor de antivirus."
+    ],
+    "answer": "Suscribirse a boletines especializados y participar en comunidades técnicas."
+  },
+  {
+    "question": "El aprendizaje continuo es especialmente importante en cargos técnicos como TI porque:",
+    "options": [
+      "Las tecnologías y amenazas evolucionan constantemente.",
+      "Los sistemas nunca cambian una vez implementados.",
+      "No es necesario interactuar con otros funcionarios.",
+      "Los ciudadanos no notan diferencias en servicios tecnológicos."
+    ],
+    "answer": "Las tecnologías y amenazas evolucionan constantemente."
+  },
+
+  {
+    "question": "Un nuevo decreto del Gobierno Nacional establece cambios significativos en la normatividad de contratación pública, lo que impacta directamente en los procesos y procedimientos que usted maneja diariamente en la Alcaldía de Puerto Boyacá. Usted reconoce la necesidad de actualizarse para asegurar el cumplimiento.\n¿Qué acción tomaría como primera medida para abordar este cambio y garantizar su aprendizaje continuo?",
+    "options": [
+      "Esperar a que la Secretaría General organice una capacitación oficial sobre el nuevo decreto antes de tomar cualquier iniciativa.",
+      "Leer el decreto por su cuenta y aplicarlo de inmediato sin consultar con otros colegas o áreas involucradas.",
+      "Investigar activamente el nuevo decreto, buscar guías o seminarios web explicativos, discutir con colegas para entender las implicaciones y proponer ajustes a los procedimientos de su área.",
+      "Asumir que los cambios no son de gran relevancia y continuar operando con los procedimientos anteriores hasta recibir una orden expresa."
+    ],
+    "answer": "Investigar activamente el nuevo decreto, buscar guías o seminarios web explicativos, discutir con colegas para entender las implicaciones y proponer ajustes a los procedimientos de su área."
+  },
+  {
+    "question": "En la Alcaldía de Puerto Boyacá se va a implementar un nuevo software de gestión presupuestal que reemplazará al que se ha utilizado por más de diez años. Aunque se ofrecerá una capacitación básica, usted percibe que el dominio del nuevo sistema requerirá un esfuerzo adicional y proactivo de su parte.\n¿Cómo abordaría la adquisición de las habilidades necesarias para manejar este nuevo sistema de manera óptima?",
+    "options": [
+      "Limitarse a asistir a la capacitación obligatoria y esperar a que surjan dudas para buscar ayuda de otros compañeros.",
+      "Confiar en que el sistema es intuitivo y que aprenderá a usarlo por ensayo y error, sin invertir tiempo adicional en su estudio.",
+      "Explorar tutoriales en línea, consultar la documentación del software, practicar activamente con el sistema y proponer sesiones de intercambio de conocimientos con sus colegas para fortalecer el aprendizaje colectivo.",
+      "Solicitar que se posponga la implementación del nuevo software, argumentando que el personal no tiene el tiempo suficiente para adaptarse."
+    ],
+    "answer": "Explorar tutoriales en línea, consultar la documentación del software, practicar activamente con el sistema y proponer sesiones de intercambio de conocimientos con sus colegas para fortalecer el aprendizaje colectivo."
+  },
+  {
+    "question": "Usted identifica una oportunidad de mejora en la 'gestión eficiente, eficaz y transparente' de la información en su área, pero para implementarla se requiere el uso de una herramienta de análisis de datos que no domina. Su propósito es contribuir al 'mejoramiento continuo'.\n¿Cuál sería su estrategia para adquirir las habilidades necesarias y llevar a cabo la mejora propuesta?",
+    "options": [
+      "Descartar la idea de mejora, ya que el aprendizaje de una nueva herramienta implica mucho esfuerzo personal.",
+      "Proponer la mejora a su jefe, esperando que él le asigne la capacitación necesaria o que delegue la tarea en otro compañero con la habilidad requerida.",
+      "Buscar recursos de autoaprendizaje (cursos en línea, tutoriales, libros) sobre la herramienta de análisis de datos, practicar con conjuntos de datos relevantes de la Alcaldía y aplicar lo aprendido para presentar una propuesta concreta de mejora.",
+      "Asumir que la mejora se puede lograr con las herramientas actuales, sin necesidad de adquirir nuevas habilidades."
+    ],
+    "answer": "Buscar recursos de autoaprendizaje (cursos en línea, tutoriales, libros) sobre la herramienta de análisis de datos, practicar con conjuntos de datos relevantes de la Alcaldía y aplicar lo aprendido para presentar una propuesta concreta de mejora."
+  },
+  {
+    "question": "En una reunión de equipo, se discute la implementación de una metodología ágil (como Scrum o Kanban) para la gestión de proyectos de TIC, lo cual es una tendencia reciente en la administración pública. Usted no tiene experiencia previa con estas metodologías.\n¿Cómo demostraría su compromiso con el aprendizaje continuo en esta situación?",
+    "options": [
+      "Expresar escepticismo sobre la efectividad de las nuevas metodologías y defender las formas de trabajo tradicionales.",
+      "Esperar a que se le asigne un rol específico en un proyecto ágil para empezar a investigar sobre la metodología.",
+      "Investigar proactivamente sobre las metodologías ágiles, leer sobre sus principios y beneficios, participar activamente en las sesiones informativas y buscar la forma de aplicar sus conceptos en su propio trabajo.",
+      "Solicitar ser excluido de los proyectos que utilicen estas nuevas metodologías, ya que no se siente competente."
+    ],
+    "answer": "Investigar proactivamente sobre las metodologías ágiles, leer sobre sus principios y beneficios, participar activamente en las sesiones informativas y buscar la forma de aplicar sus conceptos en su propio trabajo."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá está promoviendo la 'racionalización de trámites' a través de la digitalización, lo que implica que usted, como Profesional Universitario de TIC, debe estar al tanto de las últimas herramientas de automatización de procesos (RPA). \n¿Cómo mantendría actualizados sus conocimientos sobre estas tecnologías emergentes para aplicarlas en el municipio?",
+    "options": [
+      "Confiar en que las empresas proveedoras de software le informarán sobre las nuevas herramientas cuando sea necesario.",
+      "Esperar a que su jefe le asigne una capacitación específica en RPA, sin buscar información por cuenta propia.",
+      "Suscribirse a boletines especializados, participar en webinars y conferencias en línea, unirse a comunidades de práctica de RPA y explorar casos de éxito en otras entidades públicas para identificar oportunidades de aplicación.",
+      "Considerar que su formación académica es suficiente y que las tecnologías emergentes no son su prioridad actual."
+    ],
+    "answer": "Suscribirse a boletines especializados, participar en webinars y conferencias en línea, unirse a comunidades de práctica de RPA y explorar casos de éxito en otras entidades públicas para identificar oportunidades de aplicación."
+  },
+  {
+    "question": "Un colega de otra secretaría le pide ayuda con un problema técnico en un software específico que usted no domina, pero que es crítico para su función. Su objetivo es 'compartir información útil para el desarrollo de la gestión de servicio'.\n¿Qué acción tomaría para colaborar y al mismo tiempo fomentar su propio aprendizaje?",
+    "options": [
+      "Decirle a su colega que no puede ayudarlo porque no es su especialidad y que busque a alguien más.",
+      "Intentar resolver el problema sin investigar, lo que podría generar más inconvenientes o pérdidas de tiempo.",
+      "Investigar rápidamente sobre el software, consultar manuales o foros especializados, y ofrecer soluciones o guiar a su colega en el proceso de resolución, aprendiendo sobre la marcha para futuras ocasiones.",
+      "Delegar el problema en el equipo de soporte técnico externo, sin involucrarse en el aprendizaje de la solución."
+    ],
+    "answer": "Investigar rápidamente sobre el software, consultar manuales o foros especializados, y ofrecer soluciones o guiar a su colega en el proceso de resolución, aprendiendo sobre la marcha para futuras ocasiones."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá ha decidido participar en un programa piloto de inteligencia artificial para mejorar la atención ciudadana. Usted, como Profesional de TIC, ha estudiado sobre el tema, pero no tiene experiencia práctica en su implementación.\n¿Cómo abordaría este nuevo desafío tecnológico para asegurar una participación efectiva y su propio crecimiento profesional?",
+    "options": [
+      "Mostrar una actitud de pasividad y esperar a que los expertos externos se encarguen de toda la implementación, sin involucrarse activamente.",
+      "Asumir que la inteligencia artificial es demasiado compleja y que no podrá comprenderla a fondo, limitándose a tareas básicas.",
+      "Involucrarse activamente en el programa piloto, buscar capacitación especializada en IA aplicada al sector público, colaborar con los expertos y documentar el proceso para replicar el conocimiento internamente.",
+      "Argumentar que la Alcaldía no cuenta con los recursos necesarios para implementar inteligencia artificial y que el proyecto debería posponerse."
+    ],
+    "answer": "Involucrarse activamente en el programa piloto, buscar capacitación especializada en IA aplicada al sector público, colaborar con los expertos y documentar el proceso para replicar el conocimiento internamente."
+  },
+  {
+    "question": "Se ha presentado una nueva vulnerabilidad de seguridad informática a nivel mundial que afecta a un sistema operativo clave utilizado en la Alcaldía. La información sobre cómo mitigarla está en inglés y es altamente técnica.\n¿Cómo actuaría para proteger los sistemas de la Alcaldía y al mismo tiempo fortalecer sus habilidades en ciberseguridad y lectura técnica en otro idioma?",
+    "options": [
+      "Ignorar la vulnerabilidad hasta que se publique una solución en español, arriesgando la seguridad de los sistemas.",
+      "Delegar la investigación y solución en un compañero que domine el inglés, sin participar en el proceso de aprendizaje.",
+      "Traducir y comprender la información técnica en inglés, buscar tutoriales o foros de ciberseguridad para entender la mitigación, y aplicar los parches o configuraciones necesarias, registrando el proceso para futuras referencias.",
+      "Desactivar el sistema afectado inmediatamente para evitar la vulnerabilidad, sin buscar una solución que permita su operación."
+    ],
+    "answer": "Traducir y comprender la información técnica en inglés, buscar tutoriales o foros de ciberseguridad para entender la mitigación, y aplicar los parches o configuraciones necesarias, registrando el proceso para futuras referencias."
+  },
+  {
+    "question": "El 'Plan Estratégico de Tecnologías de la Información (PETI)' de la Alcaldía de Puerto Boyacá será revisado, y se espera que usted aporte nuevas ideas y tendencias tecnológicas para su actualización. \n¿Qué enfoque tomaría para prepararse y contribuir efectivamente a la actualización del PETI?",
+    "options": [
+      "Presentar ideas basadas únicamente en su experiencia previa, sin investigar nuevas tendencias del mercado.",
+      "Esperar a que le proporcionen la información y las tendencias para incluirlas en el PETI.",
+      "Realizar una investigación exhaustiva sobre las últimas tendencias en Gobierno Digital, ciberseguridad, inteligencia de datos y automatización, y proponer cómo estas pueden alinearse con los objetivos estratégicos del municipio.",
+      "Limitar su participación a la revisión de la estructura formal del documento, sin aportar contenido innovador."
+    ],
+    "answer": "Realizar una investigación exhaustiva sobre las últimas tendencias en Gobierno Digital, ciberseguridad, inteligencia de datos y automatización, y proponer cómo estas pueden alinearse con los objetivos estratégicos del municipio."
+  },
+  {
+    "question": "Se le solicita a usted, como Profesional Universitario de TIC, capacitar a un grupo de funcionarios de la Alcaldía que tienen diferentes niveles de habilidad digital, desde usuarios muy básicos hasta algunos con conocimientos intermedios. Su objetivo es 'adquirir permanentemente conocimientos, destrezas y habilidades, así mismo para buscar y compartir información útil'.\n¿Cómo adaptaría su estrategia de enseñanza para asegurar que todos los participantes logren un aprendizaje efectivo?",
+    "options": [
+      "Diseñar una capacitación estándar para todos, asumiendo que los que tienen más dificultades se esforzarán más para ponerse al día.",
+      "Dividir a los participantes en grupos homogéneos por nivel de habilidad, pero sin ofrecer seguimiento individualizado.",
+      "Diseñar un programa de capacitación modular con diferentes niveles de complejidad, utilizar diversas herramientas pedagógicas (videos, ejercicios prácticos, foros de discusión) y ofrecer acompañamiento personalizado a quienes lo necesiten, fomentando el aprendizaje entre pares.",
+      "Limitar la capacitación a la presentación de diapositivas, sin espacio para la interacción o la práctica."
+    ],
+    "answer": "Diseñar un programa de capacitación modular con diferentes niveles de complejidad, utilizar diversas herramientas pedagógicas (videos, ejercicios prácticos, foros de discusión) y ofrecer acompañamiento personalizado a quienes lo necesiten, fomentando el aprendizaje entre pares."
+  },
+  {
+    "question": "Un ciudadano ha solicitado una explicación detallada sobre un proceso tecnológico complejo en la página web del Municipio de Puerto Boyacá. Aunque la información está publicada, no es fácilmente comprensible para un público no técnico. \n¿Cómo abordaría esta situación para facilitar la comprensión del ciudadano y fortalecer su propia capacidad de 'compartir información útil'?",
+    "options": [
+      "Enviar al ciudadano el enlace a la información técnica original y decirle que es su responsabilidad comprenderla.",
+      "Ignorar la solicitud del ciudadano, ya que no es su función principal la atención al público directa.",
+      "Revisar la información publicada, simplificar el lenguaje técnico, crear una infografía o un video explicativo corto, y comunicarse directamente con el ciudadano para aclarar sus dudas, registrando esta experiencia para mejorar futuras comunicaciones.",
+      "Delegar la respuesta a un compañero del área de comunicaciones, sin involucrarse en la comprensión del tema."
+    ],
+    "answer": "Revisar la información publicada, simplificar el lenguaje técnico, crear una infografía o un video explicativo corto, y comunicarse directamente con el ciudadano para aclarar sus dudas, registrando esta experiencia para mejorar futuras comunicaciones."
+  },
+  {
+    "question": "Para cumplir con el 'Sistema de Gestión de la Calidad (SGC)', se ha identificado que el área de TIC necesita implementar una nueva metodología para la documentación de procesos, la cual es más rigurosa y detallada de lo que usted está acostumbrado.\n¿Cómo abordaría este cambio en la metodología para asegurar el cumplimiento del SGC y su propio aprendizaje?",
+    "options": [
+      "Resistirse a la nueva metodología, argumentando que la actual es suficiente y más práctica.",
+      "Documentar los procesos superficialmente, esperando que la auditoría no sea muy exigente.",
+      "Estudiar a fondo la nueva metodología de documentación, buscar ejemplos de su aplicación en otras entidades, participar en las capacitaciones ofrecidas y aplicar los nuevos estándares rigurosamente, identificando beneficios para el 'mejoramiento continuo'.",
+      "Delegar la documentación en el personal de menor jerarquía, sin supervisar ni aprender la nueva metodología."
+    ],
+    "answer": "Estudiar a fondo la nueva metodología de documentación, buscar ejemplos de su aplicación en otras entidades, participar en las capacitaciones ofrecidas y aplicar los nuevos estándares rigurosamente, identificando beneficios para el 'mejoramiento continuo'."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá está explorando la implementación de soluciones de Blockchain para la transparencia en la gestión de contratos. Usted no tiene conocimientos avanzados en esta tecnología.\n¿Cómo se prepararía para participar en la evaluación y potencial implementación de una solución de Blockchain en el municipio?",
+    "options": [
+      "Indicar que la tecnología Blockchain es demasiado compleja y no es aplicable en el contexto municipal.",
+      "Esperar a que se contraten expertos externos para que ellos se encarguen de todo el proceso sin su participación.",
+      "Inscribirse en cursos especializados en Blockchain y sus aplicaciones en el sector público, investigar casos de uso y desafíos, y estar dispuesto a colaborar con los expertos para aprender sobre la marcha y aportar desde su rol.",
+      "Limitarse a buscar información general en internet sin profundizar en los aspectos técnicos o de implementación."
+    ],
+    "answer": "Inscribirse en cursos especializados en Blockchain y sus aplicaciones en el sector público, investigar casos de uso y desafíos, y estar dispuesto a colaborar con los expertos para aprender sobre la marcha y aportar desde su rol."
+  },
+  {
+    "question": "Durante un proyecto de implementación de un nuevo sistema de información, surgen problemas inesperados de integración que requieren la búsqueda de soluciones creativas y el aprendizaje de nuevas configuraciones. \n¿Cómo abordaría esta situación para garantizar la 'resolución de problemas' y su propio aprendizaje continuo?",
+    "options": [
+      "Limitarse a reportar el problema y esperar a que el proveedor del software ofrezca una solución sin su intervención.",
+      "Intentar aplicar soluciones conocidas de otros proyectos, aunque no sean totalmente pertinentes para el problema actual.",
+      "Investigar activamente las posibles soluciones, consultar foros técnicos, experimentar con configuraciones alternativas en un ambiente de prueba y documentar los hallazgos para futuras referencias, compartiendo el conocimiento con el equipo.",
+      "Culpar a la complejidad del sistema y sugerir volver al sistema anterior para evitar mayores problemas."
+    ],
+    "answer": "Investigar activamente las posibles soluciones, consultar foros técnicos, experimentar con configuraciones alternativas en un ambiente de prueba y documentar los hallazgos para futuras referencias, compartiendo el conocimiento con el equipo."
+  },
+  {
+    "question": "Para cumplir con la 'Política de Gobierno Digital', la Alcaldía debe garantizar que su página web sea accesible para personas con discapacidad, lo que implica aprender y aplicar nuevas normas de diseño web (WCAG). \n¿Qué pasos seguiría para asegurar la accesibilidad del portal y actualizar sus habilidades en diseño web inclusivo?",
+    "options": [
+      "Asumir que la accesibilidad es un tema de programación y delegarlo completamente al desarrollador web sin supervisión.",
+      "Realizar cambios cosméticos en la página sin aplicar las directrices específicas de accesibilidad, creyendo que es suficiente.",
+      "Estudiar las directrices WCAG (Web Content Accessibility Guidelines), auditar la página web para identificar barreras, implementar los ajustes necesarios (ej. texto alternativo, navegación por teclado) y capacitar al personal que gestiona contenidos en la creación de material accesible.",
+      "Limitarse a publicar un aviso en la página web indicando que las personas con discapacidad pueden solicitar ayuda por teléfono."
+    ],
+    "answer": "Estudiar las directrices WCAG (Web Content Accessibility Guidelines), auditar la página web para identificar barreras, implementar los ajustes necesarios (ej. texto alternativo, navegación por teclado) y capacitar al personal que gestiona contenidos en la creación de material accesible."
+  },
+  {
+    "question": "Un colega de otra secretaría le consulta sobre las mejores prácticas para 'ciberseguridad' en el uso de dispositivos móviles corporativos, un tema que usted ha estado estudiando recientemente, pero aún no se considera un experto.\n¿Cómo respondería a su colega para 'compartir información útil' y continuar su propio aprendizaje en el tema?",
+    "options": [
+      "Decirle que no es el experto adecuado para responder a esa pregunta y que debería buscar a alguien más.",
+      "Darle una respuesta incompleta o incierta para no admitir que no domina completamente el tema.",
+      "Compartir la información que ha aprendido hasta el momento sobre las mejores prácticas (ej. VPN, actualizaciones, contraseñas seguras), ofrecerle recursos adicionales (artículos, guías) y comprometerse a investigar más a fondo la pregunta específica para brindarle una respuesta más completa.",
+      "Aconsejarle que evite el uso de dispositivos móviles corporativos para eliminar cualquier riesgo de ciberseguridad."
+    ],
+    "answer": "Compartir la información que ha aprendido hasta el momento sobre las mejores prácticas (ej. VPN, actualizaciones, contraseñas seguras), ofrecerle recursos adicionales (artículos, guías) y comprometerse a investigar más a fondo la pregunta específica para brindarle una respuesta más completa."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá está considerando la implementación de soluciones de 'Internet de las Cosas (IoT)' para la gestión inteligente de recursos públicos (ej. alumbrado, residuos). Usted no tiene experiencia en la aplicación de IoT en el ámbito municipal.\n¿Cuál sería su enfoque para aprender sobre esta tecnología y proponer soluciones innovadoras?",
+    "options": [
+      "Descartar la implementación de IoT por ser una tecnología muy avanzada y compleja para el municipio.",
+      "Esperar a que una empresa consultora le presente soluciones prediseñadas, sin investigar por su cuenta.",
+      "Investigar casos de éxito de IoT en otras ciudades, estudiar los principios de funcionamiento y los componentes clave (sensores, plataformas), y proponer proyectos piloto que permitan experimentar y aprender de la implementación en pequeña escala.",
+      "Limitarse a asistir a una presentación general sobre IoT, sin profundizar en sus aspectos técnicos o de aplicación."
+    ],
+    "answer": "Investigar casos de éxito de IoT en otras ciudades, estudiar los principios de funcionamiento y los componentes clave (sensores, plataformas), y proponer proyectos piloto que permitan experimentar y aprender de la implementación en pequeña escala."
+  },
+  {
+    "question": "Se ha presentado una falla en la red de la Alcaldía de Puerto Boyacá que requiere un diagnóstico rápido y la aplicación de conocimientos sobre topologías de red avanzadas que usted no maneja regularmente. Su rol incluye la 'resolución de problemas'.\n¿Cómo abordaría esta situación crítica para restaurar el servicio y mejorar sus habilidades?",
+    "options": [
+      "Esperar a que un proveedor externo de soporte técnico resuelva la falla, sin intentar comprender el problema de fondo.",
+      "Realizar intentos aleatorios de solución, sin un diagnóstico estructurado, lo que podría agravar la situación.",
+      "Consultar la documentación técnica de la red, buscar información en línea sobre la topología específica y las fallas comunes, y trabajar con otros técnicos (si los hay) para diagnosticar y aplicar la solución, documentando el proceso para futuros aprendizajes.",
+      "Informar que la falla está fuera de su área de experiencia y que no puede hacer nada al respecto."
+    ],
+    "answer": "Consultar la documentación técnica de la red, buscar información en línea sobre la topología específica y las fallas comunes, y trabajar con otros técnicos (si los hay) para diagnosticar y aplicar la solución, documentando el proceso para futuros aprendizajes."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá busca fortalecer la 'transparencia' en la gestión de sus datos abiertos, y se ha solicitado que el personal de TIC se capacite en herramientas de visualización de datos avanzadas. \n¿Cómo demostraría su compromiso con el aprendizaje continuo en esta área?",
+    "options": [
+      "Realizar la capacitación solo si es obligatoria y certificada, sin aplicar los conocimientos de inmediato.",
+      "Asumir que la visualización de datos es una tarea de diseñadores y no de ingenieros de sistemas.",
+      "Buscar tutoriales y cursos en línea sobre herramientas de visualización (ej. Power BI, Tableau), practicar con datos reales del municipio y proponer la creación de paneles de control interactivos para los datos abiertos, compartiendo su experiencia con el equipo.",
+      "Delegar la tarea de visualización de datos en el área de comunicaciones sin involucrarse en el aprendizaje de las herramientas."
+    ],
+    "answer": "Buscar tutoriales y cursos en línea sobre herramientas de visualización (ej. Power BI, Tableau), practicar con datos reales del municipio y proponer la creación de paneles de control interactivos para los datos abiertos, compartiendo su experiencia con el equipo."
+  },
+  {
+    "question": "Usted es consciente de que las tecnologías de 'ciberseguridad' evolucionan rápidamente, y lo que era seguro hace un año podría no serlo hoy. Su función es velar por la 'ciberseguridad' del municipio. \n¿Qué acción tomaría de manera constante para mantener actualizados sus conocimientos en esta área crítica?",
+    "options": [
+      "Esperar a que un incidente de seguridad ocurra para entonces buscar información sobre cómo resolverlo.",
+      "Leer noticias generales sobre ciberseguridad sin profundizar en los aspectos técnicos de las nuevas amenazas o soluciones.",
+      "Participar activamente en comunidades de ciberseguridad, suscribirse a alertas de vulnerabilidades, asistir a seminarios web de expertos y probar nuevas herramientas de seguridad en entornos controlados para entender su funcionamiento y aplicabilidad.",
+      "Confiar en que los proveedores de software de seguridad se encargarán de mantener la Alcaldía protegida sin su intervención."
+    ],
+    "answer": "Participar activamente en comunidades de ciberseguridad, suscribirse a alertas de vulnerabilidades, asistir a seminarios web de expertos y probar nuevas herramientas de seguridad en entornos controlados para entender su funcionamiento y aplicabilidad."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá planea modernizar su infraestructura de red migrando a una tecnología de red definida por software (SDN), que usted no ha configurado previamente. La 'planeación de TIC' es parte de sus funciones.\n¿Cómo abordaría el aprendizaje de SDN para liderar o participar eficazmente en este proyecto de modernización?",
+    "options": [
+      "Indicar que no se siente capacitado para manejar esa nueva tecnología y sugerir la contratación de un experto externo para todo el proyecto.",
+      "Asistir a la primera capacitación ofrecida y luego esperar que otros configuren la red para aprender observando.",
+      "Realizar cursos en línea sobre SDN, simular configuraciones en entornos virtuales, leer manuales y documentación técnica, y colaborar estrechamente con el equipo de implementación para ganar experiencia práctica y compartir conocimientos.",
+      "Limitarse a supervisar el proyecto sin involucrarse en los detalles técnicos de la configuración de SDN."
+    ],
+    "answer": "Realizar cursos en línea sobre SDN, simular configuraciones en entornos virtuales, leer manuales y documentación técnica, y colaborar estrechamente con el equipo de implementación para ganar experiencia práctica y compartir conocimientos."
+  },
+  {
+    "question": "Un colega le pregunta sobre un nuevo lenguaje de programación que la Alcaldía podría usar para desarrollar una aplicación interna, y usted ha escuchado hablar de él pero no tiene experiencia. Su función es 'propender por la adquisición de software y hardware'.\n¿Cómo respondería a su colega y cómo aprovecharía la situación para su aprendizaje continuo?",
+    "options": [
+      "Desestimar el lenguaje de programación por ser desconocido y recomendar uno con el que ya tiene experiencia.",
+      "Prometer investigar el lenguaje, pero sin un compromiso real de hacerlo a fondo.",
+      "Expresar interés en el nuevo lenguaje, buscar tutoriales o cursos introductorios, y ofrecerse a hacer un pequeño prototipo o demo para evaluar su viabilidad y aprender de forma práctica.",
+      "Indicar que no es su función evaluar nuevos lenguajes de programación, solo implementar los ya existentes."
+    ],
+    "answer": "Expresar interés en el nuevo lenguaje, buscar tutoriales o cursos introductorios, y ofrecerse a hacer un pequeño prototipo o demo para evaluar su viabilidad y aprender de forma práctica."
+  },
+  {
+    "question": "El 'Sistema de Gestión de la Calidad' del área de TIC requiere que usted desarrolle nuevas habilidades para el análisis de indicadores de desempeño y la generación de informes de mejora, algo que no ha realizado con frecuencia.\n¿Qué iniciativa personal tomaría para fortalecer esta habilidad y contribuir al SGC?",
+    "options": [
+      "Solicitar a otro compañero que genere los informes, ya que él tiene más experiencia en ese tipo de análisis.",
+      "Generar los informes con los datos disponibles, sin un análisis profundo o la búsqueda de indicadores más relevantes.",
+      "Buscar cursos o recursos sobre análisis de datos y generación de informes de gestión, practicar con los datos reales del SGC, y proponer mejoras en los indicadores existentes para una mejor medición del 'mejoramiento continuo'.",
+      "Argumentar que su principal función es la operación técnica, no el análisis y la generación de informes."
+    ],
+    "answer": "Buscar cursos o recursos sobre análisis de datos y generación de informes de gestión, practicar con los datos reales del SGC, y proponer mejoras en los indicadores existentes para una mejor medición del 'mejoramiento continuo'."
+  },
+  {
+    "question": "La 'Política de Gobierno Digital' exige que los servidores públicos dominen herramientas de colaboración en línea para el teletrabajo. Usted se siente más cómodo con la comunicación presencial y las herramientas tradicionales.\n¿Cómo abordaría la necesidad de aprender y dominar las nuevas herramientas de colaboración para cumplir con la política y mejorar su productividad?",
+    "options": [
+      "Limitar el uso de las herramientas de colaboración a lo estrictamente necesario, y continuar privilegiando los métodos presenciales.",
+      "Quejarse de la complejidad de las nuevas herramientas y la dificultad para adaptarse a la modalidad de teletrabajo.",
+      "Participar activamente en las capacitaciones, experimentar con las diferentes funcionalidades de las herramientas, buscar consejos de colegas más experimentados y compartir sus propias experiencias para ayudar a otros en la transición.",
+      "Asumir que, con el tiempo, se acostumbrará a las herramientas sin una dedicación consciente al aprendizaje."
+    ],
+    "answer": "Participar activamente en las capacitaciones, experimentar con las diferentes funcionalidades de las herramientas, buscar consejos de colegas más experimentados y compartir sus propias experiencias para ayudar a otros en la transición."
+  },
+  {
+    "question": "Se ha presentado un nuevo desafío en el 'análisis de sistemas' relacionado con la integración de datos de diversas fuentes municipales (ej. catastro, impuestos, población) para generar un cuadro de mando integral. Esto requiere conocimientos de ETL (Extracción, Transformación, Carga) y bases de datos NoSQL.\n¿Cómo abordaría la adquisición de estos conocimientos para el proyecto?",
+    "options": [
+      "Proponer que la Alcaldía contrate a una empresa especializada para realizar la integración y el análisis de datos, sin involucrarse en el aprendizaje.",
+      "Realizar la integración de forma manual, lo que sería un proceso muy lento y propenso a errores.",
+      "Inscribirse en cursos o bootcamps sobre ETL y bases de datos NoSQL, practicar con conjuntos de datos de prueba, y colaborar con expertos internos o externos para diseñar la arquitectura de integración y aprender en la práctica.",
+      "Limitarse a buscar información superficial sobre los conceptos de ETL y NoSQL, sin profundizar en su aplicación."
+    ],
+    "answer": "Inscribirse en cursos o bootcamps sobre ETL y bases de datos NoSQL, practicar con conjuntos de datos de prueba, y colaborar con expertos internos o externos para diseñar la arquitectura de integración y aprender en la práctica."
+  },
+  {
+    "question": "Usted es consciente de que una parte fundamental de su desarrollo profesional como Profesional Universitario de TIC es mantenerse al día con las nuevas tendencias y estándares de la industria, incluso si no son directamente aplicables a su trabajo actual en la Alcaldía. \n¿Qué enfoque tomaría para asegurar este tipo de aprendizaje proactivo y general?",
+    "options": [
+      "Limitar su aprendizaje a lo que su jefe o la Alcaldía le solicite explícitamente, sin iniciativa personal.",
+      "Esperar a que surja una necesidad específica para empezar a investigar sobre un nuevo tema.",
+      "Dedicar un tiempo regular a la lectura de blogs tecnológicos, revistas especializadas, participación en foros y webinars, e incluso experimentar con nuevas tecnologías en proyectos personales para expandir su base de conocimientos.",
+      "Considerar que ya tiene suficiente experiencia y que las nuevas tendencias son pasajeras o irrelevantes para el servicio público."
+    ],
+    "answer": "Dedicar un tiempo regular a la lectura de blogs tecnológicos, revistas especializadas, participación en foros y webinars, e incluso experimentar con nuevas tecnologías en proyectos personales para expandir su base de conocimientos."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá está promoviendo una cultura de datos abiertos y usted debe 'preparar y rendir los informes periódicos de gestión' con información que sea accesible y comprensible para la ciudadanía. \n¿Cómo abordaría la generación de estos informes para que no solo cumplan con la norma, sino que también promuevan el aprendizaje sobre el uso de los datos?",
+    "options": [
+      "Generar los informes en formatos poco amigables, priorizando solo los datos técnicos relevantes para su área.",
+      "Delegar la creación de los informes a un diseñador gráfico sin involucrarse en el contenido o la interpretación de los datos.",
+      "Aprender a usar herramientas de visualización de datos, diseñar informes interactivos y fáciles de entender, y crear guías rápidas para que los ciudadanos puedan explorar y aprender de los datos públicos, buscando retroalimentación para mejorar la presentación.",
+      "Limitar la publicación de informes a lo estrictamente exigido por la ley, sin buscar formas de hacerlos más accesibles."
+    ],
+    "answer": "Aprender a usar herramientas de visualización de datos, diseñar informes interactivos y fáciles de entender, y crear guías rápidas para que los ciudadanos puedan explorar y aprender de los datos públicos, buscando retroalimentación para mejorar la presentación."
+  },
+  {
+    "question": "En el marco de la 'Responsabilidad de los Servidores Públicos', usted es consciente de la importancia de la 'ciberseguridad'. Un informe reciente destaca que el eslabón más débil en la seguridad son los usuarios finales (a través de ataques de phishing o ingeniería social).\n¿Cómo usaría su competencia de aprendizaje continuo para mitigar este riesgo en la Alcaldía?",
+    "options": [
+      "Instalar un software antivirus más potente y confiar en que protegerá a los usuarios de todos los ataques.",
+      "Enviar un correo electrónico con una advertencia genérica sobre los riesgos de seguridad y esperar que los usuarios lo lean.",
+      "Investigar sobre las últimas técnicas de phishing e ingeniería social, diseñar y ejecutar un programa de concientización y capacitación continua para todos los funcionarios, incluyendo simulacros de ataques controlados para que aprendan a identificar las amenazas.",
+      "Bloquear el acceso a internet y el correo electrónico no corporativo para todos los usuarios, lo que afectaría la productividad."
+    ],
+    "answer": "Investigar sobre las últimas técnicas de phishing e ingeniería social, diseñar y ejecutar un programa de concientización y capacitación continua para todos los funcionarios, incluyendo simulacros de ataques controlados para que aprendan a identificar las amenazas."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá ha decidido participar en un programa de intercambio de conocimientos con otras entidades territoriales sobre 'Políticas de Gobierno Digital' y nuevas herramientas de TIC. Usted ha sido seleccionado para representar a la Alcaldía. \n¿Cómo aprovecharía esta oportunidad para su aprendizaje continuo y para beneficio del municipio?",
+    "options": [
+      "Asistir a las reuniones, pero sin participar activamente ni documentar los conocimientos adquiridos, ya que la iniciativa es solo informativa.",
+      "Limitar la interacción a presentar los logros de su Alcaldía, sin interesarse en lo que otras entidades han hecho.",
+      "Participar activamente en los intercambios, documentar las mejores prácticas y lecciones aprendidas de otras entidades, y proponer un plan para socializar y aplicar estos conocimientos en la Alcaldía de Puerto Boyacá, promoviendo el aprendizaje colectivo.",
+      "Considerar que el programa de intercambio es una distracción de sus tareas diarias y minimizar su importancia."
+    ],
+    "answer": "Participar activamente en los intercambios, documentar las mejores prácticas y lecciones aprendidas de otras entidades, y proponer un plan para socializar y aplicar estos conocimientos en la Alcaldía de Puerto Boyacá, promoviendo el aprendizaje colectivo."
+  },
+  {
+    "question": "Un colega del área de Gestión Humana le pide su opinión sobre cómo implementar un sistema de 'e-learning' para la capacitación interna del personal, pero no tiene claro qué plataforma o metodología usar. Usted ha estado investigando sobre el tema.\n¿Cómo 'compartiría información útil' y apoyaría a su colega, demostrando su aprendizaje continuo?",
+    "options": [
+      "Decirle que es una decisión que debe tomar Gestión Humana y que no es su responsabilidad sugerir plataformas.",
+      "Recomendar la primera plataforma de e-learning que encuentre en internet, sin un análisis profundo de sus funcionalidades.",
+      "Compartir los conocimientos adquiridos sobre plataformas de e-learning (LMS), metodologías pedagógicas para entornos virtuales y experiencias de otras entidades, ofreciendo acompañamiento en la evaluación de opciones y la planificación de la implementación.",
+      "Asumir que Gestión Humana buscará expertos externos y que su opinión no es relevante en este caso."
+    ],
+    "answer": "Compartir los conocimientos adquiridos sobre plataformas de e-learning (LMS), metodologías pedagógicas para entornos virtuales y experiencias de otras entidades, ofreciendo acompañamiento en la evaluación de opciones y la planificación de la implementación."
+  },
+  {
+    "question": "Se ha observado que el equipo de TIC de la Alcaldía de Puerto Boyacá carece de una herramienta unificada para la gestión de proyectos de desarrollo de 'software', lo que genera descoordinación y retrasa los entregables. \n¿Qué acción tomaría para introducir una nueva herramienta y fomentar el aprendizaje continuo en el equipo?",
+    "options": [
+      "Imponer una herramienta sin consultar al equipo, asumiendo que es la mejor opción.",
+      "Esperar a que el equipo identifique la necesidad por sí mismo y proponga una solución.",
+      "Investigar diversas herramientas de gestión de proyectos de software (ej. Jira, Trello, Asana), presentar sus ventajas al equipo, liderar una fase de prueba piloto para que todos se familiaricen y capacitar a los miembros en su uso para mejorar la colaboración y eficiencia.",
+      "Mantener el uso de herramientas individuales, argumentando que cada uno es responsable de su propia organización."
+    ],
+    "answer": "Investigar diversas herramientas de gestión de proyectos de software (ej. Jira, Trello, Asana), presentar sus ventajas al equipo, liderar una fase de prueba piloto para que todos se familiaricen y capacitar a los miembros en su uso para mejorar la colaboración y eficiencia."
+  },
+  {
+    "question": "Para asegurar la 'gestión eficiente, eficaz y transparente' de los servicios, la Alcaldía de Puerto Boyacá busca implementar un sistema de indicadores de desempeño en todas las áreas, lo que requiere 'análisis de sistemas' y la capacidad de aprender sobre nuevas métricas. \n¿Cómo abordaría la definición e implementación de estos indicadores para su área de TIC?",
+    "options": [
+      "Utilizar únicamente indicadores genéricos que no reflejen el desempeño real de su área.",
+      "Esperar a que la Secretaría de Planeación defina los indicadores y solo entonces intentar aplicarlos.",
+      "Investigar sobre los mejores indicadores de rendimiento para áreas de TIC en el sector público, proponer métricas alineadas con los objetivos del PETI y de Gobierno Digital, y aprender a usar herramientas para su monitoreo y reporte continuo, buscando retroalimentación para ajustarlos.",
+      "Considerar que la definición de indicadores es una tarea administrativa y no técnica."
+    ],
+    "answer": "Investigar sobre los mejores indicadores de rendimiento para áreas de TIC en el sector público, proponer métricas alineadas con los objetivos del PETI y de Gobierno Digital, y aprender a usar herramientas para su monitoreo y reporte continuo, buscando retroalimentación para ajustarlos."
+  },
+  {
+    "question": "Usted identifica que varios funcionarios de la Alcaldía de Puerto Boyacá están teniendo dificultades con el uso de las funciones avanzadas de una hoja de cálculo (ej. tablas dinámicas, macros), lo que ralentiza sus tareas. Su propósito es 'adquirir permanentemente conocimientos, destrezas y habilidades, así mismo para buscar y compartir información útil'.\n¿Qué acción tomaría para abordar esta brecha de conocimiento en sus colegas?",
+    "options": [
+      "Informar a su jefe sobre la situación, para que él tome las medidas necesarias, sin involucrarse directamente.",
+      "Ignorar la situación, ya que el aprendizaje de hojas de cálculo es responsabilidad individual de cada funcionario.",
+      "Diseñar y ofrecer sesiones de capacitación prácticas y cortas sobre las funciones avanzadas de la hoja de cálculo, crear guías rápidas y establecer un canal de apoyo donde los colegas puedan resolver sus dudas, fortaleciendo el aprendizaje colectivo.",
+      "Realizar las tareas que requieran funciones avanzadas por usted mismo para agilizar el trabajo, sin capacitar a los demás."
+    ],
+    "answer": "Diseñar y ofrecer sesiones de capacitación prácticas y cortas sobre las funciones avanzadas de la hoja de cálculo, crear guías rápidas y establecer un canal de apoyo donde los colegas puedan resolver sus dudas, fortaleciendo el aprendizaje colectivo."
+  },
+  {
+    "question": "Se ha presentado un caso de filtración de información sensible debido a una mala configuración en un servidor de la Alcaldía de Puerto Boyacá. Aunque la situación fue controlada, usted reconoce que necesita reforzar sus conocimientos en seguridad de servidores para evitar futuros incidentes.\n¿Qué iniciativa tomaría para fortalecer sus habilidades en este campo crítico de la 'ciberseguridad'?",
+    "options": [
+      "Evitar la configuración de servidores en el futuro, dejando esa tarea a proveedores externos.",
+      "Realizar solo las configuraciones básicas de seguridad que ya conoce, sin profundizar en nuevas técnicas.",
+      "Inscribirse en un curso especializado en hardening de servidores y seguridad de sistemas operativos, investigar sobre las últimas vulnerabilidades y mejores prácticas, y aplicar los conocimientos adquiridos para auditar y mejorar la configuración de los servidores de la Alcaldía.",
+      "Esperar a que se contrate un especialista en seguridad de servidores para que él resuelva y evite futuros problemas."
+    ],
+    "answer": "Inscribirse en un curso especializado en hardening de servidores y seguridad de sistemas operativos, investigar sobre las últimas vulnerabilidades y mejores prácticas, y aplicar los conocimientos adquiridos para auditar y mejorar la configuración de los servidores de la Alcaldía."
+  },
+  {
+    "question": "La 'Política de Gobierno Digital' promueve la innovación a través del uso de tecnologías emergentes. Su jefe le ha pedido que proponga una iniciativa tecnológica innovadora para mejorar un servicio público, aunque no hay un presupuesto definido inicialmente.\n¿Cómo abordaría esta solicitud para fomentar la innovación y su propio aprendizaje en un entorno de incertidumbre?",
+    "options": [
+      "Decir que no puede proponer nada sin un presupuesto claro, limitándose a sus funciones actuales.",
+      "Proponer una iniciativa muy costosa y compleja, sabiendo que es poco probable que se apruebe, para demostrar ambición.",
+      "Investigar sobre tecnologías emergentes de bajo costo o de código abierto con potencial impacto en servicios públicos, diseñar un proyecto piloto a pequeña escala que permita experimentar y demostrar el valor de la innovación, y presentar una propuesta que incluya una fase de aprendizaje y experimentación controlada.",
+      "Esperar a que otras entidades implementen innovaciones para luego replicarlas, sin proponer ideas propias."
+    ],
+    "answer": "Investigar sobre tecnologías emergentes de bajo costo o de código abierto con potencial impacto en servicios públicos, diseñar un proyecto piloto a pequeña escala que permita experimentar y demostrar el valor de la innovación, y presentar una propuesta que incluya una fase de aprendizaje y experimentación controlada."
+  },
+  {
+    "question": "Para el 'mejoramiento continuo' y la 'gestión eficiente' de los recursos, la Alcaldía de Puerto Boyacá está implementando una metodología de gestión de riesgos en todos sus procesos, incluyendo los de TIC. Usted necesita comprender y aplicar esta metodología.\n¿Qué acción tomaría para integrar la gestión de riesgos en su trabajo y fortalecer su aprendizaje continuo?",
+    "options": [
+      "Considerar que la gestión de riesgos es una tarea de la alta dirección y no de su nivel jerárquico.",
+      "Asistir a las reuniones de gestión de riesgos, pero sin participar activamente en la identificación o mitigación de riesgos de TIC.",
+      "Estudiar la metodología de gestión de riesgos adoptada por la Alcaldía, identificar los riesgos específicos en los procesos de TIC, proponer planes de mitigación y monitoreo, y participar activamente en el comité de riesgos para compartir conocimientos y mejorar los procesos de forma continua.",
+      "Crear un documento de riesgos genérico, sin un análisis profundo de los riesgos reales de TIC."
+    ],
+    "answer": "Estudiar la metodología de gestión de riesgos adoptada por la Alcaldía, identificar los riesgos específicos en los procesos de TIC, proponer planes de mitigación y monitoreo, y participar activamente en el comité de riesgos para compartir conocimientos y mejorar los procesos de forma continua."
+  },
+  {
+    "question": "Un colega de la Secretaría de Hacienda necesita un reporte financiero específico que requiere cruzar datos de diferentes sistemas y generar visualizaciones complejas, algo que usted no ha hecho antes. El objetivo es contribuir a la 'gestión eficiente, eficaz y transparente'.\n¿Cómo abordaría la solicitud para entregar el reporte y al mismo tiempo expandir sus conocimientos en 'análisis de sistemas' y visualización de datos?",
+    "options": [
+      "Indicar que no tiene tiempo para aprender una nueva habilidad y que la Secretaría de Hacienda debe buscar a alguien más para el reporte.",
+      "Generar un reporte básico con la información que tiene disponible, sin las visualizaciones complejas solicitadas.",
+      "Investigar sobre cómo cruzar datos entre los sistemas, aprender a usar herramientas de visualización para los gráficos solicitados, y trabajar de cerca con el colega para entender sus necesidades, aprovechando la oportunidad para adquirir nuevas habilidades en análisis de datos.",
+      "Externalizar la generación del reporte a una empresa especializada, sin involucrarse en el proceso de aprendizaje."
+    ],
+    "answer": "Investigar sobre cómo cruzar datos entre los sistemas, aprender a usar herramientas de visualización para los gráficos solicitados, y trabajar de cerca con el colega para entender sus necesidades, aprovechando la oportunidad para adquirir nuevas habilidades en análisis de datos."
+  },
+  {
+    "question": "Para 'velar por el correcto funcionamiento y actualización de la página web del Municipio de Puerto Boyacá', usted identifica que se están utilizando tecnologías web antiguas que podrían presentar riesgos de seguridad o de rendimiento. \n¿Qué iniciativa tomaría para modernizar la página web y actualizar sus habilidades en desarrollo web?",
+    "options": [
+      "Ignorar las tecnologías antiguas, asumiendo que si funcionan, no es necesario cambiarlas.",
+      "Contratar a un nuevo equipo de desarrolladores web sin involucrarse en el aprendizaje de las nuevas tecnologías.",
+      "Investigar sobre los frameworks y lenguajes de programación web modernos, proponer un plan de actualización tecnológica para la página web (re-diseño o re-desarrollo), y capacitarse activamente en las nuevas herramientas para liderar o supervisar el proceso de modernización.",
+      "Realizar solo actualizaciones menores de contenido en la página, sin cambiar la tecnología subyacente."
+    ],
+    "answer": "Investigar sobre los frameworks y lenguajes de programación web modernos, proponer un plan de actualización tecnológica para la página web (re-diseño o re-desarrollo), y capacitarse activamente en las nuevas herramientas para liderar o supervisar el proceso de modernización."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá está evaluando la implementación de una plataforma de Gobierno Abierto que permita a los ciudadanos participar activamente y proponer ideas. Esto requiere que usted, como Profesional Universitario de TIC, aprenda sobre nuevas herramientas de participación ciudadana digital.\n¿Cómo abordaría el aprendizaje de estas herramientas para proponer la mejor opción para el municipio?",
+    "options": [
+      "Seleccionar la plataforma de participación ciudadana más conocida, sin investigar otras opciones.",
+      "Esperar a que los ciudadanos demanden una plataforma específica para empezar a investigarla.",
+      "Investigar diversas plataformas de Gobierno Abierto y participación ciudadana digital, evaluar sus funcionalidades, seguridad y adaptabilidad al contexto de Puerto Boyacá, y preparar un informe comparativo con recomendaciones, documentando su proceso de aprendizaje.",
+      "Limitarse a adaptar la página web existente para recibir sugerencias, sin implementar una plataforma interactiva."
+    ],
+    "answer": "Investigar diversas plataformas de Gobierno Abierto y participación ciudadana digital, evaluar sus funcionalidades, seguridad y adaptabilidad al contexto de Puerto Boyacá, y preparar un informe comparativo con recomendaciones, documentando su proceso de aprendizaje."
+  },
+  {
+    "question": "Su jefe le pide que prepare un informe sobre las tendencias futuras en 'software y hardware' que podrían beneficiar a la Alcaldía de Puerto Boyacá en los próximos cinco años, algo que requiere visión a largo plazo y aprendizaje prospectivo.\n¿Cómo abordaría la preparación de este informe para que sea innovador y útil?",
+    "options": [
+      "Basar el informe únicamente en las tecnologías actuales que ya se utilizan en la Alcaldía.",
+      "Copiar un informe de tendencias tecnológicas de otra entidad, sin adaptarlo a las necesidades de Puerto Boyacá.",
+      "Investigar sobre tecnologías emergentes como computación cuántica, edge computing o gemelos digitales, analizar su potencial impacto y viabilidad para la administración pública municipal, y presentar un informe que anticipe las necesidades tecnológicas futuras.",
+      "Limitar el informe a tendencias que ya están consolidadas en el mercado, sin explorar lo verdaderamente innovador."
+    ],
+    "answer": "Investigar sobre tecnologías emergentes como computación cuántica, edge computing o gemelos digitales, analizar su potencial impacto y viabilidad para la administración pública municipal, y presentar un informe que anticipe las necesidades tecnológicas futuras."
+  },
+  {
+    "question": "En el contexto de la 'racionalización de trámites' y la 'agilización de flujos de documentos', se le ha pedido investigar cómo la Inteligencia Artificial (IA) puede automatizar la clasificación de documentos y la respuesta a preguntas frecuentes de los ciudadanos. Usted tiene un conocimiento básico de IA, pero no en estas aplicaciones específicas.\n¿Cómo abordaría esta investigación para proponer soluciones concretas?",
+    "options": [
+      "Declarar que la IA es demasiado compleja para la Alcaldía y que no es posible aplicarla en esos procesos.",
+      "Buscar una solución de IA prefabricada sin investigar sus limitaciones o adaptabilidad al contexto municipal.",
+      "Estudiar casos de uso de IA en la gestión documental y atención ciudadana en otras entidades, investigar sobre algoritmos de procesamiento de lenguaje natural (NLP) y machine learning, y desarrollar un pequeño prototipo o prueba de concepto para demostrar la viabilidad y aprender de la experiencia.",
+      "Esperar a que el mercado ofrezca soluciones maduras de IA para este tipo de aplicaciones."
+    ],
+    "answer": "Estudiar casos de uso de IA en la gestión documental y atención ciudadana en otras entidades, investigar sobre algoritmos de procesamiento de lenguaje natural (NLP) y machine learning, y desarrollar un pequeño prototipo o prueba de concepto para demostrar la viabilidad y aprender de la experiencia."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá está considerando implementar una plataforma de 'software como servicio (SaaS)' para la gestión de proyectos, pero algunos funcionarios expresan preocupación por la seguridad de los datos en la nube. Usted es el Profesional de TIC.\n¿Cómo abordaría esta preocupación para fomentar la adopción de la nueva herramienta y promover el aprendizaje sobre seguridad en la nube?",
+    "options": [
+      "Ignorar las preocupaciones de seguridad de los funcionarios y proceder con la implementación, asumiendo que el proveedor de SaaS es responsable de todo.",
+      "Descartar la opción de SaaS debido a las preocupaciones de seguridad y buscar una solución local más costosa.",
+      "Investigar a fondo los protocolos de seguridad y certificaciones del proveedor de SaaS, comparar con las políticas de seguridad de la Alcaldía, capacitar a los funcionarios sobre los beneficios y riesgos de la computación en la nube y cómo operar de forma segura, y establecer protocolos internos para el manejo de la información en la nube.",
+      "Prometer a los funcionarios que la solución SaaS es 100% segura, sin proporcionar evidencia o capacitación."
+    ],
+    "answer": "Investigar a fondo los protocolos de seguridad y certificaciones del proveedor de SaaS, comparar con las políticas de seguridad de la Alcaldía, capacitar a los funcionarios sobre los beneficios y riesgos de la computación en la nube y cómo operar de forma segura, y establecer protocolos internos para el manejo de la información en la nube."
+  },
+
+  [
+  {
+    "question": "Como Profesional Universitario de TIC en la Alcaldía de Puerto Boyacá, usted detecta que un 'sistema crítico de información' presenta vulnerabilidades latentes debido a su arquitectura legacy, no contemplada en las capacitaciones estándar de ciberseguridad. La normatividad de 'responsabilidad de los servidores públicos' le exige actuar proactivamente.\n¿Qué enfoque de aprendizaje continuo adoptaría para abordar este riesgo complejo y no documentado, y proponer una solución sostenible?",
+    "options": [
+      "Notificar la vulnerabilidad a su superior y esperar instrucciones, asumiendo que la solución es responsabilidad de la alta dirección.",
+      "Realizar una búsqueda superficial de parches genéricos, esperando que resuelvan el problema sin un análisis profundo de la arquitectura específica.",
+      "Investigar a fondo la arquitectura legacy del sistema, buscar documentación de fabricantes descontinuados o comunidades especializadas, replicar la vulnerabilidad en un entorno de prueba controlado, y desarrollar una propuesta de mitigación o modernización del sistema basada en un análisis de costo-beneficio, documentando todo el proceso para futuras referencias.",
+      "Ignorar la vulnerabilidad hasta que se materialice un incidente, ya que la inversión en sistemas legacy no es prioritaria."
+    ],
+    "answer": "Investigar a fondo la arquitectura legacy del sistema, buscar documentación de fabricantes descontinuados o comunidades especializadas, replicar la vulnerabilidad en un entorno de prueba controlado, y desarrollar una propuesta de mitigación o modernización del sistema basada en un análisis de costo-beneficio, documentando todo el proceso para futuras referencias."
+  },
+  {
+    "question": "La 'Política de Gobierno Digital' ha establecido un nuevo requisito de interoperabilidad de sistemas que implica que la base de datos de la Alcaldía de Puerto Boyacá (con datos críticos del ciudadano) debe 'comunicarse' con la de otra entidad de nivel departamental, usando estándares poco comunes. Como Profesional Universitario de TIC, usted no tiene experiencia en estos estándares. Su cargo exige 'análisis de sistemas' y 'resolución de problemas'.\n¿Cómo abordaría este desafío técnico y normativo, demostrando un aprendizaje continuo de alto nivel?",
+    "options": [
+      "Informar a su superior que la interoperabilidad es inviable debido a los estándares desconocidos y la complejidad de las bases de datos.",
+      "Intentar una integración básica sin profundizar en los estándares, asumiendo que un nivel mínimo de conexión será suficiente para el cumplimiento.",
+      "Estudiar exhaustivamente los nuevos estándares de interoperabilidad y las arquitecturas de integración de datos, buscar referencias de casos similares en otras entidades, diseñar una arquitectura de integración que garantice la seguridad y la integridad de los datos, y liderar un equipo multidisciplinario para la implementación, compartiendo su conocimiento especializado.",
+      "Delegar completamente la integración en un consultor externo, sin involucrarse en el proceso de aprendizaje o en la supervisión técnica detallada."
+    ],
+    "answer": "Estudiar exhaustivamente los nuevos estándares de interoperabilidad y las arquitecturas de integración de datos, buscar referencias de casos similares en otras entidades, diseñar una arquitectura de integración que garantice la seguridad y la integridad de los datos, y liderar un equipo multidisciplinario para la implementación, compartiendo su conocimiento especializado."
+  },
+  {
+    "question": "En el marco del 'Plan Estratégico de Tecnologías de la Información (PETI)', se le ha asignado la tarea de investigar y proponer una solución de 'computación cuántica' aplicada a la optimización de rutas de recolección de residuos en el municipio, una tecnología con escasa implementación pública. Esto implica un salto cualitativo en su 'aprendizaje continuo'.\n¿Qué estrategia seguiría para abordar un tema tan disruptivo y asegurar una propuesta informada?",
+    "options": [
+      "Descartar la computación cuántica por considerarla una tecnología futurista e inviable a corto plazo para una Alcaldía municipal.",
+      "Consultar artículos de divulgación general sobre computación cuántica y presentar una propuesta conceptual sin detalles técnicos o de viabilidad.",
+      "Investigar a fondo los principios de la computación cuántica y sus aplicaciones en optimización (especialmente en logística), identificar posibles plataformas o simuladores de acceso público, y colaborar con expertos académicos o centros de investigación para desarrollar un caso de uso teórico que demuestre el potencial y los desafíos de su aplicación en el contexto municipal.",
+      "Esperar a que existan soluciones comerciales maduras y casos de éxito en entidades similares antes de iniciar cualquier investigación."
+    ],
+    "answer": "Investigar a fondo los principios de la computación cuántica y sus aplicaciones en optimización (especialmente en logística), identificar posibles plataformas o simuladores de acceso público, y colaborar con expertos académicos o centros de investigación para desarrollar un caso de uso teórico que demuestre el potencial y los desafíos de su aplicación en el contexto municipal."
+  },
+  {
+    "question": "Usted identifica que el actual sistema de 'gestión de la calidad' en el área de TIC es reactivo, enfocándose solo en la solución de incidentes, y no en la 'prevención' ni en el 'mejoramiento continuo' de los procesos. Desea implementar un enfoque proactivo basado en el análisis predictivo de fallas, lo que requiere un nuevo conjunto de habilidades en 'análisis de sistemas' y 'resolución de problemas'.\n¿Cómo usaría el aprendizaje continuo para transformar esta gestión hacia un modelo proactivo?",
+    "options": [
+      "Proponer un cambio radical en el sistema de gestión de calidad, sin ofrecer una justificación sólida o una ruta de implementación gradual.",
+      "Continuar con el modelo reactivo, asumiendo que los incidentes son inherentes a la gestión de TI y que es suficiente con resolverlos cuando ocurren.",
+      "Estudiar metodologías de análisis predictivo y mantenimiento proactivo en TI, identificar herramientas de monitoreo y recolección de datos, diseñar e implementar un piloto para predecir fallas basadas en patrones, y capacitar al equipo en el uso de estas herramientas y en la interpretación de los resultados para la toma de decisiones preventivas, demostrando el valor de la anticipación.",
+      "Limitarse a documentar los incidentes existentes, sin buscar soluciones que prevengan su recurrencia."
+    ],
+    "answer": "Estudiar metodologías de análisis predictivo y mantenimiento proactivo en TI, identificar herramientas de monitoreo y recolección de datos, diseñar e implementar un piloto para predecir fallas basadas en patrones, y capacitar al equipo en el uso de estas herramientas y en la interpretación de los resultados para la toma de decisiones preventivas, demostrando el valor de la anticipación."
+  },
+  {
+    "question": "La 'Responsabilidad de los Servidores Públicos' incluye la protección de la información sensible. Se ha difundido una nueva amenaza de 'ingeniería social avanzada' (ej. deepfakes de voz/video) que busca suplantar identidades para obtener datos o acceso a sistemas en la Alcaldía. Usted debe 'adquirir conocimientos' sobre esta amenaza emergente para proteger la entidad.\n¿Qué estrategia de aprendizaje continuo adoptaría para comprender y mitigar este tipo de ataques altamente sofisticados?",
+    "options": [
+      "Advertir a los empleados sobre la existencia de deepfakes, sin proporcionarles herramientas o capacitación específica para identificarlos.",
+      "Bloquear todas las comunicaciones externas no oficiales, lo que afectaría la comunicación con los ciudadanos y otras entidades.",
+      "Investigar los mecanismos técnicos y psicológicos detrás de los deepfakes y la ingeniería social avanzada, participar en foros especializados de ciberseguridad, y desarrollar simulacros de ataques realistas para entrenar al personal en la detección de estas amenazas, diseñando protocolos de verificación robustos.",
+      "Esperar a que una herramienta de seguridad comercial identifique y bloquee automáticamente este tipo de ataques."
+    ],
+    "answer": "Investigar los mecanismos técnicos y psicológicos detrás de los deepfakes y la ingeniería social avanzada, participar en foros especializados de ciberseguridad, y desarrollar simulacros de ataques realistas para entrenar al personal en la detección de estas amenazas, diseñando protocolos de verificación robustos."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá busca implementar una 'ciudad inteligente' y le ha pedido que evalúe y proponga tecnologías de 'edge computing' para procesar datos de sensores en tiempo real, minimizando la latencia. Usted no tiene experiencia práctica con edge computing, pero es clave para el 'mejoramiento continuo' y la 'innovación'.\n¿Cómo abordaría el aprendizaje de esta tecnología avanzada para diseñar una solución viable?",
+    "options": [
+      "Recomendar soluciones tradicionales de computación en la nube, argumentando que edge computing es demasiado complejo para el municipio.",
+      "Investigar únicamente la definición de edge computing y presentar un informe teórico sin considerar su implementación práctica.",
+      "Estudiar la arquitectura de edge computing, identificar posibles hardware y software, construir un pequeño prototipo o laboratorio de pruebas con sensores simulados para entender su funcionamiento en la práctica, y evaluar la viabilidad de su aplicación en el contexto municipal (ej. tráfico, calidad del aire), documentando los desafíos y oportunidades de aprendizaje.",
+      "Esperar a que otras ciudades del país implementen exitosamente edge computing para replicar su modelo sin mayor investigación."
+    ],
+    "answer": "Estudiar la arquitectura de edge computing, identificar posibles hardware y software, construir un pequeño prototipo o laboratorio de pruebas con sensores simulados para entender su funcionamiento en la práctica, y evaluar la viabilidad de su aplicación en el contexto municipal (ej. tráfico, calidad del aire), documentando los desafíos y oportunidades de aprendizaje."
+  },
+  {
+    "question": "El 'Plan Estratégico de Tecnologías de la Información (PETI)' de la Alcaldía de Puerto Boyacá contempla la migración de todos los sistemas locales a una 'infraestructura de nube híbrida', lo que implica un cambio cultural y técnico significativo. Como Profesional Universitario de TIC, usted debe liderar la 'planeación' y ejecución de esta migración, adquiriendo 'nuevas habilidades'.\n¿Cómo gestionaría este complejo proceso de aprendizaje y cambio organizacional?",
+    "options": [
+      "Delegar completamente la migración a un proveedor externo de servicios en la nube, sin involucrar al personal interno en el proceso de aprendizaje.",
+      "Migrar los sistemas sin una planificación detallada ni capacitación, asumiendo que el personal se adaptará sobre la marcha.",
+      "Estudiar a fondo las arquitecturas de nube híbrida, las estrategias de migración y las mejores prácticas de seguridad en la nube; capacitarse y certificar al equipo interno en tecnologías cloud; diseñar un plan de migración por fases con pruebas rigurosas, y fomentar una cultura de aprendizaje continuo y adaptabilidad durante todo el proceso de transformación.",
+      "Realizar una migración parcial de solo los sistemas menos críticos, retrasando la adopción completa de la nube híbrida."
+    ],
+    "answer": "Estudiar a fondo las arquitecturas de nube híbrida, las estrategias de migración y las mejores prácticas de seguridad en la nube; capacitarse y certificar al equipo interno en tecnologías cloud; diseñar un plan de migración por fases con pruebas rigurosas, y fomentar una cultura de aprendizaje continuo y adaptabilidad durante todo el proceso de transformación."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá busca mejorar la 'racionalización de trámites' mediante la implementación de 'gemelos digitales' para simular y optimizar flujos de atención ciudadana complejos. Esta es una tecnología muy avanzada para la mayoría de los servidores públicos, incluyendo usted. \n¿Qué pasos seguiría para dominar la conceptualización y aplicación de los gemelos digitales en el contexto municipal?",
+    "options": [
+      "Descartar la idea de gemelos digitales por su complejidad y enfocarse en mejoras incrementales de los trámites actuales.",
+      "Asistir a una conferencia sobre gemelos digitales y luego intentar diseñar un modelo sin el conocimiento técnico profundo requerido.",
+      "Investigar los principios de los gemelos digitales, los software de simulación y modelado, identificar un trámite específico de la Alcaldía para aplicar un piloto, y colaborar con universidades o centros de investigación para desarrollar una prueba de concepto que permita aprender de la experiencia real y demostrar el potencial de la tecnología.",
+      "Esperar a que una solución de gemelo digital 'lista para usar' esté disponible en el mercado para el sector público."
+    ],
+    "answer": "Investigar los principios de los gemelos digitales, los software de simulación y modelado, identificar un trámite específico de la Alcaldía para aplicar un piloto, y colaborar con universidades o centros de investigación para desarrollar una prueba de concepto que permita aprender de la experiencia real y demostrar el potencial de la tecnología."
+  },
+  {
+    "question": "En el contexto de la 'protección de derechos fundamentales', la Alcaldía de Puerto Boyacá debe implementar 'privacidad por diseño' en todos los nuevos sistemas de información que manejan datos personales sensibles de los ciudadanos. Esto requiere un cambio de paradigma en el desarrollo de 'software y hardware' y un 'aprendizaje continuo' profundo en normatividad de protección de datos (ej. Ley 1581 de 2012).\n¿Cómo aseguraría la implementación efectiva de la privacidad por diseño?",
+    "options": [
+      "Añadir una cláusula de privacidad en los términos y condiciones de uso de los sistemas, sin modificar su diseño subyacente.",
+      "Delegar la responsabilidad de la privacidad al usuario final, esperando que ellos controlen sus propios datos.",
+      "Estudiar a fondo los principios de 'privacidad por diseño' y la normatividad de protección de datos personales, integrar estos principios desde las fases iniciales de diseño y desarrollo de sistemas, capacitar a los equipos de desarrollo en técnicas de ofuscación, anonimización y gestión de consentimientos, y establecer auditorías periódicas para asegurar el cumplimiento.",
+      "Implementar soluciones de seguridad tradicionales (firewalls, antivirus) y considerar que con eso es suficiente para la privacidad."
+    ],
+    "answer": "Estudiar a fondo los principios de 'privacidad por diseño' y la normatividad de protección de datos personales, integrar estos principios desde las fases iniciales de diseño y desarrollo de sistemas, capacitar a los equipos de desarrollo en técnicas de ofuscación, anonimización y gestión de consentimientos, y establecer auditorías periódicas para asegurar el cumplimiento."
+  },
+  {
+    "question": "Se le ha encomendado la tarea de desarrollar una 'política de uso de la inteligencia artificial' para la Alcaldía de Puerto Boyacá, que abarque aspectos éticos, legales y de 'seguridad de la información'. Esta es un área en constante evolución y con implicaciones complejas para la 'responsabilidad de los servidores públicos'.\n¿Cómo aplicaría el aprendizaje continuo para construir una política robusta y prospectiva en este campo?",
+    "options": [
+      "Copiar una política de IA de otra entidad, asumiendo que es universalmente aplicable sin adaptaciones.",
+      "Limitar la política a aspectos técnicos básicos de IA, ignorando las dimensiones éticas y legales.",
+      "Investigar marcos éticos y regulatorios de IA a nivel nacional e internacional, consultar a expertos en ética y derecho de la IA, analizar casos de uso específicos de IA en la Alcaldía para identificar riesgos y beneficios, y desarrollar una política que equilibre la innovación con la protección de los derechos ciudadanos, promoviendo la capacitación continua del personal en el uso responsable de la IA.",
+      "Esperar a que se promulgue una ley específica de IA en Colombia para empezar a definir la política interna."
+    ],
+    "answer": "Investigar marcos éticos y regulatorios de IA a nivel nacional e internacional, consultar a expertos en ética y derecho de la IA, analizar casos de uso específicos de IA en la Alcaldía para identificar riesgos y beneficios, y desarrollar una política que equilibre la innovación con la protección de los derechos ciudadanos, promoviendo la capacitación continua del personal en el uso responsable de la IA."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá quiere mejorar la 'atención al usuario y al ciudadano' mediante la implementación de un 'asistente virtual conversacional' (chatbot) impulsado por 'inteligencia artificial' que pueda responder a preguntas complejas y procesar trámites sencillos. Usted debe 'adquirir destrezas' en el diseño y entrenamiento de estos sistemas.\n¿Qué ruta de aprendizaje continuo seguiría para este proyecto?",
+    "options": [
+      "Contratar una empresa para que desarrolle el chatbot y se encargue de todo el entrenamiento, sin involucrarse en el proceso.",
+      "Implementar un chatbot básico con respuestas predefinidas, sin capacidad de aprendizaje o comprensión de lenguaje natural.",
+      "Estudiar los principios de procesamiento de lenguaje natural (NLP), plataformas de desarrollo de chatbots (ej. Dialogflow, Rasa), entrenar el modelo con datos de PQR existentes, y monitorear y refinar continuamente las interacciones del chatbot para mejorar su precisión y capacidad de respuesta, aprendiendo de la interacción real con los ciudadanos.",
+      "Limitar la funcionalidad del chatbot a dar la bienvenida a los usuarios, sin capacidad para responder preguntas o procesar trámites."
+    ],
+    "answer": "Estudiar los principios de procesamiento de lenguaje natural (NLP), plataformas de desarrollo de chatbots (ej. Dialogflow, Rasa), entrenar el modelo con datos de PQR existentes, y monitorear y refinar continuamente las interacciones del chatbot para mejorar su precisión y capacidad de respuesta, aprendiendo de la interacción real con los ciudadanos."
+  },
+  {
+    "question": "Como parte de la 'racionalización de trámites', la Alcaldía de Puerto Boyacá desea implementar 'contratos inteligentes' basados en tecnología blockchain para agilizar y transparentar algunos procesos de contratación menores. Usted necesita adquirir 'conocimientos avanzados' en esta aplicación específica de blockchain.\n¿Cómo abordaría este desafío técnico y legal para una implementación exitosa?",
+    "options": [
+      "Ignorar la tecnología de contratos inteligentes por su complejidad legal y técnica, y continuar con los métodos tradicionales de contratación.",
+      "Firmar un contrato con un proveedor de blockchain sin entender completamente la tecnología subyacente o sus implicaciones legales.",
+      "Investigar los fundamentos de contratos inteligentes, sus marcos legales y regulatorios aplicables, y experimentar con plataformas de desarrollo (ej. Ethereum, Hyperledger) para comprender su funcionamiento y limitaciones, y colaborar con el área jurídica para asegurar su validez y cumplimiento normativo en el contexto de la 'normatividad vigente'.",
+      "Limitarse a leer un artículo de divulgación sobre contratos inteligentes y luego proponer su implementación sin mayor análisis."
+    ],
+    "answer": "Investigar los fundamentos de contratos inteligentes, sus marcos legales y regulatorios aplicables, y experimentar con plataformas de desarrollo (ej. Ethereum, Hyperledger) para comprender su funcionamiento y limitaciones, y colaborar con el área jurídica para asegurar su validez y cumplimiento normativo en el contexto de la 'normatividad vigente'."
+  },
+  {
+    "question": "La 'gestión eficiente, eficaz y transparente' de la información en el Municipio de Puerto Boyacá requiere la implementación de un 'data lake' para consolidar grandes volúmenes de datos de diferentes fuentes, facilitando el 'análisis de sistemas' avanzado. Esta es una arquitectura compleja y nueva para la mayoría de los miembros de su equipo de TIC. \n¿Cómo fomentaría el aprendizaje continuo en el equipo para manejar esta iniciativa?",
+    "options": [
+      "Imponer la implementación del data lake sin proporcionar capacitación adicional, esperando que el equipo aprenda por su cuenta.",
+      "Contratar personal nuevo con experiencia en data lakes, sin intentar capacitar al equipo existente.",
+      "Organizar talleres y cursos prácticos sobre arquitectura de data lakes, herramientas de ingestión y procesamiento de datos masivos (Big Data), crear un ambiente de pruebas para que el equipo experimente, y fomentar la colaboración y el intercambio de conocimientos entre ellos y con expertos externos para construir la capacidad interna.",
+      "Limitar la iniciativa a la recolección de datos sin un plan claro para su análisis y utilización."
+    ],
+    "answer": "Organizar talleres y cursos prácticos sobre arquitectura de data lakes, herramientas de ingestión y procesamiento de datos masivos (Big Data), crear un ambiente de pruebas para que el equipo experimente, y fomentar la colaboración y el intercambio de conocimientos entre ellos y con expertos externos para construir la capacidad interna."
+  },
+  {
+    "question": "Se ha presentado una brecha de 'ciberseguridad' en la Alcaldía de Puerto Boyacá relacionada con ataques 'zero-day' que no son detectados por las soluciones antivirus tradicionales. Su 'responsabilidad como servidor público' es proponer una estrategia de defensa más avanzada.\n¿Cómo usaría el aprendizaje continuo para investigar y proponer soluciones contra amenazas tan sofisticadas?",
+    "options": [
+      "Adquirir el antivirus más caro del mercado, asumiendo que resolverá todos los problemas de seguridad.",
+      "Delegar la responsabilidad en el proveedor de seguridad, sin un seguimiento activo de las nuevas amenazas.",
+      "Investigar las últimas técnicas de detección de ataques zero-day (ej. análisis de comportamiento, inteligencia de amenazas), participar en conferencias y grupos de expertos en ciberseguridad, y evaluar la implementación de soluciones avanzadas como EDR (Endpoint Detection and Response) o SIEM (Security Information and Event Management), capacitando al equipo en su monitoreo y respuesta.",
+      "Esperar a que otros municipios sean afectados por ataques zero-day para aprender de sus experiencias."
+    ],
+    "answer": "Investigar las últimas técnicas de detección de ataques zero-day (ej. análisis de comportamiento, inteligencia de amenazas), participar en conferencias y grupos de expertos en ciberseguridad, y evaluar la implementación de soluciones avanzadas como EDR (Endpoint Detection y Response) o SIEM (Security Information and Event Management), capacitando al equipo en su monitoreo y respuesta."
+  },
+  {
+    "question": "El 'Plan Estratégico de Tecnologías de la Información (PETI)' de la Alcaldía de Puerto Boyacá proyecta la implementación de 'redes 5G' para mejorar la conectividad en áreas rurales del municipio, lo que implicaría una nueva infraestructura y 'hardware'. Usted tiene conocimientos básicos de redes, pero no en 5G.\n¿Cómo se prepararía para liderar o participar en este proyecto de infraestructura avanzada?",
+    "options": [
+      "Declarar que la implementación de redes 5G es inviable para un municipio debido a su alto costo y complejidad.",
+      "Limitarse a leer artículos de prensa sobre los beneficios de 5G sin entender su arquitectura técnica.",
+      "Estudiar a fondo la arquitectura de redes 5G, sus componentes (ej. small cells, NFV, SDN), investigar las regulaciones y estándares de telecomunicaciones, y colaborar con operadores o expertos para diseñar un plan de implementación que incluya pruebas piloto y la capacitación del personal para la gestión y mantenimiento de la nueva infraestructura.",
+      "Esperar a que el Ministerio de TIC imponga la implementación de 5G y luego buscar la capacitación necesaria."
+    ],
+    "answer": "Estudiar a fondo la arquitectura de redes 5G, sus componentes (ej. small cells, NFV, SDN), investigar las regulaciones y estándares de telecomunicaciones, y colaborar con operadores o expertos para diseñar un plan de implementación que incluya pruebas piloto y la capacitación del personal para la gestión y mantenimiento de la nueva infraestructura."
+  },
+  {
+    "question": "La 'Política de Gobierno Digital' fomenta la innovación y la experimentación en los servicios públicos. Se le ha pedido que proponga una 'solución disruptiva' que utilice 'realidad virtual (RV)' o 'realidad aumentada (RA)' para mejorar la experiencia del ciudadano en algún trámite o visita turística del municipio. Usted no ha trabajado antes con estas tecnologías.\n¿Cómo abordaría el aprendizaje y la propuesta de estas tecnologías innovadoras?",
+    "options": [
+      "Rechazar la propuesta por falta de experiencia en RV/RA y sugerir una solución más tradicional.",
+      "Diseñar una propuesta basada en videos o imágenes 360, sin una verdadera inmersión de RV/RA.",
+      "Investigar las aplicaciones de RV/RA en el sector público y turismo, experimentar con plataformas de desarrollo de RV/RA de bajo costo, diseñar un concepto de experiencia inmersiva para un trámite o sitio turístico específico, y desarrollar un prototipo que demuestre el potencial de la tecnología, documentando los aprendizajes y desafíos.",
+      "Contratar una empresa de desarrollo de RV/RA y esperar que ellos diseñen la solución sin su participación activa."
+    ],
+    "answer": "Investigar las aplicaciones de RV/RA en el sector público y turismo, experimentar con plataformas de desarrollo de RV/RA de bajo costo, diseñar un concepto de experiencia inmersiva para un trámite o sitio turístico específico, y desarrollar un prototipo que demuestre el potencial de la tecnología, documentando los aprendizajes y desafíos."
+  },
+  {
+    "question": "Para cumplir con la 'normatividad vigente' en protección de datos y garantizar la 'ciberseguridad', la Alcaldía de Puerto Boyacá debe implementar 'seudonimización' y 'anonimización' de datos personales en sus bases de datos para proyectos de 'análisis de sistemas'. Estos son conceptos complejos y su aplicación incorrecta puede acarrear graves sanciones. \n¿Cómo aseguraría su comprensión y la correcta implementación de estas técnicas?",
+    "options": [
+      "Realizar una simple eliminación de algunos campos de datos, asumiendo que con eso es suficiente para la anonimización.",
+      "Delegar completamente la tarea en el equipo de seguridad de la información, sin verificar los procesos.",
+      "Estudiar a fondo las diferentes técnicas de seudonimización y anonimización (ej. k-anonimidad, l-diversidad), sus implicaciones en la reversibilidad de los datos, y aplicar estas técnicas en entornos de prueba con datos reales, y colaborar con los equipos legales y de seguridad para asegurar el cumplimiento normativo y ético en el 'manejo de la información'.",
+      "Esperar a que se publique una guía oficial de la superintendencia para la implementación de estas técnicas."
+    ],
+    "answer": "Estudiar a fondo las diferentes técnicas de seudonimización y anonimización (ej. k-anonimidad, l-diversidad), sus implicaciones en la reversibilidad de los datos, y aplicar estas técnicas en entornos de prueba con datos reales, y colaborar con los equipos legales y de seguridad para asegurar el cumplimiento normativo y ético en el 'manejo de la información'."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá busca establecer un 'Centro de Operaciones de Seguridad (SOC)' para monitorear proactivamente las amenazas de 'ciberseguridad' y responder a incidentes. Esto implica 'adquirir conocimientos' en tecnologías y procesos de un SOC, que son altamente especializados.\n¿Qué ruta de aprendizaje y acción tomaría para liderar o participar en la creación de este SOC?",
+    "options": [
+      "Proponer la contratación de un SOC externo, sin invertir en la construcción de capacidades internas.",
+      "Leer sobre la teoría de los SOCs y luego intentar diseñar uno sin experiencia práctica.",
+      "Capacitarse y certificarse en la gestión de SOCs y herramientas SIEM, investigar sobre las mejores prácticas y arquitecturas de SOC, y participar en la planificación, implementación y operación del SOC, empezando por un piloto con un alcance limitado y escalándolo gradualmente, documentando lecciones aprendidas.",
+      "Limitar la respuesta a incidentes a la reacción ante eventos, sin un monitoreo proactivo o una gestión estructurada."
+    ],
+    "answer": "Capacitarse y certificarse en la gestión de SOCs y herramientas SIEM, investigar sobre las mejores prácticas y arquitecturas de SOC, y participar en la planificación, implementación y operación del SOC, empezando por un piloto con un alcance limitado y escalándolo gradualmente, documentando lecciones aprendidas."
+  },
+  {
+    "question": "Para mejorar la 'gestión eficiente, eficaz y transparente' de la infraestructura de 'hardware' y 'software' de la Alcaldía, se propone implementar un sistema de 'observabilidad' (monitoreo de logs, métricas y trazas en tiempo real) que va más allá del monitoreo tradicional. Esto requiere un 'aprendizaje continuo' en nuevas herramientas y conceptos.\n¿Cómo abordaría la implementación de un sistema de observabilidad para los servicios de TIC?",
+    "options": [
+      "Comprar una herramienta de observabilidad muy costosa, asumiendo que por sí sola resolverá los problemas de visibilidad.",
+      "Limitarse al monitoreo tradicional de la infraestructura, sin explorar nuevas capacidades.",
+      "Estudiar los principios de observabilidad y las herramientas disponibles (ej. ELK Stack, Grafana, Prometheus), identificar los puntos clave de monitoreo en la infraestructura y aplicaciones, y diseñar un piloto para recolectar y visualizar logs, métricas y trazas, capacitando al equipo en su uso para el diagnóstico proactivo de problemas.",
+      "Esperar a que un proveedor externo venga a configurar el sistema de observabilidad, sin participar en el proceso de aprendizaje."
+    ],
+    "answer": "Estudiar los principios de observabilidad y las herramientas disponibles (ej. ELK Stack, Grafana, Prometheus), identificar los puntos clave de monitoreo en la infraestructura y aplicaciones, y diseñar un piloto para recolectar y visualizar logs, métricas y trazas, capacitando al equipo en su uso para el diagnóstico proactivo de problemas."
+  },
+  {
+    "question": "La 'racionalización de trámites' en la Alcaldía de Puerto Boyacá busca integrar 'voz y texto' en la 'atención al usuario y al ciudadano' mediante la implementación de 'interfaces conversacionales multimodales' impulsadas por IA. Esto implica 'análisis de sistemas' complejos y el 'aprendizaje continuo' de nuevas tecnologías de interacción. \n¿Qué enfoque tomaría para este proyecto innovador?",
+    "options": [
+      "Limitar la interacción a un chatbot de texto, sin considerar las capacidades de voz o multimodalidad.",
+      "Adquirir una solución de IA conversacional sin entender sus componentes o la complejidad de su entrenamiento.",
+      "Investigar las tecnologías de reconocimiento de voz, síntesis de voz, procesamiento de lenguaje natural y generación de lenguaje natural, y diseñar una interfaz conversacional que integre voz y texto, entrenando el modelo con datos de interacciones reales de ciudadanos, y evaluando continuamente la experiencia del usuario para mejorarla, documentando los desafíos técnicos y de interacción.",
+      "Esperar a que la tecnología madure completamente y se generalice en el sector público antes de considerarla."
+    ],
+    "answer": "Investigar las tecnologías de reconocimiento de voz, síntesis de voz, procesamiento de lenguaje natural y generación de lenguaje natural, y diseñar una interfaz conversacional que integre voz y texto, entrenando el modelo con datos de interacciones reales de ciudadanos, y evaluando continuamente la experiencia del usuario para mejorarla, documentando los desafíos técnicos y de interacción."
+  },
+  {
+    "question": "La 'Protección de Derechos Fundamentales' de los ciudadanos exige que la Alcaldía de Puerto Boyacá implemente 'pruebas de penetración éticas' y 'auditorías de seguridad de código' en sus aplicaciones y sistemas, lo que requiere 'adquirir conocimientos' y 'destrezas' en 'ciberseguridad' ofensiva y defensiva. \n¿Cómo abordaría este aprendizaje altamente especializado para asegurar la protección de los datos?",
+    "options": [
+      "Contratar continuamente a hackers éticos externos para realizar las pruebas, sin desarrollar capacidad interna.",
+      "Realizar escaneos de vulnerabilidades automatizados y considerar que eso es suficiente para la seguridad del código.",
+      "Capacitarse y obtener certificaciones en hacking ético (ej. CEH) y seguridad de aplicaciones (ej. OWASP Top 10), y liderar la implementación de un proceso interno de pruebas de penetración y auditorías de código, formando un equipo que aprenda y se mantenga actualizado sobre las últimas técnicas de ataque y defensa.",
+      "Asumir que si el software es de un proveedor reconocido, no tendrá vulnerabilidades y no necesita pruebas."
+    ],
+    "answer": "Capacitarse y obtener certificaciones en hacking ético (ej. CEH) y seguridad de aplicaciones (ej. OWASP Top 10), y liderar la implementación de un proceso interno de pruebas de penetración y auditorías de código, formando un equipo que aprenda y se mantenga actualizado sobre las últimas técnicas de ataque y defensa."
+  },
+  {
+    "question": "El 'mejoramiento continuo' de los 'servicios a través del medio tecnológico' implica que la Alcaldía de Puerto Boyacá adopte una cultura 'DevOps', que integra desarrollo y operaciones. Esto requiere 'adquirir nuevas habilidades' en automatización, CI/CD (Integración y Entrega Continua) y monitoreo, y un cambio en la mentalidad de 'trabajo en equipo'.\n¿Cómo lideraría la adopción de DevOps en el área de TIC, fomentando el aprendizaje y la transformación cultural?",
+    "options": [
+      "Implementar herramientas de CI/CD sin un cambio en la cultura o la capacitación del equipo.",
+      "Delegar la adopción de DevOps a un pequeño grupo de expertos, sin involucrar a todo el equipo de desarrollo y operaciones.",
+      "Estudiar la cultura y los principios de DevOps, seleccionar y capacitar al equipo en herramientas de automatización y CI/CD, diseñar un flujo de trabajo que integre desarrollo y operaciones, y fomentar una mentalidad de colaboración, experimentación y aprendizaje continuo a través de retrospectivas y métricas de desempeño, promoviendo el 'compromiso con la organización'.",
+      "Continuar con los procesos de desarrollo y operaciones separados, argumentando que la integración es demasiado compleja."
+    ],
+    "answer": "Estudiar la cultura y los principios de DevOps, seleccionar y capacitar al equipo en herramientas de automatización y CI/CD, diseñar un flujo de trabajo que integre desarrollo y operaciones, y fomentar una mentalidad de colaboración, experimentación y aprendizaje continuo a través de retrospectivas y métricas de desempeño, promoviendo el 'compromiso con la organización'."
+  },
+  {
+    "question": "En el marco de la 'racionalización de trámites', se le solicita investigar y proponer la aplicación de 'procesamiento de lenguaje natural (NLP)' avanzado para automatizar la extracción de información clave de documentos legales complejos, como contratos o licencias, en la Alcaldía de Puerto Boyacá. Esto es un desafío de 'análisis de sistemas' que requiere un 'aprendizaje continuo' profundo en IA.\n¿Cómo abordaría esta investigación para una aplicación práctica?",
+    "options": [
+      "Descartar la aplicación de NLP avanzado, argumentando que los documentos legales son demasiado complejos para la automatización.",
+      "Utilizar herramientas básicas de búsqueda de texto, sin un verdadero procesamiento o extracción semántica.",
+      "Investigar algoritmos de NLP para extracción de entidades nombradas (NER), reconocimiento de relaciones y summarización de texto, obtener o crear un corpus de documentos legales de la Alcaldía para entrenar modelos de IA, y desarrollar un prototipo que demuestre la capacidad de extraer información relevante, validando la precisión con expertos legales y refinando el modelo iterativamente.",
+      "Esperar a que se desarrollen soluciones comerciales de NLP específicas para documentos legales gubernamentales."
+    ],
+    "answer": "Investigar algoritmos de NLP para extracción de entidades nombradas (NER), reconocimiento de relaciones y summarización de texto, obtener o crear un corpus de documentos legales de la Alcaldía para entrenar modelos de IA, y desarrollar un prototipo que demuestre la capacidad de extraer información relevante, validando la precisión con expertos legales y refinando el modelo iterativamente."
+  },
+  {
+    "question": "La 'normatividad vigente' y el 'Sistema de Gestión de la Calidad' exigen que la Alcaldía de Puerto Boyacá mantenga un plan de 'continuidad del negocio y recuperación ante desastres (BCP/DRP)' robusto para sus 'sistemas de información'. Usted identifica que el plan actual es obsoleto y no contempla amenazas modernas como ataques de ransomware masivos. \n¿Cómo usaría el 'aprendizaje continuo' para actualizar este plan crítico?",
+    "options": [
+      "Copiar un plan BCP/DRP de otra entidad, asumiendo que será aplicable a Puerto Boyacá.",
+      "Implementar soluciones de respaldo de datos básicas y considerar que con eso es suficiente para la recuperación.",
+      "Investigar las últimas tendencias en BCP/DRP, incluyendo estrategias de recuperación de ransomware y la resiliencia en la nube, realizar un análisis de impacto al negocio y de riesgos actualizado para la Alcaldía, diseñar un plan integral de continuidad y recuperación que incluya simulacros periódicos y la capacitación de todo el personal en sus roles en caso de desastre, promoviendo un 'compromiso con la organización' ante la 'adaptación al cambio'.",
+      "Esperar a que ocurra un desastre o un ataque para aprender de la experiencia y entonces actualizar el plan."
+    ],
+    "answer": "Investigar las últimas tendencias en BCP/DRP, incluyendo estrategias de recuperación de ransomware y la resiliencia en la nube, realizar un análisis de impacto al negocio y de riesgos actualizado para la Alcaldía, diseñar un plan integral de continuidad y recuperación que incluya simulacros periódicos y la capacitación de todo el personal en sus roles en caso de desastre, promoviendo un 'compromiso con la organización' ante la 'adaptación al cambio'."
+  },
+  {
+    "question": "En el marco de las 'Políticas de Gobierno Digital', la Alcaldía de Puerto Boyacá busca integrar el uso de 'identidad digital descentralizada (DID)' para que los ciudadanos tengan mayor control sobre sus datos personales al interactuar con servicios públicos. Usted debe 'adquirir conocimientos' en esta tecnología emergente y sus implicaciones para la 'ciberseguridad' y la 'protección de derechos fundamentales'.\n¿Qué ruta de aprendizaje y acción tomaría para este proyecto innovador?",
+    "options": [
+      "Recomendar que la Alcaldía espere a que el gobierno central establezca un marco regulatorio claro antes de considerar la DID.",
+      "Implementar una solución de identidad digital centralizada tradicional, asumiendo que cumple con los requisitos de privacidad.",
+      "Estudiar los principios de la identidad digital descentralizada y sus estándares técnicos (ej. W3C DID), investigar casos de uso en otros países y los desafíos regulatorios en Colombia, y proponer un piloto de DID para un servicio específico, colaborando con expertos legales y de privacidad para asegurar la protección de los datos ciudadanos.",
+      "Limitarse a educar a los ciudadanos sobre la importancia de las contraseñas seguras, sin explorar nuevas tecnologías de identidad."
+    ],
+    "answer": "Estudiar los principios de la identidad digital descentralizada y sus estándares técnicos (ej. W3C DID), investigar casos de uso en otros países y los desafíos regulatorios en Colombia, y proponer un piloto de DID para un servicio específico, colaborando con expertos legales y de privacidad para asegurar la protección de los datos ciudadanos."
+  },
+  {
+    "question": "Usted ha detectado una necesidad de 'mejoramiento continuo' en la 'prestación de servicios a través del medio tecnológico' de la Alcaldía de Puerto Boyacá, específicamente en la optimización de 'algoritmos de asignación de citas' en línea para la atención ciudadana, los cuales generan largos tiempos de espera. El 'análisis de sistemas' es crucial.\n¿Cómo aplicaría el 'aprendizaje continuo' para resolver este problema complejo?",
+    "options": [
+      "Aumentar el número de citas diarias sin optimizar el algoritmo, esperando que reduzca el tiempo de espera.",
+      "Delegar la optimización del algoritmo a un proveedor externo, sin entender cómo funciona o sus posibles mejoras.",
+      "Investigar algoritmos de optimización de scheduling y teoría de colas, analizar los datos históricos de asignación de citas para identificar patrones y cuellos de botella, y proponer mejoras en el algoritmo existente (o desarrollar uno nuevo) que considere variables como la disponibilidad del personal, la demanda del servicio y la duración promedio de las citas, y monitorear su impacto para 'optimizar continuamente'.",
+      "Sugería a los ciudadanos que acudan a la Alcaldía sin cita para evitar el sistema en línea."
+    ],
+    "answer": "Investigar algoritmos de optimización de scheduling y teoría de colas, analizar los datos históricos de asignación de citas para identificar patrones y cuellos de botella, y proponer mejoras en el algoritmo existente (o desarrollar uno nuevo) que considere variables como la disponibilidad del personal, la demanda del servicio y la duración promedio de las citas, y monitorear su impacto para 'optimizar continuamente'."
+  },
+  {
+    "question": "En el marco del 'Plan Estratégico de Tecnologías de la Información (PETI)', se busca implementar una 'estrategia de datos abiertos' con un alto grado de granularidad y actualización en tiempo real, lo que requiere un 'aprendizaje continuo' en tecnologías de streaming de datos y gestión de APIs (interfaces de programación de aplicaciones) para la 'racionalización de trámites' y la 'transparencia'.\n¿Qué estrategia de aprendizaje y acción implementaría para este proyecto?",
+    "options": [
+      "Publicar los datos abiertos en un formato estático (ej. PDF) y actualizarlos anualmente, sin ofrecer acceso en tiempo real o por API.",
+      "Contratar una plataforma de datos abiertos que ofrezca funcionalidades básicas sin personalización o integración.",
+      "Estudiar arquitecturas de streaming de datos (ej. Kafka, Flink) y diseño de APIs RESTful/GraphQL, identificar los conjuntos de datos de alta demanda, y diseñar e implementar una solución que permita la publicación de datos abiertos en tiempo real a través de APIs estandarizadas, y capacitar a desarrolladores externos en su consumo para fomentar la innovación y el 'mejoramiento continuo'.",
+      "Esperar a que otras entidades publiquen datos en tiempo real antes de que la Alcaldía intente hacerlo."
+    ],
+    "answer": "Estudiar arquitecturas de streaming de datos (ej. Kafka, Flink) y diseño de APIs RESTful/GraphQL, identificar los conjuntos de datos de alta demanda, y diseñar e implementar una solución que permita la publicación de datos abiertos en tiempo real a través de APIs estandarizadas, y capacitar a desarrolladores externos en su consumo para fomentar la innovación y el 'mejoramiento continuo'."
+  },
+  {
+    "question": "La 'Responsabilidad de los Servidores Públicos' incluye la 'rendición de informes periódicos de gestión' y la 'transparencia'. Se le ha encomendado la tarea de desarrollar un 'cuadro de mando integral (CMI)' para la Alcaldía de Puerto Boyacá, que integre indicadores de desempeño de todas las áreas y permita la 'toma de decisiones estratégicas' basada en datos, requiriendo un 'aprendizaje continuo' en 'análisis de sistemas' y 'gestión de la calidad'.\n¿Cómo abordaría la creación de este CMI complejo y transversal?",
+    "options": [
+      "Crear un CMI simplificado con pocos indicadores, sin una visión integral de la gestión municipal.",
+      "Delegar la recopilación de todos los datos en las áreas, sin ofrecer una estructura o herramientas unificadas.",
+      "Estudiar metodologías de CMI y Business Intelligence (BI), identificar los indicadores clave de desempeño (KPIs) de todas las áreas, diseñar la arquitectura de datos para integrar la información de diversas fuentes, y desarrollar un CMI interactivo utilizando herramientas de BI, capacitando a los directivos en su uso para la 'instrumentación de decisiones' y el 'mejoramiento continuo'.",
+      "Esperar a que la Alcaldía tenga un sistema ERP completamente integrado antes de intentar construir un CMI."
+    ],
+    "answer": "Estudiar metodologías de CMI y Business Intelligence (BI), identificar los indicadores clave de desempeño (KPIs) de todas las áreas, diseñar la arquitectura de datos para integrar la información de diversas fuentes, y desarrollar un CMI interactivo utilizando herramientas de BI, capacitando a los directivos en su uso para la 'instrumentación de decisiones' y el 'mejoramiento continuo'."
+  },
+  {
+    "question": "En el marco del 'Plan Estratégico de Tecnologías de la Información (PETI)', la Alcaldía de Puerto Boyacá busca implementar un sistema de 'gestión de identidad y acceso (IAM)' centralizado y robusto que integre todos los servicios internos y externos, y que soporte autenticación multifactor y sin contraseña. Esto es un proyecto de 'ciberseguridad' crítico que requiere un 'aprendizaje continuo' en estándares de identidad.\n¿Cómo abordaría la implementación de un sistema IAM tan avanzado?",
+    "options": [
+      "Mantener los sistemas de autenticación fragmentados actuales, argumentando que funcionan lo suficientemente bien.",
+      "Implementar una solución IAM básica que solo unifique los inicios de sesión, sin autenticación multifactor o sin contraseña.",
+      "Investigar los estándares de IAM (ej. OAuth, OpenID Connect, FIDO2), evaluar plataformas de IAM empresariales, diseñar una arquitectura de IAM que incluya autenticación multifactor y sin contraseña para todos los servicios, y liderar la implementación y capacitación de los usuarios, asegurando la 'protección de derechos fundamentales' y la 'ciberseguridad'.",
+      "Delegar la decisión sobre la solución IAM a un proveedor de software, sin un análisis técnico profundo."
+    ],
+    "answer": "Investigar los estándares de IAM (ej. OAuth, OpenID Connect, FIDO2), evaluar plataformas de IAM empresariales, diseñar una arquitectura de IAM que incluya autenticación multifactor y sin contraseña para todos los servicios, y liderar la implementación y capacitación de los usuarios, asegurando la 'protección de derechos fundamentales' y la 'ciberseguridad'."
+  },
+  {
+    "question": "La 'Política de Gobierno Digital' exige la implementación de un 'sistema de gestión de la calidad de datos' para garantizar la fiabilidad y consistencia de la información en todos los sistemas de la Alcaldía de Puerto Boyacá, lo cual es fundamental para el 'análisis de sistemas' y la 'toma de decisiones'. Usted debe 'adquirir conocimientos' y 'destrezas' en esta área.\n¿Cómo abordaría la implementación de un SGCD, fomentando el aprendizaje continuo en el equipo?",
+    "options": [
+      "Realizar una limpieza de datos puntual sin establecer un proceso continuo de gestión de calidad.",
+      "Implementar un software de calidad de datos sin una estrategia clara ni capacitación del personal.",
+      "Estudiar metodologías de gestión de calidad de datos (ej. DAMA-DMBOK), identificar las dimensiones de calidad de datos (precisión, completitud, consistencia), y diseñar e implementar procesos de monitoreo, validación y corrección de datos en los sistemas, capacitando a los propietarios de los datos en la importancia de la calidad y en el uso de las herramientas del SGCD.",
+      "Asumir que los datos son responsabilidad de cada área y que el área de TIC solo debe mantener los sistemas operativos."
+    ],
+    "answer": "Estudiar metodologías de gestión de calidad de datos (ej. DAMA-DMBOK), identificar las dimensiones de calidad de datos (precisión, completitud, consistencia), y diseñar e implementar procesos de monitoreo, validación y corrección de datos en los sistemas, capacitando a los propietarios de los datos en la importancia de la calidad y en el uso de las herramientas del SGCD."
+  },
+  {
+    "question": "Usted es consciente de que, para garantizar el 'mejoramiento continuo' y la 'innovación' en los 'servicios a través del medio tecnológico', la Alcaldía de Puerto Boyacá debería explorar la aplicación de 'gemelos digitales' para la gestión de infraestructura física (ej. edificios, redes de agua). Esto requiere un 'aprendizaje continuo' muy avanzado en BIM (Building Information Modeling) y IoT.\n¿Cómo iniciaría la exploración de esta tecnología y su aplicación en la Alcaldía?",
+    "options": [
+      "Esperar a que una entidad de mayor nivel implemente gemelos digitales de infraestructura para replicar su experiencia.",
+      "Limitar la exploración a la compra de software de modelado 3D, sin integrar datos de IoT o simulación.",
+      "Investigar casos de éxito de gemelos digitales en infraestructura en otras ciudades, estudiar las metodologías BIM y la integración con datos de sensores IoT, y proponer un proyecto piloto para un edificio municipal o una sección de la red, para construir un modelo digital dinámico y aprender de la experiencia de su aplicación en la 'gestión eficiente' de activos.",
+      "Argumentar que la infraestructura física es responsabilidad de obras públicas y no del área de TIC."
+    ],
+    "answer": "Investigar casos de éxito de gemelos digitales en infraestructura en otras ciudades, estudiar las metodologías BIM y la integración con datos de sensores IoT, y proponer un proyecto piloto para un edificio municipal o una sección de la red, para construir un modelo digital dinámico y aprender de la experiencia de su aplicación en la 'gestión eficiente' de activos."
+  },
+  {
+    "question": "Para la 'gestión eficiente, eficaz y transparente' de los activos de 'software y hardware' de la Alcaldía de Puerto Boyacá, se ha propuesto implementar un sistema de 'automatización robótica de procesos (RPA)' para tareas administrativas repetitivas en diversas secretarías. Usted debe 'adquirir conocimientos' en el diseño e implementación de bots RPA.\n¿Cómo abordaría el aprendizaje de RPA para liderar esta iniciativa de 'racionalización de trámites'?",
+    "options": [
+      "Proponer la contratación de personal temporal para manejar las tareas repetitivas en lugar de automatizarlas.",
+      "Comprar una licencia de software RPA y esperar que los usuarios finales creen sus propios bots sin capacitación o supervisión.",
+      "Estudiar las metodologías de RPA (ej. UiPath, Automation Anywhere), identificar procesos administrativos candidatos a la automatización, diseñar y construir bots para tareas específicas en un entorno de prueba, y capacitar a los usuarios en la operación y monitoreo de los bots, fomentando el 'aprendizaje continuo' sobre la eficiencia de procesos.",
+      "Limitar la automatización a tareas básicas de copia y pega, sin explorar el potencial completo de RPA."
+    ],
+    "answer": "Estudiar las metodologías de RPA (ej. UiPath, Automation Anywhere), identificar procesos administrativos candidatos a la automatización, diseñar y construir bots para tareas específicas en un entorno de prueba, y capacitar a los usuarios en la operación y monitoreo de los bots, fomentando el 'aprendizaje continuo' sobre la eficiencia de procesos."
+  },
+  {
+    "question": "La 'Política de Gobierno Digital' exige que la 'página web del Municipio de Puerto Boyacá' sea un canal de comunicación bidireccional y 'participación ciudadana'. Usted identifica la oportunidad de implementar un sistema de 'crowdsourcing' para la recolección de ideas y datos de la ciudadanía para el 'mejoramiento continuo' de servicios, lo que requiere un 'aprendizaje continuo' en plataformas y metodologías de crowdsourcing.\n¿Cómo abordaría esta iniciativa?",
+    "options": [
+      "Limitar la interacción en la página web a un formulario de contacto, sin ofrecer herramientas de participación activa.",
+      "Implementar una plataforma de crowdsourcing sin un objetivo claro o una estrategia de moderación.",
+      "Investigar las plataformas y metodologías de crowdsourcing aplicadas a gobiernos locales, diseñar un proyecto piloto para recolectar ideas sobre un problema municipal específico, y capacitar a los ciudadanos en el uso de la plataforma, y monitorear y analizar las contribuciones para incorporar las ideas válidas en la 'toma de decisiones', aprendiendo de la interacción con la comunidad.",
+      "Considerar que la participación ciudadana es responsabilidad de otras secretarías y no del área de TIC."
+    ],
+    "answer": "Investigar las plataformas y metodologías de crowdsourcing aplicadas a gobiernos locales, diseñar un proyecto piloto para recolectar ideas sobre un problema municipal específico, y capacitar a los ciudadanos en el uso de la plataforma, y monitorear y analizar las contribuciones para incorporar las ideas válidas en la 'toma de decisiones', aprendiendo de la interacción con la comunidad."
+  },
+  {
+    "question": "Como parte de la 'evaluación' y 'mejoramiento continuo' del 'Sistema de Gestión de la Calidad' en la Alcaldía de Puerto Boyacá, usted propone el uso de 'analítica de aprendizaje (Learning Analytics)' para medir el impacto real de las capacitaciones y el desarrollo de competencias en el desempeño laboral de los servidores. Esto requiere 'adquirir conocimientos' en Big Data y estadística aplicada.\n¿Cómo implementaría esta iniciativa de medición avanzada?",
+    "options": [
+      "Recopilar solo el número de asistencias a capacitaciones y considerarlo como un indicador suficiente del aprendizaje.",
+      "Comprar un software de Learning Analytics sin una estrategia clara de qué datos recopilar o cómo analizarlos.",
+      "Estudiar los principios de Learning Analytics y las herramientas disponibles, identificar los datos relevantes (rendimiento pre/post-capacitación, uso de herramientas, resultados de proyectos), y diseñar un sistema para recopilar, analizar y visualizar estos datos, y utilizar los insights para ajustar los programas de capacitación y medir su impacto directo en el 'desempeño laboral' y el 'mejoramiento continuo' de la 'gestión de personas'.",
+      "Delegar la evaluación de capacitaciones en el área de talento humano, sin aportar soluciones tecnológicas o analíticas."
+    ],
+    "answer": "Estudiar los principios de Learning Analytics y las herramientas disponibles, identificar los datos relevantes (rendimiento pre/post-capacitación, uso de herramientas, resultados de proyectos), y diseñar un sistema para recopilar, analizar y visualizar estos datos, y utilizar los insights para ajustar los programas de capacitación y medir su impacto directo en el 'desempeño laboral' y el 'mejoramiento continuo' de la 'gestión de personas'."
+  },
+  {
+    "question": "Para fortalecer la 'ciberseguridad' y la 'protección de derechos fundamentales' en la Alcaldía de Puerto Boyacá, usted desea implementar un 'sistema de detección y respuesta a incidentes (SIEM)' avanzado que integre logs de todos los sistemas y detecte anomalías en tiempo real, incluso con amenazas complejas. Esto requiere un 'aprendizaje continuo' significativo en análisis de seguridad y 'resolución de problemas'.\n¿Cómo abordaría este complejo proyecto de seguridad?",
+    "options": [
+      "Instalar un SIEM genérico y esperar que detecte automáticamente todas las amenazas sin configuración o monitoreo especializado.",
+      "Limitar la recolección de logs a unos pocos sistemas, reduciendo la visibilidad sobre posibles ataques.",
+      "Estudiar los principios de SIEM, las fuentes de logs y los casos de uso para detección de amenazas, y seleccionar una plataforma de SIEM; y configurar reglas de correlación y detección de anomalías, entrenar al equipo en la interpretación de alertas y la respuesta a incidentes, y monitorear y refinar continuamente el sistema para adaptarse a nuevas amenazas.",
+      "Delegar la gestión del SIEM completamente a un proveedor externo sin involucrarse en el aprendizaje o la configuración interna."
+    ],
+    "answer": "Estudiar los principios de SIEM, las fuentes de logs y los casos de uso para detección de amenazas, y seleccionar una plataforma de SIEM; y configurar reglas de correlación y detección de anomalías, entrenar al equipo en la interpretación de alertas y la respuesta a incidentes, y monitorear y refinar continuamente el sistema para adaptarse a nuevas amenazas."
+  },
+  {
+    "question": "En el marco de la 'racionalización de trámites' y la 'agilización de flujos de documentos', se le ha pedido investigar cómo la 'Visión por Computadora (Computer Vision)' y la 'Inteligencia Artificial' pueden automatizar la verificación de documentos físicos (ej. identificaciones, formularios) en el proceso de atención ciudadana de la Alcaldía de Puerto Boyacá. Esto es un desafío de 'análisis de sistemas' con alta complejidad.\n¿Cómo abordaría la investigación y propuesta de esta solución innovadora?",
+    "options": [
+      "Declarar que la Visión por Computadora es una tecnología demasiado costosa y compleja para el municipio.",
+      "Reemplazar la verificación manual por una digitalización simple de documentos, sin inteligencia artificial.",
+      "Investigar algoritmos de Visión por Computadora para OCR (Reconocimiento Óptico de Caracteres), detección de objetos y verificación de identidad, obtener una muestra de documentos reales del municipio para entrenar modelos de IA, y desarrollar un prototipo que demuestre la capacidad de automatizar la verificación, validando la precisión con los usuarios del proceso y refinando el modelo iterativamente.",
+      "Contratar una empresa para que desarrolle la solución de Visión por Computadora, sin entender la tecnología subyacente."
+    ],
+    "answer": "Investigar algoritmos de Visión por Computadora para OCR (Reconocimiento Óptico de Caracteres), detección de objetos y verificación de identidad, obtener una muestra de documentos reales del municipio para entrenar modelos de IA, y desarrollar un prototipo que demuestre la capacidad de automatizar la verificación, validando la precisión con los usuarios del proceso y refinando el modelo iterativamente."
+  },
+  {
+    "question": "Para asegurar el 'mejoramiento continuo' y la 'innovación' en la 'prestación de servicios a través del medio tecnológico', la Alcaldía de Puerto Boyacá busca implementar 'chatbots inteligentes' que no solo respondan preguntas, sino que también detecten 'estados de ánimo' del ciudadano para ofrecer respuestas más empáticas y personalizadas. Esto requiere un 'aprendizaje continuo' en 'análisis de sentimientos' y 'procesamiento de lenguaje natural avanzado'.\n¿Qué estrategia de aprendizaje y acción implementaría para este proyecto innovador?",
+    "options": [
+      "Implementar un chatbot básico con respuestas predefinidas, sin capacidad de análisis de sentimientos.",
+      "Contratar una solución de IA conversacional que prometa análisis de sentimientos, sin verificar su efectividad o personalización.",
+      "Estudiar los algoritmos de análisis de sentimientos y las técnicas de procesamiento de lenguaje natural (NLP) avanzado, recopilar datos de interacciones ciudadanas pasadas para entrenar el modelo, y desarrollar un prototipo de chatbot que incorpore el análisis de sentimientos para adaptar sus respuestas, evaluando la percepción de los ciudadanos y refinando el modelo para 'mejorar la atención al usuario y al ciudadano'.",
+      "Argumentar que el análisis de sentimientos es una intrusión en la privacidad de los ciudadanos y que no debe implementarse."
+    ],
+    "answer": "Estudiar los algoritmos de análisis de sentimientos y las técnicas de procesamiento de lenguaje natural (NLP) avanzado, recopilar datos de interacciones ciudadanas pasadas para entrenar el modelo, y desarrollar un prototipo de chatbot que incorpore el análisis de sentimientos para adaptar sus respuestas, evaluando la percepción de los ciudadanos y refinando el modelo para 'mejorar la atención al usuario y al ciudadano'."
+  }
+]
+
+]

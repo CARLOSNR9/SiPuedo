@@ -1,0 +1,1817 @@
+[
+  {
+    "question": "¿Qué representa mejor la competencia de adaptación al cambio en el empleo público?",
+    "options": [
+      "Negarse a aceptar nuevas metodologías hasta que estén completamente probadas",
+      "Aceptar y aplicar nuevas políticas y tecnologías en beneficio del servicio",
+      "Evitar cambios para mantener la estabilidad del equipo",
+      "Adoptar cambios solo si benefician directamente al servidor público"
+    ],
+    "answer": "Aceptar y aplicar nuevas políticas y tecnologías en beneficio del servicio"
+  },
+  {
+    "question": "Si tu equipo se resiste a implementar una nueva plataforma digital, ¿qué deberías hacer?",
+    "options": [
+      "Exigir su uso inmediato sin justificaciones",
+      "Ignorar la resistencia y seguir trabajando",
+      "Capacitar al equipo, comunicar beneficios y liderar con el ejemplo",
+      "Esperar que la administración obligue su implementación"
+    ],
+    "answer": "Capacitar al equipo, comunicar beneficios y liderar con el ejemplo"
+  },
+  {
+    "question": "En una situación de emergencia tecnológica, ¿qué actitud es más adecuada?",
+    "options": [
+      "Esperar instrucciones superiores",
+      "Buscar soluciones rápidas, comunicar al equipo y aplicar protocolos",
+      "Cerrar los sistemas hasta nuevo aviso",
+      "Rechazar el cambio por falta de recursos"
+    ],
+    "answer": "Buscar soluciones rápidas, comunicar al equipo y aplicar protocolos"
+  },
+  {
+    "question": "Cuando enfrentas un cambio normativo en TIC, ¿cuál es tu reacción ideal?",
+    "options": [
+      "Ignorarlo si no hay consecuencias inmediatas",
+      "Leer la normativa y ajustar procesos de forma proactiva",
+      "Solicitar aplazamiento por dificultades",
+      "Esperar a que otro equipo lo implemente primero"
+    ],
+    "answer": "Leer la normativa y ajustar procesos de forma proactiva"
+  },
+  {
+    "question": "En una entrevista de la CNSC te preguntan sobre una experiencia de cambio. ¿Qué debes resaltar?",
+    "options": [
+      "Cómo evitaste que afectara tu rutina",
+      "Tu molestia inicial ante el cambio",
+      "Tu disposición a aprender y adaptarte de forma efectiva",
+      "Tu resistencia hasta que el cambio fuera obligatorio"
+    ],
+    "answer": "Tu disposición a aprender y adaptarte de forma efectiva"
+  },
+
+
+{
+    "question": "Te asignan un proyecto con una nueva metodología de trabajo que no conoces bien. ¿Cómo te adaptas al cambio?",
+    "options": [
+      "Investigo sobre la nueva metodología, participo en capacitaciones y colaboro con el equipo para aprender rápidamente",
+      "Intento trabajar con el enfoque anterior, ya que no me siento cómodo con el cambio",
+      "Dejo que otros se encarguen del proyecto",
+      "Evito involucrarme en el proyecto hasta estar completamente seguro de la nueva metodología"
+    ],
+    "answer": "Investigo sobre la nueva metodología, participo en capacitaciones y colaboro con el equipo para aprender rápidamente"
+  },
+  {
+    "question": "Un cambio en la política interna de la empresa afecta tu manera de trabajar. ¿Cómo lo manejas?",
+    "options": [
+      "Me resisto al cambio y trato de que las cosas sigan como antes",
+      "Ajusto mis hábitos de trabajo, aprendo las nuevas normas y me adapto al cambio",
+      "Trato de ignorar la política y seguir trabajando como antes",
+      "Me quejo con mis compañeros sobre el cambio"
+    ],
+    "answer": "Ajusto mis hábitos de trabajo, aprendo las nuevas normas y me adapto al cambio"
+  },
+  {
+    "question": "Un nuevo software será implementado en tu lugar de trabajo. ¿Cómo reaccionas?",
+    "options": [
+      "Me siento frustrado por el cambio y trato de evitar el uso del software",
+      "Investigo cómo funciona el software y me ofrezco para ayudar a otros compañeros a adaptarse",
+      "Me resisto al cambio y sigo utilizando los métodos tradicionales",
+      "No me importa el software, espero que se resuelva solo"
+    ],
+    "answer": "Investigo cómo funciona el software y me ofrezco para ayudar a otros compañeros a adaptarse"
+  },
+  {
+    "question": "Tu jefe implementa un cambio en la estructura del equipo y te asigna nuevas tareas. ¿Cómo respondes?",
+    "options": [
+      "Me siento incómodo y trato de evitar las nuevas responsabilidades",
+      "Acepto el cambio y busco aprender sobre las nuevas tareas para cumplir con las expectativas",
+      "Me quejo sobre el cambio y trato de seguir con las tareas previas",
+      "Ignoro las nuevas responsabilidades y trato de enfocarme solo en las viejas"
+    ],
+    "answer": "Acepto el cambio y busco aprender sobre las nuevas tareas para cumplir con las expectativas"
+  },
+  {
+    "question": "Cuando te enfrentan a un nuevo desafío laboral, ¿cómo lo abordas?",
+    "options": [
+      "Me siento abrumado y trato de evitar el desafío",
+      "Investigo sobre el tema, pido ayuda si es necesario y me adapto para lograr el éxito",
+      "Evito involucrarme en el desafío",
+      "Dejo que otros se encarguen del desafío"
+    ],
+    "answer": "Investigo sobre el tema, pido ayuda si es necesario y me adapto para lograr el éxito"
+  },
+  {
+    "question": "Se implementa un cambio en los horarios de trabajo en tu equipo. ¿Cómo manejas este cambio?",
+    "options": [
+      "Me resisto al cambio y trato de seguir con el horario anterior",
+      "Me ajusto al nuevo horario de trabajo, mantengo una actitud positiva y colaboro con el equipo",
+      "Trato de evitar el nuevo horario lo máximo posible",
+      "Me quejo con mis compañeros sobre el cambio en el horario"
+    ],
+    "answer": "Me ajusto al nuevo horario de trabajo, mantengo una actitud positiva y colaboro con el equipo"
+  },
+  {
+    "question": "Tu equipo debe adaptarse a una nueva herramienta de comunicación. ¿Cómo te aseguras de que el cambio sea exitoso?",
+    "options": [
+      "Me opongo al cambio y trato de seguir utilizando la herramienta antigua",
+      "Participo en las capacitaciones, aprendo a utilizar la nueva herramienta y ayudo a mis compañeros a adaptarse",
+      "Dejo que otros se encarguen de aprender la nueva herramienta",
+      "Evito aprender la nueva herramienta y sigo usando la antigua"
+    ],
+    "answer": "Participo en las capacitaciones, aprendo a utilizar la nueva herramienta y ayudo a mis compañeros a adaptarse"
+  },
+  {
+    "question": "En tu lugar de trabajo, se introduce una nueva política que cambia la forma en que se gestionan los proyectos. ¿Cómo te adaptas?",
+    "options": [
+      "Me resisto a la política y trato de mantener los métodos antiguos",
+      "Investigo sobre la nueva política, ajusto mi manera de trabajar y colaboro con el equipo",
+      "Evito implementar la nueva política y sigo trabajando de la misma forma",
+      "Me quejo de la nueva política sin hacer nada para adaptarme"
+    ],
+    "answer": "Investigo sobre la nueva política, ajusto mi manera de trabajar y colaboro con el equipo"
+  },
+  {
+    "question": "Tu empresa decide cambiar la forma en que se entregan los reportes de trabajo. ¿Cómo manejas este cambio?",
+    "options": [
+      "Me siento frustrado y trato de evitar el cambio",
+      "Me ajusto al nuevo sistema de entrega, aprendo cómo funciona y ayudo a mis compañeros",
+      "Sigo entregando los reportes de la forma antigua",
+      "Me quejo sobre el nuevo sistema sin tratar de adaptarme"
+    ],
+    "answer": "Me ajusto al nuevo sistema de entrega, aprendo cómo funciona y ayudo a mis compañeros"
+  },
+  {
+    "question": "Un nuevo líder se incorpora a tu equipo. ¿Cómo te adaptas a trabajar con él?",
+    "options": [
+      "Me resisto al nuevo liderazgo y trato de hacer todo a mi manera",
+      "Acepto la nueva estructura de liderazgo, trabajo de manera colaborativa y busco adaptarme rápidamente",
+      "Evito involucrarme en las decisiones del nuevo líder",
+      "Me quejo de los cambios en la estructura del equipo"
+    ],
+    "answer": "Acepto la nueva estructura de liderazgo, trabajo de manera colaborativa y busco adaptarme rápidamente"
+  },
+  {
+    "question": "La empresa introduce una nueva metodología de trabajo en equipo. ¿Cómo manejas este cambio?",
+    "options": [
+      "Me opongo al cambio y trato de seguir trabajando como antes",
+      "Aprendo la nueva metodología, participo activamente y colaboro con el equipo para implementar el cambio",
+      "Me siento incómodo y trato de adaptarme a regañadientes",
+      "Evito aprender la nueva metodología"
+    ],
+    "answer": "Aprendo la nueva metodología, participo activamente y colaboro con el equipo para implementar el cambio"
+  },
+  {
+    "question": "Se realiza una reorganización en la estructura de tu equipo de trabajo. ¿Cómo te ajustas?",
+    "options": [
+      "Me siento incómodo y me resisto al cambio",
+      "Acepto el cambio con una actitud positiva, aprendo sobre las nuevas funciones y coloco lo mejor de mí",
+      "Me quejo del cambio y trato de seguir haciendo lo mismo que antes",
+      "Me quedo al margen y dejo que otros gestionen el cambio"
+    ],
+    "answer": "Acepto el cambio con una actitud positiva, aprendo sobre las nuevas funciones y coloco lo mejor de mí"
+  },
+  {
+    "question": "Te asignan un nuevo proyecto que requiere aprender habilidades que no tienes. ¿Cómo lo enfrentas?",
+    "options": [
+      "Evito asumir el proyecto y trato de delegar tareas",
+      "Acepto el reto, aprendo las habilidades necesarias y trabajo duro para completar el proyecto",
+      "Sigo trabajando con las habilidades que ya tengo y trato de ignorar las nuevas responsabilidades",
+      "Dejo el proyecto para otro momento cuando tenga más experiencia"
+    ],
+    "answer": "Acepto el reto, aprendo las habilidades necesarias y trabajo duro para completar el proyecto"
+  },
+  {
+    "question": "Tu empresa introduce cambios en la forma en que se gestionan los recursos. ¿Cómo te adaptas a esta nueva forma de trabajo?",
+    "options": [
+      "Me resisto al cambio y trato de seguir utilizando los métodos anteriores",
+      "Me adapto al nuevo sistema, aprendo cómo funciona y ajusto mi trabajo en consecuencia",
+      "Sigo trabajando como siempre y no trato de adaptarme",
+      "Me quejo sobre los cambios y trato de evitar el nuevo sistema"
+    ],
+    "answer": "Me adapto al nuevo sistema, aprendo cómo funciona y ajusto mi trabajo en consecuencia"
+  },
+  {
+    "question": "Cuando enfrentas un cambio importante en el trabajo, ¿qué haces para asegurarte de que el cambio sea exitoso?",
+    "options": [
+      "Me resisto al cambio y trato de mantener todo igual",
+      "Trabajo con el equipo para implementar el cambio y apoyo el aprendizaje de nuevas herramientas",
+      "Dejo que el cambio ocurra sin involucrarme activamente",
+      "Evito participar en el cambio para evitar la incertidumbre"
+    ],
+    "answer": "Trabajo con el equipo para implementar el cambio y apoyo el aprendizaje de nuevas herramientas"
+  },
+  {
+    "question": "Cuando tu equipo tiene dificultades para adaptarse a un nuevo cambio, ¿cómo actúas?",
+    "options": [
+      "Me siento frustrado y no trato de ayudar",
+      "Identifico las dificultades, ofrezco soluciones y apoyo a mis compañeros para adaptarse al cambio",
+      "Ignoro las dificultades y sigo con mi trabajo",
+      "Me quejo del cambio sin tratar de contribuir con una solución"
+    ],
+    "answer": "Identifico las dificultades, ofrezco soluciones y apoyo a mis compañeros para adaptarse al cambio"
+  },
+  {
+    "question": "Cuando te enfrentas a un cambio en tu área de trabajo, ¿qué haces para mantener tu rendimiento?",
+    "options": [
+      "Me resisto al cambio y trato de mantener el rendimiento como antes",
+      "Me adapto a las nuevas condiciones, aprendo lo necesario y ajusto mi enfoque para seguir siendo productivo",
+      "Dejo que el cambio afecte mi rendimiento sin hacer nada al respecto",
+      "Ignoro el cambio y trato de seguir con mi trabajo como siempre"
+    ],
+    "answer": "Me adapto a las nuevas condiciones, aprendo lo necesario y ajusto mi enfoque para seguir siendo productivo"
+  },
+  {
+    "question": "Te asignan un nuevo equipo de trabajo con miembros de diferentes disciplinas. ¿Cómo te adaptas?",
+    "options": [
+      "Trato de hacer todo por mi cuenta y evito colaborar",
+      "Trabajo en equipo, aprovechando las fortalezas de cada miembro y aprendiendo de los demás",
+      "Me concentro solo en mi área y no colaboro con los demás",
+      "Me siento incómodo con el equipo y trato de evitar trabajar juntos"
+    ],
+    "answer": "Trabajo en equipo, aprovechando las fortalezas de cada miembro y aprendiendo de los demás"
+  },
+
+
+  {
+    "question": "Cuando se implementa una nueva herramienta de trabajo, ¿cómo manejas la curva de aprendizaje y te adaptas a la nueva tecnología?",
+    "options": [
+      "Aprendiendo solo cuando tengo una necesidad inmediata de usarla",
+      "Buscando capacitación, preguntando a compañeros y practicando la herramienta",
+      "Esperando que otros me enseñen a usarla",
+      "Usando las herramientas antiguas hasta que se me pida usar la nueva"
+    ],
+    "answer": "Buscando capacitación, preguntando a compañeros y practicando la herramienta"
+  },
+  {
+    "question": "Tu jefe te asigna un nuevo proyecto con un enfoque diferente al que habías trabajado anteriormente. ¿Cómo reaccionas?",
+    "options": [
+      "Me siento incómodo y renuente al cambio",
+      "Investigo el nuevo enfoque, hago preguntas y aplico lo aprendido",
+      "Me quejo de que las cosas no deberían cambiar",
+      "Trato de evitar involucrarme mucho en el nuevo enfoque"
+    ],
+    "answer": "Investigo el nuevo enfoque, hago preguntas y aplico lo aprendido"
+  },
+  {
+    "question": "¿Cómo reaccionas cuando tu equipo enfrenta cambios en las políticas internas que afectan la forma en que se realizan las tareas diarias?",
+    "options": [
+      "Desaprobo el cambio y trato de evitarlo",
+      "Ayudo a mi equipo a comprender el cambio y lo implemento con una actitud positiva",
+      "Me opongo al cambio y trato de hacer que las cosas sigan igual",
+      "Me siento frustrado y dejo que otros gestionen el cambio"
+    ],
+    "answer": "Ayudo a mi equipo a comprender el cambio y lo implemento con una actitud positiva"
+  },
+  {
+    "question": "Cuando se te asignan nuevas responsabilidades que no están en tu descripción de trabajo habitual, ¿qué haces?",
+    "options": [
+      "Me resisto al cambio y trato de delegar las nuevas tareas",
+      "Acepto el desafío, aprendo lo necesario y colaboro con mis compañeros",
+      "Evito asumir las nuevas responsabilidades",
+      "Me siento incómodo y trato de hacer lo mínimo requerido"
+    ],
+    "answer": "Acepto el desafío, aprendo lo necesario y colaboro con mis compañeros"
+  },
+  {
+    "question": "Tu empresa implementa una nueva política para trabajar a distancia. ¿Cómo manejas esta transición?",
+    "options": [
+      "Me siento incómodo, pero trato de adaptarme rápidamente buscando soluciones prácticas",
+      "Me opongo al cambio y trato de seguir trabajando de la manera tradicional",
+      "No me interesa, ya que prefiero trabajar de la manera en que lo hacía antes",
+      "Decido no involucrarme y seguir con mi forma de trabajo anterior"
+    ],
+    "answer": "Me siento incómodo, pero trato de adaptarme rápidamente buscando soluciones prácticas"
+  },
+  {
+    "question": "En tu equipo hay resistencia a un cambio organizacional importante. ¿Cómo actúas?",
+    "options": [
+      "Refuerzo las dudas de mis compañeros y me resisto al cambio también",
+      "Ayudo a mis compañeros a entender los beneficios del cambio y los animo a participar",
+      "Evito hablar del tema y espero que el cambio pase sin causar mucho revuelo",
+      "Dejo que otros gestionen el cambio mientras sigo trabajando como siempre"
+    ],
+    "answer": "Ayudo a mis compañeros a entender los beneficios del cambio y los animo a participar"
+  },
+  {
+    "question": "Si te dan una tarea con un plazo muy corto y desconoces algunos aspectos del proyecto, ¿qué haces?",
+    "options": [
+      "Ignoro los aspectos desconocidos y trato de completar lo que sé",
+      "Solicito ayuda para comprender las partes que no conozco y aprendo lo que me falta",
+      "Me siento abrumado y trato de evitar la tarea",
+      "Hago lo mínimo necesario para cumplir con el plazo"
+    ],
+    "answer": "Solicito ayuda para comprender las partes que no conozco y aprendo lo que me falta"
+  },
+  {
+    "question": "¿Cómo enfrentas la presión de un cambio inesperado en las condiciones de trabajo?",
+    "options": [
+      "Me pongo nervioso y no sé cómo adaptarme",
+      "Me concentro en encontrar soluciones, ajusto mis métodos y mantengo una actitud positiva",
+      "Me desconcierta y trato de adaptarme lo más tarde posible",
+      "Rechazo el cambio y trato de mantener las condiciones previas"
+    ],
+    "answer": "Me concentro en encontrar soluciones, ajusto mis métodos y mantengo una actitud positiva"
+  },
+  {
+    "question": "Cuando se presentan nuevos procedimientos en el trabajo, ¿cómo te aseguras de adaptarte de manera efectiva?",
+    "options": [
+      "Sigo con mis métodos anteriores hasta que me obliguen a cambiar",
+      "Me aseguro de entender completamente el nuevo procedimiento y lo aplico con dedicación",
+      "Evito seguir el procedimiento hasta que lo implemente toda la organización",
+      "Trato de ignorarlo y seguir trabajando con los métodos previos"
+    ],
+    "answer": "Me aseguro de entender completamente el nuevo procedimiento y lo aplico con dedicación"
+  },
+  {
+    "question": "Te asignan un equipo de trabajo con personas que no conoces. ¿Cómo gestionas la adaptación al nuevo entorno?",
+    "options": [
+      "Me cuesta adaptarme, pero trato de mantenerme al margen y no involucrarme mucho",
+      "Busco aprender sobre mis compañeros, adaptar mi estilo de trabajo y colaborar activamente",
+      "Prefiero no involucrarme y dejo que otros lideren el equipo",
+      "Rechazo el cambio y prefiero trabajar solo"
+    ],
+    "answer": "Busco aprender sobre mis compañeros, adaptar mi estilo de trabajo y colaborar activamente"
+  },
+  {
+    "question": "Cuando un proyecto se enfrenta a obstáculos imprevistos, ¿cómo manejas la situación?",
+    "options": [
+      "Me frustro y dejo que el proyecto se detenga",
+      "Busco soluciones alternativas, ajusto el enfoque y sigo adelante con el proyecto",
+      "Dejo que otros se encarguen de resolver los problemas",
+      "Ignoro los obstáculos y continúo con el plan original"
+    ],
+    "answer": "Busco soluciones alternativas, ajusto el enfoque y sigo adelante con el proyecto"
+  },
+  {
+    "question": "Si se presentan cambios en las normativas laborales, ¿cómo te preparas para adaptarte?",
+    "options": [
+      "Ignoro los cambios, ya que no los veo importantes",
+      "Investigo sobre los cambios, me capacito y ajusto mi forma de trabajar",
+      "Me quejo sobre los cambios y trato de no acatarlos",
+      "Trato de adaptarme a los cambios a medida que se me vayan presentando"
+    ],
+    "answer": "Investigo sobre los cambios, me capacito y ajusto mi forma de trabajar"
+  },
+  {
+    "question": "Tu jefe solicita una reestructuración del equipo de trabajo, ¿cómo actúas ante esta situación?",
+    "options": [
+      "Resisto el cambio y trato de evitar adaptarme a los nuevos roles",
+      "Acepto el cambio con una actitud positiva, busco aportar al nuevo equipo y aprender lo necesario",
+      "Me siento incómodo, pero trato de adaptarme a las nuevas funciones poco a poco",
+      "Dejo que los demás manejen el cambio y no participo activamente"
+    ],
+    "answer": "Acepto el cambio con una actitud positiva, busco aportar al nuevo equipo y aprender lo necesario"
+  },
+  {
+    "question": "En un ambiente de trabajo que cambia constantemente, ¿cómo mantienes tu productividad?",
+    "options": [
+      "Me adapto al cambio y busco ser flexible para mantener mi rendimiento",
+      "Me resulta difícil adaptarme y mi productividad disminuye",
+      "Trato de evitar los cambios para mantener la estabilidad en mi trabajo",
+      "Mi productividad depende de las circunstancias y cambios que me afectan directamente"
+    ],
+    "answer": "Me adapto al cambio y busco ser flexible para mantener mi rendimiento"
+  },
+  {
+    "question": "Si un proyecto se retrasa debido a cambios inesperados en el equipo, ¿cómo te adaptas?",
+    "options": [
+      "Me frustro y dejo que el retraso sea manejado por otros",
+      "Me reorganizo y trabajo en colaboración con el equipo para recuperar el tiempo perdido",
+      "Sigo trabajando como si nada hubiera cambiado",
+      "Culpo a otros miembros del equipo por el retraso"
+    ],
+    "answer": "Me reorganizo y trabajo en colaboración con el equipo para recuperar el tiempo perdido"
+  },
+  {
+    "question": "Cuando un cambio en la empresa afecta tu área de trabajo, ¿cómo reaccionas?",
+    "options": [
+      "Me siento desmotivado y no trato de adaptarme",
+      "Me ajusto a las nuevas condiciones y busco aprender las nuevas herramientas o procedimientos",
+      "Me resisto al cambio y trato de mantener mis métodos anteriores",
+      "Me quejo con mis compañeros y trato de evitar el cambio"
+    ],
+    "answer": "Me ajusto a las nuevas condiciones y busco aprender las nuevas herramientas o procedimientos"
+  },
+  {
+    "question": "Al enfrentarte a una nueva responsabilidad que no estaba en tu descripción de trabajo, ¿cómo reaccionas?",
+    "options": [
+      "Me siento incómodo, pero trato de asumir la responsabilidad aprendiendo lo necesario",
+      "Me resisto a asumir nuevas responsabilidades",
+      "Dejo que otros manejen la nueva responsabilidad",
+      "Me quejo por la carga adicional de trabajo"
+    ],
+    "answer": "Me siento incómodo, pero trato de asumir la responsabilidad aprendiendo lo necesario"
+  },
+  {
+    "question": "Cuando tu jefe te asigna una tarea fuera de tu área de especialización, ¿cómo la manejas?",
+    "options": [
+      "Trato de delegar la tarea a alguien más con experiencia",
+      "Me siento desafiante y busco maneras de cumplirla con éxito aprendiendo rápidamente",
+      "Evito aceptar la tarea y trato de que otros la tomen",
+      "Dejo la tarea para que se resuelva sola"
+    ],
+    "answer": "Me siento desafiante y busco maneras de cumplirla con éxito aprendiendo rápidamente"
+  },
+  {
+    "question": "Cuando se implementan nuevos cambios organizacionales, ¿cómo te aseguras de mantenerte al día?",
+    "options": [
+      "Ignoro los cambios, ya que no me afectan directamente",
+      "Investigo sobre los cambios y participo en las sesiones de capacitación ofrecidas",
+      "Sigo trabajando como antes, ignorando los nuevos procedimientos",
+      "Trato de hacer las cosas a mi manera sin seguir las nuevas políticas"
+    ],
+    "answer": "Investigo sobre los cambios y participo en las sesiones de capacitación ofrecidas"
+  },
+
+
+  {
+    "question": "Su municipio implementa un nuevo software de gestión documental, pero el equipo se resiste por temor a errores. ¿Qué haría primero?",
+    "options": [
+      "Obligar al equipo a usarlo sin discusión, pues es una orden superior.",
+      "Organizar una capacitación práctica mostrando beneficios y asignar un grupo piloto para pruebas.",
+      "Postergar la implementación hasta que todos estén convencidos.",
+      "Reportar el problema al Alcalde para que él decida."
+    ],
+    "answer": "Organizar una capacitación práctica mostrando beneficios y asignar un grupo piloto para pruebas."
+  },
+  {
+    "question": "Debe migrar datos críticos a la nube en tiempo récord, pero hay preocupación por seguridad. ¿Cuál sería su primer paso?",
+    "options": [
+      "Migrar todo inmediatamente para cumplir el plazo.",
+      "Realizar un diagnóstico de vulnerabilidades y presentar un plan escalonado al Consejo Municipal.",
+      "Delegar la decisión en un consultor externo sin intervenir.",
+      "Ignorar los riesgos y confiar en el proveedor."
+    ],
+    "answer": "Realizar un diagnóstico de vulnerabilidades y presentar un plan escalonado al Consejo Municipal."
+  },
+  {
+    "question": "El Alcalde ordena adoptar una política de gobierno digital, pero los sistemas actuales no son compatibles. ¿Cómo procedería?",
+    "options": [
+      "Informar que es imposible y sugerir mantener los sistemas antiguos.",
+      "Proponer un plan de transición con etapas: capacitación, actualización técnica y pilotos.",
+      "Comprar nuevos equipos sin analizar costos.",
+      "Esperar a que otra área resuelva el problema."
+    ],
+    "answer": "Proponer un plan de transición con etapas: capacitación, actualización técnica y pilotos."
+  },
+  {
+    "question": "Durante una actualización de software, falla el sistema de pagos municipales. ¿Qué acción priorizaría?",
+    "options": [
+      "Culpar al proveedor y esperar su solución.",
+      "Activar el protocolo de contingencia (ej. sistema manual temporal) y comunicar a los usuarios.",
+      "Suspender todos los servicios hasta resolver el problema.",
+      "Ignorar el fallo y continuar con la actualización."
+    ],
+    "answer": "Activar el protocolo de contingencia (ej. sistema manual temporal) y comunicar a los usuarios."
+  },
+  {
+    "question": "Se anuncia una reforma que exige digitalizar todos los trámites en 3 meses. Su equipo está abrumado. ¿Cómo reaccionaría?",
+    "options": [
+      "Solicitar una prórroga sin presentar alternativas.",
+      "Priorizar trámites críticos, redistribuir tareas y solicitar refuerzos temporales.",
+      "Trabajar horas extras sin compensación para cumplir.",
+      "Ignorar el plazo y avanzar a ritmo normal."
+    ],
+    "answer": "Priorizar trámites críticos, redistribuir tareas y solicitar refuerzos temporales."
+  },
+  {
+    "question": "Un nuevo jefe insiste en usar métodos anticuados para reportes. ¿Cómo manejaría esta situación?",
+    "options": [
+      "Aceptar sin cuestionar para evitar conflictos.",
+      "Mostrar datos comparativos de eficiencia con herramientas modernas y proponer un híbrido.",
+      "Sabotear los métodos antiguos para forzar el cambio.",
+      "Quejarse con otros colegas sin actuar."
+    ],
+    "answer": "Mostrar datos comparativos de eficiencia con herramientas modernas y proponer un híbrido."
+  },
+  {
+    "question": "El presupuesto para TI se reduce un 30%. ¿Cómo ajustaría sus proyectos?",
+    "options": [
+      "Cancelar todos los proyectos hasta tener más recursos.",
+      "Reevaluar prioridades: mantener seguridad básica y posponer innovaciones.",
+      "Solicitar préstamos externos sin autorización.",
+      "Ignorar la reducción y gastar como antes."
+    ],
+    "answer": "Reevaluar prioridades: mantener seguridad básica y posponer innovaciones."
+  },
+  {
+    "question": "Un error en la página web municipal genera quejas ciudadanas. ¿Qué haría?",
+    "options": [
+      "Ocultar el error hasta resolverlo.",
+      "Publicar un comunicado temporal, corregir el error y agradecer los reportes.",
+      "Culpar al equipo de comunicaciones.",
+      "Desactivar la página indefinidamente."
+    ],
+    "answer": "Publicar un comunicado temporal, corregir el error y agradecer los reportes."
+  },
+  {
+    "question": "Debe aprender a usar una nueva herramienta de análisis de datos en una semana. ¿Cómo lo abordaría?",
+    "options": [
+      "Decir que no tiene tiempo y rechazar la tarea.",
+      "Tomar tutoriales en línea, practicar con datos de prueba y pedir ayuda a colegas.",
+      "Copiar el trabajo de otro compañero.",
+      "Usar la herramienta antigua sin informar."
+    ],
+    "answer": "Tomar tutoriales en línea, practicar con datos de prueba y pedir ayuda a colegas."
+  },
+  {
+    "question": "Un proveedor incumple la entrega de servidores críticos. ¿Cuál sería su acción inmediata?",
+    "options": [
+      "Demandar al proveedor sin buscar alternativas.",
+      "Buscar proveedores alternativos y activar servidores temporales.",
+      "Detener todos los servicios hasta resolverlo.",
+      "Reportar el problema sin proponer soluciones."
+    ],
+    "answer": "Buscar proveedores alternativos y activar servidores temporales."
+  },
+
+   {
+    "question": "El Alcalde ordena implementar firma digital en todos los trámites municipales en 1 mes, pero el 60% del personal no tiene capacitación. ¿Qué haría?",
+    "options": [
+      "Implementar solo en áreas con personal capacitado y postergar el resto.",
+      "Capacitar a líderes por área, crear guías rápidas y habilitar soporte prioritario.",
+      "Solicitar 6 meses más de plazo sin presentar un plan.",
+      "Comprar software costoso sin verificar compatibilidad."
+    ],
+    "answer": "Capacitar a líderes por área, crear guías rápidas y habilitar soporte prioritario.",
+    "theme": "Adaptación al Cambio"
+  },
+  {
+    "question": "Descubre que un colega usa métodos no autorizados para evitar fallas en un sistema crítico. ¿Cómo actuaría?",
+    "options": [
+      "Reportarlo inmediatamente a Recursos Humanos sin hablar con él.",
+      "Documentar los riesgos, ofrecerle alternativas técnicas y escalar si persiste.",
+      "Ignorarlo porque 'funciona'.",
+      "Copiar su método para evitar problemas."
+    ],
+    "answer": "Documentar los riesgos, ofrecerle alternativas técnicas y escalar si persiste.",
+    "theme": "Ética Pública"
+  },
+  {
+    "question": "Un ciudadano exige acceso inmediato a datos que requieren validación legal. ¿Qué haría?",
+    "options": [
+      "Entregar los datos para evitar quejas.",
+      "Explicar el procedimiento formal y ofrecer acompañamiento.",
+      "Derivarlo a otra área sin seguimiento.",
+      "Negarse sin explicación."
+    ],
+    "answer": "Explicar el procedimiento formal y ofrecer acompañamiento.",
+    "theme": "Orientación al Usuario"
+  },
+  {
+    "question": "El Consejo Municipal pide un informe técnico en 24 horas para decidir sobre una emergencia. ¿Cómo lo gestionaría?",
+    "options": [
+      "Entregar datos preliminares con advertencias claras sobre limitaciones.",
+      "Copiar un informe antiguo y cambiar fechas.",
+      "Decir que es imposible y no entregar nada.",
+      "Sobrecargar al equipo sin priorizar."
+    ],
+    "answer": "Entregar datos preliminares con advertencias claras sobre limitaciones.",
+    "theme": "Gestión bajo Presión"
+  },
+  {
+    "question": "Una normativa nueva exige cifrar todos los datos sensibles, pero el sistema actual no lo permite. ¿Cuál sería su primer paso?",
+    "options": [
+      "Solicitar una excepción por costos.",
+      "Presentar un plan de migración técnica con plazos realistas al Secretario General.",
+      "Ignorar la normativa hasta tener presupuesto.",
+      "Cifrar manualmente solo los datos nuevos."
+    ],
+    "answer": "Presentar un plan de migración técnica con plazos realistas al Secretario General.",
+    "theme": "Cumplimiento Normativo"
+  },
+  {
+    "question": "Durante una auditoría, descubren que su área no cumple con un protocolo de seguridad. ¿Cómo reaccionaría?",
+    "options": [
+      "Ocultar evidencias para evitar sanciones.",
+      "Reconocer el error, presentar un plan correctivo y capacitar al equipo.",
+      "Culpar al proveedor del software.",
+      "Minimizar el problema diciendo que 'no pasa nada'."
+    ],
+    "answer": "Reconocer el error, presentar un plan correctivo y capacitar al equipo.",
+    "theme": "Transparencia"
+  },
+  {
+    "question": "Su equipo discute por diferencias en un proyecto de TI. ¿Cómo mediaría?",
+    "options": [
+      "Imponer su criterio como líder.",
+      "Organizar una sesión para escuchar argumentos y buscar consensos técnicos.",
+      "Dejar que se resuelvan solos.",
+      "Reportar el conflicto a RR.HH. sin intervenir."
+    ],
+    "answer": "Organizar una sesión para escuchar argumentos y buscar consensos técnicos.",
+    "theme": "Trabajo en Equipo"
+  },
+  {
+    "question": "El sistema de citas médicas colapsa por alta demanda. ¿Qué solución priorizaría?",
+    "options": [
+      "Limitar el acceso a 10 citas diarias.",
+      "Habilitar un formulario alternativo en la web y comunicar el plan de contingencia.",
+      "Pedir a los ciudadanos que vuelvan otro día.",
+      "Apagar el sistema hasta repararlo."
+    ],
+    "answer": "Habilitar un formulario alternativo en la web y comunicar el plan de contingencia.",
+    "theme": "Orientación al Ciudadano"
+  },
+  {
+    "question": "Deben reducir costos de TI. ¿Qué recortaría primero?",
+    "options": [
+      "Mantenimiento preventivo de servidores.",
+      "Software redundante (ej. licencias duplicadas).",
+      "Capacitaciones obligatorias.",
+      "Seguridad informática."
+    ],
+    "answer": "Software redundante (ej. licencias duplicadas).",
+    "theme": "Gestión de Recursos"
+  },
+  {
+    "question": "Un funcionario insiste en usar contraseñas débiles. ¿Cómo lo convencería de cambiar?",
+    "options": [
+      "Mostrarle casos reales de hackeos en entidades públicas.",
+      "Obligarlo con una sanción.",
+      "Crearle una contraseña sin su consentimiento.",
+      "Ignorarlo porque es 'su problema'."
+    ],
+    "answer": "Mostrarle casos reales de hackeos en entidades públicas.",
+    "theme": "Seguridad de la Información"
+  },
+
+   {
+    "question": "Una ley nueva obliga a publicar datos abiertos municipales, pero su equipo no tiene experiencia. ¿Cómo lo resolvería?",
+    "options": [
+      "Contratar un consultor externo sin capacitar al equipo interno.",
+      "Capacitar al equipo con talleres de la Alcaldía Mayor y usar herramientas gratuitas como CKAN.",
+      "Publicar datos sin verificar calidad para cumplir el plazo.",
+      "Solicitar una prórroga indefinida."
+    ],
+    "answer": "Capacitar al equipo con talleres de la Alcaldía Mayor y usar herramientas gratuitas como CKAN.",
+    "theme": "Adaptación a Normativas"
+  },
+  {
+    "question": "El servidor principal falla en horario de atención al público. ¿Qué acción tomaría?",
+    "options": [
+      "Activar el servidor de respaldo y notificar a los ciudadanos vía redes sociales.",
+      "Cerrar la oficina hasta resolver el problema.",
+      "Pedir a los ciudadanos que regresen en una semana.",
+      "Intentar repararlo sin notificar a nadie."
+    ],
+    "answer": "Activar el servidor de respaldo y notificar a los ciudadanos vía redes sociales.",
+    "theme": "Gestión de Crisis"
+  },
+  {
+    "question": "Un proveedor ofrece soborno para ganar una licitación de TI. ¿Cómo actuaría?",
+    "options": [
+      "Aceptar el soborno y favorecerlo en el proceso.",
+      "Reportar al Comité de Contratación y documentar la evidencia.",
+      "Ignorar la propuesta pero no denunciarla.",
+      "Pedir más dinero a cambio del favor."
+    ],
+    "answer": "Reportar al Comité de Contratación y documentar la evidencia.",
+    "theme": "Ética Pública"
+  },
+  {
+    "question": "Debe reducir el tiempo de trámites en línea, pero el sistema es lento. ¿Qué solución priorizaría?",
+    "options": [
+      "Optimizar la base de datos y eliminar pasos redundantes.",
+      "Pedir a los ciudadanos que usen horarios nocturnos.",
+      "Ocultar los trámites más lentos de la web.",
+      "Comprar hardware nuevo sin diagnóstico."
+    ],
+    "answer": "Optimizar la base de datos y eliminar pasos redundantes.",
+    "theme": "Eficiencia Administrativa"
+  },
+  {
+    "question": "Un funcionario usa su correo personal para documentos oficiales. ¿Cómo lo corregiría?",
+    "options": [
+      "Sancionarlo sin explicación.",
+      "Recordarle la política de seguridad y ofrecerle capacitación.",
+      "Ignorarlo porque es 'más práctico'.",
+      "Hacer lo mismo para 'equilibrar'."
+    ],
+    "answer": "Recordarle la política de seguridad y ofrecerle capacitación.",
+    "theme": "Cumplimiento de Protocolos"
+  },
+  {
+    "question": "El Alcalde pide un informe técnico con datos inexactos para justificar una compra. ¿Qué haría?",
+    "options": [
+      "Presentar los datos falsos para evitar problemas.",
+      "Entregar el informe real con un análisis de riesgos.",
+      "Negarse a hacer el informe sin explicación.",
+      "Delegar la responsabilidad en un colega."
+    ],
+    "answer": "Entregar el informe real con un análisis de riesgos.",
+    "theme": "Integridad"
+  },
+  {
+    "question": "Una tormenta daña los equipos de telecomunicaciones. ¿Cuál sería su primer paso?",
+    "options": [
+      "Evaluar daños, activar planes de contingencia y notificar a la Secretaría de Gobierno.",
+      "Esperar a que el seguro resuelva todo.",
+      "Comprar equipos nuevos sin autorización.",
+      "Usar equipos personales para repararlos."
+    ],
+    "answer": "Evaluar daños, activar planes de contingencia y notificar a la Secretaría de Gobierno.",
+    "theme": "Gestión de Riesgos"
+  },
+  {
+    "question": "Un ciudadano denuncia que su datos personales fueron filtrados. ¿Cómo procedería?",
+    "options": [
+      "Investigar el incidente, notificar a la autoridad de protección de datos y reparar el error.",
+      "Negar la filtración para evitar escándalos.",
+      "Ofrecer disculpas sin tomar acciones.",
+      "Culpar al ciudadano por 'mal uso' del sistema."
+    ],
+    "answer": "Investigar el incidente, notificar a la autoridad de protección de datos y reparar el error.",
+    "theme": "Protección de Datos"
+  },
+  {
+    "question": "Su jefe le pide saltarse un protocolo de seguridad para agilizar un trámite. ¿Qué haría?",
+    "options": [
+      "Explicar los riesgos y proponer una solución segura pero ágil.",
+      "Obedecer sin cuestionar.",
+      "Hacerlo pero documentar que fue una orden.",
+      "Renunciar al puesto."
+    ],
+    "answer": "Explicar los riesgos y proponer una solución segura pero ágil.",
+    "theme": "Seguridad vs. Agilidad"
+  },
+  {
+    "question": "Descubre que un sistema municipal tiene vulnerabilidades críticas. ¿A quién reportaría primero?",
+    "options": [
+      "Al Comité de Seguridad Informática y al Secretario General.",
+      "Solo a su jefe directo.",
+      "A un hacker ético externo.",
+      "A la prensa para generar presión."
+    ],
+    "answer": "Al Comité de Seguridad Informática y al Secretario General.",
+    "theme": "Canal de Reportes"
+  },
+  {
+    "question": "El presupuesto para ciberseguridad se recorta. ¿Qué medida tomaría?",
+    "options": [
+      "Priorizar parches de seguridad críticos y buscar alianzas con otras entidades.",
+      "Desactivar todos los sistemas 'para protegerlos'.",
+      "Ignorar el recorte y gastar igual.",
+      "Pedir donaciones a empresas privadas."
+    ],
+    "answer": "Priorizar parches de seguridad críticos y buscar alianzas con otras entidades.",
+    "theme": "Gestión de Recursos Limitados"
+  },
+  {
+    "question": "Un colega borra accidentalmente datos importantes. ¿Cómo reaccionaría?",
+    "options": [
+      "Recuperar los datos desde el backup y revisar protocolos para evitar repetición.",
+      "Gritarle frente al equipo.",
+      "Ocultar el error al jefe.",
+      "Culpar al practicante."
+    ],
+    "answer": "Recuperar los datos desde el backup y revisar protocolos para evitar repetición.",
+    "theme": "Manejo de Errores"
+  },
+  {
+    "question": "Deben actualizar 50 computadoras a un nuevo sistema operativo. ¿Cómo lo planificaría?",
+    "options": [
+      "Actualizar en fases, testeando compatibilidad con software crítico.",
+      "Hacerlo todo en un fin de semana sin aviso.",
+      "Dejarlas como están hasta que fallen.",
+      "Contratar a un familiar para que lo haga."
+    ],
+    "answer": "Actualizar en fases, testeando compatibilidad con software crítico.",
+    "theme": "Gestión de Proyectos"
+  },
+  {
+    "question": "Un ciudadano exige acceso a información clasificada como reservada. ¿Qué haría?",
+    "options": [
+      "Explicarle la normativa y ofrecerle canales legales para solicitarla.",
+      "Entregársela para evitar una queja.",
+      "Amenazarlo con acciones legales.",
+      "Simular que no está disponible."
+    ],
+    "answer": "Explicarle la normativa y ofrecerle canales legales para solicitarla.",
+    "theme": "Transparencia y Reserva"
+  },
+  {
+    "question": "El sistema de facturación electrónica falla en pleno cierre fiscal. ¿Cómo respondería?",
+    "options": [
+      "Habilitar un proceso manual temporal y notificar a la DIAN.",
+      "Pedir a los contribuyentes que esperen una semana.",
+      "Modificar fechas en los registros.",
+      "Culpar al área de contabilidad."
+    ],
+    "answer": "Habilitar un proceso manual temporal y notificar a la DIAN.",
+    "theme": "Continuidad Operativa"
+  },
+  {
+    "question": "Una ordenanza exige eliminar papel en 6 meses, pero hay resistencia cultural. ¿Cómo implementaría el cambio?",
+    "options": [
+      "Lanzar una campaña de sensibilización con incentivos y soporte técnico permanente.",
+      "Multar a quienes usen papel.",
+      "Fingir cumplimiento con reportes falsos.",
+      "Extender el plazo sin comunicarlo."
+    ],
+    "answer": "Lanzar una campaña de sensibilización con incentivos y soporte técnico permanente.",
+    "theme": "Cambio Organizacional"
+  },
+  {
+    "question": "Un software municipal es incompatible con dispositivos móviles. ¿Qué solución propondría?",
+    "options": [
+      "Desarrollar una API temporal para móviles mientras se migra a un sistema nuevo.",
+      "Obligar a los ciudadanos a usar computadoras.",
+      "Comprar tablets para toda la alcaldía.",
+      "Decir que 'no es prioridad'."
+    ],
+    "answer": "Desarrollar una API temporal para móviles mientras se migra a un sistema nuevo.",
+    "theme": "Innovación"
+  },
+  {
+    "question": "Un hacker amenaza con exponer datos si no se paga un rescate. ¿Cuál sería su primer paso?",
+    "options": [
+      "Aislar los sistemas afectados y notificar a la Policía Nacional.",
+      "Pagar el rescate para evitar daños.",
+      "Ignorar la amenaza.",
+      "Borrar todos los datos 'por seguridad'."
+    ],
+    "answer": "Aislar los sistemas afectados y notificar a la Policía Nacional.",
+    "theme": "Ciberseguridad"
+  },
+  {
+    "question": "Debe capacitar a 100 funcionarios en gobierno digital, pero solo hay presupuesto para 20. ¿Cómo lo resolvería?",
+    "options": [
+      "Capacitar a formadores internos y usar plataformas virtuales gratuitas.",
+      "Excluir a áreas 'no prioritarias'.",
+      "Pedir a los funcionarios que se capaciten por su cuenta.",
+      "Usar el presupuesto de otro proyecto sin avisar."
+    ],
+    "answer": "Capacitar a formadores internos y usar plataformas virtuales gratuitas.",
+    "theme": "Optimización de Recursos"
+  },
+  {
+    "question": "Un trámite en línea tiene 80% de abandonos por complejidad. ¿Cómo lo mejoraría?",
+    "options": [
+      "Rediseñar la interfaz con testeos ciudadanos y simplificar pasos.",
+      "Obligar al personal a llenar los formularios por los usuarios.",
+      "Eliminar el trámite digital y volver al papel.",
+      "Culpar a los ciudadanos por 'no saber usar tecnología'."
+    ],
+    "answer": "Rediseñar la interfaz con testeos ciudadanos y simplificar pasos.",
+    "theme": "Experiencia de Usuario"
+  },
+
+  {
+    "question": "El sistema de pago de impuestos municipales presenta fallas intermitentes. Los ciudadanos están indignados. ¿Cuál sería su primer paso?",
+    "options": [
+      "Publicar un comunicado oficial explicando el problema y el plazo estimado de solución.",
+      "Ignorar las quejas hasta resolver el problema técnicamente.",
+      "Culpar al proveedor del software en redes sociales.",
+      "Desactivar completamente el sistema por tiempo indefinido."
+    ],
+    "answer": "Publicar un comunicado oficial explicando el problema y el plazo estimado de solución.",
+    "theme": "Comunicación en Crisis"
+  },
+  {
+    "question": "Una actualización obligatoria del sistema operativo causa incompatibilidad con software crítico. ¿Cómo procedería?",
+    "options": [
+      "Crear un entorno virtual con la versión anterior mientras se adapta el software.",
+      "Revertir toda la actualización sin notificar.",
+      "Forzar la actualización y dejar sin funcionamiento las aplicaciones afectadas.",
+      "Esperar instrucciones del proveedor sin tomar acciones."
+    ],
+    "answer": "Crear un entorno virtual con la versión anterior mientras se adapta el software.",
+    "theme": "Resolución Técnica"
+  },
+  {
+    "question": "Descubre que un contrato de TI fue adjudicado sin cumplir el manual de contratación. ¿Qué haría?",
+    "options": [
+      "Documentar las irregularidades y reportarlas al órgano de control interno.",
+      "Firmar el contrato igual para no retrasar el proyecto.",
+      "Comentar el caso solo con colegas de confianza.",
+      "Pedir una 'comisión' por guardar silencio."
+    ],
+    "answer": "Documentar las irregularidades y reportarlas al órgano de control interno.",
+    "theme": "Ética Contractual"
+  },
+  {
+    "question": "El personal de recaudación usa Excel para registrar pagos, exponiendo datos sensibles. ¿Cómo solucionaría este riesgo?",
+    "options": [
+      "Implementar un sistema centralizado con permisos por roles y eliminar archivos locales.",
+      "Pedirles que pongan contraseña a los archivos Excel.",
+      "Multar a los funcionarios que usen Excel.",
+      "Contratar un seguro contra ciberataques."
+    ],
+    "answer": "Implementar un sistema centralizado con permisos por roles y eliminar archivos locales.",
+    "theme": "Seguridad de Datos"
+  },
+  {
+    "question": "Una ordenanza exige que todos los trámites estén en línea, pero el 40% de los ciudadanos no tiene internet. ¿Qué alternativa propondría?",
+    "options": [
+      "Habilitar kioskos digitales en bibliotecas y centros comunales con asistencia técnica.",
+      "Exigir que los ciudadanos consigan acceso a internet por su cuenta.",
+      "Mantener el sistema en papel solo para quienes protesten.",
+      "Reducir la cantidad de trámites ofrecidos."
+    ],
+    "answer": "Habilitar kioskos digitales en bibliotecas y centros comunales con asistencia técnica.",
+    "theme": "Inclusión Digital"
+  },
+  {
+    "question": "El alcalde pide instalar cámaras de vigilancia en zonas críticas, pero no hay presupuesto. ¿Qué solución creativa sugeriría?",
+    "options": [
+      "Priorizar zonas de alto riesgo y buscar alianzas con comercios para integrar sus cámaras al sistema municipal.",
+      "Comprar cámaras económicas de baja calidad para cumplir la meta.",
+      "Solicitar un préstamo bancario sin autorización del consejo.",
+      "Decir que es imposible y no hacer nada."
+    ],
+    "answer": "Priorizar zonas de alto riesgo y buscar alianzas con comercios para integrar sus cámaras al sistema municipal.",
+    "theme": "Innovación Pública"
+  },
+  {
+    "question": "Un empleado borra accidentalmente la base de datos de licencias de construcción. ¿Cuál sería su protocolo de acción?",
+    "options": [
+      "Restaurar desde la última copia de seguridad y auditar los procesos de respaldo.",
+      "Pedir a los ciudadanos que vuelvan a presentar sus documentos.",
+      "Ocultar el error y reconstruir los datos manualmente.",
+      "Culpar al practicante y desvincularlo."
+    ],
+    "answer": "Restaurar desde la última copia de seguridad y auditar los procesos de respaldo.",
+    "theme": "Recuperación de Desastres"
+  },
+  {
+    "question": "Debe implementar autenticación de dos factores para todos los funcionarios, pero hay resistencia. ¿Cómo lograría adopción?",
+    "options": [
+      "Realizar pilotos en áreas pequeñas, mostrar beneficios de seguridad y ofrecer soporte personalizado.",
+      "Obligar con amenazas de bloqueo de cuentas.",
+      "Implementarlo solo para altos cargos.",
+      "Posponer la medida indefinidamente."
+    ],
+    "answer": "Realizar pilotos en áreas pequeñas, mostrar beneficios de seguridad y ofrecer soporte personalizado.",
+    "theme": "Cambio Organizacional"
+  },
+  {
+    "question": "El sitio web municipal es hackeado y muestra información falsa. ¿Cuál sería su plan de acción?",
+    "options": [
+      "Desconectar el sitio, notificar a las autoridades competentes y restaurar desde una versión segura.",
+      "Editar manualmente las páginas afectadas sin investigar.",
+      "Negar el ataque públicamente.",
+      "Contratar a los hackers para que reparen el daño."
+    ],
+    "answer": "Desconectar el sitio, notificar a las autoridades competentes y restaurar desde una versión segura.",
+    "theme": "Respuesta a Incidentes"
+  },
+  {
+    "question": "Una funcionaria renuncia dejando proyectos clave sin documentar. ¿Cómo mitigaría el impacto?",
+    "options": [
+      "Reconstruir la documentación con ayuda del equipo y establecer un protocolo de salida obligatorio.",
+      "Asignar los proyectos a otro empleado sin capacitación.",
+      "Dejar los proyectos en pausa hasta contratar a alguien nuevo.",
+      "Decir que 'era su responsabilidad personal'."
+    ],
+    "answer": "Reconstruir la documentación con ayuda del equipo y establecer un protocolo de salida obligatorio.",
+    "theme": "Gestión del Conocimiento"
+  },
+  {
+    "question": "La alcaldía adquiere un software nuevo, pero la interfaz es compleja para los usuarios. ¿Cómo facilitaría la transición?",
+    "options": [
+      "Desarrollar capacitaciones interactivas y asignar 'embajadores digitales' en cada área.",
+      "Forzar su uso sin adaptaciones.",
+      "Volver al software anterior sin notificar al proveedor.",
+      "Contratar personal extra para que opere el sistema."
+    ],
+    "answer": "Desarrollar capacitaciones interactivas y asignar 'embajadores digitales' en cada área.",
+    "theme": "Adopción Tecnológica"
+  },
+  {
+    "question": "Un ciudadano denuncia que su información personal fue publicada en la web municipal sin consentimiento. ¿Cómo manejaría la situación?",
+    "options": [
+      "Verificar el caso, eliminar la información y notificar a la autoridad de protección de datos.",
+      "Decir que 'todos los datos públicos son responsabilidad del ciudadano'.",
+      "Pedirle que presente una demanda judicial.",
+      "Ignorar el reclamo si no hay pruebas escritas."
+    ],
+    "answer": "Verificar el caso, eliminar la información y notificar a la autoridad de protección de datos.",
+    "theme": "Protección de Datos Personales"
+  },
+  {
+    "question": "El servidor de correo institucional está enviando spam. ¿Qué pasos tomaría para resolverlo?",
+    "options": [
+      "Auditar cuentas comprometidas, resetear contraseñas y actualizar filtros antispam.",
+      "Desactivar todas las cuentas de correo temporalmente.",
+      "Pedir a los funcionarios que ignoren los correos sospechosos.",
+      "Cambiar de proveedor de correo sin análisis previo."
+    ],
+    "answer": "Auditar cuentas comprometidas, resetear contraseñas y actualizar filtros antispam.",
+    "theme": "Seguridad de Comunicaciones"
+  },
+  {
+    "question": "Una normativa exige conservar documentos físicos por 10 años, pero el espacio de archivo está al límite. ¿Qué solución propondría?",
+    "options": [
+      "Digitalizar los documentos con scanner de alta velocidad y almacenarlos en la nube con backup físico controlado.",
+      "Alquilar un almacén externo sin presupuesto aprobado.",
+      "Destruir documentos antiguos para hacer espacio.",
+      "Apilar cajas en pasillos y áreas comunes."
+    ],
+    "answer": "Digitalizar los documentos con scanner de alta velocidad y almacenarlos en la nube con backup físico controlado.",
+    "theme": "Gestión Documental"
+  },
+  {
+    "question": "El sistema de turnos para atención al público asigna citas a horas imposibles. ¿Cómo lo optimizaría?",
+    "options": [
+      "Ajustar el algoritmo basado en datos históricos y feedback de usuarios.",
+      "Dejar que los ciudadanos lleguen sin cita.",
+      "Contratar más personal para cubrir los huecos.",
+      "Cerrar la oficina dos días a la semana."
+    ],
+    "answer": "Ajustar el algoritmo basado en datos históricos y feedback de usuarios.",
+    "theme": "Mejora de Procesos"
+  },
+  {
+    "question": "Una ley nueva obliga a publicar informes de gestión en formatos accesibles para personas con discapacidad visual. ¿Cómo implementaría esto?",
+    "options": [
+      "Convertir los documentos a PDF accesible y audios descriptivos, validando con organizaciones de discapacidad.",
+      "Subir los PDF estándar y decir que 'cumplen técnicamente'.",
+      "Ofrecer lectores humanos solo si alguien lo solicita.",
+      "Ignorar el requisito por 'falta de recursos'."
+    ],
+    "answer": "Convertir los documentos a PDF accesible y audios descriptivos, validando con organizaciones de discapacidad.",
+    "theme": "Inclusión Digital"
+  },
+  {
+    "question": "El personal mezcla dispositivos personales con equipos institucionales en la red. ¿Qué política implementaría?",
+    "options": [
+      "Crear una red separada para dispositivos personales con acceso limitado y capacitar sobre riesgos.",
+      "Confiscar todos los dispositivos personales.",
+      "Permitir el uso sin restricciones para 'no afectar la moral'.",
+      "Desconectar toda la red inalámbrica."
+    ],
+    "answer": "Crear una red separada para dispositivos personales con acceso limitado y capacitar sobre riesgos.",
+    "theme": "Seguridad de Redes"
+  },
+  {
+    "question": "Un funcionario pide acceso remoto a sistemas críticos para trabajar desde casa. ¿Cómo manejaría esta solicitud?",
+    "options": [
+      "Implementar VPN con autenticación fuerte y solo para recursos estrictamente necesarios.",
+      "Darle acceso completo 'por esta vez'.",
+      "Negar toda posibilidad de teletrabajo.",
+      "Compartir credenciales por WhatsApp 'para agilizar'."
+    ],
+    "answer": "Implementar VPN con autenticación fuerte y solo para recursos estrictamente necesarios.",
+    "theme": "Acceso Remoto Seguro"
+  },
+  {
+    "question": "La página web municipal tarda 8 segundos en cargar. ¿Qué optimizaciones priorizaría?",
+    "options": [
+      "Comprimir imágenes, habilitar caché y migrar a un hosting de mejor rendimiento.",
+      "Reducir el contenido eliminando información útil.",
+      "Pedir a los ciudadanos que usen navegadores específicos.",
+      "No hacer nada porque 'es aceptable'."
+    ],
+    "answer": "Comprimir imágenes, habilitar caché y migrar a un hosting de mejor rendimiento.",
+    "theme": "Optimización Web"
+  },
+  {
+    "question": "Un proveedor ofrece licencias de software gratuitas por 1 año, pero con cláusulas ocultas de renovación costosa. ¿Cómo procedería?",
+    "options": [
+      "Rechazar la oferta y buscar alternativas de código abierto o licencias transparentes.",
+      "Aceptar sin leer los términos y condiciones.",
+      "Firmar y preocuparse por el costo después.",
+      "Pedir una comisión personal por cerrar el trato."
+    ],
+    "answer": "Rechazar la oferta y buscar alternativas de código abierto o licencias transparentes.",
+    "theme": "Adquisiciones Tecnológicas"
+  },
+
+  {
+    "question": "En la Alcaldía de Puerto Boyacá, se ha implementado una nueva política de Gobierno Digital que exige la migración de todos los sistemas de información a una plataforma en la nube y el uso de herramientas de código abierto en un plazo de seis meses. Usted, como Profesional Universitario de TIC, ha trabajado durante años con los sistemas actuales y software propietario.\n¿Cuál sería su primera reacción y plan de acción frente a esta nueva directriz?",
+    "options": [
+      "Expresar su preocupación por la complejidad del cambio y sugerir que se extiendan los plazos indefinidamente, ya que los sistemas actuales funcionan bien.",
+      "Investigar sobre la nueva plataforma y herramientas de código abierto, identificar cursos o recursos de capacitación, y proponer un plan de transición para su área.",
+      "Esperar a que la Secretaría General y de Servicios Administrativos le asigne la capacitación, sin tomar ninguna iniciativa personal para adaptarse.",
+      "Argumentar que esta migración generará más problemas que beneficios y continuar operando con los sistemas antiguos hasta que se vea obligado a cambiar."
+    ],
+    "answer": "Investigar sobre la nueva plataforma y herramientas de código abierto, identificar cursos o recursos de capacitación, y proponer un plan de transición para su área."
+  },
+  {
+    "question": "Debido a una amenaza de ciberseguridad a nivel nacional, la Secretaría de Gobierno Digital emite una circular urgente modificando drásticamente los protocolos de seguridad de la información y el uso de la red en todas las entidades territoriales. Como encargado de Ciberseguridad en la Alcaldía de Puerto Boyacá, algunos usuarios del personal administrativo manifiestan su incomodidad y dificultad para adaptarse a los nuevos y más estrictos procedimientos.\n¿Cómo abordaría esta situación para garantizar la adaptación del personal y la seguridad de la información?",
+    "options": [
+      "Informar a los usuarios que es su responsabilidad adaptarse y que el incumplimiento acarreará sanciones, sin ofrecer mayor acompañamiento.",
+      "Ignorar las quejas, ya que la prioridad es la seguridad y no la comodidad de los usuarios.",
+      "Diseñar y ejecutar sesiones informativas y de capacitación para explicar los nuevos protocolos, su importancia y cómo implementarlos, resolviendo dudas de manera proactiva.",
+      "Solicitar a la Secretaría de Gobierno Digital que flexibilice los protocolos, ya que el personal de la Alcaldía de Puerto Boyacá tiene dificultades para acatarlos."
+    ],
+    "answer": "Diseñar y ejecutar sesiones informativas y de capacitación para explicar los nuevos protocolos, su importancia y cómo implementarlos, resolviendo dudas de manera proactiva."
+  },
+  {
+    "question": "Se ha presentado una falla crítica en un sistema de información clave para la atención ciudadana en la Alcaldía de Puerto Boyacá, que requiere una solución urgente con una tecnología que usted no ha manejado extensivamente. La presión por parte de la ciudadanía y la gerencia es alta.\n¿Qué acción tomaría ante esta situación de alta demanda y novedad tecnológica?",
+    "options": [
+      "Indicar que no puede resolver el problema por no tener experiencia en esa tecnología y esperar a que la falla se resuelva por sí misma o por terceros.",
+      "Buscar rápidamente información, tutoriales o apoyo de expertos internos/externos en la nueva tecnología para implementar una solución temporal y, posteriormente, una definitiva.",
+      "Recomendar la adquisición de un nuevo sistema de inmediato, sin intentar solucionar la falla con los recursos existentes.",
+      "Frustrarse por la situación y delegar la responsabilidad en otro compañero sin ofrecer ningún tipo de apoyo."
+    ],
+    "answer": "Buscar rápidamente información, tutoriales o apoyo de expertos internos/externos en la nueva tecnología para implementar una solución temporal y, posteriormente, una definitiva."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá decide implementar una metodología de trabajo ágil (ej. Scrum o Kanban) para la gestión de proyectos de TIC, lo que implica un cambio significativo en la forma tradicional de planificar y ejecutar. Usted está acostumbrado a metodologías más secuenciales y jerárquicas.\n¿Cómo reaccionaría ante la propuesta de adoptar una nueva metodología de trabajo en su área?",
+    "options": [
+      "Manifestar resistencia a los cambios metodológicos, argumentando que las metodologías actuales han funcionado siempre.",
+      "Investigar sobre la nueva metodología, asistir a las capacitaciones, y proponer cómo se puede integrar en los procesos actuales de su área, identificando beneficios y desafíos.",
+      "Esperar a ver si la metodología realmente funciona en otras áreas antes de comprometerse a implementarla.",
+      "Quejarse con sus compañeros sobre la complejidad innecesaria de la nueva metodología, sin intentar comprenderla."
+    ],
+    "answer": "Investigar sobre la nueva metodología, asistir a las capacitaciones, y proponer cómo se puede integrar en los procesos actuales de su área, identificando beneficios y desafíos."
+  },
+  {
+    "question": "El Alcalde de Puerto Boyacá ha anunciado un nuevo Plan Estratégico de Tecnologías de la Información (PETI) que modifica radicalmente las prioridades de desarrollo tecnológico y exige la reingeniería de varios procesos clave de información en el municipio, requiriendo nuevas habilidades por parte de usted y su equipo. \n¿Qué acción tomaría usted como Profesional Universitario de TIC frente a la redefinición del PETI?",
+    "options": [
+      "Asumir una actitud de escepticismo y esperar a que los cambios se implementen desde arriba, sin involucrarse en la adaptación.",
+      "Analizar el nuevo PETI en detalle, identificar las habilidades requeridas, buscar opciones de formación para usted y su equipo, y colaborar activamente en la formulación de los nuevos proyectos de acuerdo con las directrices.",
+      "Expresar su inconformidad con los cambios en las prioridades, ya que implicaría dejar de lado proyectos en los que se ha trabajado previamente.",
+      "Concentrarse únicamente en las funciones que ya domina, esperando que otros asuman las nuevas responsabilidades."
+    ],
+    "answer": "Analizar el nuevo PETI en detalle, identificar las habilidades requeridas, buscar opciones de formación para usted y su equipo, y colaborar activamente en la formulación de los nuevos proyectos de acuerdo con las directrices."
+  },
+  {
+    "question": "Durante un proyecto de implementación de un nuevo software para la gestión documental en la Alcaldía de Puerto Boyacá, surge un problema inesperado en la integración con los sistemas existentes, que no estaba contemplado en la planificación inicial. Esto genera un retraso y requiere una solución creativa. \n¿Cómo actuaría para abordar esta situación inesperada?",
+    "options": [
+      "Seguir estrictamente el plan inicial, esperando que el problema se resuelva por sí solo con el tiempo.",
+      "Informar a su jefe inmediato sobre el problema y la necesidad de detener el proyecto hasta tener una solución perfecta, sin ofrecer alternativas.",
+      "Analizar el problema, investigar posibles soluciones (incluso fuera de lo planeado), proponer alternativas innovadoras al equipo y buscar el apoyo de otros expertos para resolver la integración.",
+      "Asignar la responsabilidad de la solución a un compañero de menor jerarquía sin supervisión ni apoyo."
+    ],
+    "answer": "Analizar el problema, investigar posibles soluciones (incluso fuera de lo planeado), proponer alternativas innovadoras al equipo y buscar el apoyo de otros expertos para resolver la integración."
+  },
+  {
+    "question": "Los avances tecnológicos y las nuevas tendencias en software y hardware implican que las herramientas y plataformas que usted utiliza diariamente en su rol de TIC en la Alcaldía de Puerto Boyacá pueden volverse obsoletas rápidamente. \n¿Qué actitud toma usted frente a la necesidad constante de actualizar sus conocimientos y habilidades tecnológicas?",
+    "options": [
+      "Limitarse a usar lo que ya conoce, esperando que las actualizaciones se hagan de forma automática o que otros se encarguen.",
+      "Ver las actualizaciones como una carga adicional que consume tiempo y recursos, lo que le genera frustración.",
+      "Investigar proactivamente las nuevas tecnologías, participar en cursos de actualización, y buscar formas de aplicar las innovaciones que beneficien la gestión del municipio.",
+      "Considerar que su formación inicial es suficiente para el desempeño de su cargo y que no es necesario seguir aprendiendo."
+    ],
+    "answer": "Investigar proactivamente las nuevas tecnologías, participar en cursos de actualización, y buscar formas de aplicar las innovaciones que beneficien la gestión del municipio."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá decide reorganizar algunas dependencias y, como resultado, su equipo de TIC ahora debe dar soporte a una nueva Secretaría con necesidades informáticas muy específicas y diferentes a las que manejaban anteriormente. \n¿Cómo abordaría la integración de estas nuevas responsabilidades y la atención a una nueva Secretaría?",
+    "options": [
+      "Quejarse de la sobrecarga de trabajo y la falta de especialización de la nueva Secretaría, resistiéndose a asumir las nuevas tareas.",
+      "Mantener la misma rutina de trabajo, esperando que la nueva Secretaría se adapte a los procesos existentes de TIC sin ajustes.",
+      "Realizar un levantamiento de las necesidades específicas de la nueva Secretaría, capacitarse o buscar apoyo en las tecnologías requeridas, y ajustar los flujos de trabajo para brindar un soporte eficiente.",
+      "Solicitar un aumento de personal inmediato, sin antes evaluar la capacidad actual de su equipo para asumir las nuevas responsabilidades."
+    ],
+    "answer": "Realizar un levantamiento de las necesidades específicas de la nueva Secretaría, capacitarse o buscar apoyo en las tecnologías requeridas, y ajustar los flujos de trabajo para brindar un soporte eficiente."
+  },
+  {
+    "question": "El Alcalde de Puerto Boyacá establece una nueva directriz de 'racionalización de trámites' y 'agilización de flujos de documentos' utilizando herramientas tecnológicas, una de sus funciones. Esto implica rediseñar procesos y usar software que algunos empleados mayores encuentran difícil de manejar.\n¿Cómo gestionaría este cambio para lograr la eficiencia sin dejar atrás al personal con menos habilidades digitales?",
+    "options": [
+      "Enfocarse solo en los empleados jóvenes y tecnológicamente hábiles, dejando que los demás se adapten a su propio ritmo.",
+      "Imponer las nuevas herramientas y procedimientos sin capacitación adicional, bajo el argumento de que todos deben adaptarse.",
+      "Diseñar un plan de capacitación gradual y personalizado para el personal, identificar 'embajadores' tecnológicos en cada área, y ofrecer soporte continuo para facilitar la transición y agilización de trámites.",
+      "Proponer eliminar las directrices de racionalización si el personal no logra adaptarse rápidamente."
+    ],
+    "answer": "Diseñar un plan de capacitación gradual y personalizado para el personal, identificar 'embajadores' tecnológicos en cada área, y ofrecer soporte continuo para facilitar la transición y agilización de trámites."
+  },
+  {
+    "question": "En el desarrollo del Sistema de Gestión de la Calidad (SGC) del Municipio de Puerto Boyacá, se introduce una nueva normativa ISO que modifica los requisitos para la documentación y control de procesos en el área de TIC, lo que exige ajustes en los procedimientos que usted ha seguido durante mucho tiempo. \n¿Cómo abordaría la implementación de esta nueva normativa en el SGC de su área?",
+    "options": [
+      "Delegar completamente la adaptación a la nueva normativa en el personal de menor jerarquía, sin involucrarse en los detalles.",
+      "Continuar trabajando con los procedimientos antiguos hasta que una auditoría externa lo obligue a cambiar.",
+      "Estudiar a fondo la nueva normativa, identificar los cambios necesarios en los procedimientos de su área, socializarlos con el equipo y liderar la implementación de los ajustes para cumplir con el SGC.",
+      "Argumentar que la nueva normativa es demasiado compleja y no es aplicable a las particularidades de su área."
+    ],
+    "answer": "Estudiar a fondo la nueva normativa, identificar los cambios necesarios en los procedimientos de su área, socializarlos con el equipo y liderar la implementación de los ajustes para cumplir con el SGC."
+  },
+  {
+    "question": "Se informa que la Alcaldía de Puerto Boyacá adquirirá un nuevo sistema de gestión de proyectos que reemplazará las hojas de cálculo y herramientas individuales que su equipo ha utilizado históricamente. Este nuevo sistema tiene una curva de aprendizaje considerable.\n¿Cuál es su actitud inicial frente a la implementación de este nuevo sistema?",
+    "options": [
+      "Desconfiar de la efectividad del nuevo sistema y preferir seguir usando las herramientas conocidas para no perder tiempo.",
+      "Investigar sobre las funcionalidades del nuevo sistema, buscar tutoriales en línea y proponer una sesión de familiarización con el equipo.",
+      "Esperar a que la capacitación sea obligatoria para aprender lo mínimo indispensable para operar el sistema.",
+      "Quejarse de la inversión en tecnología que, a su juicio, no es prioritaria en este momento."
+    ],
+    "answer": "Investigar sobre las funcionalidades del nuevo sistema, buscar tutoriales en línea y proponer una sesión de familiarización con el equipo."
+  },
+  {
+    "question": "La Secretaría de Gobierno de Puerto Boyacá lanza una iniciativa para que todos los trámites ciudadanos sean 100% digitales en los próximos dos años. Esto implica que usted, como profesional de TIC, debe impulsar la digitalización de muchos servicios que actualmente se hacen de forma presencial.\n¿Cómo abordaría este ambicioso objetivo de digitalización de trámites?",
+    "options": [
+      "Priorizar solo los trámites más sencillos de digitalizar y dejar los complejos para una fase posterior indefinida.",
+      "Argumentar que la infraestructura tecnológica actual es insuficiente y que la meta es inalcanzable en el plazo establecido.",
+      "Realizar un diagnóstico de los trámites, identificar los procesos susceptibles de digitalización, proponer soluciones tecnológicas y trabajar en conjunto con las secretarías involucradas para lograr la meta.",
+      "Delegar completamente la responsabilidad de la digitalización en empresas externas, sin supervisión directa."
+    ],
+    "answer": "Realizar un diagnóstico de los trámites, identificar los procesos susceptibles de digitalización, proponer soluciones tecnológicas y trabajar en conjunto con las secretarías involucradas para lograr la meta."
+  },
+  {
+    "question": "Un cambio en la legislación de protección de datos personales obliga a la Alcaldía de Puerto Boyacá a implementar nuevos protocolos de manejo y almacenamiento de la información ciudadana en sus bases de datos. Usted es responsable de la administración de estas bases.\n¿Qué acciones tomaría para asegurar la adaptación y el cumplimiento de la nueva normativa?",
+    "options": [
+      "Esperar a que una auditoría revele incumplimientos para tomar medidas correctivas.",
+      "Limitarse a leer la nueva ley y asumir que el sistema actual cumple con lo requerido.",
+      "Estudiar la nueva legislación, evaluar el impacto en los sistemas y bases de datos, y diseñar e implementar los ajustes necesarios en los protocolos de seguridad y privacidad.",
+      "Solicitar la externalización de toda la gestión de bases de datos para no asumir la responsabilidad del cambio."
+    ],
+    "answer": "Estudiar la nueva legislación, evaluar el impacto en los sistemas y bases de datos, y diseñar e implementar los ajustes necesarios en los protocolos de seguridad y privacidad."
+  },
+  {
+    "question": "La pandemia reciente ha obligado a la Alcaldía de Puerto Boyacá a adoptar masivamente el teletrabajo para muchos de sus funcionarios. Esto requiere el uso de nuevas herramientas de comunicación, plataformas de colaboración y un enfoque diferente en la gestión de la conectividad. \n¿Cómo se adaptaría y apoyaría este cambio en la modalidad de trabajo?",
+    "options": [
+      "Quejarse de la dificultad de trabajar de forma remota y preferir el modelo presencial sin buscar alternativas.",
+      "Proporcionar las herramientas tecnológicas básicas sin ofrecer capacitación ni soporte adicional, asumiendo que los empleados se adaptarán solos.",
+      "Investigar las mejores prácticas de teletrabajo en TIC, configurar y optimizar las herramientas de colaboración, y ofrecer soporte técnico y capacitaciones para facilitar la transición a los funcionarios.",
+      "Limitar la conectividad y el acceso remoto a los sistemas de la Alcaldía para evitar problemas de seguridad."
+    ],
+    "answer": "Investigar las mejores prácticas de teletrabajo en TIC, configurar y optimizar las herramientas de colaboración, y ofrecer soporte técnico y capacitaciones para facilitar la transición a los funcionarios."
+  },
+  {
+    "question": "La Administración Municipal de Puerto Boyacá decide optimizar el presupuesto en TIC, lo que implica que usted deberá buscar soluciones más económicas o eficientes para los proyectos, posiblemente reevaluando proveedores o adoptando tecnologías de menor costo.\n¿Cómo abordaría este desafío de optimización de recursos manteniendo la calidad del servicio?",
+    "options": [
+      "Argumentar que la calidad del servicio se verá comprometida si se reducen los costos y no proponer alternativas.",
+      "Buscar proveedores de menor costo sin evaluar la calidad o el soporte que ofrecen, para cumplir con el requisito de reducción.",
+      "Realizar un análisis de costo-beneficio de diferentes tecnologías y proveedores, explorar opciones de software libre o de menor licenciamiento, y proponer un plan de optimización que garantice la funcionalidad.",
+      "Solicitar más presupuesto para TIC, ignorando la directriz de optimización."
+    ],
+    "answer": "Realizar un análisis de costo-beneficio de diferentes tecnologías y proveedores, explorar opciones de software libre o de menor licenciamiento, y proponer un plan de optimización que garantice la funcionalidad."
+  },
+  {
+    "question": "Se le asigna a usted, como Profesional Universitario de TIC, la tarea de implementar un nuevo sistema de gestión de inventarios para los bienes de la Alcaldía de Puerto Boyacá, un área en la que no tiene experiencia previa directa. \n¿Qué enfoque adoptaría para llevar a cabo esta nueva función?",
+    "options": [
+      "Realizar la tarea con los conocimientos mínimos que tiene, sin investigar a fondo el tema de gestión de inventarios.",
+      "Declararse incapaz de asumir la tarea por no tener experiencia en esa área específica de la gestión municipal.",
+      "Investigar sobre los principios de gestión de inventarios, aprender sobre el nuevo sistema, y buscar asesoría interna o externa para asegurar una implementación exitosa.",
+      "Delegar la implementación en un compañero que tenga más experiencia, sin involucrarse en el proceso."
+    ],
+    "answer": "Investigar sobre los principios de gestión de inventarios, aprender sobre el nuevo sistema, y buscar asesoría interna o externa para asegurar una implementación exitosa."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá decide migrar su infraestructura de red física a una virtualizada, lo que implica un cambio técnico significativo y la necesidad de nuevas habilidades en virtualización y gestión de redes definidas por software. \n¿Cómo abordaría este desafío técnico de gran envergadura?",
+    "options": [
+      "Resistirse a la migración, argumentando la estabilidad de la infraestructura actual y el alto costo del cambio.",
+      "Tomar la iniciativa para capacitarse en tecnologías de virtualización y SDN, y liderar la planeación y ejecución de la migración en su área.",
+      "Esperar a que los proveedores externos realicen toda la migración sin supervisión ni participación activa.",
+      "Expresar su preocupación por la complejidad y los posibles errores que puedan surgir con la nueva tecnología."
+    ],
+    "answer": "Tomar la iniciativa para capacitarse en tecnologías de virtualización y SDN, y liderar la planeación y ejecución de la migración en su área."
+  },
+  {
+    "question": "Una auditoría externa recomienda a la Alcaldía de Puerto Boyacá implementar mejoras significativas en la arquitectura de red y los servidores, lo que implica un cambio en las configuraciones y procedimientos que usted ha mantenido por años. \n¿Cómo reaccionaría ante estas recomendaciones y la necesidad de modificar la arquitectura existente?",
+    "options": [
+      "Cuestionar la idoneidad de las recomendaciones de la auditoría y defender la configuración actual, evitando realizar cambios.",
+      "Analizar detalladamente las recomendaciones, investigar las mejores prácticas para implementarlas y diseñar un plan de mejora gradual de la arquitectura.",
+      "Implementar los cambios de forma apresurada sin una planificación adecuada, lo que podría generar inestabilidad en la red.",
+      "Delegar completamente la implementación en el personal técnico de nivel inferior, sin supervisión ni acompañamiento."
+    ],
+    "answer": "Analizar detalladamente las recomendaciones, investigar las mejores prácticas para implementarlas y diseñar un plan de mejora gradual de la arquitectura."
+  },
+  {
+    "question": "Se le solicita que integre una nueva aplicación web desarrollada por una entidad del nivel central a la página web de la Alcaldía de Puerto Boyacá, lo que requiere adaptar el código y la estructura de su portal existente. \n¿Qué estrategia seguiría para realizar esta integración?",
+    "options": [
+      "Indicar que la integración es imposible debido a las diferencias entre las plataformas existentes.",
+      "Investigar la documentación de la nueva aplicación, analizar la estructura de la página web actual y buscar soluciones técnicas para lograr la integración de manera eficiente.",
+      "Modificar directamente el código de la página web sin hacer copias de seguridad, con el riesgo de afectar la funcionalidad del portal.",
+      "Esperar a que la entidad del nivel central le proporcione un módulo de integración prediseñado."
+    ],
+    "answer": "Investigar la documentación de la nueva aplicación, analizar la estructura de la página web actual y buscar soluciones técnicas para lograr la integración de manera eficiente."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá, con el fin de mejorar la comunicación interna, decide migrar de un sistema de correo electrónico local a una plataforma en la nube (ej. Google Workspace o Microsoft 365). Esta migración requiere un esfuerzo considerable de capacitación para los usuarios. \n¿Cómo lideraría este proceso de migración y capacitación desde su rol de TIC?",
+    "options": [
+      "Minimizar la importancia de la capacitación, asumiendo que los usuarios aprenderán por sí mismos con el tiempo.",
+      "Realizar la migración técnica sin informar adecuadamente a los usuarios ni ofrecer soporte posterior.",
+      "Planificar la migración por fases, diseñar materiales de capacitación claros, organizar sesiones de formación y ofrecer un canal de soporte permanente para resolver dudas de los usuarios.",
+      "Sugerir que la migración se posponga indefinidamente debido a la resistencia de algunos usuarios."
+    ],
+    "answer": "Planificar la migración por fases, diseñar materiales de capacitación claros, organizar sesiones de formación y ofrecer un canal de soporte permanente para resolver dudas de los usuarios."
+  },
+  {
+    "question": "Se presenta una nueva vulnerabilidad crítica en un sistema operativo ampliamente utilizado en los equipos de la Alcaldía de Puerto Boyacá, lo que exige la implementación urgente de un parche de seguridad y la posible reconfiguración de varios equipos.\n¿Cómo abordaría esta situación de emergencia y cambio tecnológico?",
+    "options": [
+      "Esperar la directriz oficial del fabricante o de la Secretaría de Gobierno Digital antes de tomar cualquier acción.",
+      "Desactivar el sistema afectado temporalmente hasta que se pueda adquirir una nueva solución, afectando la operación.",
+      "Investigar el parche, evaluar su impacto, planificar su implementación de forma controlada y comunicar las medidas a los usuarios para minimizar interrupciones, priorizando la seguridad.",
+      "Informar que es un problema que solo concierne al proveedor del sistema operativo y no a su área."
+    ],
+    "answer": "Investigar el parche, evaluar su impacto, planificar su implementación de forma controlada y comunicar las medidas a los usuarios para minimizar interrupciones, priorizando la seguridad."
+  },
+  {
+    "question": "La Contraloría solicita informes de gestión en un nuevo formato digital y con periodicidad diferente a la acostumbrada, lo que implica ajustar sus procesos de recopilación y presentación de información. \n¿Cómo respondería a esta nueva exigencia de los entes de control?",
+    "options": [
+      "Intentar persuadir a la Contraloría de que mantenga el formato anterior, ya que el cambio es engorroso.",
+      "Producir los informes en el formato antiguo y esperar a que la Contraloría los rechace.",
+      "Estudiar el nuevo formato, ajustar los procesos internos para la recopilación de datos, capacitarse en las herramientas necesarias y garantizar la entrega oportuna de los informes requeridos.",
+      "Delegar la responsabilidad de la adaptación en el auxiliar administrativo, sin supervisión."
+    ],
+    "answer": "Estudiar el nuevo formato, ajustar los procesos internos para la recopilación de datos, capacitarse en las herramientas necesarias y garantizar la entrega oportuna de los informes requeridos."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá busca implementar un sistema de Big Data para analizar información ciudadana y mejorar la toma de decisiones, lo que requiere que usted procese y estructure grandes volúmenes de información de diferentes fuentes.\n¿Qué acciones tomaría para enfrentar este nuevo desafío tecnológico?",
+    "options": [
+      "Expresar que la Alcaldía no tiene la capacidad para manejar Big Data y que es mejor enfocarse en tecnologías más conocidas.",
+      "Proponer la contratación de una empresa externa para todo el proyecto de BI sin involucrarse en el proceso.",
+      "Adquirir conocimientos en herramientas de BI y bases de datos analíticas, diseñar la estructura de datos necesaria y colaborar en la extracción, transformación y carga (ETL) de la información para los reportes.",
+      "Limitarse a proporcionar los datos en el formato actual, esperando que otros los procesen para el sistema de BI."
+    ],
+    "answer": "Adquirir conocimientos en herramientas de BI y bases de datos analíticas, diseñar la estructura de datos necesaria y colaborar en la extracción, transformación y carga (ETL) de la información para los reportes."
+  },
+  {
+    "question": "Un nuevo decreto nacional establece que todas las entidades públicas deben utilizar un sistema de información interoperable específico para la gestión de nómina, lo que requiere que la Alcaldía de Puerto Boyacá desactive su sistema actual y migre toda la información. \n¿Cómo lideraría este proceso de migración obligatoria y su impacto en el personal?",
+    "options": [
+      "Postergar la migración el mayor tiempo posible, esperando que el decreto sea modificado o derogado.",
+      "Realizar la migración técnica sin considerar los procesos de Recursos Humanos ni la capacitación del personal de nómina.",
+      "Coordinar con la Secretaría de Gestión Humana, planificar la migración de datos, asegurar la capacitación del personal y garantizar la continuidad del pago de nómina durante el proceso.",
+      "Informar que su función solo es técnica y que la migración es responsabilidad del área administrativa."
+    ],
+    "answer": "Coordinar con la Secretaría de Gestión Humana, planificar la migración de datos, asegurar la capacitación del personal y garantizar la continuidad del pago de nómina durante el proceso."
+  },
+  {
+    "question": "En el área de TIC de la Alcaldía de Puerto Boyacá, se introduce una nueva herramienta de ticketing o mesa de ayuda para centralizar las solicitudes de soporte técnico, lo que modifica la forma en que los usuarios reportan problemas y usted los atiende. \n¿Cómo aseguraría una transición fluida a la nueva herramienta?",
+    "options": [
+      "Esperar a que los usuarios reporten problemas con la nueva herramienta para entonces aprender a usarla.",
+      "Limitar la comunicación de la nueva herramienta a un simple correo electrónico, sin dar más explicaciones.",
+      "Familiarizarse con la nueva herramienta, crear guías rápidas para los usuarios, y promover su uso explicando los beneficios para una mejor atención.",
+      "Argumentar que el sistema anterior, aunque menos eficiente, era más conocido por los usuarios."
+    ],
+    "answer": "Familiarizarse con la nueva herramienta, crear guías rápidas para los usuarios, y promover su uso explicando los beneficios para una mejor atención."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá decide implementar un nuevo sistema de videoconferencias para todas las reuniones internas y externas, reemplazando el uso de herramientas diversas. Esto requiere que todos los funcionarios se adapten a una única plataforma.\n¿Cómo contribuiría usted a esta estandarización y adaptación tecnológica?",
+    "options": [
+      "Usar la nueva herramienta solo cuando sea estrictamente necesario, y seguir con las que ya conoce en otras ocasiones.",
+      "Criticar la decisión de estandarizar, argumentando que restringe la libertad de elección de los usuarios.",
+      "Promover activamente el uso de la nueva plataforma, organizar sesiones de práctica para los funcionarios y ofrecer soporte técnico para resolver dudas durante las reuniones.",
+      "Limitar su participación en reuniones virtuales para evitar el uso de la nueva herramienta."
+    ],
+    "answer": "Promover activamente el uso de la nueva plataforma, organizar sesiones de práctica para los funcionarios y ofrecer soporte técnico para resolver dudas durante las reuniones."
+  },
+  {
+    "question": "Se le solicita a usted, como Profesional Universitario de TIC, investigar y proponer soluciones tecnológicas innovadoras para optimizar la gestión de recursos energéticos en los edificios de la Alcaldía de Puerto Boyacá, un campo emergente para el que no hay un proceso definido. \n¿Cómo abordaría esta solicitud que implica explorar nuevas áreas y proponer soluciones originales?",
+    "options": [
+      "Indicar que esa no es una función directa del área de TIC y que debe ser asumida por la secretaría de Infraestructura.",
+      "Buscar soluciones genéricas en internet sin un análisis profundo de la necesidad específica del municipio.",
+      "Investigar las últimas tendencias en 'smart buildings' y gestión energética, analizar la viabilidad técnica y económica para Puerto Boyacá, y presentar propuestas innovadoras y adaptadas al contexto local.",
+      "Esperar a que otra Alcaldía implemente una solución similar para luego copiarla."
+    ],
+    "answer": "Investigar las últimas tendencias en 'smart buildings' y gestión energética, analizar la viabilidad técnica y económica para Puerto Boyacá, y presentar propuestas innovadoras y adaptadas al contexto local."
+  },
+  {
+    "question": "Un cambio en el equipo directivo de la Alcaldía de Puerto Boyacá conlleva una redefinición de las prioridades y enfoques en la gestión de proyectos de TIC, lo que podría implicar el abandono de algunos proyectos en curso y el inicio de otros nuevos. \n¿Cómo manejaría esta situación de cambio en la dirección estratégica?",
+    "options": [
+      "Manifestar inconformidad con las nuevas directrices, ya que desvirtúan el trabajo realizado anteriormente.",
+      "Asumir una actitud de espera pasiva hasta que las nuevas directrices se consoliden completamente.",
+      "Analizar las nuevas prioridades, reorientar los recursos de su área de TIC, y colaborar activamente en la planificación y ejecución de los nuevos proyectos estratégicos.",
+      "Disminuir el ritmo de trabajo ante la incertidumbre de si los proyectos actuales continuarán o no."
+    ],
+    "answer": "Analizar las nuevas prioridades, reorientar los recursos de su área de TIC, y colaborar activamente en la planificación y ejecución de los nuevos proyectos estratégicos."
+  },
+  {
+    "question": "La Secretaría de Hacienda de Puerto Boyacá decide implementar un nuevo software contable y financiero que se integra con los sistemas de información de otras secretarías, lo que implica cambios en la forma en que usted interactúa con la información financiera. \n¿Cómo facilitaría esta integración y el trabajo inter-secretarial?",
+    "options": [
+      "Esperar a que el personal de Hacienda le informe sobre los cambios que debe realizar en sus sistemas.",
+      "Limitar su participación a lo estrictamente técnico, sin entender el impacto en los procesos financieros.",
+      "Coordinar reuniones con el personal de Hacienda, entender los nuevos flujos de información, y realizar los ajustes necesarios en los sistemas de TIC para asegurar la correcta integración y funcionalidad.",
+      "Argumentar que la integración es responsabilidad exclusiva de la Secretaría de Hacienda."
+    ],
+    "answer": "Coordinar reuniones con el personal de Hacienda, entender los nuevos flujos de información, y realizar los ajustes necesarios en los sistemas de TIC para asegurar la correcta integración y funcionalidad."
+  },
+  {
+    "question": "Con el fin de mejorar la eficiencia, la Alcaldía de Puerto Boyacá decide implementar una plataforma de 'software como servicio' (SaaS) para la gestión de recursos humanos, reemplazando una aplicación local que usted ha mantenido por años. \n¿Cómo se adaptaría a esta transición de una aplicación local a un SaaS?",
+    "options": [
+      "Mostrar resistencia a la migración a la nube por considerarla menos segura y controlable.",
+      "Limitarse a copiar la información a la nueva plataforma sin entender su funcionamiento y beneficios.",
+      "Estudiar las características de la plataforma SaaS, identificar sus ventajas y desventajas, capacitarse en su uso y configurar la integración con otros sistemas de la Alcaldía.",
+      "Sugerir que la Alcaldía desarrolle su propia solución local en lugar de usar un SaaS."
+    ],
+    "answer": "Estudiar las características de la plataforma SaaS, identificar sus ventajas y desventajas, capacitarse en su uso y configurar la integración con otros sistemas de la Alcaldía."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá busca implementar un sistema de inteligencia de negocios (BI) para el análisis de datos y la generación de reportes estratégicos, lo que requiere que usted procese y estructure grandes volúmenes de información de diferentes fuentes.\n¿Cómo abordaría este nuevo rol de gestión de datos y BI?",
+    "options": [
+      "Considerar que la manipulación de grandes volúmenes de datos es una tarea excesiva para su cargo.",
+      "Proponer la contratación de una empresa externa para todo el proyecto de BI sin involucrarse en el proceso.",
+      "Adquirir conocimientos en herramientas de BI y bases de datos analíticas, diseñar la estructura de datos necesaria y colaborar en la extracción, transformación y carga (ETL) de la información para los reportes.",
+      "Limitarse a proporcionar los datos en el formato actual, esperando que otros los procesen para el sistema de BI."
+    ],
+    "answer": "Adquirir conocimientos en herramientas de BI y bases de datos analíticas, diseñar la estructura de datos necesaria y colaborar en la extracción, transformación y carga (ETL) de la información para los reportes."
+  },
+
+{
+    "question": "En el marco del Plan Estratégico de Tecnologías de la Información (PETI) de la Alcaldía de Puerto Boyacá, se ha identificado la necesidad de implementar un nuevo sistema para la gestión documental electrónica con miras a la 'racionalización de trámites y agilización de flujos de documentos'. Como Profesional Universitario de TIC, usted debe liderar la elección y puesta en marcha de esta solución. \n¿Cuál sería su enfoque principal para asegurar una implementación exitosa que cumpla con los objetivos de Gobierno Digital?",
+    "options": [
+      "Realizar una investigación exhaustiva de las plataformas de gestión documental disponibles en el mercado, priorizando aquellas que se ajusten a la normatividad de Gobierno Digital, y proponer un plan de adquisición e implementación que incluya capacitación para los usuarios.",
+      "Seleccionar la plataforma más económica disponible en el mercado sin mayor análisis de sus funcionalidades, asumiendo que cualquier sistema nuevo mejorará la gestión documental.",
+      "Delegar completamente la elección y la implementación en un consultor externo, sin una supervisión activa ni participación en el proceso.",
+      "Desarrollar una solución propia desde cero, lo que garantizaría una adaptación perfecta, aunque implique mayores tiempos y costos de desarrollo."
+    ],
+    "answer": "Realizar una investigación exhaustiva de las plataformas de gestión documental disponibles en el mercado, priorizando aquellas que se ajusten a la normatividad de Gobierno Digital, y proponer un plan de adquisición e implementación que incluya capacitación para los usuarios."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá ha sido objeto de varios intentos de ciberataques, lo que pone en riesgo la información sensible de los ciudadanos y la operación municipal. Como Profesional Universitario de TIC, una de sus responsabilidades es la 'ciberseguridad'.\n¿Cuál de las siguientes acciones priorizaría para fortalecer la postura de ciberseguridad del municipio?",
+    "options": [
+      "Instalar un antivirus genérico en todos los equipos y confiar en la suerte para evitar futuros ataques.",
+      "Realizar un diagnóstico de vulnerabilidades y riesgos, implementar firewalls y sistemas de detección de intrusiones, capacitar al personal en buenas prácticas de seguridad y establecer políticas de acceso y respaldo de la información.",
+      "Adquirir el software de seguridad más costoso del mercado, sin realizar un análisis previo de las necesidades específicas del municipio.",
+      "Desconectar la Alcaldía de Internet para eliminar cualquier riesgo de ciberataque, afectando drásticamente la capacidad de ofrecer servicios en línea."
+    ],
+    "answer": "Realizar un diagnóstico de vulnerabilidades y riesgos, implementar firewalls y sistemas de detección de intrusiones, capacitar al personal en buenas prácticas de seguridad y establecer políticas de acceso y respaldo de la información."
+  },
+  {
+    "question": "Se ha detectado una lentitud significativa en la página web oficial del Municipio de Puerto Boyacá, lo que afecta la experiencia de los ciudadanos y la prestación de servicios en línea. Su función incluye 'velar por el correcto funcionamiento y actualización de la página web'.\n¿Cuál sería su plan de acción para resolver este problema y mejorar el rendimiento del portal?",
+    "options": [
+      "Ignorar la lentitud, asumiendo que los usuarios se acostumbrarán o que es un problema temporal del proveedor de internet.",
+      "Culpar al proveedor de hosting por el problema y no tomar ninguna medida interna para optimizar la página.",
+      "Realizar un análisis de rendimiento del sitio web (velocidad de carga, optimización de imágenes y código, uso de caché), identificar las causas de la lentitud y aplicar las correcciones necesarias para mejorar la experiencia del usuario.",
+      "Proponer el cierre temporal de la página web hasta que se pueda adquirir un nuevo servidor más potente."
+    ],
+    "answer": "Realizar un análisis de rendimiento del sitio web (velocidad de carga, optimización de imágenes y código, uso de caché), identificar las causas de la lentitud y aplicar las correcciones necesarias para mejorar la experiencia del usuario."
+  },
+  {
+    "question": "La Secretaría General le solicita elaborar un informe detallado sobre el estado de la infraestructura tecnológica de la Alcaldía de Puerto Boyacá, incluyendo un inventario de hardware y software, un análisis de su obsolescencia y recomendaciones para futuras adquisiciones. Esto se alinea con sus funciones de 'elaborar, actualizar y orientar la planeación de TIC'.\n¿Cómo abordaría la preparación de este informe para que sea completo y útil para la toma de decisiones?",
+    "options": [
+      "Inventar la información o basarse en datos antiguos, ya que la recopilación de información exhaustiva es un proceso tedioso.",
+      "Esperar a que se contrate una empresa externa para realizar el inventario y el diagnóstico, sin aportar su conocimiento interno.",
+      "Realizar un levantamiento físico y lógico de los activos de hardware y software, evaluar su desempeño y vida útil, investigar las tendencias tecnológicas y proponer un plan de inversión y actualización basado en las necesidades del municipio.",
+      "Entregar un informe genérico sin datos específicos, argumentando que no tiene tiempo para un análisis detallado."
+    ],
+    "answer": "Realizar un levantamiento físico y lógico de los activos de hardware y software, evaluar su desempeño y vida útil, investigar las tendencias tecnológicas y proponer un plan de inversión y actualización basado en las necesidades del municipio."
+  },
+  {
+    "question": "Se requiere implementar una solución de software para automatizar el proceso de 'ingresos y tributos' municipales, lo que implicaría la integración con sistemas existentes y la capacitación del personal de Hacienda. Esto requiere 'análisis de sistemas' y 'resolución de problemas'.\n¿Cuál sería su estrategia para la implementación de esta solución de software?",
+    "options": [
+      "Elegir el software más popular del mercado sin considerar las necesidades específicas de la Alcaldía de Puerto Boyacá.",
+      "Realizar una fase de análisis de requisitos con los usuarios de Hacienda, seleccionar una solución adecuada (desarrollo o compra), planificar la integración y ejecutar un plan de capacitación exhaustivo para asegurar la adopción.",
+      "Implementar el software sin previo aviso al personal de Hacienda, esperando que ellos descubran cómo usarlo.",
+      "Argumentar que el proceso manual actual es suficiente y que la automatización no es una prioridad."
+    ],
+    "answer": "Realizar una fase de análisis de requisitos con los usuarios de Hacienda, seleccionar una solución adecuada (desarrollo o compra), planificar la integración y ejecutar un plan de capacitación exhaustivo para asegurar la adopción."
+  },
+  {
+    "question": "La Contraloría Municipal solicita un informe pormenorizado sobre la gestión de licencias de software en la Alcaldía, verificando la legalidad y el cumplimiento de las normativas. Esta es una función directamente relacionada con 'preparar y rendir los informes periódicos de gestión'.\n¿Cómo prepararía este informe para asegurar su exactitud y exhaustividad?",
+    "options": [
+      "Generar un informe con información general, sin entrar en detalles sobre las licencias específicas.",
+      "Ignorar la solicitud de la Contraloría, esperando que el requerimiento sea olvidado.",
+      "Realizar un inventario de todas las licencias de software utilizadas, verificar su legalidad y vigencia, y consolidar la información en un informe claro y conciso que cumpla con los requisitos de la Contraloría.",
+      "Crear un informe que minimice los posibles incumplimientos, sin reflejar la situación real."
+    ],
+    "answer": "Realizar un inventario de todas las licencias de software utilizadas, verificar su legalidad y vigencia, y consolidar la información en un informe claro y conciso que cumpla con los requisitos de la Contraloría."
+  },
+  {
+    "question": "En el marco del 'Sistema de Gestión de la Calidad (SGC)', se ha identificado que los procedimientos actuales para la atención de solicitudes de soporte técnico en TIC no cumplen con los estándares de tiempo de respuesta establecidos. Su función incluye 'participar en el proceso del Sistema de Gestión de la Calidad'.\n¿Qué medidas propondría para mejorar la eficiencia del servicio de soporte técnico y cumplir con los estándares del SGC?",
+    "options": [
+      "Desvincularse de la participación en el SGC, argumentando que no es una prioridad del área de TIC.",
+      "Aumentar indiscriminadamente el número de personal de soporte sin analizar las causas de la ineficiencia.",
+      "Revisar los procedimientos actuales, implementar una herramienta de gestión de tickets, establecer indicadores de desempeño (KPIs) y capacitar al personal en el uso de la nueva metodología para optimizar los tiempos de respuesta.",
+      "Establecer tiempos de respuesta irrealizables para cumplir con el SGC en el papel, sin una implementación efectiva."
+    ],
+    "answer": "Revisar los procedimientos actuales, implementar una herramienta de gestión de tickets, establecer indicadores de desempeño (KPIs) y capacitar al personal en el uso de la nueva metodología para optimizar los tiempos de respuesta."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá está considerando adquirir nuevo hardware y software para modernizar las estaciones de trabajo de los funcionarios. Esta decisión impactará en el presupuesto y en la operación diaria. Como Profesional Universitario de TIC, su función es 'propender por la adquisición de software y hardware'.\n¿Qué criterios consideraría prioritarios al evaluar las opciones de compra de hardware y software?",
+    "options": [
+      "Elegir los equipos más costosos y de última generación, sin considerar la relación costo-beneficio ni las necesidades reales de los usuarios.",
+      "Seleccionar el hardware y software más barato del mercado, aunque no cumpla con los requisitos mínimos de rendimiento y seguridad.",
+      "Evaluar la relación costo-beneficio, la compatibilidad con los sistemas existentes, la escalabilidad, el soporte técnico del proveedor y las necesidades específicas de los usuarios para garantizar una inversión eficiente y funcional.",
+      "Adquirir equipos de segunda mano para ahorrar presupuesto, sin considerar la obsolescencia y los riesgos de fallas."
+    ],
+    "answer": "Evaluar la relación costo-beneficio, la compatibilidad con los sistemas existentes, la escalabilidad, el soporte técnico del proveedor y las necesidades específicas de los usuarios para garantizar una inversión eficiente y funcional."
+  },
+  {
+    "question": "Para cumplir con la Política de Gobierno Digital, la Alcaldía de Puerto Boyacá debe aumentar la 'prestación de la mayor cantidad de servicios a través del medio tecnológico en dicho portal' (página web). Actualmente, muchos trámites aún requieren presencia física.\n¿Qué acciones estratégicas propondría para digitalizar un trámite clave y ponerlo a disposición de los ciudadanos a través del portal web?",
+    "options": [
+      "Informar a la ciudadanía que los trámites solo se realizarán de forma presencial para garantizar la autenticidad.",
+      "Crear formularios en línea sin integrar la información con los sistemas internos, lo que generaría un doble trabajo.",
+      "Realizar un estudio del trámite, identificar los pasos susceptibles de digitalización, diseñar un flujo de trabajo digital, desarrollar o integrar las herramientas necesarias y capacitar a los funcionarios y ciudadanos para su uso.",
+      "Limitar la digitalización a la publicación de información sobre los trámites, sin permitir la realización en línea."
+    ],
+    "answer": "Realizar un estudio del trámite, identificar los pasos susceptibles de digitalización, diseñar un flujo de trabajo digital, desarrollar o integrar las herramientas necesarias y capacitar a los funcionarios y ciudadanos para su uso."
+  },
+  {
+    "question": "El 'Plan Estratégico de Tecnologías de la Información (PETI)' de la Alcaldía de Puerto Boyacá necesita ser actualizado para reflejar los nuevos desafíos y oportunidades. Su función es 'elaborar, actualizar y orientar la planeación, estructuración y priorización del PETI'.\n¿Cuál sería su rol principal en el proceso de actualización del PETI?",
+    "options": [
+      "Esperar a que la alta dirección defina unilateralmente el nuevo PETI y limitarse a implementarlo sin objeciones.",
+      "Crear un PETI con base en plantillas genéricas, sin adaptarlo a las particularidades y necesidades de Puerto Boyacá.",
+      "Liderar la recopilación de información de todas las áreas, analizar las tendencias tecnológicas y las necesidades del municipio, y proponer estrategias, proyectos y prioridades tecnológicas que impulsen la gestión y el cumplimiento de los objetivos institucionales.",
+      "Delegar completamente la actualización del PETI a una empresa consultora, sin involucrarse en la definición de los objetivos estratégicos."
+    ],
+    "answer": "Liderar la recopilación de información de todas las áreas, analizar las tendencias tecnológicas y las necesidades del municipio, y proponer estrategias, proyectos y prioridades tecnológicas que impulsen la gestión y el cumplimiento de los objetivos institucionales."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá necesita 'establecer los mecanismos para el diseño e implementación de la autoevaluación de los planes de acción y sus respectivos planes de mejoramiento' en el área de TIC. Esto es fundamental para el 'mejoramiento continuo'.\n¿Qué tipo de mecanismos implementaría para garantizar una autoevaluación efectiva y la mejora continua?",
+    "options": [
+      "Realizar autoevaluaciones esporádicas y sin un método definido, sin seguir un plan de mejoramiento.",
+      "Ignorar la autoevaluación, asumiendo que los planes de acción siempre son perfectos y no requieren mejoras.",
+      "Diseñar indicadores de gestión y desempeño (KPIs) para los planes de acción, establecer una periodicidad de revisión, implementar herramientas para la recolección y análisis de datos, y crear un comité de seguimiento para formular planes de mejoramiento.",
+      "Solicitar a una entidad externa que realice toda la autoevaluación, sin participación del personal interno."
+    ],
+    "answer": "Diseñar indicadores de gestión y desempeño (KPIs) para los planes de acción, establecer una periodicidad de revisión, implementar herramientas para la recolección y análisis de datos, y crear un comité de seguimiento para formular planes de mejoramiento."
+  },
+  {
+    "question": "Se ha identificado que los 'flujos de documentos' internos en la Alcaldía de Puerto Boyacá son lentos y propensos a errores debido a la dependencia del papel. Para la 'agilización' y 'racionalización de trámites', se requiere una solución.\n¿Qué tipo de solución tecnológica propondría para digitalizar y agilizar los flujos documentales internos?",
+    "options": [
+      "Mantener los flujos de documentos en papel, argumentando que es el método más seguro y tradicional.",
+      "Simplemente escanear los documentos y almacenarlos en carpetas compartidas, sin un sistema de gestión.",
+      "Implementar un sistema de gestión de flujo de trabajo (workflow) o BPM (Business Process Management) que permita la creación, revisión, aprobación y archivo digital de documentos, con alertas y seguimientos automatizados.",
+      "Comprar una impresora multifuncional de alta velocidad, esperando que esto resuelva el problema."
+    ],
+    "answer": "Implementar un sistema de gestión de flujo de trabajo (workflow) o BPM (Business Process Management) que permita la creación, revisión, aprobación y archivo digital de documentos, con alertas y seguimientos automatizados."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá está en proceso de certificación en una norma de calidad ISO y se requiere documentar y controlar todos los 'procesos y procedimientos adoptados por el Municipio relacionados con el área de su desempeño' en TIC. \n¿Cómo abordaría esta tarea para asegurar el cumplimiento y la calidad de la documentación?",
+    "options": [
+      "Crear documentos genéricos copiados de otras entidades, sin adaptarlos a la realidad de la Alcaldía de Puerto Boyacá.",
+      "Ignorar los requisitos de documentación, esperando que la auditoría de calidad pase por alto las deficiencias.",
+      "Realizar un levantamiento detallado de los procesos de TIC, documentarlos según los estándares de la norma ISO, establecer controles y responsabilidades, y capacitar al personal sobre los nuevos procedimientos.",
+      "Delegar la documentación a personal sin conocimiento técnico, lo que resultaría en procedimientos incorrectos."
+    ],
+    "answer": "Realizar un levantamiento detallado de los procesos de TIC, documentarlos según los estándares de la norma ISO, establecer controles y responsabilidades, y capacitar al personal sobre los nuevos procedimientos."
+  },
+  {
+    "question": "La Secretaría de Educación de Puerto Boyacá ha solicitado una herramienta para llevar un registro digital de los estudiantes y docentes, incluyendo historial académico y datos de contacto, para mejorar la 'gestión eficiente, eficaz y transparente' de la información. \n¿Qué tipo de solución de 'análisis de sistemas' propondría para atender esta necesidad?",
+    "options": [
+      "Recomendar el uso de hojas de cálculo compartidas, lo que podría generar inconsistencias y problemas de seguridad.",
+      "Diseñar y desarrollar una base de datos centralizada con una interfaz de usuario amigable para el registro y consulta de información de estudiantes y docentes, considerando la seguridad y privacidad de los datos.",
+      "Comprar licencias de software educativo costoso sin analizar si cumple con los requisitos específicos de la Secretaría de Educación.",
+      "Indicar que la creación de este sistema no es prioridad de TIC en este momento."
+    ],
+    "answer": "Diseñar y desarrollar una base de datos centralizada con una interfaz de usuario amigable para el registro y consulta de información de estudiantes y docentes, considerando la seguridad y privacidad de los datos."
+  },
+  {
+    "question": "Un ciudadano ha reportado un problema persistente con la visualización de un mapa interactivo en la página web del Municipio de Puerto Boyacá, que es vital para la consulta de información geográfica. Esta es una clara 'resolución de problemas' y 'actualización de la página web'.\n¿Cuál sería su primer paso para abordar y resolver este problema técnico?",
+    "options": [
+      "Borrar el mapa interactivo de la página web para evitar más quejas de los usuarios.",
+      "Responder al ciudadano que el problema es de su equipo o conexión a internet.",
+      "Diagnosticar la causa del problema (compatibilidad con navegadores, errores de código, rendimiento del servidor), buscar actualizaciones o parches, y aplicar la solución más adecuada para restaurar la funcionalidad del mapa.",
+      "Recomendar al ciudadano que acceda al mapa desde otro dispositivo o navegador."
+    ],
+    "answer": "Diagnosticar la causa del problema (compatibilidad con navegadores, errores de código, rendimiento del servidor), buscar actualizaciones o parches, y aplicar la solución más adecuada para restaurar la funcionalidad del mapa."
+  },
+  {
+    "question": "La 'política de Gobierno Digital' exige que las entidades públicas garanticen la accesibilidad de sus servicios y plataformas a personas con discapacidad. Usted es el encargado de la 'actualización de la página web'.\n¿Qué medidas implementaría para mejorar la accesibilidad de la página web del Municipio de Puerto Boyacá?",
+    "options": [
+      "Considerar que la accesibilidad es responsabilidad de los usuarios y no del diseño de la página web.",
+      "Realizar cambios estéticos sin considerar las normas de accesibilidad para personas con discapacidad.",
+      "Auditar la página web según las directrices de accesibilidad (WCAG), implementar mejoras como texto alternativo en imágenes, navegación por teclado, contraste de colores adecuado y subtítulos en videos para garantizar la inclusión digital.",
+      "Publicar un aviso en la página web indicando que las personas con discapacidad deben solicitar ayuda para navegar."
+    ],
+    "answer": "Auditar la página web según las directrices de accesibilidad (WCAG), implementar mejoras como texto alternativo en imágenes, navegación por teclado, contraste de colores adecuado y subtítulos en videos para garantizar la inclusión digital."
+  },
+  {
+    "question": "Para cumplir con la normatividad de 'Protección de Derechos Fundamentales' y garantizar la privacidad de los datos ciudadanos, la Alcaldía de Puerto Boyacá debe revisar y actualizar sus políticas de manejo de información personal en los sistemas. Como Profesional Universitario de TIC, usted es clave en este proceso.\n¿Qué acciones tomaría para asegurar el cumplimiento de la normativa de protección de datos personales?",
+    "options": [
+      "Asumir que las políticas existentes son suficientes y que no es necesario realizar cambios.",
+      "Compartir la información personal solo con las áreas que la soliciten, sin verificar su necesidad o autorización.",
+      "Realizar un mapeo de los datos personales almacenados, implementar controles de acceso y cifrado, establecer procedimientos para la recolección, uso y eliminación de datos, y capacitar al personal sobre la importancia de la privacidad.",
+      "Minimizar la cantidad de datos recolectados, sin establecer una política de protección clara."
+    ],
+    "answer": "Realizar un mapeo de los datos personales almacenados, implementar controles de acceso y cifrado, establecer procedimientos para la recolección, uso y eliminación de datos, y capacitar al personal sobre la importancia de la privacidad."
+  },
+  {
+    "question": "En el marco de la 'Responsabilidad de los Servidores Públicos', se ha solicitado una auditoría del uso de los recursos tecnológicos (internet, software, hardware) por parte de los funcionarios de la Alcaldía de Puerto Boyacá. \n¿Cómo facilitaría esta auditoría y qué tipo de información proporcionaría?",
+    "options": [
+      "Obstaculizar la auditoría, ya que podría revelar un uso inadecuado de los recursos tecnológicos.",
+      "Proporcionar información incompleta o desactualizada para evitar sanciones.",
+      "Recopilar registros de acceso a internet, uso de software licenciado y el estado del hardware, generar informes detallados y colaborar activamente con los auditores para garantizar la transparencia y el cumplimiento de las normativas.",
+      "Ignorar la solicitud de auditoría, argumentando que el monitoreo del personal no es su función."
+    ],
+    "answer": "Recopilar registros de acceso a internet, uso de software licenciado y el estado del hardware, generar informes detallados y colaborar activamente con los auditores para garantizar la transparencia y el cumplimiento de las normativas."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá, como 'entidad territorial', debe garantizar la transparencia en la 'distribución y autonomía de competencias' en el ámbito tecnológico. Se requiere una plataforma que permita a los ciudadanos conocer los proyectos de TIC y su estado.\n¿Qué solución tecnológica implementaría para promover la transparencia y la rendición de cuentas en los proyectos de TIC?",
+    "options": [
+      "Publicar informes anuales en formato impreso, sin una herramienta de consulta interactiva.",
+      "Crear una sección en la página web con información genérica sobre los proyectos, sin actualizaciones periódicas.",
+      "Desarrollar un portal de datos abiertos o una sección específica en la página web donde se publiquen los proyectos de TIC, sus avances, presupuestos, resultados y responsables, permitiendo la consulta pública y la retroalimentación ciudadana.",
+      "Limitar el acceso a la información de proyectos de TIC solo al personal interno del municipio."
+    ],
+    "answer": "Desarrollar un portal de datos abiertos o una sección específica en la página web donde se publiquen los proyectos de TIC, sus avances, presupuestos, resultados y responsables, permitiendo la consulta pública y la retroalimentación ciudadana."
+  },
+  {
+    "question": "El 'concepto y organización del Estado Social de Derecho' implica que la tecnología debe estar al servicio de los ciudadanos y promover su bienestar. Se le solicita proponer una iniciativa tecnológica que impacte directamente en la calidad de vida de los habitantes de Puerto Boyacá.\n¿Qué tipo de iniciativa tecnológica propondría para cumplir con este principio del Estado Social de Derecho?",
+    "options": [
+      "Desarrollar una aplicación de juegos para los empleados de la Alcaldía, sin impacto en la ciudadanía.",
+      "Adquirir tecnología de punta para uso exclusivo del personal de la Alcaldía, sin beneficio directo para los ciudadanos.",
+      "Diseñar e implementar una plataforma de participación ciudadana digital para que los habitantes puedan expresar sus necesidades y propuestas, o una aplicación móvil para reportar incidencias en servicios públicos, mejorando la interacción y la calidad de vida.",
+      "Limitarse a mantener los sistemas básicos de la Alcaldía, sin explorar nuevas formas de impacto social."
+    ],
+    "answer": "Diseñar e implementar una plataforma de participación ciudadana digital para que los habitantes puedan expresar sus necesidades y propuestas, o una aplicación móvil para reportar incidencias en servicios públicos, mejorando la interacción y la calidad de vida."
+  },
+  {
+    "question": "Los 'Órganos de Gobierno y Control en las Entidades Territoriales' (como la Contraloría, Personería) requieren acceso a información específica de los sistemas de la Alcaldía de Puerto Boyacá para realizar sus labores de fiscalización. \n¿Cómo garantizaría el acceso seguro y eficiente de estos órganos a la información relevante, cumpliendo con la normatividad?",
+    "options": [
+      "Negar el acceso a los sistemas, argumentando problemas de seguridad o privacidad.",
+      "Proporcionar copias físicas de los documentos, lo que sería ineficiente y susceptible de errores.",
+      "Establecer canales seguros de comunicación, diseñar interfaces de consulta personalizadas con niveles de acceso controlados y automatizar la generación de reportes específicos requeridos por los órganos de control, garantizando la integridad de la información.",
+      "Entregar las credenciales de acceso a todos los sistemas a los órganos de control, comprometiendo la seguridad general."
+    ],
+    "answer": "Establecer canales seguros de comunicación, diseñar interfaces de consulta personalizadas con niveles de acceso controlados y automatizar la generación de reportes específicos requeridos por los órganos de control, garantizando la integridad de la información."
+  },
+  {
+    "question": "Se ha detectado una necesidad en la Secretaría de Planeación de la Alcaldía de Puerto Boyacá para centralizar y visualizar datos geográficos del municipio (mapas de uso de suelo, infraestructura, etc.) para una mejor toma de decisiones. Esto implica 'análisis de sistemas' y 'resolución de problemas'.\n¿Qué solución tecnológica propondría para satisfacer esta necesidad de gestión de información geográfica?",
+    "options": [
+      "Recomendar el uso de mapas impresos y archivadores, sin una solución digital.",
+      "Adquirir un software GIS (Sistema de Información Geográfica) costoso sin evaluar si cumple con las necesidades específicas del municipio ni si el personal tiene la capacidad para usarlo.",
+      "Implementar un Sistema de Información Geográfica (GIS) que permita la carga, visualización, análisis y gestión de datos espaciales, capacitando al personal de Planeación en su uso y en la integración de datos de diversas fuentes.",
+      "Delegar la recopilación y gestión de datos geográficos a un proveedor externo sin control interno."
+    ],
+    "answer": "Implementar un Sistema de Información Geográfica (GIS) que permita la carga, visualización, análisis y gestión de datos espaciales, capacitando al personal de Planeación en su uso y en la integración de datos de diversas fuentes."
+  },
+  {
+    "question": "La 'Política de Gobierno Digital' promueve la interacción con el ciudadano a través de medios electrónicos. Se le pide mejorar los canales de comunicación digital entre la Alcaldía de Puerto Boyacá y sus habitantes, más allá de la página web.\n¿Qué estrategia y herramientas implementaría para fortalecer la interacción digital con la ciudadanía?",
+    "options": [
+      "Limitar la comunicación a las redes sociales, sin una estrategia clara de atención ciudadana.",
+      "Ignorar la necesidad de nuevos canales y mantener solo la comunicación presencial.",
+      "Implementar un sistema de chatbot en la página web, líneas de atención por WhatsApp o aplicaciones móviles que permitan a los ciudadanos realizar consultas, reportar problemas y recibir información de manera eficiente y oportuna.",
+      "Enviar correos electrónicos masivos sin segmentación ni respuesta a las consultas."
+    ],
+    "answer": "Implementar un sistema de chatbot en la página web, líneas de atención por WhatsApp o aplicaciones móviles que permitan a los ciudadanos realizar consultas, reportar problemas y recibir información de manera eficiente y oportuna."
+  },
+  {
+    "question": "Ante una interrupción inesperada de los servicios tecnológicos críticos de la Alcaldía de Puerto Boyacá debido a una falla de hardware, su capacidad de 'resolución de problemas' es crucial para 'garantizar una gestión eficiente, eficaz y transparente'.\n¿Cuál sería su primera acción para mitigar el impacto de esta falla y restaurar los servicios?",
+    "options": [
+      "Entrar en pánico y esperar a que el problema se resuelva por sí solo con el tiempo.",
+      "Apagar todos los equipos para evitar mayores daños, sin un plan de contingencia.",
+      "Identificar la causa de la falla, activar un plan de contingencia y recuperación de desastres (si existe), restaurar la información desde los backups y comunicar el estado de la situación a los usuarios y directivos, priorizando la continuidad de los servicios.",
+      "Culpar al proveedor del hardware y esperar a que él resuelva el problema a su propio ritmo."
+    ],
+    "answer": "Identificar la causa de la falla, activar un plan de contingencia y recuperación de desastres (si existe), restaurar la información desde los backups y comunicar el estado de la situación a los usuarios y directivos, priorizando la continuidad de los servicios."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá busca implementar una infraestructura de 'Nube Híbrida' para parte de sus servicios, combinando servidores locales con servicios en la nube para optimizar costos y flexibilidad. Esto requiere conocimientos en 'Software y Hardware'.\n¿Qué consideraciones técnicas tendría en cuenta al diseñar y planificar la implementación de una nube híbrida?",
+    "options": [
+      "Migrar todos los servicios a la nube pública sin evaluar los costos, la seguridad o la compatibilidad con los sistemas existentes.",
+      "Mantener toda la infraestructura de hardware local, negándose a usar servicios en la nube por temor a la seguridad.",
+      "Evaluar la carga de trabajo de las aplicaciones, seleccionar los servicios de nube adecuados, diseñar una arquitectura de red segura para la interconexión, planificar la migración de datos y asegurar la compatibilidad y licenciamiento del software en ambos entornos.",
+      "Adquirir servicios en la nube sin realizar un análisis de necesidades ni un plan de implementación detallado."
+    ],
+    "answer": "Evaluar la carga de trabajo de las aplicaciones, seleccionar los servicios de nube adecuados, diseñar una arquitectura de red segura para la interconexión, planificar la migración de datos y asegurar la compatibilidad y licenciamiento del software en ambos entornos."
+  },
+  {
+    "question": "Se ha identificado la necesidad de capacitar al personal de la Alcaldía de Puerto Boyacá en el uso de herramientas básicas de ofimática y en el manejo seguro de la información, para 'garantizar una gestión eficiente'.\n¿Cómo organizaría un plan de capacitación en tecnologías básicas para los funcionarios?",
+    "options": [
+      "Asumir que todos los funcionarios ya tienen los conocimientos necesarios y no requieren capacitación.",
+      "Ofrecer una única sesión de capacitación genérica, sin considerar los diferentes niveles de conocimiento del personal.",
+      "Realizar un diagnóstico de necesidades de capacitación por áreas, diseñar módulos específicos (ej., uso de correo electrónico, creación de documentos, seguridad de la información), y programar sesiones presenciales y/o virtuales con material de apoyo y seguimiento.",
+      "Delegar completamente la capacitación a un proveedor externo sin involucrarse en el diseño de los contenidos."
+    ],
+    "answer": "Realizar un diagnóstico de necesidades de capacitación por áreas, diseñar módulos específicos (ej., uso de correo electrónico, creación de documentos, seguridad de la información), y programar sesiones presenciales y/o virtuales con material de apoyo y seguimiento."
+  },
+  {
+    "question": "Un nuevo requisito de auditoría solicita que la Alcaldía de Puerto Boyacá implemente un sistema de gestión de incidentes de seguridad de la información, lo cual se relaciona con la 'Ciberseguridad'.\n¿Qué pasos seguiría para implementar un sistema efectivo de gestión de incidentes de seguridad?",
+    "options": [
+      "Ignorar la recomendación de la auditoría, esperando que no se presenten incidentes de seguridad.",
+      "Comprar un software de gestión de incidentes sin definir los procedimientos ni capacitar al personal.",
+      "Definir un procedimiento claro para la identificación, reporte, clasificación, análisis, contención, erradicación y recuperación de incidentes de seguridad, asignar roles y responsabilidades, y seleccionar una herramienta que facilite la gestión y el seguimiento.",
+      "Delegar la gestión de incidentes a un proveedor externo sin tener control o visibilidad sobre el proceso."
+    ],
+    "answer": "Definir un procedimiento claro para la identificación, reporte, clasificación, análisis, contención, erradicación y recuperación de incidentes de seguridad, asignar roles y responsabilidades, y seleccionar una herramienta que facilite la gestión y el seguimiento."
+  },
+  {
+    "question": "La Secretaría de Desarrollo Social requiere un 'análisis de sistemas' para optimizar la gestión de los programas de atención a 'grupos vulnerables', buscando una mayor 'eficiencia' y 'transparencia' en la asignación de ayudas.\n¿Qué enfoque inicial adoptaría para mejorar la gestión de estos programas mediante la tecnología?",
+    "options": [
+      "Sugerir que se continúe con los registros manuales, ya que la información de grupos vulnerables es muy sensible.",
+      "Implementar una base de datos básica sin un análisis previo de los procesos y necesidades de la Secretaría.",
+      "Realizar un levantamiento de los procesos actuales, identificar los cuellos de botella y oportunidades de automatización, diseñar un sistema de información que permita el registro, seguimiento y reporte de los beneficiarios y ayudas, asegurando la privacidad y seguridad de los datos.",
+      "Desarrollar una aplicación móvil compleja que los usuarios no podrán manejar."
+    ],
+    "answer": "Realizar un levantamiento de los procesos actuales, identificar los cuellos de botella y oportunidades de automatización, diseñar un sistema de información que permita el registro, seguimiento y reporte de los beneficiarios y ayudas, asegurando la privacidad y seguridad de los datos."
+  },
+  {
+    "question": "Para cumplir con la función de 'velar por el correcto funcionamiento y actualización de la página web del Municipio de Puerto Boyacá', es crucial realizar copias de seguridad periódicas de la información del portal. \n¿Qué estrategia de respaldo y recuperación de la página web implementaría?",
+    "options": [
+      "Realizar copias de seguridad de forma esporádica y manual, sin un procedimiento definido.",
+      "Confiar en el proveedor de hosting para que él se encargue de todas las copias de seguridad.",
+      "Implementar un sistema de copias de seguridad automatizadas diarias o semanales (bases de datos, archivos), almacenar los backups en ubicaciones seguras (locales y externas), y realizar pruebas periódicas de restauración para garantizar la integridad y disponibilidad de la información.",
+      "Considerar que las copias de seguridad no son necesarias si la página web no sufre ataques."
+    ],
+    "answer": "Implementar un sistema de copias de seguridad automatizadas diarias o semanales (bases de datos, archivos), almacenar los backups en ubicaciones seguras (locales y externas), y realizar pruebas periódicas de restauración para garantizar la integridad y disponibilidad de la información."
+  },
+  {
+    "question": "La 'Política de Gobierno Digital' promueve el uso de tecnologías para una 'gestión eficiente, eficaz y transparente'. Se ha detectado un cuello de botella en la atención de solicitudes ciudadanas en un punto físico. \n¿Qué solución tecnológica innovadora propondría para agilizar este proceso y mejorar la atención ciudadana?",
+    "options": [
+      "Contratar más personal para la atención presencial, sin implementar soluciones tecnológicas.",
+      "Reducir los horarios de atención al público para disminuir la demanda.",
+      "Implementar un sistema de agendamiento de citas en línea, quioscos de autoservicio para trámites básicos, o una plataforma unificada de gestión de solicitudes que centralice la información y permita el seguimiento por parte del ciudadano.",
+      "Simplemente digitalizar los formularios y hacer que los ciudadanos los impriman y los llenen a mano."
+    ],
+    "answer": "Implementar un sistema de agendamiento de citas en línea, quioscos de autoservicio para trámites básicos, o una plataforma unificada de gestión de solicitudes que centralice la información y permita el seguimiento por parte del ciudadano."
+  },
+  {
+    "question": "Para 'propender por la adquisición de software y hardware' y garantizar la legalidad, es esencial verificar que todo el software utilizado en la Alcaldía de Puerto Boyacá cuente con las licencias adecuadas. \n¿Qué acciones tomaría para llevar un control efectivo del licenciamiento de software?",
+    "options": [
+      "Asumir que todo el software ya tiene licencia y no es necesario verificarlo.",
+      "Permitir la instalación de software no licenciado para ahorrar costos, ignorando las implicaciones legales.",
+      "Crear un inventario centralizado de todo el software instalado, registrar las licencias (fechas de vencimiento, número de usuarios), implementar herramientas de monitoreo de uso y establecer políticas claras para la adquisición y desinstalación de software.",
+      "Limitar el uso de computadores en la Alcaldía para evitar la necesidad de licencias."
+    ],
+    "answer": "Crear un inventario centralizado de todo el software instalado, registrar las licencias (fechas de vencimiento, número de usuarios), implementar herramientas de monitoreo de uso y establecer políticas claras para la adquisición y desinstalación de software."
+  },
+  {
+    "question": "Se requiere que el 'Sistema de Gestión de la Calidad' del área de TIC de la Alcaldía de Puerto Boyacá se alinee con los objetivos estratégicos del 'Plan Estratégico de Tecnologías de la Información (PETI)'. \n¿Cómo aseguraría esta alineación entre el SGC y el PETI?",
+    "options": [
+      "Mantener el SGC y el PETI como documentos separados sin una interconexión clara.",
+      "Ajustar el PETI para que coincida con lo que ya está documentado en el SGC, sin buscar mejoras.",
+      "Establecer indicadores de desempeño en el SGC que midan el cumplimiento de los objetivos del PETI, integrar los procesos del PETI dentro de los procedimientos del SGC y realizar revisiones periódicas conjuntas para asegurar la coherencia y el mejoramiento continuo.",
+      "Delegar la alineación a una consultoría externa sin que haya apropiación interna."
+    ],
+    "answer": "Establecer indicadores de desempeño en el SGC que midan el cumplimiento de los objetivos del PETI, integrar los procesos del PETI dentro de los procedimientos del SGC y realizar revisiones periódicas conjuntas para asegurar la coherencia y el mejoramiento continuo."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá busca fortalecer la 'ciberseguridad' en sus sistemas críticos. Un punto débil identificado es el riesgo de ataques de ingeniería social. \n¿Qué estrategia implementaría para mitigar los riesgos asociados a la ingeniería social en el personal?",
+    "options": [
+      "Instalar un software antivirus muy potente, creyendo que con eso es suficiente para prevenir todos los ataques.",
+      "Sancionar a los empleados que caigan en trampas de ingeniería social, sin ofrecer capacitación previa.",
+      "Implementar un programa de concientización y capacitación constante para todos los funcionarios sobre las técnicas de ingeniería social (phishing, smishing, vishing), cómo identificar amenazas y la importancia de la seguridad de la información.",
+      "Bloquear el acceso a todas las redes sociales y correos electrónicos no corporativos para eliminar el riesgo."
+    ],
+    "answer": "Implementar un programa de concientización y capacitación constante para todos los funcionarios sobre las técnicas de ingeniería social (phishing, smishing, vishing), cómo identificar amenazas y la importancia de la seguridad de la información."
+  },
+  {
+    "question": "En el marco de la 'racionalización de trámites', se ha identificado que el proceso de radicación de documentos de entrada en la Alcaldía de Puerto Boyacá es ineficiente y manual. \n¿Qué solución tecnológica propondría para modernizar y agilizar la radicación de documentos?",
+    "options": [
+      "Adquirir más sellos y archivadores para la radicación manual, sin buscar automatización.",
+      "Crear una base de datos en Excel para registrar los documentos, lo que no resolvería la agilización.",
+      "Implementar un sistema de radicación electrónica de documentos con código de barras o QR, digitalización automática, asignación de números de radicado y seguimiento en línea, integrado con el sistema de gestión documental.",
+      "Solicitar a los ciudadanos que envíen sus documentos por correo certificado para evitar la radicación manual."
+    ],
+    "answer": "Implementar un sistema de radicación electrónica de documentos con código de barras o QR, digitalización automática, asignación de números de radicado y seguimiento en línea, integrado con el sistema de gestión documental."
+  },
+  {
+    "question": "Para asegurar el 'mejoramiento continuo' en el área de TIC y cumplir con el 'Sistema de Gestión de la Calidad', es fundamental identificar las no conformidades y las oportunidades de mejora. \n¿Qué metodología o herramienta implementaría para gestionar eficazmente las no conformidades y sus acciones correctivas y preventivas?",
+    "options": [
+      "Registrar las no conformidades en una libreta de notas personal, sin un seguimiento formal.",
+      "Ignorar las no conformidades menores, esperando que no afecten la calidad general.",
+      "Establecer un proceso formal de gestión de no conformidades (GNC) que incluya el registro, análisis de causas raíz, diseño e implementación de acciones correctivas y preventivas (ACPs), y un sistema de seguimiento para verificar su efectividad.",
+      "Asignar la resolución de todas las no conformidades a un único empleado sin apoyo ni recursos."
+    ],
+    "answer": "Establecer un proceso formal de gestión de no conformidades (GNC) que incluya el registro, análisis de causas raíz, diseño e implementación de acciones correctivas y preventivas (ACPs), y un sistema de seguimiento para verificar su efectividad."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá necesita un 'análisis de sistemas' para implementar un sistema de control de acceso a las instalaciones que integre la gestión de visitantes y la seguridad del personal. \n¿Cuál sería su enfoque para diseñar este sistema de control de acceso?",
+    "options": [
+      "Instalar cámaras de seguridad genéricas sin un sistema de gestión centralizado.",
+      "Mantener el control de acceso manual con registros en papel, sin automatización.",
+      "Realizar un levantamiento de los requisitos de seguridad, seleccionar la tecnología adecuada (biometría, tarjetas de proximidad), diseñar la arquitectura del sistema, configurar los permisos de acceso y capacitar al personal de seguridad y a los usuarios.",
+      "Delegar la compra e instalación del sistema a un proveedor sin supervisión de los requisitos de seguridad."
+    ],
+    "answer": "Realizar un levantamiento de los requisitos de seguridad, seleccionar la tecnología adecuada (biometría, tarjetas de proximidad), diseñar la arquitectura del sistema, configurar los permisos de acceso y capacitar al personal de seguridad y a los usuarios."
+  },
+  {
+    "question": "En línea con la 'Política de Gobierno Digital' y la 'prestación de la mayor cantidad de servicios a través del medio tecnológico', se busca desarrollar una aplicación móvil para que los ciudadanos de Puerto Boyacá puedan acceder a información y realizar trámites básicos desde sus smartphones. \n¿Qué etapas clave incluiría en el desarrollo y lanzamiento de esta aplicación móvil?",
+    "options": [
+      "Lanzar una aplicación con funcionalidades mínimas y sin pruebas de usuario para acelerar la publicación.",
+      "Contratar una empresa de desarrollo sin especificar los requisitos ni supervisar el progreso.",
+      "Realizar un estudio de necesidades ciudadanas, diseñar la interfaz de usuario (UX/UI), desarrollar la aplicación (iOS/Android), realizar pruebas exhaustivas (funcionales, de seguridad, de usabilidad), y lanzar la aplicación con un plan de promoción y soporte.",
+      "Limitar la aplicación móvil a un simple visor de noticias de la Alcaldía."
+    ],
+    "answer": "Realizar un estudio de necesidades ciudadanas, diseñar la interfaz de usuario (UX/UI), desarrollar la aplicación (iOS/Android), realizar pruebas exhaustivas (funcionales, de seguridad, de usabilidad), y lanzar la aplicación con un plan de promoción y soporte."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá requiere 'proyectar los documentos pertinentes sobre los asuntos sometidos a su consideración y análisis' en el área de TIC, como el desarrollo de nuevos proyectos tecnológicos o la adquisición de equipos. \n¿Cómo aseguraría que estas proyecciones documentales sean claras, completas y útiles para la toma de decisiones?",
+    "options": [
+      "Presentar documentos con información técnica excesiva que sea difícil de entender para los no expertos.",
+      "Preparar documentos solo verbalmente, sin un respaldo escrito formal.",
+      "Elaborar documentos técnicos y ejecutivos que incluyan el análisis de la situación, objetivos, opciones (con sus pros y contras), presupuesto, cronogramas y recomendaciones claras, utilizando un lenguaje apropiado para cada audiencia.",
+      "Delegar la redacción de los documentos a personal sin experiencia en la proyección de proyectos TIC."
+    ],
+    "answer": "Elaborar documentos técnicos y ejecutivos que incluyan el análisis de la situación, objetivos, opciones (con sus pros y contras), presupuesto, cronogramas y recomendaciones claras, utilizando un lenguaje apropiado para cada audiencia."
+  },
+  {
+    "question": "Para cumplir con la 'Política de Gobierno Digital' y garantizar la 'ciberseguridad', se debe implementar un sistema de autenticación de dos factores (MFA) para el acceso a los sistemas internos de la Alcaldía de Puerto Boyacá. \n¿Cuál sería su plan para la implementación y adopción del MFA por parte de los funcionarios?",
+    "options": [
+      "Implementar el MFA de forma obligatoria sin explicar sus beneficios ni ofrecer soporte, generando resistencia.",
+      "Activar el MFA solo para el personal directivo y no para el resto de funcionarios.",
+      "Investigar las opciones de MFA disponibles, seleccionar la más adecuada (token, SMS, aplicación), comunicar los beneficios de seguridad a los usuarios, realizar sesiones de capacitación y ofrecer soporte continuo durante la transición.",
+      "Limitar el MFA a la verificación por correo electrónico, lo que ofrece poca seguridad adicional."
+    ],
+    "answer": "Investigar las opciones de MFA disponibles, seleccionar la más adecuada (token, SMS, aplicación), comunicar los beneficios de seguridad a los usuarios, realizar sesiones de capacitación y ofrecer soporte continuo durante la transición."
+  },
+  {
+    "question": "La Secretaría de Educación requiere un 'análisis de sistemas' para optimizar el proceso de matrícula escolar, que actualmente es manual y genera largas filas. El objetivo es hacerlo más 'eficiente, eficaz y transparente'.\n¿Qué solución tecnológica y proceso de 'análisis de sistemas' propondría?",
+    "options": [
+      "Digitalizar los formularios de matrícula sin crear un sistema de procesamiento de datos.",
+      "Sugerir que se contrate más personal para manejar la matrícula manual.",
+      "Realizar un estudio de los requisitos del proceso de matrícula, diseñar un sistema de matrícula en línea que permita el registro de datos, la carga de documentos y la consulta de cupos, integrado con la base de datos de estudiantes, y capacitar a las familias y al personal escolar.",
+      "Implementar un sistema de matrícula solo para estudiantes nuevos, sin considerar a los antiguos."
+    ],
+    "answer": "Realizar un estudio de los requisitos del proceso de matrícula, diseñar un sistema de matrícula en línea que permita el registro de datos, la carga de documentos y la consulta de cupos, integrado con la base de datos de estudiantes, y capacitar a las familias y al personal escolar."
+  },
+  {
+    "question": "La Alcaldía de Puerto Boyacá busca mejorar su 'gestión eficiente, eficaz y transparente' a través de la implementación de un sistema de gestión de proyectos para todas las secretarías. \n¿Qué características clave buscaría en un 'software' de gestión de proyectos para garantizar su éxito?",
+    "options": [
+      "Que sea el más caro del mercado, asumiendo que el precio garantiza la calidad.",
+      "Que sea un software desarrollado internamente, sin funcionalidades estándar de gestión de proyectos.",
+      "Que sea una herramienta robusta que permita la planificación, seguimiento de tareas, gestión de recursos, colaboración en tiempo real, generación de informes y que sea escalable para adaptarse a las necesidades de todas las secretarías.",
+      "Que sea un software de uso gratuito, sin importar si cumple con los requisitos funcionales o de seguridad."
+    ],
+    "answer": "Que sea una herramienta robusta que permita la planificación, seguimiento de tareas, gestión de recursos, colaboración en tiempo real, generación de informes y que sea escalable para adaptarse a las necesidades de todas las secretarías."
+  },
+  {
+    "question": "Para asegurar la 'disponibilidad' y 'seguridad' de la información, el 'hardware' de los servidores de la Alcaldía de Puerto Boyacá requiere monitoreo constante de su rendimiento (uso de CPU, memoria, disco) y estado físico (temperatura, energía). \n¿Qué herramientas o metodologías implementaría para el monitoreo proactivo de la infraestructura de hardware?",
+    "options": [
+      "Revisar manualmente el estado de los servidores una vez al mes, sin herramientas automatizadas.",
+      "Esperar a que los usuarios reporten problemas de rendimiento para intervenir en los servidores.",
+      "Implementar un sistema de monitoreo de red (NMS) que recolecte métricas de rendimiento del hardware en tiempo real, configure alertas automáticas para umbrales críticos, y genere reportes periódicos para identificar tendencias y prevenir fallas.",
+      "Contratar a un técnico externo para que realice el monitoreo de forma esporádica."
+    ],
+    "answer": "Implementar un sistema de monitoreo de red (NMS) que recolecte métricas de rendimiento del hardware en tiempo real, configure alertas automáticas para umbrales críticos, y genere reportes periódicos para identificar tendencias y prevenir fallas."
+  }
+
+
+
+
+]
